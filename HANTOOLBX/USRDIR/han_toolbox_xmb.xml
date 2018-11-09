@@ -8,7 +8,7 @@
 				<Pair key="icon_rsc"><String>tex_album_icon</String></Pair>
 				<Pair key="icon_notation"><String>WNT_XmbItemAlbum</String></Pair>
 				<Pair key="title"><String>★ HAN Toolbox</String></Pair>
-				<Pair key="info"><String>The Unofficial Xploit Companion</String></Pair>
+				<Pair key="info"><String>The Xploit 3.0 Companion</String></Pair>
 				<Pair key="ingame"><String>disable</String></Pair>
 			</Table>
 		</Attributes>
@@ -27,7 +27,7 @@
 				<Pair key="icon_rsc"><String>tex_album_icon</String></Pair>
 				<Pair key="icon_notation"><String>WNT_XmbItemAlbum</String></Pair>
 				<Pair key="title"><String>★ HAN Toolbox</String></Pair>
-				<Pair key="info"><String>The Unofficial Xploit Companion (DEX)</String></Pair>
+				<Pair key="info"><String>The Xploit 3.0 Companion (DEX)</String></Pair>
 				<Pair key="ingame"><String>disable</String></Pair>
 			</Table>
 		</Attributes>

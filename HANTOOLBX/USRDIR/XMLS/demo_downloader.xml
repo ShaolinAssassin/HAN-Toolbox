@@ -5,7 +5,7 @@
 			<Table key="no_resources">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/about.png</String></Pair>
 				<Pair key="title"><String>No Resources Found</String></Pair>
-				<Pair key="info"><String>Press X to download and install the resource package (41 MB) then reboot.</String></Pair>
+				<Pair key="info"><String>Press  to download and install the resource package (41 MB) then reboot.</String></Pair>
 			</Table>
 		</Attributes>
 		<Items>
