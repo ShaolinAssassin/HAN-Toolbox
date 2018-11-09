@@ -934,12 +934,12 @@
 			<Table key="han_toolbox_update">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/update.png</String></Pair>
 				<Pair key="title"><String>Update Toolbox</String></Pair>
-				<Pair key="info"><String>Download and install the latest Toolbox package (Reboot after)</String></Pair>
+				<Pair key="info"><String>Download and install the latest Toolbox package and reboot after.</String></Pair>
 			</Table>
 			<Table key="han_toolbox_resources">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/update.png</String></Pair>
 				<Pair key="title"><String>Download Toolbox Resources</String></Pair>
-				<Pair key="info"><String>Download and install the HAN Toolbox resource package (Reboot after)</String></Pair>
+				<Pair key="info"><String>Download and install the HAN Toolbox resource package (41 MB) and reboot after.</String></Pair>
 			</Table>
 			<Table key="han_toolbox_about">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/list.png</String></Pair>
