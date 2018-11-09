@@ -1001,8 +1001,6 @@
 			<Items>
 			<Item class="type:x-xmb/xmlnpsignup" key="han_toolbox_resources_item" attr="han_toolbox_resources_item"/>
 		</Items> 
-		</View> 
-
+		</View>
 		
 </XMBML>
-		
