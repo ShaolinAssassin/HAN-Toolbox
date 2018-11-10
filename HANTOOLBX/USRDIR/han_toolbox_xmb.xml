@@ -930,7 +930,12 @@
 <!-- Toolbox Update / About -->
 		
 		<View id="han_toolbox_setup_main"> 
-		<Attributes> 
+		<Attributes>
+			<!-- Table key="han_toolbox_lang">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/update.png</String></Pair>
+				<Pair key="title"><String>Install Multi Language support</String></Pair>
+				<Pair key="info"><String>Download and install the lang resources and reboot after.</String></Pair>
+			</Table -->
 			<Table key="han_toolbox_update">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/update.png</String></Pair>
 				<Pair key="title"><String>Update Toolbox</String></Pair>
@@ -949,6 +954,12 @@
 			</Table>
 		</Attributes>
 			<Items>
+			<!-- Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_toolbox_lang" 
+				attr="han_toolbox_lang"
+				src="#han_toolbox_lang_items"
+				/ -->
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
 				key="han_toolbox_update" 
@@ -1002,5 +1013,84 @@
 			<Item class="type:x-xmb/xmlnpsignup" key="han_toolbox_resources_item" attr="han_toolbox_resources_item"/>
 		</Items> 
 		</View>
+
+<!-- Toolbox Multi Language support -->
+		
+		<!-- View id="han_toolbox_lang_items"> 
+		<Attributes> 
+			<Table key="han_download_lang_rco">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/download.png</String></Pair>
+				<Pair key="title"><String>Step 1: Download lang RCO file</String></Pair>
+				<Pair key="info"><String>Download explore_plugin_full.rco file to USB ready for installation.</String></Pair>
+			</Table>
+			<Table key="han_inject_lang_rco">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/download.png</String></Pair>
+				<Pair key="title"><String>Step 2: Inject lang RCO file</String></Pair>
+				<Pair key="info"><String>Copy downloaded explore_plugin_full.rco from USB to dev_flash/vsh/resource/*.rco</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://ps3xploit.com/flash_rco_replacer/flash_rco_replacer.html</String></Pair>
+			</Table>
+			<Table key="han_download_patch_file">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/download.png</String></Pair>
+				<Pair key="title"><String>Step 3: Download and install patch PKG file</String></Pair>
+				<Pair key="info"><String>Download and install patch PKG file and reboot after.</String></Pair>
+			</Table>
+		</Attributes>
+			<Items>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_download_lang_rco" 
+				attr="han_download_lang_rco"
+				src="#han_download_lang_rco_main"
+				/>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_inject_lang_rco"
+				attr="han_inject_lang_rco"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_download_patch_file" 
+				attr="han_download_patch_file"
+				src="#han_download_patch_file_main"
+				/>
+			</Items> 
+		</View>
+
+		<!-- Download lang RCO file -->
+		
+		<!-- View id="han_download_lang_rco_main">
+		<Attributes>
+			<Table key="han_download_lang_rco_item">
+				<Pair key="info"><String>??????????????????????????</String></Pair>
+				<Pair key="pkg_src"><String>??????????????????????????</String></Pair>
+				<Pair key="pkg_src_qa"><String>??????????????????????????</String></Pair>
+				<Pair key="content_name"><String>??????????????????????????</String></Pair>
+				<Pair key="content_id"><String>??????????????????????????</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/download.png</String></Pair>
+ 			</Table> 
+		</Attributes> 
+			<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="han_download_lang_rco_item" attr="han_han_download_lang_rco_item"/>
+		</Items> 
+		</View>
+		
+		<!-- Download lang patch PKG file -->
+				
+		<!-- View id="han_download_patch_file_main">
+		<Attributes>
+			<Table key="han_download_patch_file_item">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>??????????????????????????</String></Pair>
+				<Pair key="pkg_src_qa"><String>??????????????????????????</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/download.png</String></Pair>
+ 			</Table> 
+		</Attributes> 
+			<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="han_download_patch_file_item" attr="han_download_patch_file_item"/>
+		</Items> 
+		</View>		
 		
 </XMBML>
