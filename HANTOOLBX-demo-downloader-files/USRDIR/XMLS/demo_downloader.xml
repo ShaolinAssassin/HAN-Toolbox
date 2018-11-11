@@ -1,0 +1,701 @@
+<XMBML version="1.0">
+
+	<!-- OFW Demo Downloader v3.0 -->
+
+	<View id="demo_downloader_items">
+		<Attributes>
+			<Table key="demo_downloader_C00_EU">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
+				<Pair key="title"><String>EU Demos</String></Pair>
+				<Pair key="info"><String>246 Available</String></Pair>
+			</Table>
+			<Table key="demo_downloader_C00_HK">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
+				<Pair key="title"><String>HK Demos</String></Pair>
+				<Pair key="info"><String>50 Available</String></Pair>
+			</Table>
+			<Table key="demo_downloader_C00_JP">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
+				<Pair key="title"><String>JP Demos</String></Pair>
+				<Pair key="info"><String>68 Available</String></Pair>
+			</Table>
+			<Table key="demo_downloader_C00_US">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
+				<Pair key="title"><String>US Demos</String></Pair>
+				<Pair key="info"><String>269 Available</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="demo_downloader_C00_EU" 
+				attr="demo_downloader_C00_EU"
+				src="#demo_downloader_C00_EU_sorted"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="demo_downloader_C00_HK" 
+				attr="demo_downloader_C00_HK"
+				src="#demo_downloader_C00_HK_sorted"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="demo_downloader_C00_JP" 
+				attr="demo_downloader_C00_JP"
+				src="#demo_downloader_C00_JP_sorted"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="demo_downloader_C00_US" 
+				attr="demo_downloader_C00_US"
+				src="#demo_downloader_C00_US_sorted"
+				/>
+		</Items>
+		</View>
+
+	<!-- C00 EU -->
+	
+		<View id="demo_downloader_C00_EU_sorted">
+		<Attributes>
+			<Table key="demo_downloader_C00_EU_alpha">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
+				<Pair key="title"><String>Sorted alphabetically</String></Pair>
+				<Pair key="info"><String></String></Pair>
+			</Table>
+			<Table key="demo_downloader_C00_EU_genre">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
+				<Pair key="title"><String>Sorted by genre</String></Pair>
+				<Pair key="info"><String></String></Pair>
+			</Table>
+			<Table key="demo_downloader_C00_EU_score">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
+				<Pair key="title"><String>Sorted by metascore</String></Pair>
+				<Pair key="info"><String></String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="demo_downloader_C00_EU_alpha" 
+				attr="demo_downloader_C00_EU_alpha"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_EU_alpha.xml#C00_EU_alpha_items"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="demo_downloader_C00_EU_genre" 
+				attr="demo_downloader_C00_EU_genre"
+				src="#C00_EU_genre_main"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="demo_downloader_C00_EU_score" 
+				attr="demo_downloader_C00_EU_score"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_EU_score.xml#C00_EU_score_items"
+				/>
+		</Items>
+		</View>	
+
+	<!-- C00 HK -->
+	
+		<View id="demo_downloader_C00_HK_sorted">
+		<Attributes>
+			<Table key="demo_downloader_C00_HK_alpha">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
+				<Pair key="title"><String>Sorted alphabetically</String></Pair>
+				<Pair key="info"><String></String></Pair>
+			</Table>
+			<Table key="demo_downloader_C00_HK_genre">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
+				<Pair key="title"><String>Sorted by genre</String></Pair>
+				<Pair key="info"><String></String></Pair>
+			</Table>
+			<Table key="demo_downloader_C00_HK_score">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
+				<Pair key="title"><String>Sorted by metascore</String></Pair>
+				<Pair key="info"><String></String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="demo_downloader_C00_HK_alpha" 
+				attr="demo_downloader_C00_HK_alpha"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_HK_alpha.xml#C00_HK_alpha_items"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="demo_downloader_C00_HK_genre" 
+				attr="demo_downloader_C00_HK_genre"
+				src="C00_HK_genre_main"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="demo_downloader_C00_HK_score" 
+				attr="demo_downloader_C00_HK_score"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_HK_score.xml#C00_HK_score_items"
+				/>
+		</Items>
+		</View>	
+
+	<!-- C00 JP -->
+	
+		<View id="demo_downloader_C00_JP_sorted">
+		<Attributes>
+			<Table key="demo_downloader_C00_JP_alpha">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
+				<Pair key="title"><String>Sorted alphabetically</String></Pair>
+				<Pair key="info"><String></String></Pair>
+			</Table>
+			<Table key="demo_downloader_C00_JP_genre">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
+				<Pair key="title"><String>Sorted by genre</String></Pair>
+				<Pair key="info"><String></String></Pair>
+			</Table>
+			<Table key="demo_downloader_C00_JP_score">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
+				<Pair key="title"><String>Sorted by metascore</String></Pair>
+				<Pair key="info"><String></String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="demo_downloader_C00_JP_alpha" 
+				attr="demo_downloader_C00_JP_alpha"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_JP_alpha.xml#C00_JP_alpha_items"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="demo_downloader_C00_JP_genre" 
+				attr="demo_downloader_C00_JP_genre"
+				src="C00_JP_genre_main"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="demo_downloader_C00_JP_score" 
+				attr="demo_downloader_C00_JP_score"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_JP_score.xml#C00_JP_score_items"
+				/>
+		</Items>
+		</View>	
+
+	<!-- C00 US -->
+	
+		<View id="demo_downloader_C00_US_sorted">
+		<Attributes>
+			<Table key="demo_downloader_C00_US_alpha">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
+				<Pair key="title"><String>Sorted alphabetically</String></Pair>
+				<Pair key="info"><String></String></Pair>
+			</Table>
+			<Table key="demo_downloader_C00_US_genre">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
+				<Pair key="title"><String>Sorted by genre</String></Pair>
+				<Pair key="info"><String></String></Pair>
+			</Table>
+			<Table key="demo_downloader_C00_US_score">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
+				<Pair key="title"><String>Sorted by metascore</String></Pair>
+				<Pair key="info"><String></String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="demo_downloader_C00_US_alpha" 
+				attr="demo_downloader_C00_US_alpha"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_US_alpha.xml#C00_US_alpha_items"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="demo_downloader_C00_US_genre" 
+				attr="demo_downloader_C00_US_genre"
+				src="C00_US_genre_main"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="demo_downloader_C00_US_score" 
+				attr="demo_downloader_C00_US_score"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_US_score.xml#C00_US_score_items"
+				/>
+		</Items>
+		</View>	
+
+		
+	<!-- C00 EU by genre -->
+	
+		<View id="demo_downloader_C00_EU_genre_main">
+		<Attributes>
+			<Table key="demo_downloader_C00_EU_genre_action">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
+				<Pair key="title"><String>Action Adventure</String></Pair>
+				<Pair key="info"><String></String></Pair>
+			</Table>
+			<Table key="demo_downloader_C00_EU_genre_driving">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
+				<Pair key="title"><String>Driving</String></Pair>
+				<Pair key="info"><String></String></Pair>
+			</Table>
+			<Table key="demo_downloader_C00_EU_genre_fighting">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
+				<Pair key="title"><String>Fighting</String></Pair>
+				<Pair key="info"><String></String></Pair>
+			</Table>
+			<Table key="demo_downloader_C00_EU_genre_misc">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
+				<Pair key="title"><String>Misc</String></Pair>
+				<Pair key="info"><String></String></Pair>
+			</Table>
+			<Table key="demo_downloader_C00_EU_genre_plateformer">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
+				<Pair key="title"><String>Plateformer</String></Pair>
+				<Pair key="info"><String></String></Pair>
+			</Table>
+			<Table key="demo_downloader_C00_EU_genre_puzzle">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
+				<Pair key="title"><String>Puzzle</String></Pair>
+				<Pair key="info"><String></String></Pair>
+			</Table>
+			<Table key="demo_downloader_C00_EU_genre_rpg">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
+				<Pair key="title"><String>Role Playing</String></Pair>
+				<Pair key="info"><String></String></Pair>
+			</Table>
+			<Table key="demo_downloader_C00_EU_genre_shooter">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
+				<Pair key="title"><String>Shooter</String></Pair>
+				<Pair key="info"><String></String></Pair>
+			</Table>
+			<Table key="demo_downloader_C00_EU_genre_sports">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
+				<Pair key="title"><String>Sports</String></Pair>
+				<Pair key="info"><String></String></Pair>
+			</Table>
+			<Table key="demo_downloader_C00_EU_genre_strategy">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
+				<Pair key="title"><String>Strategy</String></Pair>
+				<Pair key="info"><String></String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="demo_downloader_C00_EU_genre_action" 
+				attr="demo_downloader_C00_EU_genre_action"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_EU_genre_action.xml#C00_EU_genre_action_items"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="demo_downloader_C00_EU_genre_driving" 
+				attr="demo_downloader_C00_EU_genre_driving"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_EU_genre_driving.xml#C00_EU_genre_driving_items"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="demo_downloader_C00_EU_genre_fighting" 
+				attr="demo_downloader_C00_EU_genre_fighting"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_EU_genre_fighting.xml#C00_EU_genre_fighting_items"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="demo_downloader_C00_EU_genre_misc" 
+				attr="demo_downloader_C00_EU_genre_misc"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_EU_genre_misc.xml#C00_EU_genre_misc_items"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="demo_downloader_C00_EU_genre_plateformer" 
+				attr="demo_downloader_C00_EU_genre_plateformer"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_EU_genre_plateformer.xml#C00_EU_genre_plateformer_items"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="demo_downloader_C00_EU_genre_puzzle" 
+				attr="demo_downloader_C00_EU_genre_puzzle"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_EU_genre_puzzle.xml#C00_EU_genre_puzzle_items"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="demo_downloader_C00_EU_genre_rpg" 
+				attr="demo_downloader_C00_EU_genre_rpg"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_EU_genre_rpg.xml#C00_EU_genre_rpg_items"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="demo_downloader_C00_EU_genre_shooter" 
+				attr="demo_downloader_C00_EU_genre_shooter"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_EU_genre_shooter.xml#C00_EU_genre_shooter_items"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="demo_downloader_C00_EU_genre_sports" 
+				attr="demo_downloader_C00_EU_genre_sports"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_EU_genre_sports.xml#C00_EU_genre_sports_items"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="demo_downloader_C00_EU_genre_strategy" 
+				attr="demo_downloader_C00_EU_genre_strategy"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_EU_genre_strategy.xml#C00_EU_genre_strategy_items"
+				/>
+		</Items>
+		</View>
+		
+	<!-- C00 HK by genre -->
+	
+		<View id="demo_downloader_C00_HK_genre_main">
+		<Attributes>
+			<Table key="demo_downloader_C00_HK_genre_action">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
+				<Pair key="title"><String>Action Adventure</String></Pair>
+				<Pair key="info"><String></String></Pair>
+			</Table>
+			<Table key="demo_downloader_C00_HK_genre_driving">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
+				<Pair key="title"><String>Driving</String></Pair>
+				<Pair key="info"><String></String></Pair>
+			</Table>
+			<Table key="demo_downloader_C00_HK_genre_fighting">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
+				<Pair key="title"><String>Fighting</String></Pair>
+				<Pair key="info"><String></String></Pair>
+			</Table>
+			<Table key="demo_downloader_C00_HK_genre_misc">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
+				<Pair key="title"><String>Misc</String></Pair>
+				<Pair key="info"><String></String></Pair>
+			</Table>
+			<Table key="demo_downloader_C00_HK_genre_plateformer">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
+				<Pair key="title"><String>Plateformer</String></Pair>
+				<Pair key="info"><String></String></Pair>
+			</Table>
+			<Table key="demo_downloader_C00_HK_genre_puzzle">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
+				<Pair key="title"><String>Puzzle</String></Pair>
+				<Pair key="info"><String></String></Pair>
+			</Table>
+			<Table key="demo_downloader_C00_HK_genre_rpg">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
+				<Pair key="title"><String>Role Playing</String></Pair>
+				<Pair key="info"><String></String></Pair>
+			</Table>
+			<Table key="demo_downloader_C00_HK_genre_shooter">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
+				<Pair key="title"><String>Shooter</String></Pair>
+				<Pair key="info"><String></String></Pair>
+			</Table>
+			<Table key="demo_downloader_C00_HK_genre_sports">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
+				<Pair key="title"><String>Sports</String></Pair>
+				<Pair key="info"><String></String></Pair>
+			</Table>
+			<Table key="demo_downloader_C00_HK_genre_strategy">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
+				<Pair key="title"><String>Strategy</String></Pair>
+				<Pair key="info"><String></String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="demo_downloader_C00_HK_genre_action" 
+				attr="demo_downloader_C00_HK_genre_action"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_HK_genre_action.xml#C00_HK_genre_action_items"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="demo_downloader_C00_HK_genre_driving" 
+				attr="demo_downloader_C00_HK_genre_driving"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_HK_genre_driving.xml#C00_HK_genre_driving_items"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="demo_downloader_C00_HK_genre_fighting" 
+				attr="demo_downloader_C00_HK_genre_fighting"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_HK_genre_fighting.xml#C00_HK_genre_fighting_items"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="demo_downloader_C00_HK_genre_misc" 
+				attr="demo_downloader_C00_HK_genre_misc"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_HK_genre_misc.xml#C00_HK_genre_misc_items"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="demo_downloader_C00_HK_genre_plateformer" 
+				attr="demo_downloader_C00_HK_genre_plateformer"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_HK_genre_plateformer.xml#C00_HK_genre_plateformer_items"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="demo_downloader_C00_HK_genre_puzzle" 
+				attr="demo_downloader_C00_HK_genre_puzzle"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_HK_genre_puzzle.xml#C00_HK_genre_puzzle_items"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="demo_downloader_C00_HK_genre_rpg" 
+				attr="demo_downloader_C00_HK_genre_rpg"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_HK_genre_rpg.xml#C00_HK_genre_rpg_items"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="demo_downloader_C00_HK_genre_shooter" 
+				attr="demo_downloader_C00_HK_genre_shooter"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_HK_genre_shooter.xml#C00_HK_genre_shooter_items"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="demo_downloader_C00_HK_genre_sports" 
+				attr="demo_downloader_C00_HK_genre_sports"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_HK_genre_sports.xml#C00_HK_genre_sports_items"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="demo_downloader_C00_HK_genre_strategy" 
+				attr="demo_downloader_C00_HK_genre_strategy"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_HK_genre_strategy.xml#C00_HK_genre_strategy_items"
+				/>
+		</Items>
+		</View>	
+		
+	<!-- C00 JP by genre -->
+	
+		<View id="demo_downloader_C00_JP_genre_main">
+		<Attributes>
+			<Table key="demo_downloader_C00_JP_genre_action">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
+				<Pair key="title"><String>Action Adventure</String></Pair>
+				<Pair key="info"><String></String></Pair>
+			</Table>
+			<Table key="demo_downloader_C00_JP_genre_driving">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
+				<Pair key="title"><String>Driving</String></Pair>
+				<Pair key="info"><String></String></Pair>
+			</Table>
+			<Table key="demo_downloader_C00_JP_genre_fighting">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
+				<Pair key="title"><String>Fighting</String></Pair>
+				<Pair key="info"><String></String></Pair>
+			</Table>
+			<Table key="demo_downloader_C00_JP_genre_misc">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
+				<Pair key="title"><String>Misc</String></Pair>
+				<Pair key="info"><String></String></Pair>
+			</Table>
+			<Table key="demo_downloader_C00_JP_genre_plateformer">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
+				<Pair key="title"><String>Plateformer</String></Pair>
+				<Pair key="info"><String></String></Pair>
+			</Table>
+			<Table key="demo_downloader_C00_JP_genre_puzzle">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
+				<Pair key="title"><String>Puzzle</String></Pair>
+				<Pair key="info"><String></String></Pair>
+			</Table>
+			<Table key="demo_downloader_C00_JP_genre_rpg">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
+				<Pair key="title"><String>Role Playing</String></Pair>
+				<Pair key="info"><String></String></Pair>
+			</Table>
+			<Table key="demo_downloader_C00_JP_genre_shooter">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
+				<Pair key="title"><String>Shooter</String></Pair>
+				<Pair key="info"><String></String></Pair>
+			</Table>
+			<Table key="demo_downloader_C00_JP_genre_sports">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
+				<Pair key="title"><String>Sports</String></Pair>
+				<Pair key="info"><String></String></Pair>
+			</Table>
+			<Table key="demo_downloader_C00_JP_genre_strategy">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
+				<Pair key="title"><String>Strategy</String></Pair>
+				<Pair key="info"><String></String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="demo_downloader_C00_JP_genre_action" 
+				attr="demo_downloader_C00_JP_genre_action"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_JP_genre_action.xml#C00_JP_genre_action_items"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="demo_downloader_C00_JP_genre_driving" 
+				attr="demo_downloader_C00_JP_genre_driving"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_JP_genre_driving.xml#C00_JP_genre_driving_items"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="demo_downloader_C00_JP_genre_fighting" 
+				attr="demo_downloader_C00_JP_genre_fighting"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_JP_genre_fighting.xml#C00_JP_genre_fighting_items"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="demo_downloader_C00_JP_genre_misc" 
+				attr="demo_downloader_C00_JP_genre_misc"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_JP_genre_misc.xml#C00_JP_genre_misc_items"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="demo_downloader_C00_JP_genre_plateformer" 
+				attr="demo_downloader_C00_JP_genre_plateformer"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_JP_genre_plateformer.xml#C00_JP_genre_plateformer_items"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="demo_downloader_C00_JP_genre_puzzle" 
+				attr="demo_downloader_C00_JP_genre_puzzle"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_JP_genre_puzzle.xml#C00_JP_genre_puzzle_items"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="demo_downloader_C00_JP_genre_rpg" 
+				attr="demo_downloader_C00_JP_genre_rpg"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_JP_genre_rpg.xml#C00_JP_genre_rpg_items"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="demo_downloader_C00_JP_genre_shooter" 
+				attr="demo_downloader_C00_JP_genre_shooter"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_JP_genre_shooter.xml#C00_JP_genre_shooter_items"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="demo_downloader_C00_JP_genre_sports" 
+				attr="demo_downloader_C00_JP_genre_sports"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_JP_genre_sports.xml#C00_JP_genre_sports_items"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="demo_downloader_C00_JP_genre_strategy" 
+				attr="demo_downloader_C00_JP_genre_strategy"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_JP_genre_strategy.xml#C00_JP_genre_strategy_items"
+				/>
+		</Items>
+		</View>	
+		
+	<!-- C00 US by genre -->
+	
+		<View id="demo_downloader_C00_US_genre_main">
+		<Attributes>
+			<Table key="demo_downloader_C00_US_genre_action">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
+				<Pair key="title"><String>Action Adventure</String></Pair>
+				<Pair key="info"><String></String></Pair>
+			</Table>
+			<Table key="demo_downloader_C00_US_genre_driving">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
+				<Pair key="title"><String>Driving</String></Pair>
+				<Pair key="info"><String></String></Pair>
+			</Table>
+			<Table key="demo_downloader_C00_US_genre_fighting">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
+				<Pair key="title"><String>Fighting</String></Pair>
+				<Pair key="info"><String></String></Pair>
+			</Table>
+			<Table key="demo_downloader_C00_US_genre_misc">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
+				<Pair key="title"><String>Misc</String></Pair>
+				<Pair key="info"><String></String></Pair>
+			</Table>
+			<Table key="demo_downloader_C00_US_genre_plateformer">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
+				<Pair key="title"><String>Plateformer</String></Pair>
+				<Pair key="info"><String></String></Pair>
+			</Table>
+			<Table key="demo_downloader_C00_US_genre_puzzle">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
+				<Pair key="title"><String>Puzzle</String></Pair>
+				<Pair key="info"><String></String></Pair>
+			</Table>
+			<Table key="demo_downloader_C00_US_genre_rpg">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
+				<Pair key="title"><String>Role Playing</String></Pair>
+				<Pair key="info"><String></String></Pair>
+			</Table>
+			<Table key="demo_downloader_C00_US_genre_shooter">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
+				<Pair key="title"><String>Shooter</String></Pair>
+				<Pair key="info"><String></String></Pair>
+			</Table>
+			<Table key="demo_downloader_C00_US_genre_sports">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
+				<Pair key="title"><String>Sports</String></Pair>
+				<Pair key="info"><String></String></Pair>
+			</Table>
+			<Table key="demo_downloader_C00_US_genre_strategy">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
+				<Pair key="title"><String>Strategy</String></Pair>
+				<Pair key="info"><String></String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="demo_downloader_C00_US_genre_action" 
+				attr="demo_downloader_C00_US_genre_action"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_US_genre_action.xml#C00_US_genre_action_items"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="demo_downloader_C00_US_genre_driving" 
+				attr="demo_downloader_C00_US_genre_driving"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_US_genre_driving.xml#C00_US_genre_driving_items"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="demo_downloader_C00_US_genre_fighting" 
+				attr="demo_downloader_C00_US_genre_fighting"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_US_genre_fighting.xml#C00_US_genre_fighting_items"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="demo_downloader_C00_US_genre_misc" 
+				attr="demo_downloader_C00_US_genre_misc"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_US_genre_misc.xml#C00_US_genre_misc_items"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="demo_downloader_C00_US_genre_plateformer" 
+				attr="demo_downloader_C00_US_genre_plateformer"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_US_genre_plateformer.xml#C00_US_genre_plateformer_items"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="demo_downloader_C00_US_genre_puzzle" 
+				attr="demo_downloader_C00_US_genre_puzzle"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_US_genre_puzzle.xml#C00_US_genre_puzzle_items"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="demo_downloader_C00_US_genre_rpg" 
+				attr="demo_downloader_C00_US_genre_rpg"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_US_genre_rpg.xml#C00_US_genre_rpg_items"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="demo_downloader_C00_US_genre_shooter" 
+				attr="demo_downloader_C00_US_genre_shooter"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_US_genre_shooter.xml#C00_US_genre_shooter_items"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="demo_downloader_C00_US_genre_sports" 
+				attr="demo_downloader_C00_US_genre_sports"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_US_genre_sports.xml#C00_US_genre_sports_items"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="demo_downloader_C00_US_genre_strategy" 
+				attr="demo_downloader_C00_US_genre_strategy"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_US_genre_strategy.xml#C00_US_genre_strategy_items"
+				/>
+		</Items>
+		</View>			
+		
+</XMBML>
