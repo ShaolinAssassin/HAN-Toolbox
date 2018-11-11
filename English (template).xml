@@ -167,7 +167,7 @@
 	
 <!-- Toolbox Update / About -->	
 
-	<Text name="han_toolbox_lang">Install Multi Language support</Text>
+	<!--Text name="han_toolbox_lang">Install Multi Language support</Text-->
 	<Text name="han_toolbox_lang_info">Download and install the lang resources and reboot after</Text>
 	<Text name="han_toolbox_update">Update Toolbox</Text>
 	<Text name="han_toolbox_update_info">Download and install the latest Toolbox package and reboot after</Text>
@@ -179,20 +179,20 @@
 
 <!-- Toolbox Multi Language support -->
 
-	<Text name="han_toolbox_download_lang_rco">Step 1: Download lang RCO file</Text>
+	<!--Text name="han_toolbox_download_lang_rco">Step 1: Download lang RCO file</Text>
 	<Text name="han_toolbox_download_lang_rco_info">Download explore_plugin_full.rco file to USB ready for installation</Text>
 	<Text name="han_toolbox_inject_lang_rco">Step 2: Inject lang RCO file</Text>
 	<Text name="han_toolbox_inject_lang_rco_info">Copy downloaded explore_plugin_full.rco from USB to dev_flash/vsh/resource/*.rco</Text>
 	<Text name="han_toolbox_download_patch_file">Step 3: Download and install patch PKG file</Text>
-	<Text name="han_toolbox_download_patch_file_info">Download and install patch PKG file and reboot after</Text>
+	<Text name="han_toolbox_download_patch_file_info">Download and install patch PKG file and reboot after</Text-->
 	
-<!-- PKGLINKER -->
+<!-- server_setup.templet -->
 	
 	<Text name="han_toolbox_server_setup">Server Setup</Text>
 	<Text name="han_toolbox_server_setup_info">Update List, Rescan and Other Server Controls</Text>
 	<Text name="han_toolbox_server_refresh">Refresh Package List</Text>
 	<Text name="han_toolbox_server_refresh_info">Install a new Package_List.pkg from your webserver (Reboot after)</Text>
-	<Text name="han_toolbox_server_enable_han">Enable HAN (Offline)</Text>
+	<Text name="han_toolbox_server_enable_han">Enable HAN (Local)</Text>
 	<Text name="han_toolbox_server_enable_han_info">PKG Linker must be running to use this local HAN Xploit</Text>
 	<Text name="han_toolbox_server_rescan">Rescan Folder</Text>
 	<Text name="han_toolbox_server_rescan_info">Rescan package folder on webserver and create a new Package_List.pkg</Text>
@@ -205,6 +205,25 @@
 	Port: xxxx
 	Folder: xxxxxxxxxxxxx
 	Press  to see package list</Text>
+	
+<!-- local_ps3xploit.templet -->
+
+	<Text name="han_toolbox_soft_reboot">Soft Reboot</Text>
+	<Text name="han_toolbox_reboot_info">Restart console</Text>
+	<Text name="han_toolbox_hard_reboot">Hard Reboot</Text>
+	<Text name="han_toolbox_reboot_info">Restart console</Text>
+	<Text name="han_toolbox_shutdown">Shutdown</Text>
+	<Text name="han_toolbox_shutdown_info">Turn off console</Text>
+	<Text name="han_toolbox_enabler">HAN Enabler</Text>	
+	<Text name="han_toolbox_enabler_info">Enable custom signed packages and licenses</Text>	
+	<Text name="han_toolbox_installer">HAN Installer</Text>
+	<Text name="han_toolbox_installer_info">Enable package manager</Text>
+	<Text name="han_toolbox_license_dumper">License Dumper</Text>
+	<Text name="han_toolbox_license_dumper_info">Dump activation data (act.dat+idps)</Text>
+	<Text name="han_toolbox_injector">Act.dat Injector</Text>
+	<Text name="han_toolbox_injector_info">Auto running injector Xploit useful for act.dat</Text>	
+	<Text name="han_toolbox_debug_enabler">Debug Package Enabler</Text>
+	<Text name="han_toolbox_debug_enabler_info">For modifed retail PS3 packages only</Text>	
 	
 <!-- No Resource PKG installed -->
 	
