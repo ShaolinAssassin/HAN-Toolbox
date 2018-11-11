@@ -176,12 +176,12 @@
 		<Attributes>
 			<Table key="mlbtv_downloader_us_1">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/mlbtv.png</String></Pair>
-				<Pair key="title"><String>US version (1) NoADS</String></Pair>
-				<Pair key="info"><String>v2.95 - 17.91 MB</String></Pair>
+				<Pair key="title"><String>US version</String></Pair>
+				<Pair key="info"><String>v2.95 (NoADS) - 17.91 MB</String></Pair>
 			</Table>
 			<Table key="mlbtv_downloader_us_2">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/mlbtv.png</String></Pair>
-				<Pair key="title"><String>US version (2)</String></Pair>
+				<Pair key="title"><String>US version</String></Pair>
 				<Pair key="info"><String>v6.13 - 18.92 MB</String></Pair>
 			</Table>
 		</Attributes>
@@ -256,8 +256,8 @@
 		<Attributes>
 			<Table key="nhlgc_downloader_us">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/nhlgc.png</String></Pair>
-				<Pair key="title"><String>US version</String></Pair>
-				<Pair key="info"><String>v5.88 - 29.18 MB (requires RAP file)</String></Pair>
+				<Pair key="title"><String>US version (requires RAP file)</String></Pair>
+				<Pair key="info"><String>v5.88 - 29.18 MB</String></Pair>
 			</Table>
 		</Attributes>
 		<Items>
