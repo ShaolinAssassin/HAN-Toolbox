@@ -1023,12 +1023,12 @@
 			<Table key="han_download_lang_rco">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/download.png</String></Pair>
 				<Pair key="title"><String>Step 1: Download lang RCO file</String></Pair>
-				<Pair key="info"><String>Download explore_plugin_full.rco file to USB ready for installation</String></Pair>
+				<Pair key="info"><String>Download explore_plugin_full.rco to HANTOOLBX/USRDIR/files/ ready for installation</String></Pair>
 			</Table>
 			<Table key="han_inject_lang_rco">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/download.png</String></Pair>
 				<Pair key="title"><String>Step 2: Inject lang RCO file</String></Pair>
-				<Pair key="info"><String>Copy downloaded explore_plugin_full.rco from USB to dev_flash/vsh/resource/*.rco</String></Pair>
+				<Pair key="info"><String>Copy downloaded explore_plugin_full.rco from HANTOOLBX/USRDIR/files to dev_flash/vsh/resource/*.rco</String></Pair>
 				<Pair key="module_name"><String>webrender_plugin</String></Pair>
 				<Pair key="module_action"><String>http://ps3xploit.com/flash_rco_replacer/flash_rco_replacer.html</String></Pair>
 			</Table>
@@ -1064,11 +1064,11 @@
 		<!-- View id="han_download_lang_rco_main">
 		<Attributes>
 			<Table key="han_download_lang_rco_item">
-				<Pair key="info"><String>??????????????????????????</String></Pair>
+				<Pair key="info"><String>net_package_install</String></Pair>
 				<Pair key="pkg_src"><String>??????????????????????????</String></Pair>
 				<Pair key="pkg_src_qa"><String>??????????????????????????</String></Pair>
-				<Pair key="content_name"><String>??????????????????????????</String></Pair>
-				<Pair key="content_id"><String>??????????????????????????</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair>
 				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/download.png</String></Pair>
  			</Table> 
 		</Attributes> 

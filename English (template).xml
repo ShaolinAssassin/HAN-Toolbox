@@ -180,9 +180,9 @@
 <!-- Toolbox Multi Language support -->
 
 	<!--Text name="han_toolbox_download_lang_rco">Step 1: Download lang RCO file</Text>
-	<Text name="han_toolbox_download_lang_rco_info">Download explore_plugin_full.rco file to USB ready for installation</Text>
+	<Text name="han_toolbox_download_lang_rco_info">Download explore_plugin_full.rco to HANTOOLBX/USRDIR/files/ ready for installation</Text>
 	<Text name="han_toolbox_inject_lang_rco">Step 2: Inject lang RCO file</Text>
-	<Text name="han_toolbox_inject_lang_rco_info">Copy downloaded explore_plugin_full.rco from USB to dev_flash/vsh/resource/*.rco</Text>
+	<Text name="han_toolbox_inject_lang_rco_info">Copy downloaded explore_plugin_full.rco from HANTOOLBX/USRDIR/files to dev_flash/vsh/resource/*.rco</Text>
 	<Text name="han_toolbox_download_patch_file">Step 3: Download and install patch PKG file</Text>
 	<Text name="han_toolbox_download_patch_file_info">Download and install patch PKG file and reboot after</Text-->
 	
