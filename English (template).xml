@@ -1,23 +1,43 @@
-﻿	<Text name="han_toolbox_title">★ HAN Toolbox</Text>
+﻿<!-- HAN Toolbox v0.6 english template - 1:1 mirror of han_toolbox_xmb.xml // duplicates will be killed after -->
+
+	<Text name="han_toolbox_title">★ HAN Toolbox</Text>
 	<Text name="han_toolbox_info_cex">The Xploit 3.0 Companion</Text>
 	<Text name="han_toolbox_info_dex">The Xploit 3.0 Companion (DEX)</Text>
-	<Text name="han_toolbox_soft_reboot">Soft Reboot</Text>
-	<Text name="han_toolbox_hard_reboot">Hard Reboot</Text>
+
+<!-- Main Items CEX -->
+	
+	<Text name="han_toolbox_soft_reboot_offline">Soft Reboot (Offline)</Text>
 	<Text name="han_toolbox_reboot_info">Restart console</Text>
-	<Text name="han_toolbox_shutdown">Shutdown</Text>
-	<Text name="han_toolbox_shutdown_info">Turn off console</Text>
-	<Text name="han_toolbox_enabler">HAN Enabler</Text>
-	<Text name="han_toolbox_enabler_info">Enable custom signed packages and licenses (CEX)</Text>
-	<Text name="han_toolbox_enabler_info_dex">Enable custom signed packages and licenses (DEX)</Text>
+	<Text name="han_toolbox_enabler_offline">Enable HAN (Offline)</Text>	
+	<Text name="han_toolbox_enabler_info">Enable custom signed packages and licenses (CEX)</Text>	
+	<Text name="han_toolbox_debug_enabler_offline">Enable Debug Packages (Offline)</Text>
+	<Text name="han_toolbox_debug_enabler_offline_info">Enable modified retail packages (CEX)</Text>
 	<Text name="han_toolbox_functions">HAN Functions</Text>
-	<Text name="han_toolbox_functions_info">Autorun HAN functions (Official site)</Text>
-	<Text name="han_toolbox_functions_info_dex">Autorun HAN Functions for DEX Firmware/Hybrid</Text>
-	<Text name="han_toolbox_functions_offline">Offline HAN Functions</Text>
-	<Text name="han_toolbox_functions_offline_info">Autorun HAN functions (Locally hosted via PKG Linker)</Text>
+	<Text name="han_toolbox_functions_info">Autorun HAN functions (Official site)</Text>	
+	<Text name="han_toolbox_functions_local">Locally Hosted HAN Functions</Text>
+	<Text name="han_toolbox_functions_local_info">Autorun HAN functions (Locally hosted via PKG Linker)</Text>	
 	<Text name="han_toolbox_external_content">External Content</Text>
-	<Text name="han_toolbox_external_content_info">Download and install content from remote servers</Text>
+	<Text name="han_toolbox_external_content_info">Download and install content from remote servers</Text>	
 	<Text name="han_toolbox_advanced_tools">Advanced Tools</Text>
-	<Text name="han_toolbox_advanced_tools_info">Be careful with items in here</Text>
+	<Text name="han_toolbox_advanced_tools_info">Be careful with items in here</Text>	
+	
+<!-- Main Items DEX -->
+	
+	<Text name="han_toolbox_soft_reboot">Soft Reboot</Text>
+	<Text name="han_toolbox_reboot_info">Restart console</Text>	
+	<Text name="han_toolbox_enabler">HAN Enabler</Text>	
+	<Text name="han_toolbox_enabler_info_dex">Enable custom signed packages and licenses (DEX)</Text>	
+	<Text name="han_toolbox_functions">HAN Functions</Text>	
+	<Text name="han_toolbox_functions_info_dex">Autorun HAN Functions for DEX Firmware/Hybrid</Text>	
+	<Text name="han_toolbox_functions_local">Locally Hosted HAN Functions</Text>
+	<Text name="han_toolbox_functions_local_info">Autorun HAN functions (Locally hosted via PKG Linker)</Text>	
+	<Text name="han_toolbox_external_content">External Content</Text>
+	<Text name="han_toolbox_external_content_info">Download and install content from remote servers</Text>	
+	<Text name="han_toolbox_advanced_tools">Advanced Tools</Text>
+	<Text name="han_toolbox_advanced_tools_info">Be careful with items in here</Text>	
+
+<!-- Advanced Submenu -->
+	
 	<Text name="han_toolbox_file_explorer">File Explorer</Text>
 	<Text name="han_toolbox_file_explorer_info">Browse complete file system and delete files (Be careful)</Text>
 	<Text name="han_toolbox_file_injector">File Injector</Text>
@@ -26,14 +46,49 @@
 	<Text name="han_toolbox_dex_xmb_setup_info">Add/Remove DEX settings etc (Be careful)</Text>
 	<Text name="han_toolbox_settings">Toolbox Settings</Text>
 	<Text name="han_toolbox_settings_info">Version info, Resource download, Updates</Text>
+
+<!-- Main HAN functions Online CEX -->
+
+	<Text name="han_toolbox_soft_reboot">Soft Reboot</Text>
+	<Text name="han_toolbox_reboot_info">Restart console</Text>
+	<Text name="han_toolbox_hard_reboot">Hard Reboot</Text>
+	<Text name="han_toolbox_reboot_info">Restart console</Text>
+	<Text name="han_toolbox_shutdown">Shutdown</Text>
+	<Text name="han_toolbox_shutdown_info">Turn off console</Text>
+	<Text name="han_toolbox_enabler">HAN Enabler</Text>	
+	<Text name="han_toolbox_enabler_info">Enable custom signed packages and licenses</Text>	
 	<Text name="han_toolbox_installer">HAN Installer</Text>
 	<Text name="han_toolbox_installer_info">Enable package manager</Text>
 	<Text name="han_toolbox_license_dumper">License Dumper</Text>
 	<Text name="han_toolbox_license_dumper_info">Dump activation data (act.dat+idps)</Text>
 	<Text name="han_toolbox_injector">Act.dat Injector</Text>
-	<Text name="han_toolbox_injector_info">Auto running injector Xploit useful for act.dat</Text>
+	<Text name="han_toolbox_injector_info">Auto running injector Xploit useful for act.dat</Text>	
+	<Text name="han_toolbox_debug_enabler">Debug Package Enabler</Text>
+	<Text name="han_toolbox_debug_enabler_info">For modifed retail PS3 packages only</Text>	
+
+<!-- Main HAN functions Online DEX -->
+
+	<Text name="han_toolbox_soft_reboot">Soft Reboot</Text>
+	<Text name="han_toolbox_reboot_info">Restart console</Text>
+	<Text name="han_toolbox_hard_reboot">Hard Reboot</Text>
+	<Text name="han_toolbox_reboot_info">Restart console</Text>
+	<Text name="han_toolbox_shutdown">Shutdown</Text>
+	<Text name="han_toolbox_shutdown_info">Turn off console</Text>
+	<Text name="han_toolbox_enabler">HAN Enabler</Text>	
+	<Text name="han_toolbox_enabler_info">Enable custom signed packages and licenses</Text>	
+	<Text name="han_toolbox_installer">HAN Installer</Text>
+	<Text name="han_toolbox_installer_info">Enable package manager</Text>
+	<Text name="han_toolbox_license_dumper">License Dumper</Text>
+	<Text name="han_toolbox_license_dumper_info">Dump activation data (act.dat+idps)</Text>
+	<Text name="han_toolbox_injector">Act.dat Injector</Text>
+	<Text name="han_toolbox_injector_info">Auto running injector Xploit useful for act.dat</Text>	
 	<Text name="han_toolbox_debug_enabler">Debug Package Enabler</Text>
 	<Text name="han_toolbox_debug_enabler_info">For modifed retail PS3 packages only</Text>
+	
+<!-- File injector Online -->
+
+	<Text name="han_toolbox_xreg_dumper_injector">xRegistry.sys Operations (Backup/Restore System Settings)</Text>
+	<Text name="han_toolbox_xreg_dumper_injector_info">Dump and Inject xRegistry.sys</Text>
 	<Text name="han_toolbox_inject_coldboot">Inject Coldboots (Boot Logo and Sound)</Text>
 	<Text name="han_toolbox_inject_coldboot_info">Copy coldboot_*.* to dev_flash/vsh/resource/coldboot_*.*</Text>
 	<Text name="han_toolbox_inject_rco">Inject RCO (System Resource)</Text>
@@ -56,6 +111,9 @@
 	<Text name="han_toolbox_inject_font_info">Copy *.ttf to dev_flash/data/font/*.ttf</Text>
 	<Text name="han_toolbox_inject_remove_cert">Inject / Remove Cert (SSL Cert)</Text>
 	<Text name="han_toolbox_inject_remove_cert_info">Copy / Delete certs at dev_flash/data/cert/*.cer</Text>
+	
+<!-- File injector Self Submenu -->
+	
 	<Text name="han_toolbox_inject_self_main">Inject SELF (Main)</Text>
 	<Text name="han_toolbox_inject_self_main_info">Copy *.self to dev_flash/vsh/module/*.self</Text>
 	<Text name="han_toolbox_inject_self_ps1">Inject SELF (PS1 Emulator)</Text>
@@ -66,10 +124,16 @@
 	<Text name="han_toolbox_inject_self_psp_info">Copy *.self to dev_flash/pspemu/*.self</Text>
 	<Text name="han_toolbox_inject_self_bd">Inject SELF (BD Player)</Text>
 	<Text name="han_toolbox_inject_self_bd_info">Copy *.self to dev_flash/bdplayer/*.self</Text>
+	
+<!-- File inejctor Cert Submenu -->
+
 	<Text name="han_toolbox_inject_cert">Inject Cert (SSL Cert)</Text>
 	<Text name="han_toolbox_inject_cert_info">Copy certs to dev_flash/data/cert/*.cer</Text>
 	<Text name="han_toolbox_remove_cert">Remove Cert (SSL Cert)</Text>
 	<Text name="han_toolbox_remove_cert_info">Delete certs from dev_flash/data/cert/*.cer</Text>
+
+<!-- Debug Settings injector menu -->
+
 	<Text name="han_toolbox_download_dex_files">Step 1: Download DEX Files (Debug)</Text>
 	<Text name="han_toolbox_download_dex_files_info">Download DEX 4.82 files to HANTOOLBX/USRDIR/files/ ready for installation</Text>
 	<Text name="han_toolbox_download_cex_files">Step 1: Download CEX Files (Retail)</Text>
@@ -80,6 +144,16 @@
 	<Text name="han_toolbox_debug_settings_toggler_info">Copy downloaded sysconf_plugin.sprx from HANTOOLBX/USRDIR/files to dev_flash</Text>
 	<Text name="han_toolbox_toggle_ip">Toggle IP/Host info</Text>
 	<Text name="han_toolbox_toggle_ip_info">Copy downloaded xmb_plugin.sprx from HANTOOLBX/USRDIR/files/ to dev_flash</Text>
+	
+<!-- xRegistry Operations -->
+
+	<Text name="han_toolbox_dump_xregistry">Dump xRegistry.sys</Text>
+	<Text name="han_toolbox_dump_xregistry_info">Copy xRegistry.sys from dev_flash2/etc/ to USB</Text>
+	<Text name="han_inject_xregistry">Inject xRegistry.sys</Text>
+	<Text name="han_inject_xregistry_info">Copy xRegistry.sys from USB to dev_flash2/etc/</Text>
+
+<!-- External Content Submenu -->
+	
 	<Text name="han_toolbox_webserver_packages">Install Packages From Webserver</Text>
 	<Text name="han_toolbox_webserver_packages_info">Download and install packages from your PC via PKG Linker (pkg)</Text>
 	<Text name="han_toolbox_demo_downloader">Demo Downloader</Text>
@@ -88,13 +162,32 @@
 	<Text name="han_toolbox_theme_downloader_info">Download and install themes (p3t)</Text>
 	<Text name="han_toolbox_wallpaper_downloader">Wallpaper Downloader</Text>
 	<Text name="han_toolbox_wallpaper_downloader_info">Preview and download backgrounds (jpg)</Text>
+	<Text name="han_toolbox_nopsn_downloader">NoPSN Apps Downloader</Text>
+	<Text name="han_toolbox_nopsn_downloader_info">Download and install NoPSN HAN compatible Apps (pkg)</Text>
+	
+<!-- Toolbox Update / About -->	
+
+	<Text name="han_toolbox_lang">Install Multi Language support</Text>
+	<Text name="han_toolbox_lang_info">Download and install the lang resources and reboot after</Text>
 	<Text name="han_toolbox_update">Update Toolbox</Text>
-	<Text name="han_toolbox_update_info">Download and install the latest Toolbox package (Reboot after)</Text>
+	<Text name="han_toolbox_update_info">Download and install the latest Toolbox package and reboot after</Text>
 	<Text name="han_toolbox_resources">Download Toolbox Resources</Text>
-	<Text name="han_toolbox_resources_info">Download and install the HAN Toolbox resource package (Reboot after)</Text>
+	<Text name="han_toolbox_resources_info">Download and install the HAN Toolbox resource package (41 MB) and reboot after</Text>
 	<Text name="han_toolbox_version">Version: 0.6</Text>
-	<Text name="han_toolbox_credits">By DeViL303, Pink1, esc0rtd3w, Berion and ShaolinAssassin 
+	<Text name="han_toolbox_credits">By DeViL303, Pink1, esc0rtd3w, Berion, ShaolinAssassin, Demon Hades and lmn7
 	Massive thanks to the PS3Xploit Team for all the hacks</Text>
+
+<!-- Toolbox Multi Language support -->
+
+	<Text name="han_toolbox_download_lang_rco">Step 1: Download lang RCO file</Text>
+	<Text name="han_toolbox_download_lang_rco_info">Download explore_plugin_full.rco file to USB ready for installation</Text>
+	<Text name="han_toolbox_inject_lang_rco">Step 2: Inject lang RCO file</Text>
+	<Text name="han_toolbox_inject_lang_rco_info">Copy downloaded explore_plugin_full.rco from USB to dev_flash/vsh/resource/*.rco</Text>
+	<Text name="han_toolbox_download_patch_file">Step 3: Download and install patch PKG file</Text>
+	<Text name="han_toolbox_download_patch_file_info">Download and install patch PKG file and reboot after</Text>
+	
+<!-- PKGLINKER -->
+	
 	<Text name="han_toolbox_server_setup">Server Setup</Text>
 	<Text name="han_toolbox_server_setup_info">Update List, Rescan and Other Server Controls</Text>
 	<Text name="han_toolbox_server_refresh">Refresh Package List</Text>
@@ -112,11 +205,22 @@
 	Port: xxxx
 	Folder: xxxxxxxxxxxxx
 	Press  to see package list</Text>
+	
+<!-- No Resource PKG installed -->
+	
+	<Text name="han_toolbox_no_resources">No Resources Found</Text>
+	<Text name="han_toolbox_no_resources_info">Press  to download and install the resource package (41 MB) then reboot</Text>
+	
+<!-- Themes Downloader -->
+
 	<Text name="han_toolbox_themes_ac">Themes (A-C)</Text>
 	<Text name="han_toolbox_themes_dh">Themes (D-H)</Text>
 	<Text name="han_toolbox_themes_in">Themes (I-N)</Text>
 	<Text name="han_toolbox_themes_os">Themes (O-S)</Text>
 	<Text name="han_toolbox_themes_tz">Themes (T-Z)</Text>
+
+<!-- Demos Downloader -->
+
 	<Text name="han_toolbox_demos_eu">EU Demos</Text>
 	<Text name="han_toolbox_demos_hk">HK Demos</Text>
 	<Text name="han_toolbox_demos_jp">JP Demos</Text>
@@ -125,6 +229,9 @@
 	<Text name="han_toolbox_demos_hk_info">50 Available</Text>
 	<Text name="han_toolbox_demos_jp_info">68 Available</Text>
 	<Text name="han_toolbox_demos_us_info">269 Available</Text>
+
+<!-- Wallpapers Downloader -->
+
 	<Text name="han_toolbox_abstract">Abstract</Text>
 	<Text name="han_toolbox_animals">Animals</Text>
 	<Text name="han_toolbox_cars">Cars</Text>
@@ -138,3 +245,6 @@
 	<Text name="han_toolbox_space">Space</Text>
 	<Text name="han_toolbox_unsorted">Unsorted</Text>
 
+<!-- NoPSN Downloader -->
+
+/// to be continued...

@@ -44,7 +44,7 @@
 		
 		<View id="han_main_items"> 
 		<Attributes> 
-			<Table key="han_reboot_soft">
+			<Table key="han_reboot_soft_offline">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/reboot.png</String></Pair>
 				<Pair key="title"><String>Soft Reboot (Offline)</String></Pair>
 				<Pair key="info"><String>Restart console</String></Pair>
@@ -89,8 +89,8 @@
 			<Items>
 			<Query 
 				class="type:x-xmb/module-action"
-				key="han_reboot_soft"
-				attr="han_reboot_soft"
+				key="han_reboot_soft_offline"
+				attr="han_reboot_soft_offline"
 				/>
 			<Query 
 				class="type:x-xmb/module-action"
@@ -154,7 +154,7 @@
 			</Table>
 			<Table key="han_functions_local">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/han.png</String></Pair>
-				<Pair key="title"><String>Offline HAN Functions</String></Pair>
+				<Pair key="title"><String>Locally Hosted HAN Functions</String></Pair>
 				<Pair key="info"><String>Autorun HAN functions (Locally hosted via PKG Linker)</String></Pair>
 			</Table>
 			<Table key="han_external_content">
@@ -934,17 +934,17 @@
 			<!-- Table key="han_toolbox_lang">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/update.png</String></Pair>
 				<Pair key="title"><String>Install Multi Language support</String></Pair>
-				<Pair key="info"><String>Download and install the lang resources and reboot after.</String></Pair>
+				<Pair key="info"><String>Download and install the lang resources and reboot after</String></Pair>
 			</Table -->
 			<Table key="han_toolbox_update">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/update.png</String></Pair>
 				<Pair key="title"><String>Update Toolbox</String></Pair>
-				<Pair key="info"><String>Download and install the latest Toolbox package and reboot after.</String></Pair>
+				<Pair key="info"><String>Download and install the latest Toolbox package and reboot after</String></Pair>
 			</Table>
 			<Table key="han_toolbox_resources">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/update.png</String></Pair>
 				<Pair key="title"><String>Download Toolbox Resources</String></Pair>
-				<Pair key="info"><String>Download and install the HAN Toolbox resource package (41 MB) and reboot after.</String></Pair>
+				<Pair key="info"><String>Download and install the HAN Toolbox resource package (41 MB) and reboot after</String></Pair>
 			</Table>
 			<Table key="han_toolbox_about">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/list.png</String></Pair>
@@ -980,7 +980,7 @@
 			</Items>
 		</View>
 		
-<!-- Toolbox Update and Resource Downloader -->
+<!-- Toolbox Updater -->
 		
 		<View id="han_toolbox_update_main">
 		<Attributes>
@@ -997,6 +997,8 @@
 			<Item class="type:x-xmb/xmlnpsignup" key="han_toolbox_update_item" attr="han_toolbox_update_item"/>
 		</Items> 
 		</View> 
+
+<!-- Resource Downloader -->
 		
 		<View id="han_toolbox_resources_main">
 		<Attributes>
@@ -1021,7 +1023,7 @@
 			<Table key="han_download_lang_rco">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/download.png</String></Pair>
 				<Pair key="title"><String>Step 1: Download lang RCO file</String></Pair>
-				<Pair key="info"><String>Download explore_plugin_full.rco file to USB ready for installation.</String></Pair>
+				<Pair key="info"><String>Download explore_plugin_full.rco file to USB ready for installation</String></Pair>
 			</Table>
 			<Table key="han_inject_lang_rco">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/download.png</String></Pair>
@@ -1033,7 +1035,7 @@
 			<Table key="han_download_patch_file">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/download.png</String></Pair>
 				<Pair key="title"><String>Step 3: Download and install patch PKG file</String></Pair>
-				<Pair key="info"><String>Download and install patch PKG file and reboot after.</String></Pair>
+				<Pair key="info"><String>Download and install patch PKG file and reboot after</String></Pair>
 			</Table>
 		</Attributes>
 			<Items>
