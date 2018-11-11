@@ -1,0 +1,20 @@
+<XMBML version="1.0">
+<!-- Wallpaper Downloader -->
+		<View id="wallpaper_downloader_items">
+		<Attributes>
+			<Table key="no_resources">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/about.png</String></Pair>
+				<Pair key="title"><String>No Resources Found</String></Pair>
+				<Pair key="info"><String>Press  to download and install the resource package (41 MB) then reboot.</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="no_resources" 
+				attr="no_resources"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/han_toolbox_xmb.xml#han_toolbox_resources_main"
+				/>
+		</Items>
+		</View>
+</XMBML>
