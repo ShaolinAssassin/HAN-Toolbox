@@ -248,6 +248,19 @@
 	<Text name="han_toolbox_demos_hk_info">50 Available</Text>
 	<Text name="han_toolbox_demos_jp_info">68 Available</Text>
 	<Text name="han_toolbox_demos_us_info">269 Available</Text>
+	<Text name="han_toolbox_demos_alpha">Sorted alphabetically</Text>
+	<Text name="han_toolbox_demos_genre">Sorted by genre</Text>
+	<Text name="han_toolbox_demos_score">Sorted by metascore</Text>*
+	<Text name="han_toolbox_demos_action">Action Adventure</Text>
+	<Text name="han_toolbox_demos_driving">Driving</Text>
+	<Text name="han_toolbox_demos_fighting">Fighting</Text>
+	<Text name="han_toolbox_demos_misc">Misc</Text>
+	<Text name="han_toolbox_demos_plateformer">Plateformer</Text>
+	<Text name="han_toolbox_demos_puzzle">Puzzle</Text>
+	<Text name="han_toolbox_demos_rpg">Role Playing</Text>
+	<Text name="han_toolbox_demos_shooter">Shooter</Text>
+	<Text name="han_toolbox_demos_sports">Sports</Text>
+	<Text name="han_toolbox_demos_strategy">Strategy</Text>
 
 <!-- Wallpapers Downloader -->
 
