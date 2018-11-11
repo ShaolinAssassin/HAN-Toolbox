@@ -2,7 +2,7 @@
 
 Repo description : 
 
-- HANTOOLBX-main-PKG - mail HAN Toolbox folder.
+- HANTOOLBX-main-PKG - main HAN Toolbox folder.
 - HANTOOLBX-patch-PKG-lang - multi language patch PKG. Up-to-date with other files.
 - HANTOOLBX-rco-lang-file - PKG with the lang RCO inside. Not ready, contains a dummy file.
 - HANTOOLBX-resource-PKG-files - resource PKG. 
