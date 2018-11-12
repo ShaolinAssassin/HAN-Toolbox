@@ -931,7 +931,7 @@
 		
 		<View id="han_toolbox_setup_main"> 
 		<Attributes>
-			<!-- Table key="han_toolbox_lang">
+			<!-- Table key="han_toolbox_install_lang">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/update.png</String></Pair>
 				<Pair key="title"><String>Install Multi Language support</String></Pair>
 				<Pair key="info"><String>Download and install the lang resources and reboot after</String></Pair>
@@ -956,9 +956,9 @@
 			<Items>
 			<!-- Query 
 				class="type:x-xmb/folder-pixmap" 
-				key="han_toolbox_lang" 
-				attr="han_toolbox_lang"
-				src="#han_toolbox_lang_items"
+				key="han_toolbox_install_lang" 
+				attr="han_toolbox_install_lang"
+				src="#han_toolbox_lang_install_items"
 				/ -->
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
@@ -1059,7 +1059,7 @@
 			</Items> 
 		</View>
 
-		<!-- Download lang RCO file -->
+		<!-- Download **EDITED** lang RCO file -->
 		
 		<!-- View id="han_download_lang_rco_main">
 		<Attributes>

@@ -931,10 +931,10 @@
 		
 		<View id="han_toolbox_setup_main"> 
 		<Attributes>
-			<!-- Table key="han_toolbox_lang">
+			<!-- Table key="han_toolbox_uninstall_lang">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/update.png</String></Pair>
-				<Pair key="title_rsc"><String>han_toolbox_lang</String></Pair>
-				<Pair key="info_rsc"><String>han_toolbox_lang_info</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_uninstall_lang</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_uninstall_lang_info</String></Pair>
 			</Table -->
 			<Table key="han_toolbox_update">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/update.png</String></Pair>
@@ -956,9 +956,9 @@
 			<Items>
 			<!-- Query 
 				class="type:x-xmb/folder-pixmap" 
-				key="han_toolbox_lang" 
-				attr="han_toolbox_lang"
-				src="#han_toolbox_lang_items"
+				key="han_toolbox_uninstall_lang" 
+				attr="han_toolbox_uninstall_lang"
+				src="#han_toolbox_lang_uninstall_items"
 				/ -->
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
@@ -1018,52 +1018,52 @@
 		
 <!-- Toolbox Multi Language support -->
 		
-		<!-- View id="han_toolbox_lang_items"> 
+		<!-- View id="han_toolbox_uninstall_lang_items"> 
 		<Attributes> 
-			<Table key="han_download_lang_rco">
+			<Table key="han_download_original_lang_rco">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/download.png</String></Pair>
-				<Pair key="title_rsc"><String>han_toolbox_download_lang_rco</String></Pair>
-				<Pair key="info_rsc"><String>han_toolbox_download_lang_rco_info</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_download_original_lang_rco</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_download_original_lang_rco_info</String></Pair>
 			</Table>
-			<Table key="han_inject_lang_rco">
+			<Table key="han_inject_original_lang_rco">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/download.png</String></Pair>
-				<Pair key="title_rsc"><String>han_toolbox_inject_lang_rco</String></Pair>
-				<Pair key="info_rsc"><String>han_toolbox_inject_lang_rco_info</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_inject_original_lang_rco</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_inject_original_lang_rco_info</String></Pair>
 				<Pair key="module_name"><String>webrender_plugin</String></Pair>
 				<Pair key="module_action"><String>http://ps3xploit.com/flash_rco_replacer/flash_rco_replacer.html</String></Pair>
 			</Table>
-			<Table key="han_download_patch_file">
+			<Table key="han_restore_toolbox">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/download.png</String></Pair>
-				<Pair key="title_rsc"><String>han_toolbox_download_patch_file</String></Pair>
-				<Pair key="info_rsc"><String>han_toolbox_download_patch_file_info</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_restore_toolbox</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_restore_toolbox_info</String></Pair>
 			</Table>
 		</Attributes>
 			<Items>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
-				key="han_download_lang_rco" 
-				attr="han_download_lang_rco"
-				src="#han_download_lang_rco_main"
+				key="han_download_original_lang_rco" 
+				attr="han_download_original_lang_rco"
+				src="#han_download_original_lang_rco_main"
 				/>
 			<Query 
 				class="type:x-xmb/module-action"
-				key="han_inject_lang_rco"
-				attr="han_inject_lang_rco"
+				key="han_inject_original_lang_rco"
+				attr="han_inject_original_lang_rco"
 				/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
-				key="han_download_patch_file" 
-				attr="han_download_patch_file"
-				src="#han_download_patch_file_main"
+				key="han_restore_toolbox" 
+				attr="han_restore_toolbox"
+				src="#han_toolbox_update_main"
 				/>
 			</Items> 
 		</View>
 
-		<!-- Download lang RCO file -->
+		<!-- Download **ORIGINAL** lang RCO file -->
 		
-		<!-- View id="han_download_lang_rco_main">
+		<!-- View id="han_download_original_lang_rco_main">
 		<Attributes>
-			<Table key="han_download_lang_rco_item">
+			<Table key="han_download_original_lang_rco_item">
 				<Pair key="info"><String>net_package_install</String></Pair>
 				<Pair key="pkg_src"><String>??????????????????????????</String></Pair>
 				<Pair key="pkg_src_qa"><String>??????????????????????????</String></Pair>
@@ -1077,23 +1077,6 @@
 		</Items> 
 		</View>
 		
-		<!-- Download lang patch PKG file -->
-				
-		<!-- View id="han_download_patch_file_main">
-		<Attributes>
-			<Table key="han_download_patch_file_item">
-				<Pair key="info"><String>net_package_install</String></Pair>
-				<Pair key="pkg_src"><String>??????????????????????????</String></Pair>
-				<Pair key="pkg_src_qa"><String>??????????????????????????</String></Pair>
-				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
-				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair>
-				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/download.png</String></Pair>
- 			</Table> 
-		</Attributes> 
-			<Items>
-			<Item class="type:x-xmb/xmlnpsignup" key="han_download_patch_file_item" attr="han_download_patch_file_item"/>
-		</Items> 
-		</View>		
 		
 </XMBML>
 		
