@@ -1026,7 +1026,7 @@
 				<Pair key="info_rsc"><String>han_toolbox_download_original_lang_rco_info</String></Pair>
 			</Table>
 			<Table key="han_inject_original_lang_rco">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/download.png</String></Pair>
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/inj_rco.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_inject_original_lang_rco</String></Pair>
 				<Pair key="info_rsc"><String>han_toolbox_inject_original_lang_rco_info</String></Pair>
 				<Pair key="module_name"><String>webrender_plugin</String></Pair>

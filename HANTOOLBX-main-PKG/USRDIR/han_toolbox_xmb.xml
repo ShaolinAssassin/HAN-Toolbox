@@ -1026,7 +1026,7 @@
 				<Pair key="info"><String>Download explore_plugin_full.rco to HANTOOLBX/USRDIR/files/ ready for installation</String></Pair>
 			</Table>
 			<Table key="han_inject_lang_rco">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/download.png</String></Pair>
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/inj_rco.png</String></Pair>
 				<Pair key="title"><String>Step 2: Inject lang RCO file</String></Pair>
 				<Pair key="info"><String>Copy downloaded explore_plugin_full.rco from HANTOOLBX/USRDIR/files to dev_flash/vsh/resource/*.rco</String></Pair>
 				<Pair key="module_name"><String>webrender_plugin</String></Pair>
