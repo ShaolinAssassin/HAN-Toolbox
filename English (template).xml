@@ -9,7 +9,7 @@
 	<Text name="han_toolbox_soft_reboot_offline">Soft Reboot (Offline)</Text>
 	<Text name="han_toolbox_reboot_info">Restart console</Text>
 	<Text name="han_toolbox_enabler_offline">Enable HAN (Offline)</Text>	
-	<Text name="han_toolbox_enabler_info">Enable custom signed packages and licenses (CEX)</Text>	
+	<Text name="han_toolbox_enabler_info_cex">Enable custom signed packages and licenses (CEX)</Text>	
 	<Text name="han_toolbox_debug_enabler_offline">Enable Debug Packages (Offline)</Text>
 	<Text name="han_toolbox_debug_enabler_offline_info">Enable modified retail packages (CEX)</Text>
 	<Text name="han_toolbox_functions">HAN Functions</Text>
