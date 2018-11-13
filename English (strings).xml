@@ -234,11 +234,6 @@
 	<Text name="han_toolbox_debug_enabler">Debug Package Enabler</Text>
 	<Text name="han_toolbox_debug_enabler_info">For modifed retail PS3 packages only</Text>	
 	
-<!-- No Resource PKG installed -->
-	
-	<Text name="han_toolbox_no_resources">No Resources Found</Text>
-	<Text name="han_toolbox_no_resources_info">Press  to download and install the resource package (41 MB) then reboot</Text>
-	
 <!-- Themes Downloader -->
 
 	<Text name="han_toolbox_themes_ac">Themes (A-C)</Text>
