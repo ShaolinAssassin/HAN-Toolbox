@@ -44,7 +44,7 @@
 				<Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/h0x6nygd8zc46t2/MLB_tv-v6.23-%5BNPHA80252%5D-NoPSN-etHANol.pkg?dl=1</String></Pair> 
 				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
 				<Pair key="content_id"><String>HP9010-NPHA80252_00-MLBTVPS3STREAM01</String></Pair> 
-				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/mlbtv.png</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/nopsn_icons/mlbtv.png</String></Pair> 
 			</Table> 
 		</Attributes> 
 		<Items> 
@@ -60,7 +60,7 @@
 				<Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/se4trkzfzgo9nxn/Twitch-v1.07-%5BNPHB00730%5D-NoPSN-etHANol.pkg?dl=1</String></Pair> 
 				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
 				<Pair key="content_id"><String>HP8901-NPHB00730_00-TWITCHPS3APPASIA</String></Pair> 
-				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/twitch.png</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/nopsn_icons/twitch.png</String></Pair> 
 			</Table> 
 		</Attributes> 
 		<Items> 

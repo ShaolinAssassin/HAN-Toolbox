@@ -61,7 +61,7 @@
 				<Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/nu4af4x5g057hn9/Crunchyroll-v1.29-%5BNPEB02307%5D-NoPSN-etHANol.pkg?dl=1</String></Pair> 
 				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
 				<Pair key="content_id"><String>EP8805-NPEB02307_00-20150410XCRUNCHY</String></Pair> 
-				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/crunchyroll.png</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/nopsn_icons/crunchyroll.png</String></Pair> 
 			</Table> 
 		</Attributes> 
 		<Items> 
@@ -77,7 +77,7 @@
 				<Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/rear7b5lp2rxpq1/PlayStation-Store-v1.26-%5BNPEB02080%5D-NoPSN-OFW-etHANol.pkg?dl=1</String></Pair> 
 				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
 				<Pair key="content_id"><String>TA9000-NPEB02080_00-0000000000000000</String></Pair> 
-				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pstore.png</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/nopsn_icons/pstore.png</String></Pair> 
 			</Table> 
 		</Attributes> 
 		<Items> 
@@ -93,7 +93,7 @@
 				<Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/hykck11a1pysw9s/Twitch-v1.07-%5BNPEB02359%5D-NoPSN-etHANol.pkg?dl=1</String></Pair> 
 				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
 				<Pair key="content_id"><String>EP8816-NPEB02359_00-GTWITCHXXX000001</String></Pair> 
-				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/twitch.png</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/nopsn_icons/twitch.png</String></Pair> 
 			</Table> 
 		</Attributes> 
 		<Items> 
@@ -109,7 +109,7 @@
 				<Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/hc3v1t4v64ekakr/Youtube-v1.02-v3.03-Spoof-%5BNPEB01229%5D-NoPSN-etHANol.pkg?dl=1</String></Pair> 
 				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
 				<Pair key="content_id"><String>EP4381-NPEB01229_00-YOUTUBE000000001</String></Pair> 
-				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/youtube.png</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/nopsn_icons/youtube.png</String></Pair> 
 			</Table> 
 		</Attributes> 
 		<Items> 
