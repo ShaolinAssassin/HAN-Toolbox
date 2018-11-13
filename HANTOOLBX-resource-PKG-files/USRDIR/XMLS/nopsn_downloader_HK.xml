@@ -1,0 +1,71 @@
+<XMBML version="1.0">
+
+	<!-- NoPSN Downloader Items HK  -->
+	
+		<View id="nopsn_downloader_HK_items">
+		<Attributes>
+			<Table key="nopsn_downloader_HK_mlbtv">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/nopsn_icons/mlbtv.png</String></Pair>
+				<Pair key="title"><String>MLB. TV</String></Pair>
+				<Pair key="info"><String>v6.23 - 18.92 MB</String></Pair>
+			</Table>
+			<Table key="nopsn_downloader_HK_twitch">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/nopsn_icons/twitch.png</String></Pair>
+				<Pair key="title"><String>Twitch</String></Pair>
+				<Pair key="info"><String>v1.07 - 9.87 MB</String></Pair>
+			</Table>
+			<Table key="nopsn_downloader_HK_youtube">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/nopsn_icons/youtube.png</String></Pair>
+				<Pair key="title"><String>YouTube</String></Pair>
+				<Pair key="info"><String>v1.02-v3.03 - 59.25 MB</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="nopsn_downloader_HK_mlbtv" 
+				attr="nopsn_downloader_HK_mlbtv"
+				src="nopsn_downloader_HK_mlbtv_link"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="nopsn_downloader_HK_twitch" 
+				attr="nopsn_downloader_HK_twitch"
+				src="nopsn_downloader_HK_twitch_link"
+				/>
+		</Items>
+		</View>
+
+	<View id="nopsn_downloader_HK_mlbtv_link"> 
+		<Attributes> 
+			<Table key="nopsn_downloader_HK_mlbtv_link"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>https://www.dropbox.com/s/h0x6nygd8zc46t2/MLB_tv-v6.23-%5BNPHA80252%5D-NoPSN-etHANol.pkg?dl=1</String></Pair> 
+				<Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/h0x6nygd8zc46t2/MLB_tv-v6.23-%5BNPHA80252%5D-NoPSN-etHANol.pkg?dl=1</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>HP9010-NPHA80252_00-MLBTVPS3STREAM01</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/mlbtv.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="nopsn_downloader_HK_mlbtv_link" attr="nopsn_downloader_HK_mlbtv_link"/> 
+		</Items> 
+	</View> 	
+
+	<View id="nopsn_downloader_HK_twitch_link"> 
+		<Attributes> 
+			<Table key="nopsn_downloader_HK_twitch_link"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>https://www.dropbox.com/s/se4trkzfzgo9nxn/Twitch-v1.07-%5BNPHB00730%5D-NoPSN-etHANol.pkg?dl=1</String></Pair> 
+				<Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/se4trkzfzgo9nxn/Twitch-v1.07-%5BNPHB00730%5D-NoPSN-etHANol.pkg?dl=1</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>HP8901-NPHB00730_00-TWITCHPS3APPASIA</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/twitch.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="nopsn_downloader_HK_twitch_link" attr="nopsn_downloader_HK_twitch_link"/> 
+		</Items> 
+	</View> 
+		
+</XMBML>

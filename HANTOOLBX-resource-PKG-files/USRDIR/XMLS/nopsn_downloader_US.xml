@@ -1,0 +1,174 @@
+<XMBML version="1.0">
+
+	<!-- NoPSN Downloader Items US  -->
+	
+		<View id="nopsn_downloader_US_items">
+		<Attributes>
+			<Table key="nopsn_downloader_US_crunchyroll">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/nopsn_icons/crunchyroll.png</String></Pair>
+				<Pair key="title"><String>Crunchyroll</String></Pair>
+				<Pair key="info"><String>v1.29 - 19.73 MB (requires RAP file)</String></Pair>
+			</Table>
+			<Table key="nopsn_downloader_US_mlbtv_1">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/nopsn_icons/mlbtv.png</String></Pair>
+				<Pair key="title"><String>MLB. TV</String></Pair>
+				<Pair key="info"><String>v2.95 (NoADS) - 17.91 MB</String></Pair>
+			</Table>
+			<Table key="nopsn_downloader_US_mlbtv_2">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/nopsn_icons/mlbtv.png</String></Pair>
+				<Pair key="title"><String>MLB. TV</String></Pair>
+				<Pair key="info"><String>v6.13 - 18.92 MB</String></Pair>
+			</Table>
+			<Table key="nopsn_downloader_US_nhlgc">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/nopsn_icons/nhlgc.png</String></Pair>
+				<Pair key="title"><String>NHL Game Center</String></Pair>
+				<Pair key="info"><String>v5.88 - 29.18 MB (requires RAP file)</String></Pair>
+			</Table>
+			<Table key="nopsn_downloader_US_twitch">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/nopsn_icons/twitch.png</String></Pair>
+				<Pair key="title"><String>Twitch</String></Pair>
+				<Pair key="info"><String>v1.07 - 9.87 MB</String></Pair>
+			</Table>
+			<Table key="nopsn_downloader_US_youtube">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/nopsn_icons/youtube.png</String></Pair>
+				<Pair key="title"><String>YouTube</String></Pair>
+				<Pair key="info"><String>v1.12-v3.03 - 59.12 MB</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="nopsn_downloader_US_crunchyroll" 
+				attr="nopsn_downloader_US_crunchyroll"
+				src="nopsn_downloader_US_crunchyroll_link"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="nopsn_downloader_US_mlbtv_1" 
+				attr="nopsn_downloader_US_mlbtv_1"
+				src="nopsn_downloader_US_mlbtv_1_link"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="nopsn_downloader_US_mlbtv_2" 
+				attr="nopsn_downloader_US_mlbtv_2"
+				src="nopsn_downloader_US_mlbtv_2_link"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="nopsn_downloader_US_nhlgc" 
+				attr="nopsn_downloader_US_nhlgc"
+				src="nopsn_downloader_US_nhlgc_link"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="nopsn_downloader_US_twitch" 
+				attr="nopsn_downloader_US_twitch"
+				src="nopsn_downloader_US_twitch_link"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="nopsn_downloader_US_youtube" 
+				attr="nopsn_downloader_US_youtube"
+				src="nopsn_downloader_US_youtube_link"
+				/>
+		</Items>
+		</View>
+
+	<View id="nopsn_downloader_US_crunchyroll_link"> 
+		<Attributes> 
+			<Table key="nopsn_downloader_US_crunchyroll_link"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>https://www.dropbox.com/s/w4rccqd2z94wg5h/Crunchyroll-v1.29-%5BNPUP10027%5D-NoPSN-etHANol.pkg?dl=1</String></Pair> 
+				<Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/w4rccqd2z94wg5h/Crunchyroll-v1.29-%5BNPUP10027%5D-NoPSN-etHANol.pkg?dl=1</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>UP2074-NPUP10027_00-2012070500000001</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/crunchyroll.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="nopsn_downloader_US_crunchyroll_link" attr="nopsn_downloader_US_crunchyroll_link"/> 
+		</Items> 
+	</View> 	
+
+	<View id="nopsn_downloader_US_mlbtv_1_link"> 
+		<Attributes> 
+			<Table key="nopsn_downloader_US_mlbtv_1_link"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>https://www.dropbox.com/s/cisl7lsxwa8jjs8/MLB_tv-v2.95-%5BNPUP31353%5D-NoPSN-NoADS-etHANol.pkg?dl=1</String></Pair> 
+				<Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/cisl7lsxwa8jjs8/MLB_tv-v2.95-%5BNPUP31353%5D-NoPSN-NoADS-etHANol.pkg?dl=1</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>UP0181-NPUP31353_00-MLBTVPS3US000001</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/mlbtv.png</String></Pair>
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="nopsn_downloader_US_mlbtv_1_link" attr="nopsn_downloader_US_mlbtv_1_link"/> 
+		</Items> 
+	</View> 	
+
+	<View id="nopsn_downloader_US_mlbtv_2_link"> 
+		<Attributes> 
+			<Table key="nopsn_downloader_US_mlbtv_2_link"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>https://www.dropbox.com/s/oqidkkvlcxs4hr1/MLB_tv-v6.13-%5BNPUP00024%5D-NoPSN-etHANol.pkg?dl=1</String></Pair> 
+				<Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/oqidkkvlcxs4hr1/MLB_tv-v6.13-%5BNPUP00024%5D-NoPSN-etHANol.pkg?dl=1</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>UT0006-NPUP00024_00-MLBTVPS3STREAM01</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/mlbtv.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="nopsn_downloader_US_mlbtv_2_link" attr="nopsn_downloader_US_mlbtv_2_link"/> 
+		</Items> 
+	</View> 	
+
+	<View id="nopsn_downloader_US_nhlgc_link"> 
+		<Attributes> 
+			<Table key="nopsn_downloader_US_nhlgc_link"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>https://www.dropbox.com/s/a7938y4homg46y3/NHL-GameCenter-v5.88-%5BNPUP31340%5D-NoPSN-NoADS-etHANol.pkg?dl=1</String></Pair> 
+				<Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/a7938y4homg46y3/NHL-GameCenter-v5.88-%5BNPUP31340%5D-NoPSN-NoADS-etHANol.pkg?dl=1</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>UT0026-NPUP31340_00-NHLGAMECENTERPS3</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/nhlgc.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="nopsn_downloader_US_nhlgc_link" attr="nopsn_downloader_US_nhlgc_link"/> 
+		</Items> 
+	</View>
+
+	<View id="nopsn_downloader_US_twitch_link"> 
+		<Attributes> 
+			<Table key="nopsn_downloader_US_twitch_link"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>https://www.dropbox.com/s/i33c0cdpi6jbw5f/Twitch-v1.07-%5BNPUP31358%5D-NoPSN-etHANol.pkg?dl=1</String></Pair> 
+				<Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/i33c0cdpi6jbw5f/Twitch-v1.07-%5BNPUP31358%5D-NoPSN-etHANol.pkg?dl=1</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>UP8902-NPUP31358_00-TWITCHPS3APPSCEA</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/twitch.png</String></Pair>
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="nopsn_downloader_US_twitch_link" attr="nopsn_downloader_US_twitch_link"/> 
+		</Items> 
+	</View> 
+	
+	<View id="nopsn_downloader_US_youtube_link"> 
+		<Attributes> 
+			<Table key="nopsn_downloader_US_youtube_link"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>https://www.dropbox.com/s/4dniyean32d69gk/Youtube-v1.12-v3.03-Spoof-%5BNPUP10028%5D-NoPSN-etHANol.pkg?dl=1</String></Pair> 
+				<Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/4dniyean32d69gk/Youtube-v1.12-v3.03-Spoof-%5BNPUP10028%5D-NoPSN-etHANol.pkg?dl=1</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>UP2075-NPUP10028_00-YOUTUBE000000001</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/twitch.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="nopsn_downloader_US_youtube_link" attr="nopsn_downloader_US_youtube_link"/> 
+		</Items> 
+	</View> 
+		
+</XMBML>

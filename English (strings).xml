@@ -248,10 +248,6 @@
 	<Text name="han_toolbox_demos_hk">HK Demos</Text>
 	<Text name="han_toolbox_demos_jp">JP Demos</Text>
 	<Text name="han_toolbox_demos_us">US Demos</Text>
-	<Text name="han_toolbox_demos_eu_info">246 Available</Text>
-	<Text name="han_toolbox_demos_hk_info">50 Available</Text>
-	<Text name="han_toolbox_demos_jp_info">68 Available</Text>
-	<Text name="han_toolbox_demos_us_info">269 Available</Text>
 	<Text name="han_toolbox_demos_alpha">Sorted alphabetically</Text>
 	<Text name="han_toolbox_demos_genre">Sorted by genre</Text>
 	<Text name="han_toolbox_demos_score">Sorted by metascore</Text>*
@@ -283,27 +279,8 @@
 
 <!-- NoPSN Downloader -->
 
-	<Text name="han_toolbox_crunchyroll">Crunchyroll</Text>
-	<Text name="han_toolbox_crunchyroll_info">Download and install Crunchyroll (pkg)</Text>
-	<Text name="han_toolbox_mlbtv">MLB. TV</Text>
-	<Text name="han_toolbox_mlbtv_info">Download and install MLB. TV (pkg)</Text>
-	<Text name="han_toolbox_nhlgc">NHL Game Center</Text>
-	<Text name="han_toolbox_nhlgc_info">Download and install NHL Game Center (pkg)</Text>
-	<Text name="han_toolbox_pstore">PlayStation Store</Text>
-	<Text name="han_toolbox_pstore_info">Download and install PlayStation Store (pkg)</Text>
-	<Text name="han_toolbox_twitch">Twitch</Text>
-	<Text name="han_toolbox_twitch_info">Download and install Twitch (pkg)</Text>
-	<Text name="han_toolbox_youtube">YouTube</Text>
-	<Text name="han_toolbox_youtube_info">Download and install YouTube (pkg)</Text>
-	<Text name="han_toolbox_nopsn_eu_ver">EU Version</Text>
-	<Text name="han_toolbox_nopsn_hk_ver">HK Version</Text>
-	<Text name="han_toolbox_nopsn_jp_ver">JP Version</Text>
-	<Text name="han_toolbox_nopsn_us_ver">US Version</Text>
-	<Text name="han_toolbox_nopsn_eu_vers">EU Versions</Text>
-	<Text name="han_toolbox_nopsn_hk_vers">HK Versions</Text>
-	<Text name="han_toolbox_nopsn_jp_vers">JP Versions</Text>
-	<Text name="han_toolbox_nopsn_us_vers">US Versions</Text>
-	<Text name="han_toolbox_nopsn_eu_ver_rap">EU Version (requires RAP file)</Text>
-	<Text name="han_toolbox_nopsn_hk_ver_rap">HK Version (requires RAP file)</Text>
-	<Text name="han_toolbox_nopsn_jp_ver_rap">JP Version (requires RAP file)</Text>
-	<Text name="han_toolbox_nopsn_us_ver_rap">US Version (requires RAP file)</Text>
+	<Text name="han_toolbox_nopsn_eu_ver">EU Versions</Text>
+	<Text name="han_toolbox_nopsn_hk_ver">HK Versions</Text>
+	<Text name="han_toolbox_nopsn_jp_ver">JP Versions</Text>
+	<Text name="han_toolbox_nopsn_us_ver">US Versions</Text>
+	<Text name="han_toolbox_nopsn_int_ver">Internal Versions</Text>

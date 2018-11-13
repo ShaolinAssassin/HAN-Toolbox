@@ -7,7 +7,7 @@
 			<Table key="demo_downloader_C00_EU">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_demos_eu</String></Pair>
-				<Pair key="info_rsc"><String>han_toolbox_demos_eu</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_demos_eu_info</String></Pair>
 			</Table>
 			<Table key="demo_downloader_C00_HK">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
