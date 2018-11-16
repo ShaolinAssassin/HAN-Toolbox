@@ -4,7 +4,7 @@
 			
 	<View id="theme_downloader_ac_items">
 		<Attributes>
-			<Table key="item_item_0">
+			<Table key="item_0">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/theme_icons/007.png</String></Pair>
 				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
 				<Pair key="title"><String>007</String></Pair>
