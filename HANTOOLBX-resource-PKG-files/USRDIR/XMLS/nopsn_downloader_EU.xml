@@ -2,7 +2,7 @@
 
 	<!-- NoPSN Downloader Items EU  -->
 	
-		<View id="nopsn_downloader_EU_items">
+	<View id="nopsn_downloader_EU_items">
 		<Attributes>
 			<Table key="nopsn_downloader_EU_crunchyroll">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/nopsn_icons/crunchyroll.png</String></Pair>
@@ -51,7 +51,7 @@
 				src="nopsn_downloader_EU_youtube_link"
 				/>
 		</Items>
-		</View>
+	</View>
 
 	<View id="nopsn_downloader_EU_crunchyroll_link"> 
 		<Attributes> 

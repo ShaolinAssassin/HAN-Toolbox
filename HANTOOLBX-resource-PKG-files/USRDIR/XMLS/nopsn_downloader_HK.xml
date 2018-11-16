@@ -2,7 +2,7 @@
 
 	<!-- NoPSN Downloader Items HK  -->
 	
-		<View id="nopsn_downloader_HK_items">
+	<View id="nopsn_downloader_HK_items">
 		<Attributes>
 			<Table key="nopsn_downloader_HK_mlbtv">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/nopsn_icons/mlbtv.png</String></Pair>
@@ -34,7 +34,7 @@
 				src="nopsn_downloader_HK_twitch_link"
 				/>
 		</Items>
-		</View>
+	</View>
 
 	<View id="nopsn_downloader_HK_mlbtv_link"> 
 		<Attributes> 
