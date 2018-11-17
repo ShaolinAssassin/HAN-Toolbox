@@ -118,12 +118,6 @@
 				/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
-				key="han_external_content" 
-				attr="han_external_content"
-				src="#han_external_content_main"
-				/>
-			<Query 
-				class="type:x-xmb/folder-pixmap" 
 				key="pkg_linker" 
 				attr="pkg_linker"
 				src="#pkg_linker_items"
@@ -460,7 +454,7 @@
 		<View id="han_file_injector_items"> 
 		<Attributes>
 			<Table key="han_xreg_dumper_injector">
-				<Pair key="icon"><String>tex_searchf_status</String></Pair>
+				<Pair key="icon_rsc"><String>tex_searchf_status</String></Pair>
 				<Pair key="title"><String>xRegistry.sys Operations (Backup/Restore System Settings)</String></Pair>
 				<Pair key="info"><String>Dump and Inject xRegistry.sys</String></Pair>
 			</Table>
