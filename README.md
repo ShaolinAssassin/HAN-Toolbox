@@ -4,7 +4,8 @@
 * uses XMB default icons, 
 * no multi-language support, 
 * only includes basic PS3Xploit tools (using online site),
-* basic PKG Linker support, 
+* basic PKG Linker support,
+* no demo/nopsn/theme/wallpaper downloader support,
 * possibility to upgrade to Normal version.
 
 ## Lite Version (HANTOOLBX-LITE folder) :
@@ -12,11 +13,11 @@
 * no multi-language support, 
 * includes basic & advanced PS3Xploit tools (using online site and/or locally hosted via PKG Linker),
 * advanced PKG Linker support,
-* demo/nopsn/theme/wallpaper downloader support,
+* no demo/nopsn/theme/wallpaper downloader support,
 * possibility to upgrade to Normal version.
 
-## Normal Version (HANTOOLBX-main-PKG) :
-* uses custom XMB, 
+## Full Version (HANTOOLBX-main-PKG folder) :
+* uses custom XMB icons, 
 * multi-language support, 
 * includes basic & advanced PS3Xploit tools (using online site and/or locally hosted via PKG Linker),
 * advanced PKG Linker support,
