@@ -1,0 +1,918 @@
+<XMBML version="1.0">
+
+<!-- HAN Toolbox v0.5 stripped -->
+
+	<View id="han_toolbox_xmb_main"> 
+		<Attributes> 
+			<Table key="han_main">
+				<Pair key="icon_rsc"><String>tex_album_icon</String></Pair>
+				<Pair key="icon_notation"><String>WNT_XmbItemAlbum</String></Pair>
+				<Pair key="title"><String>★ HAN Toolbox</String></Pair>
+				<Pair key="info"><String>The Xploit 3.0 Companion</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+			</Table>
+		</Attributes>
+			<Items>
+			<Query 
+				class="type:x-xmb/folder-pixmap"
+				key="han_main"
+				attr="han_main"
+				src="#han_main_items"/>
+			</Items>
+		</View>
+		
+	<View id="han_toolbox_xmb_main_dex"> 
+		<Attributes> 
+			<Table key="han_main">
+				<Pair key="icon_rsc"><String>tex_album_icon</String></Pair>
+				<Pair key="icon_notation"><String>WNT_XmbItemAlbum</String></Pair>
+				<Pair key="title"><String>★ HAN Toolbox</String></Pair>
+				<Pair key="info"><String>The Xploit 3.0 Companion (DEX)</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+			</Table>
+		</Attributes>
+			<Items>
+			<Query 
+				class="type:x-xmb/folder-pixmap"
+				key="han_main"
+				attr="han_main"
+				src="#han_main_items_dex"/>
+			</Items>
+		</View>
+		
+<!-- Main Items CEX -->
+		
+		<View id="han_main_items"> 
+		<Attributes> 
+			<Table key="han_reboot_soft">
+				<Pair key="icon_rsc"><String>tex_repeat_status</String></Pair>
+				<Pair key="title"><String>Soft Reboot</String></Pair>
+				<Pair key="info"><String>Restart console</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://ps3xploit.com/autoxml/pett/syscalls/soft_reboot.html</String></Pair>
+			</Table>
+			<Table key="han_enabler_auto_main">
+				<Pair key="icon_rsc"><String>item_tex_cam_icon</String></Pair>
+				<Pair key="title"><String>HAN Enabler</String></Pair>
+				<Pair key="info"><String>Enable custom signed packages and licenses (CEX)</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://ps3xploit.com/autoxml/han/han_enabler_auto.html</String></Pair>
+			</Table>
+			<Table key="han_functions">
+				<Pair key="icon_rsc"><String>tex_album_icon</String></Pair>
+				<Pair key="title"><String>HAN Functions</String></Pair>
+				<Pair key="info"><String>Autorun HAN functions (Official site)</String></Pair>
+			</Table>
+			<Table key="han_functions_local">
+				<Pair key="icon_rsc"><String>tex_album_icon</String></Pair>
+				<Pair key="title"><String>Offline HAN Functions</String></Pair>
+				<Pair key="info"><String>Autorun HAN functions (Locally hosted via PKG Linker)</String></Pair>
+			</Table>
+			<Table key="han_external_content">
+				<Pair key="icon_rsc"><String>item_tex_dlna_default</String></Pair>
+				<Pair key="title"><String>External Content</String></Pair>
+				<Pair key="info"><String>Download and install content from remote servers</String></Pair>
+			</Table>
+			<Table key="han_advanced_menu">
+				<Pair key="icon_rsc"><String>tex_album_icon</String></Pair>
+				<Pair key="title"><String>Advanced Tools</String></Pair>
+				<Pair key="info"><String>Be careful with items in here</String></Pair>
+			</Table>
+		</Attributes>
+			<Items>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_reboot_soft"
+				attr="han_reboot_soft"
+				/>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_enabler_auto_main"
+				attr="han_enabler_auto_main"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_functions" 
+				attr="han_functions"
+				src="#han_functions_main"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_functions_local" 
+				attr="han_functions_local"
+				src="xmb://localhost/dev_hdd0/game/PKGLINKER/USRDIR/local_ps3xploit.xml#han_functions_local_items"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_external_content" 
+				attr="han_external_content"
+				src="#han_external_content_main"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_advanced_menu" 
+				attr="han_advanced_menu"
+				src="#han_advanced_menu_main"
+				/>
+			</Items>
+		</View>
+		
+<!-- Main Items DEX -->
+		
+		<View id="han_main_items_dex"> 
+		<Attributes> 
+			<Table key="han_reboot_soft_dex">
+				<Pair key="icon_rsc"><String>tex_repeat_status</String></Pair>
+				<Pair key="title"><String>Soft Reboot</String></Pair>
+				<Pair key="info"><String>Restart console</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://ps3xploit.com/autoxml/pett/syscalls/soft_reboot_dex.html</String></Pair>
+			</Table>
+			<Table key="han_enabler_auto_main_dex">
+				<Pair key="icon_rsc"><String>item_tex_cam_iconhan_enable</String></Pair>
+				<Pair key="title"><String>HAN Enabler</String></Pair>
+				<Pair key="info"><String>Enable custom signed packages and licenses (DEX)</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://ps3xploit.com/autoxml/han/han_enabler_auto_dex.html</String></Pair>
+			</Table>
+			<Table key="han_functions_dex">
+				<Pair key="icon_rsc"><String>tex_album_icon</String></Pair>
+				<Pair key="title"><String>HAN Functions</String></Pair>
+				<Pair key="info"><String>Autorun HAN Functions for DEX Firmware/Hybrid</String></Pair>
+			</Table>
+			<Table key="han_functions_local">
+				<Pair key="icon_rsc"><String>tex_album_icon</String></Pair>
+				<Pair key="title"><String>Offline HAN Functions</String></Pair>
+				<Pair key="info"><String>Autorun HAN functions (Locally hosted via PKG Linker)</String></Pair>
+			</Table>
+			<Table key="han_external_content">
+				<Pair key="icon_rsc"><String>item_tex_dlna_default</String></Pair>
+				<Pair key="title"><String>External Content</String></Pair>
+				<Pair key="info"><String>Download and install content from remote servers</String></Pair>
+			</Table>
+			<Table key="han_advanced_menu">
+				<Pair key="icon_rsc"><String>tex_album_icon</String></Pair>
+				<Pair key="title"><String>Advanced Tools</String></Pair>
+				<Pair key="info"><String>Be careful with items in here</String></Pair>
+			</Table>
+		</Attributes>
+			<Items>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_reboot_soft_dex"
+				attr="han_reboot_soft_dex"
+				/>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_enabler_auto_main_dex"
+				attr="han_enabler_auto_main_dex"
+				/> 
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_functions_dex" 
+				attr="han_functions_dex"
+				src="#han_functions_dex_main"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_functions_local" 
+				attr="han_functions_local"
+				src="xmb://localhost/dev_hdd0/game/PKGLINKER/USRDIR/local_ps3xploit_dex.xml#han_functions_local_items"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_external_content" 
+				attr="han_external_content"
+				src="#han_external_content_main"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_advanced_menu" 
+				attr="han_advanced_menu"
+				src="#han_advanced_menu_main"
+				/>
+			</Items>
+		</View>
+		
+<!-- Advanced Submenu -->
+		
+		<View id="han_advanced_menu_main"> 
+		<Attributes> 
+			<Table key="han_file_browser">
+				<Pair key="icon_rsc"><String>tex_album_icon</String></Pair>
+				<Pair key="title"><String>File Explorer</String></Pair>
+				<Pair key="info"><String>Browse complete file system and delete files (Be careful)</String></Pair>
+			</Table>
+			<Table key="han_file_injector">
+				<Pair key="icon_rsc"><String>tex_album_icon</String></Pair>
+				<Pair key="title"><String>File Injector</String></Pair>
+				<Pair key="info"><String>Use for adding XMB mods to flash or other file operations (Be careful)</String></Pair>
+			</Table>
+			<Table key="han_dex_settings_injector">
+				<Pair key="icon_rsc"><String>tex_album_icon</String></Pair>
+				<Pair key="title"><String>DEX XMB Setup</String></Pair>
+				<Pair key="info"><String>Add/Remove DEX settings etc (Be careful)</String></Pair>
+			</Table>
+			<Table key="han_toolbox_setup">
+				<Pair key="icon_rsc"><String>tex_album_icon</String></Pair>
+				<Pair key="title"><String>Toolbox Settings</String></Pair>
+				<Pair key="info"><String>Version info, Resource download, Updates</String></Pair>
+			</Table>
+		</Attributes>
+			<Items>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_file_injector"
+				attr="han_file_injector" 				
+				src="#han_file_injector_items"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_dex_settings_injector"
+				attr="han_dex_settings_injector" 				
+				src="#han_dex_settings_injector_items"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_file_browser"
+				attr="han_file_browser" 				
+				src="host://localhost/"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_toolbox_setup" 
+				attr="han_toolbox_setup"
+				src="#han_toolbox_setup_main"
+				/>
+			</Items>
+		</View>
+		
+<!-- Main HAN functions Online CEX -->
+		
+		<View id="han_functions_main"> 
+		<Attributes> 
+			<Table key="han_reboot_soft_auto">
+				<Pair key="icon_rsc"><String>tex_repeat_status</String></Pair>
+				<Pair key="title"><String>Soft Reboot</String></Pair>
+				<Pair key="info"><String>Restart console</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://www.ps3xploit.com/autoxml/pett/syscalls/power/soft_reboot.html</String></Pair>
+			</Table>
+			<Table key="han_reboot_hard_auto">
+				<Pair key="icon_rsc"><String>tex_repeat_status</String></Pair>
+				<Pair key="title"><String>Hard Reboot</String></Pair>
+				<Pair key="info"><String>Restart console</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://www.ps3xploit.com/autoxml/pett/syscalls/power/hard_reboot.html</String></Pair>
+			</Table>
+			<Table key="han_shutdown_auto">
+				<Pair key="icon_rsc"><String>tex_stop_status</String></Pair>
+				<Pair key="title"><String>Shutdown</String></Pair>
+				<Pair key="info"><String>Turn off console</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://www.ps3xploit.com/autoxml/pett/syscalls/power/power_down.html </String></Pair>
+			</Table>
+			<Table key="han_enabler_auto">
+				<Pair key="icon_rsc"><String>item_tex_cam_icon</String></Pair>
+				<Pair key="title"><String>HAN Enabler</String></Pair>
+				<Pair key="info"><String>Enable custom signed packages and licenses</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://ps3xploit.com/autoxml/han/han_enabler_auto.html</String></Pair>
+			</Table>
+			<Table key="han_installer_auto">
+				<Pair key="icon_rsc"><String>item_tex_cam_icon</String></Pair>
+				<Pair key="title"><String>HAN Installer</String></Pair>
+				<Pair key="info"><String>Enable package manager</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://ps3xploit.com/autoxml/han/han_installer_auto.html</String></Pair>
+			</Table>
+			<Table key="han_license_dumper_auto">
+				<Pair key="icon_rsc"><String>item_tex_cam_icon</String></Pair>
+				<Pair key="title"><String>License Dumper</String></Pair>
+				<Pair key="info"><String>Dump activation data (act.dat+idps)</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://ps3xploit.com/autoxml/han/actidps_dumper_auto.html</String></Pair>
+			</Table>
+			<Table key="han_injector_auto">
+				<Pair key="icon_rsc"><String>item_tex_cam_icon</String></Pair>
+				<Pair key="title"><String>Act.dat Injector</String></Pair>
+				<Pair key="info"><String>Auto running injector Xploit useful for act.dat</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://ps3xploit.com/autoxml/han/actrif_copier_auto.html</String></Pair>
+			</Table>
+			<Table key="han_debug_auto">
+				<Pair key="icon_rsc"><String>item_tex_cam_icon</String></Pair>
+				<Pair key="title"><String>Debug Package Enabler</String></Pair>
+				<Pair key="info"><String>For modifed retail PS3 packages only</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://ps3xploit.com/autoxml/han/dbgpkg_enabler_auto.html</String></Pair>
+			</Table>
+		</Attributes>
+			<Items>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_reboot_soft_auto"
+				attr="han_reboot_soft_auto"
+				/>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_reboot_hard_auto"
+				attr="han_reboot_hard_auto"
+				/>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_shutdown_auto"
+				attr="han_shutdown_auto"
+				/>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_enabler_auto"
+				attr="han_enabler_auto"
+				/>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_installer_auto"
+				attr="han_installer_auto"
+				/>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_license_dumper_auto"
+				attr="han_license_dumper_auto"
+				/>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_injector_auto"
+				attr="han_injector_auto"
+				/>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_debug_auto"
+				attr="han_debug_auto"
+				/>
+			</Items>
+		</View>
+		
+<!-- Main HAN functions Online DEX -->
+		
+		<View id="han_functions_dex_main"> 
+		<Attributes> 
+			<Table key="han_reboot_soft_auto_dex">
+				<Pair key="icon_rsc"><String>tex_repeat_status</String></Pair>
+				<Pair key="title"><String>Soft Reboot</String></Pair>
+				<Pair key="info"><String>Restart Console</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://ps3xploit.com/autoxml/pett/syscalls/soft_reboot_dex.html</String></Pair>
+			</Table>
+			<Table key="han_reboot_hard_auto_dex">
+				<Pair key="icon_rsc"><String>tex_repeat_status</String></Pair>
+				<Pair key="title"><String>Hard Reboot</String></Pair>
+				<Pair key="info"><String>Restart Console</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://ps3xploit.com/autoxml/pett/syscalls/hard_reboot_dex.html</String></Pair>
+			</Table>
+			<Table key="han_shutdown_auto_dex">
+				<Pair key="icon_rsc"><String>tex_stop_status</String></Pair>
+				<Pair key="title"><String>Shutdown</String></Pair>
+				<Pair key="info"><String>Turn Off Console</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://ps3xploit.com/autoxml/pett/syscalls/power_down_dex.html</String></Pair>
+			</Table>
+			<Table key="han_enabler_auto_dex">
+				<Pair key="icon_rsc"><String>item_tex_cam_icon</String></Pair>
+				<Pair key="title"><String>HAN Enabler</String></Pair>
+				<Pair key="info"><String>Enable Custom Signed Packages and Licenses</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://ps3xploit.com/autoxml/han/han_enabler_auto_dex.html</String></Pair>
+			</Table>
+			<Table key="han_license_dumper_auto_dex">
+				<Pair key="icon_rsc"><String>item_tex_cam_icon</String></Pair>
+				<Pair key="title"><String>License Dumper</String></Pair>
+				<Pair key="info"><String>Dump Activation Data (act.dat/idps)</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://ps3xploit.com/autoxml/han/actidps_dumper_auto_dex.html</String></Pair>
+			</Table>
+			<Table key="han_injector_auto_dex">
+				<Pair key="icon_rsc"><String>item_tex_cam_icon</String></Pair>
+				<Pair key="title"><String>License Injector</String></Pair>
+				<Pair key="info"><String>Inject Custom Signed Activation Data (act.dat)</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://ps3xploit.com/autoxml/han/actrif_copier_auto_dex.html</String></Pair>
+			</Table>
+		</Attributes>
+			<Items>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_reboot_soft_auto_dex"
+				attr="han_reboot_soft_auto_dex"
+				/>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_reboot_hard_auto_dex"
+				attr="han_reboot_hard_auto_dex"
+				/>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_shutdown_auto_dex"
+				attr="han_shutdown_auto_dex"
+				/>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_enabler_auto_dex"
+				attr="han_enabler_auto_dex"
+				/>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_license_dumper_auto_dex"
+				attr="han_license_dumper_auto_dex"
+				/>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_injector_auto_dex"
+				attr="han_injector_auto_dex"
+				/>
+			</Items>
+		</View>
+		
+<!-- File injector Online -->
+		
+		<View id="han_file_injector_items"> 
+		<Attributes> 
+			<Table key="han_inject_coldboot_raf">
+				<Pair key="icon_rsc"><String>tex_searchf_status</String></Pair>
+				<Pair key="title"><String>Inject Coldboots (Boot Logo and Sound)</String></Pair>
+				<Pair key="info"><String>Copy coldboot_*.* to dev_flash/vsh/resource/coldboot_*.*</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://ps3xploit.com/coldboot/coldboot-installer.html</String></Pair>
+			</Table>
+			<Table key="han_inject_rco">
+				<Pair key="icon_rsc"><String>tex_searchf_status</String></Pair>
+				<Pair key="title"><String>Inject RCO (System Resource)</String></Pair>
+				<Pair key="info"><String>Copy *.rco to dev_flash/vsh/resource/*.rco</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://ps3xploit.com/flash_rco_replacer/flash_rco_replacer.html</String></Pair>
+			</Table>
+			<Table key="han_inject_xml">
+				<Pair key="icon_rsc"><String>tex_searchf_status</String></Pair>
+				<Pair key="title"><String>Inject XML (XMB Layout)</String></Pair>
+				<Pair key="info"><String>Copy *.xml to dev_flash/vsh/resource/explore/xmb/*.xml</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://ps3xploit.com/flash_xml_replacer/flash_xml_replacer.html</String></Pair>
+			</Table>
+			<Table key="han_inject_self">
+				<Pair key="icon_rsc"><String>tex_searchf_status</String></Pair>
+				<Pair key="title"><String>Inject SELF (Modules)</String></Pair>
+				<Pair key="info"><String>Copy *.self to dev_flash/vsh/*/*.self</String></Pair>
+			</Table>
+			<Table key="han_inject_sprx">
+				<Pair key="icon_rsc"><String>tex_searchf_status</String></Pair>
+				<Pair key="title"><String>Inject SPRX (VSH Modules)</String></Pair>
+				<Pair key="info"><String>Copy *.sprx to dev_flash/vsh/module/*.sprx</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://ps3xploit.com/flash_sprx_replacer/flash_sprx_replacer_module.html</String></Pair>
+			</Table>
+			<Table key="han_inject_sprx_int">
+				<Pair key="icon_rsc"><String>tex_searchf_status</String></Pair>
+				<Pair key="title"><String>Inject SPRX (Internal Library)</String></Pair>
+				<Pair key="info"><String>Copy *.sprx to dev_flash/sys/internal/*.sprx</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://ps3xploit.com/flash_sprx_replacer/flash_sprx_replacer_sys_internal.html</String></Pair>
+			</Table>
+			<Table key="han_inject_sprx_ext">
+				<Pair key="icon_rsc"><String>tex_searchf_status</String></Pair>
+				<Pair key="title"><String>Inject SPRX (External Library)</String></Pair>
+				<Pair key="info"><String>Copy *.sprx to dev_flash/sys/external/*.sprx</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://ps3xploit.com/flash_sprx_replacer/flash_sprx_replacer_sys_external.html</String></Pair>
+			</Table>
+			<Table key="han_inject_lines">
+				<Pair key="icon_rsc"><String>tex_searchf_status</String></Pair>
+				<Pair key="title"><String>Inject Lines.qrc (Wave)</String></Pair>
+				<Pair key="info"><String>Copy lines.qrc to dev_flash/vsh/resource/qgl/lines.qrc</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://ps3xploit.com/wave/xmb_wave_installer.html</String></Pair>
+			</Table>
+			<Table key="han_inject_imagefont">
+				<Pair key="icon_rsc"><String>tex_searchf_status</String></Pair>
+				<Pair key="title"><String>Inject Imagefont.bin (Emojis and Icons)</String></Pair>
+				<Pair key="info"><String>Copy imagefont.bin to dev_flash/vsh/resource/imagefont.bin</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://ps3xploit.com/imagefont/imagefont_replacer.html</String></Pair>
+			</Table>
+			<Table key="han_inject_font">
+				<Pair key="icon_rsc"><String>tex_searchf_status</String></Pair>
+				<Pair key="title"><String>Inject TTF (Font)</String></Pair>
+				<Pair key="info"><String>Copy *.ttf to dev_flash/data/font/*.ttf</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://ps3xploit.com/flash_font_replacer/flash_font_replacer.html</String></Pair>
+			</Table>
+			<Table key="han_inject_remove_cert">
+				<Pair key="icon_rsc"><String>tex_searchf_status</String></Pair>
+				<Pair key="title"><String>Inject / Remove Cert (SSL Cert)</String></Pair>
+				<Pair key="info"><String>Copy / Delete certs at dev_flash/data/cert/*.cer</String></Pair>
+			</Table>
+		</Attributes>
+			<Items>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_inject_coldboot_raf"
+				attr="han_inject_coldboot_raf"
+				/>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_inject_rco"
+				attr="han_inject_rco"
+				/>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_inject_xml"
+				attr="han_inject_xml"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_inject_self"
+				attr="han_inject_self"
+				src="#han_inject_self_items"
+				/>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_inject_sprx"
+				attr="han_inject_sprx"
+				/>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_inject_sprx_int"
+				attr="han_inject_sprx_int"
+				/>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_inject_sprx_ext"
+				attr="han_inject_sprx_ext"
+				/>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_inject_lines"
+				attr="han_inject_lines"
+				/>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_inject_imagefont"
+				attr="han_inject_imagefont"
+				/>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_inject_font"
+				attr="han_inject_font"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_inject_remove_cert"
+				attr="han_inject_remove_cert"
+				src="#han_inject_remove_cert_items"
+				/>
+			</Items>
+		</View>
+		
+<!-- File injector Self Submenu -->
+		
+		<View id="han_inject_self_items"> 
+		<Attributes> 
+			<Table key="han_inject_self_main">
+				<Pair key="icon_rsc"><String>tex_searchf_status</String></Pair>
+				<Pair key="title"><String>Inject SELF (Main)</String></Pair>
+				<Pair key="info"><String>Copy *.self to dev_flash/vsh/module/*.self</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://www.ps3xploit.com/flash_self_replacer/flash_self_replacer_vsh_module.html</String></Pair>
+			</Table>
+			<Table key="han_inject_self_ps1">
+				<Pair key="icon_rsc"><String>tex_searchf_status</String></Pair>
+				<Pair key="title"><String>Inject SELF (PS1 Emulator)</String></Pair>
+				<Pair key="info"><String>Copy *.self to dev_flash/ps1emu/*.self</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://www.ps3xploit.com/flash_self_replacer/flash_self_replacer_ps1emu.html</String></Pair>
+			</Table>
+			<Table key="han_inject_self_ps2">
+				<Pair key="icon_rsc"><String>tex_searchf_status</String></Pair>
+				<Pair key="title"><String>Inject SELF (PS2 Emulator)</String></Pair>
+				<Pair key="info"><String>Copy *.self to dev_flash/ps2emu/*.self</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://www.ps3xploit.com/flash_self_replacer/flash_self_replacer_ps2emu.html</String></Pair>
+			</Table>
+			<Table key="han_inject_self_psp">
+				<Pair key="icon_rsc"><String>tex_searchf_status</String></Pair>
+				<Pair key="title"><String>Inject SELF (PSP Emulator)</String></Pair>
+				<Pair key="info"><String>Copy *.self to dev_flash/pspemu/*.self</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://www.ps3xploit.com/flash_self_replacer/flash_self_replacer_pspemu.html</String></Pair>
+			</Table>
+			<Table key="han_inject_self_bd">
+				<Pair key="icon_rsc"><String>tex_searchf_status</String></Pair>
+				<Pair key="title"><String>Inject SELF (BD Player)</String></Pair>
+				<Pair key="info"><String>Copy *.self to dev_flash/bdplayer/*.self</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://www.ps3xploit.com/flash_self_replacer/flash_self_replacer_bdplayer.html</String></Pair>
+			</Table>
+		</Attributes>
+			<Items>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_inject_self_main"
+				attr="han_inject_self_main"
+				/>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_inject_self_ps1"
+				attr="han_inject_self_ps1"
+				/>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_inject_self_ps2"
+				attr="han_inject_self_ps2"
+				/>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_inject_self_psp"
+				attr="han_inject_self_psp"
+				/>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_inject_self_bd"
+				attr="han_inject_self_bd"
+				/>
+			</Items>
+		</View>
+		
+<!-- File inejctor Cert Submenu -->
+		
+		<View id="han_inject_remove_cert_items"> 
+		<Attributes> 
+			<Table key="han_inject_cert">
+				<Pair key="icon_rsc"><String>tex_searchf_status</String></Pair>
+				<Pair key="title"><String>Inject Cert (SSL Cert)</String></Pair>
+				<Pair key="info"><String>Copy certs to dev_flash/data/cert/*.cer</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://ps3xploit.com/ssl_cert_injector_remover/ssl_cert_injector.html</String></Pair>
+			</Table>
+			<Table key="han_remove_cert">
+				<Pair key="icon_rsc"><String>tex_searchf_status</String></Pair>
+				<Pair key="title"><String>Remove Cert (SSL Cert)</String></Pair>
+				<Pair key="info"><String>Delete certs from dev_flash/data/cert/*.cer</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://ps3xploit.com/ssl_cert_injector_remover/ssl_cert_remover.html</String></Pair>
+			</Table>
+		</Attributes>
+			<Items>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_inject_cert"
+				attr="han_inject_cert"
+				/>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_remove_cert"
+				attr="han_remove_cert"
+				/>
+			</Items>
+		</View>
+		
+<!-- Debug Settings injector menu -->
+		
+		<View id="han_dex_settings_injector_items"> 
+		<Attributes> 
+			<Table key="han_download_dex_files">
+				<Pair key="icon_rsc"><String>tex_Avatar_Default</String></Pair>
+				<Pair key="title"><String>Step 1: Download DEX Files (Debug)</String></Pair>
+				<Pair key="info"><String>Download DEX 4.82 files to HANTOOLBX/USRDIR/files/ ready for installation</String></Pair>
+			</Table>
+			<Table key="han_download_cex_files">
+				<Pair key="icon_rsc"><String>tex_Avatar_Default</String></Pair>
+				<Pair key="title"><String>Step 1: Download CEX Files (Retail)</String></Pair>
+				<Pair key="info"><String>Download CEX 4.82 files to HANTOOLBX/USRDIR/files/ ready for installation</String></Pair>
+			</Table>
+			<Table key="han_debug_settings_installer">
+				<Pair key="icon_rsc"><String>item_tex_cam_icon</String></Pair>
+				<Pair key="title"><String>Step 2: Debug Settings Installer / Remover</String></Pair>
+				<Pair key="info"><String>Copy downloaded files from HANTOOLBX/USRDIR/files/ to dev_flash</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://ps3xploit.com/debug_settings_installer/debug_settings_installer.html</String></Pair>
+			</Table>
+			<Table key="han_debug_settings_swapper">
+				<Pair key="icon_rsc"><String>item_tex_cam_icon</String></Pair>
+				<Pair key="title"><String>Toggle Debug Settings</String></Pair>
+				<Pair key="info"><String>Copy downloaded sysconf_plugin.sprx from HANTOOLBX/USRDIR/files to dev_flash</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://ps3xploit.com/debug_settings_installer/debug_settings_swapper.html</String></Pair>
+			</Table>
+			<Table key="han_debug_plugin_swapper">
+				<Pair key="icon_rsc"><String>item_tex_cam_icon</String></Pair>
+				<Pair key="title"><String>Toggle IP/Host info</String></Pair>
+				<Pair key="info"><String>Copy downloaded xmb_plugin.sprx from HANTOOLBX/USRDIR/files/ to dev_flash</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://ps3xploit.com/debug_settings_installer/xmb_plugin_swapper.html</String></Pair>
+			</Table>
+		</Attributes>
+			<Items>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_download_dex_files" 
+				attr="han_download_dex_files"
+				src="#han_download_dex_files_main"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_download_cex_files" 
+				attr="han_download_cex_files"
+				src="#han_download_cex_files_main"
+				/>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_debug_settings_installer"
+				attr="han_debug_settings_installer"
+				/>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_debug_settings_swapper"
+				attr="han_debug_settings_swapper"
+				/>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_debug_plugin_swapper"
+				attr="han_debug_plugin_swapper"
+				/>
+			</Items>
+		</View>
+		
+<!-- Debug Settings File Downloader -->
+		
+		<View id="han_download_dex_files_main">
+		<Attributes>
+			<Table key="han_download_dex_files_item">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://dl.dropboxusercontent.com/s/j0pj2n8rgvkxerc/DEX_Settings_Files.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://dl.dropboxusercontent.com/s/j0pj2n8rgvkxerc/DEX_Settings_Files.pkg</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_flash/vsh/resource/explore/icon/fah-xmb.png</String></Pair>
+ 			</Table> 
+		</Attributes> 
+			<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="han_download_dex_files_item" attr="han_download_dex_files_item"/>
+		</Items> 
+		</View> 
+		
+		<View id="han_download_cex_files_main">
+		<Attributes>
+			<Table key="han_download_cex_files_item">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://dl.dropboxusercontent.com/s/vo8l4x91jqepykq/CEX_Settings_Files.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://dl.dropboxusercontent.com/s/vo8l4x91jqepykq/CEX_Settings_Files.pkg</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_flash/vsh/resource/explore/icon/fah-xmb.png</String></Pair>
+ 			</Table> 
+		</Attributes> 
+			<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="han_download_cex_files_item" attr="han_download_cex_files_item"/>
+		</Items> 
+		</View> 
+		
+<!-- External Content Submenu -->
+			
+		<View id="han_external_content_main"> 
+		<Attributes> 
+			<Table key="pkg_linker">
+				<Pair key="icon_rsc"><String>bddata_tex_album_default</String></Pair>
+				<Pair key="title"><String>Install Packages From Webserver</String></Pair>
+				<Pair key="info"><String>Download and install packages from your PC via PKG Linker (pkg)</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_content</String></Pair>
+				<Pair key="child"><String>segment</String></Pair>
+			</Table>
+			<Table key="demo_downloader_main">
+				<Pair key="icon_rsc"><String>bddata_tex_album_default</String></Pair>
+				<Pair key="title"><String>Demo Downloader</String></Pair>
+				<Pair key="info"><String>Try PSN games before you buy with demo downloader (pkg)</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_content</String></Pair>
+			</Table>
+			<Table key="theme_downloader">
+				<Pair key="icon_rsc"><String>video_tex_album_default</String></Pair>
+				<Pair key="title"><String>Theme Downloader</String></Pair>
+				<Pair key="info"><String>Download and install themes (p3t)</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_content</String></Pair>
+			</Table>
+			<Table key="wallpaper_downloader">
+				<Pair key="icon_rsc"><String>photo_tex_album_default</String></Pair>
+				<Pair key="title"><String>Wallpaper Downloader</String></Pair>
+				<Pair key="info"><String>Preview and download backgrounds (jpg)</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_content</String></Pair>
+
+			</Table>
+		</Attributes>
+			<Items>
+				<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="pkg_linker" 
+				attr="pkg_linker"
+				src="#pkg_linker_items"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="demo_downloader_main"
+				attr="demo_downloader_main" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/demo_downloader.xml#demo_downloader_items"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="theme_downloader" 
+				attr="theme_downloader"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/theme_downloader.xml#theme_downloader_items"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="wallpaper_downloader"
+				attr="wallpaper_downloader"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/wallpaper_downloader.xml#wallpaper_downloader_items"
+				/>
+			</Items>
+		</View>		
+		
+<!-- PKG Linker 2.1+ Paths -->
+		
+		<View id="pkg_linker_items"> 
+			<Items>
+			<Query class="type:x-xmb/folder-pixmap" key="server_setup" attr="server_setup" src="xmb://localhost/dev_hdd0/game/PKGLINKER/USRDIR/server_setup.xml#server_setup_items"/>
+			
+			<Query class="type:x-xmb/folder-pixmap" key="pkg_folder_1" attr="pkg_folder_1" src="xmb://localhost/dev_hdd0/game/PKGLINKER/USRDIR/pkg_folder_1.xml#package_link_game"/>
+			<Query class="type:x-xmb/folder-pixmap" key="pkg_folder_2" attr="pkg_folder_2" src="xmb://localhost/dev_hdd0/game/PKGLINKER/USRDIR/pkg_folder_2.xml#package_link_game"/>
+			<Query class="type:x-xmb/folder-pixmap" key="pkg_folder_3" attr="pkg_folder_3" src="xmb://localhost/dev_hdd0/game/PKGLINKER/USRDIR/pkg_folder_3.xml#package_link_game"/>
+			<Query class="type:x-xmb/folder-pixmap" key="pkg_folder_4" attr="pkg_folder_4" src="xmb://localhost/dev_hdd0/game/PKGLINKER/USRDIR/pkg_folder_4.xml#package_link_game"/>
+			<Query class="type:x-xmb/folder-pixmap" key="pkg_folder_5" attr="pkg_folder_5" src="xmb://localhost/dev_hdd0/game/PKGLINKER/USRDIR/pkg_folder_5.xml#package_link_game"/>
+			<Query class="type:x-xmb/folder-pixmap" key="pkg_folder_6" attr="pkg_folder_6" src="xmb://localhost/dev_hdd0/game/PKGLINKER/USRDIR/pkg_folder_6.xml#package_link_game"/>
+			<Query class="type:x-xmb/folder-pixmap" key="pkg_folder_7" attr="pkg_folder_7" src="xmb://localhost/dev_hdd0/game/PKGLINKER/USRDIR/pkg_folder_7.xml#package_link_game"/>
+			<Query class="type:x-xmb/folder-pixmap" key="pkg_folder_8" attr="pkg_folder_8" src="xmb://localhost/dev_hdd0/game/PKGLINKER/USRDIR/pkg_folder_8.xml#package_link_game"/>
+			<Query class="type:x-xmb/folder-pixmap" key="pkg_folder_9" attr="pkg_folder_9" src="xmb://localhost/dev_hdd0/game/PKGLINKER/USRDIR/pkg_folder_9.xml#package_link_game"/> 
+			<Query class="type:x-xmb/folder-pixmap" key="pkg_folder_10" attr="pkg_folder_10" src="xmb://localhost/dev_hdd0/game/PKGLINKER/USRDIR/pkg_folder_10.xml#package_link_game"/>
+			<Query class="type:x-xmb/folder-pixmap" key="pkg_folder_11" attr="pkg_folder_11" src="xmb://localhost/dev_hdd0/game/PKGLINKER/USRDIR/pkg_folder_11.xml#package_link_game"/>
+			<Query class="type:x-xmb/folder-pixmap" key="pkg_folder_12" attr="pkg_folder_12" src="xmb://localhost/dev_hdd0/game/PKGLINKER/USRDIR/pkg_folder_12.xml#package_link_game"/>
+			<Query class="type:x-xmb/folder-pixmap" key="pkg_folder_13" attr="pkg_folder_13" src="xmb://localhost/dev_hdd0/game/PKGLINKER/USRDIR/pkg_folder_13.xml#package_link_game"/>
+			<Query class="type:x-xmb/folder-pixmap" key="pkg_folder_14" attr="pkg_folder_14" src="xmb://localhost/dev_hdd0/game/PKGLINKER/USRDIR/pkg_folder_14.xml#package_link_game"/>
+			<Query class="type:x-xmb/folder-pixmap" key="pkg_folder_15" attr="pkg_folder_15" src="xmb://localhost/dev_hdd0/game/PKGLINKER/USRDIR/pkg_folder_15.xml#package_link_game"/>
+			<Query class="type:x-xmb/folder-pixmap" key="pkg_folder_16" attr="pkg_folder_16" src="xmb://localhost/dev_hdd0/game/PKGLINKER/USRDIR/pkg_folder_16.xml#package_link_game"/>
+			<Query class="type:x-xmb/folder-pixmap" key="pkg_folder_17" attr="pkg_folder_17" src="xmb://localhost/dev_hdd0/game/PKGLINKER/USRDIR/pkg_folder_17.xml#package_link_game"/>
+			<Query class="type:x-xmb/folder-pixmap" key="pkg_folder_18" attr="pkg_folder_18" src="xmb://localhost/dev_hdd0/game/PKGLINKER/USRDIR/pkg_folder_18.xml#package_link_game"/>
+			<Query class="type:x-xmb/folder-pixmap" key="pkg_folder_19" attr="pkg_folder_19" src="xmb://localhost/dev_hdd0/game/PKGLINKER/USRDIR/pkg_folder_19.xml#package_link_game"/> 
+			<Query class="type:x-xmb/folder-pixmap" key="pkg_folder_20" attr="pkg_folder_20" src="xmb://localhost/dev_hdd0/game/PKGLINKER/USRDIR/pkg_folder_20.xml#package_link_game"/>
+			<Query class="type:x-xmb/folder-pixmap" key="pkg_folder_root" attr="pkg_folder_root" src="xmb://localhost/dev_hdd0/game/PKGLINKER/USRDIR/pkg_folder_root.xml#pkg_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="pkg_folder_old" attr="pkg_folder_old" src="xmb://localhost/dev_hdd0/game/PKGLINKER/USRDIR/package_link.xml#package_link_game"/>
+			</Items>
+		</View>
+		
+<!-- Toolbox Update / About -->
+		
+		<View id="han_toolbox_setup_main"> 
+		<Attributes> 
+			<Table key="han_toolbox_update">
+				<Pair key="icon_rsc"><String>item_tex_cam_icon</String></Pair>
+				<Pair key="title"><String>Download Resources</String></Pair>
+				<Pair key="info"><String>Download and install the latest FULL Toolbox package (Reboot after)</String></Pair>
+			</Table>
+			<Table key="han_toolbox_about">
+				<Pair key="icon_rsc"><String>friend_tex_load</String></Pair>
+				<Pair key="title"><String>Version: 0.5 (Lite)</String></Pair>
+				<Pair key="info"><String>By DeViL303, Pink1, esc0rtd3w, Berion and ShaolinAssassin 
+				Massive thanks to the PS3Xploit Team for all the hacks</String></Pair>
+			</Table>
+		</Attributes>
+			<Items>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_toolbox_update" 
+				attr="han_toolbox_update"
+				src="#han_toolbox_update_main"
+				/>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_toolbox_about"
+				attr="han_toolbox_about"
+				/>
+			</Items>
+		</View>
+		
+<!-- Toolbox Update and Resource Downloader -->
+		
+		<View id="han_toolbox_update_main">
+		<Attributes>
+			<Table key="han_toolbox_update_item">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://dl.dropboxusercontent.com/s/p29cxn3c984ik48/HAN_Toolbox_Resources.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://dl.dropboxusercontent.com/s/p29cxn3c984ik48/HAN_Toolbox_Resources.pkg</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_flash/vsh/resource/explore/icon/fah-xmb.png</String></Pair>
+ 			</Table> 
+		</Attributes> 
+			<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="han_toolbox_update_item" attr="han_toolbox_update_item"/>
+		</Items> 
+		</View> 
+		
+</XMBML>
+		
