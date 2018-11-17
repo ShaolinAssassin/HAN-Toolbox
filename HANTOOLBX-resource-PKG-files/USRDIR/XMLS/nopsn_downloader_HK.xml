@@ -14,11 +14,6 @@
 				<Pair key="title"><String>Twitch</String></Pair>
 				<Pair key="info"><String>v1.07 - 9.87 MB</String></Pair>
 			</Table>
-			<Table key="nopsn_downloader_HK_youtube">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/nopsn_icons/youtube.png</String></Pair>
-				<Pair key="title"><String>YouTube</String></Pair>
-				<Pair key="info"><String>v1.02-v3.03 - 59.25 MB</String></Pair>
-			</Table>
 		</Attributes>
 		<Items>
 			<Query 
