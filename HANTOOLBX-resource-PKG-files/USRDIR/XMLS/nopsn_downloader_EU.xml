@@ -30,90 +30,90 @@
 				class="type:x-xmb/folder-pixmap" 
 				key="nopsn_downloader_EU_crunchyroll" 
 				attr="nopsn_downloader_EU_crunchyroll"
-				src="nopsn_downloader_EU_crunchyroll_link"
+				src="#nopsn_downloader_EU_crunchyroll_main"
 				/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
 				key="nopsn_downloader_EU_pstore" 
 				attr="nopsn_downloader_EU_pstore"
-				src="nopsn_downloader_EU_pstore_link"
+				src="#nopsn_downloader_EU_pstore_main"
 				/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
 				key="nopsn_downloader_EU_twitch" 
 				attr="nopsn_downloader_EU_twitch"
-				src="nopsn_downloader_EU_twitch_link"
+				src="#nopsn_downloader_EU_twitch_main"
 				/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
 				key="nopsn_downloader_EU_youtube" 
 				attr="nopsn_downloader_EU_youtube"
-				src="nopsn_downloader_EU_youtube_link"
+				src="#nopsn_downloader_EU_youtube_main"
 				/>
 		</Items>
 	</View>
 
-	<View id="nopsn_downloader_EU_crunchyroll_link"> 
+	<View id="nopsn_downloader_EU_crunchyroll_main"> 
 		<Attributes> 
-			<Table key="nopsn_downloader_EU_crunchyroll_link"> 
+			<Table key="nopsn_downloader_EU_crunchyroll_item"> 
 				<Pair key="info"><String>net_package_install</String></Pair> 
-				<Pair key="pkg_src"><String>https://www.dropbox.com/s/nu4af4x5g057hn9/Crunchyroll-v1.29-%5BNPEB02307%5D-NoPSN-etHANol.pkg?dl=1</String></Pair> 
-				<Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/nu4af4x5g057hn9/Crunchyroll-v1.29-%5BNPEB02307%5D-NoPSN-etHANol.pkg?dl=1</String></Pair> 
+				<Pair key="pkg_src"><String>http://nopsn.com/pkg/ps3/crunchyroll/Crunchyroll-v1.29-[NPEB02307]-NoPSN-etHANol.pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://nopsn.com/pkg/ps3/crunchyroll/Crunchyroll-v1.29-[NPEB02307]-NoPSN-etHANol.pkg</String></Pair> 
 				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
 				<Pair key="content_id"><String>EP8805-NPEB02307_00-20150410XCRUNCHY</String></Pair> 
 				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/nopsn_icons/crunchyroll.png</String></Pair> 
 			</Table> 
 		</Attributes> 
 		<Items> 
-			<Item class="type:x-xmb/xmlnpsignup" key="nopsn_downloader_EU_crunchyroll_link" attr="nopsn_downloader_EU_crunchyroll_link"/> 
+			<Item class="type:x-xmb/xmlnpsignup" key="nopsn_downloader_EU_crunchyroll_item" attr="nopsn_downloader_EU_crunchyroll_item"/> 
 		</Items> 
 	</View> 	
 
-	<View id="nopsn_downloader_EU_pstore_link"> 
+	<View id="nopsn_downloader_EU_pstore_main"> 
 		<Attributes> 
-			<Table key="nopsn_downloader_EU_pstore_link"> 
+			<Table key="nopsn_downloader_EU_pstore_item"> 
 				<Pair key="info"><String>net_package_install</String></Pair> 
-				<Pair key="pkg_src"><String>https://www.dropbox.com/s/rear7b5lp2rxpq1/PlayStation-Store-v1.26-%5BNPEB02080%5D-NoPSN-OFW-etHANol.pkg?dl=1</String></Pair> 
-				<Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/rear7b5lp2rxpq1/PlayStation-Store-v1.26-%5BNPEB02080%5D-NoPSN-OFW-etHANol.pkg?dl=1</String></Pair> 
+				<Pair key="pkg_src"><String>http://nopsn.com/pkg/ps3/playstation-store/PlayStation-Store-v1.26-[NPEB02080]-NoPSN-OFW-etHANol.pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://nopsn.com/pkg/ps3/playstation-store/PlayStation-Store-v1.26-[NPEB02080]-NoPSN-OFW-etHANol.pkg</String></Pair> 
 				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
 				<Pair key="content_id"><String>TA9000-NPEB02080_00-0000000000000000</String></Pair> 
 				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/nopsn_icons/pstore.png</String></Pair> 
 			</Table> 
 		</Attributes> 
 		<Items> 
-			<Item class="type:x-xmb/xmlnpsignup" key="nopsn_downloader_EU_pstore_link" attr="nopsn_downloader_EU_pstore_link"/> 
+			<Item class="type:x-xmb/xmlnpsignup" key="nopsn_downloader_EU_pstore_item" attr="nopsn_downloader_EU_pstore_item"/> 
 		</Items> 
 	</View> 	
 
-	<View id="nopsn_downloader_EU_twitch_link"> 
+	<View id="nopsn_downloader_EU_twitch_main"> 
 		<Attributes> 
-			<Table key="nopsn_downloader_EU_twitch_link"> 
+			<Table key="nopsn_downloader_EU_twitch_item"> 
 				<Pair key="info"><String>net_package_install</String></Pair> 
-				<Pair key="pkg_src"><String>https://www.dropbox.com/s/hykck11a1pysw9s/Twitch-v1.07-%5BNPEB02359%5D-NoPSN-etHANol.pkg?dl=1</String></Pair> 
-				<Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/hykck11a1pysw9s/Twitch-v1.07-%5BNPEB02359%5D-NoPSN-etHANol.pkg?dl=1</String></Pair> 
+				<Pair key="pkg_src"><String>http://nopsn.com/pkg/ps3/twitch/Twitch-v1.07-[NPEB02359]-NoPSN-etHANol.pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://nopsn.com/pkg/ps3/twitch/Twitch-v1.07-[NPEB02359]-NoPSN-etHANol.pkg</String></Pair> 
 				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
 				<Pair key="content_id"><String>EP8816-NPEB02359_00-GTWITCHXXX000001</String></Pair> 
 				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/nopsn_icons/twitch.png</String></Pair> 
 			</Table> 
 		</Attributes> 
 		<Items> 
-			<Item class="type:x-xmb/xmlnpsignup" key="nopsn_downloader_EU_twitch_link" attr="nopsn_downloader_EU_twitch_link"/> 
+			<Item class="type:x-xmb/xmlnpsignup" key="nopsn_downloader_EU_twitch_item" attr="nopsn_downloader_EU_twitch_item"/> 
 		</Items> 
 	</View> 	
 
-	<View id="nopsn_downloader_EU_youtube_link"> 
+	<View id="nopsn_downloader_EU_youtube_main"> 
 		<Attributes> 
-			<Table key="nopsn_downloader_EU_youtube_link"> 
+			<Table key="nopsn_downloader_EU_youtube_item"> 
 				<Pair key="info"><String>net_package_install</String></Pair> 
-				<Pair key="pkg_src"><String>https://www.dropbox.com/s/hc3v1t4v64ekakr/Youtube-v1.02-v3.03-Spoof-%5BNPEB01229%5D-NoPSN-etHANol.pkg?dl=1</String></Pair> 
-				<Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/hc3v1t4v64ekakr/Youtube-v1.02-v3.03-Spoof-%5BNPEB01229%5D-NoPSN-etHANol.pkg?dl=1</String></Pair> 
+				<Pair key="pkg_src"><String>http://nopsn.com/pkg/ps3/youtube/Youtube-v1.02-v3.03-Spoof-[NPEB01229]-NoPSN-etHANol.pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://nopsn.com/pkg/ps3/youtube/Youtube-v1.02-v3.03-Spoof-[NPEB01229]-NoPSN-etHANol.pkg</String></Pair> 
 				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
 				<Pair key="content_id"><String>EP4381-NPEB01229_00-YOUTUBE000000001</String></Pair> 
 				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/nopsn_icons/youtube.png</String></Pair> 
 			</Table> 
 		</Attributes> 
 		<Items> 
-			<Item class="type:x-xmb/xmlnpsignup" key="nopsn_downloader_EU_youtube_link" attr="nopsn_downloader_EU_youtube_link"/> 
+			<Item class="type:x-xmb/xmlnpsignup" key="nopsn_downloader_EU_youtube_item" attr="nopsn_downloader_EU_youtube_item"/> 
 		</Items> 
 	</View> 
 		

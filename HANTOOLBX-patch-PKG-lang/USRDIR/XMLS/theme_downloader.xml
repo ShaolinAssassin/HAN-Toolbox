@@ -14,27 +14,27 @@
 			<Table key="theme_downloader_ac">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/theme.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_themes_ac</String></Pair>
-				<Pair key="info_rsc"><String>209</String></Pair>
+				<Pair key="info"><String>209</String></Pair>
 			</Table>
 			<Table key="theme_downloader_dh">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/theme.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_themes_dh</String></Pair>
-				<Pair key="info_rsc"><String>248</String></Pair>
+				<Pair key="info"><String>248</String></Pair>
 			</Table>
 			<Table key="theme_downloader_in">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/theme.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_themes_in</String></Pair>
-				<Pair key="info_rsc"><String>210</String></Pair>
+				<Pair key="info"><String>210</String></Pair>
 			</Table>
 			<Table key="theme_downloader_os">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/theme.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_themes_os</String></Pair>
-				<Pair key="info_rsc"><String>204</String></Pair>
+				<Pair key="info"><String>204</String></Pair>
 			</Table>
 			<Table key="theme_downloader_tz">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/theme.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_themes_tz</String></Pair>
-				<Pair key="info_rsc"><String>125</String></Pair>
+				<Pair key="info"><String>125</String></Pair>
 			</Table>
 		</Attributes>
 		<Items>
@@ -47,31 +47,31 @@
 				class="type:x-xmb/folder-pixmap"
 				key="theme_downloader_ac"
 				attr="theme_downloader_ac"
-				src="#xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/theme_downloader_ac.xml#theme_downloader_ac_items"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/theme_downloader_ac.xml#theme_downloader_ac_items"
 				/>
 			<Query
 				class="type:x-xmb/folder-pixmap"
 				key="theme_downloader_dh"
 				attr="theme_downloader_dh"
-				src="#xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/theme_downloader_dh.xml#theme_downloader_dh_items"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/theme_downloader_dh.xml#theme_downloader_dh_items"
 				/>
 			<Query
 				class="type:x-xmb/folder-pixmap"
 				key="theme_downloader_in"
 				attr="theme_downloader_in"
-				src="#xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/theme_downloader_in.xml#theme_downloader_in_items"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/theme_downloader_in.xml#theme_downloader_in_items"
 				/>
 			<Query
 				class="type:x-xmb/folder-pixmap"
 				key="theme_downloader_os"
 				attr="theme_downloader_os"
-				src="#xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/theme_downloader_os.xml#theme_downloader_os_items"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/theme_downloader_os.xml#theme_downloader_os_items"
 				/>
 			<Query
 				class="type:x-xmb/folder-pixmap"
 				key="theme_downloader_tz"
 				attr="theme_downloader_tz"
-				src="#xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/theme_downloader_tz.xml#theme_downloader_tz_items"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/theme_downloader_tz.xml#theme_downloader_tz_items"
 				/>
 		</Items>
 	</View>

@@ -15,24 +15,24 @@
 				class="type:x-xmb/folder-pixmap" 
 				key="nopsn_downloader_int_pstore" 
 				attr="nopsn_downloader_int_pstore"
-				src="nopsn_downloader_int_pstore_link"
+				src="#nopsn_downloader_int_pstore_main"
 				/>
 		</Items>
 	</View>
 
-	<View id="nopsn_downloader_int_pstore_link"> 
+	<View id="nopsn_downloader_int_pstore_main"> 
 		<Attributes> 
-			<Table key="nopsn_downloader_int_pstore_link"> 
+			<Table key="nopsn_downloader_int_pstore_item"> 
 				<Pair key="info"><String>net_package_install</String></Pair> 
-				<Pair key="pkg_src"><String>https://www.dropbox.com/s/jifrlbilvkmsgfy/PlayStation-Store-v1.26-%5BNPIA00025%5D-NoPSN-OFW-etHANol.pkg?dl=1</String></Pair> 
-				<Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/jifrlbilvkmsgfy/PlayStation-Store-v1.26-%5BNPIA00025%5D-NoPSN-OFW-etHANol.pkg?dl=1</String></Pair> 
+				<Pair key="pkg_src"><String>http://nopsn.com/pkg/ps3/playstation-store/PlayStation-Store-v1.26-[NPIA00025]-NoPSN-OFW-etHANol.pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://nopsn.com/pkg/ps3/playstation-store/PlayStation-Store-v1.26-[NPIA00025]-NoPSN-OFW-etHANol.pkg</String></Pair> 
 				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
 				<Pair key="content_id"><String>IP9100-NPIA00025_00-SFPRODE000000000</String></Pair> 
 				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/nopsn_icons/pstore.png</String></Pair> 
 			</Table> 
 		</Attributes> 
 		<Items> 
-			<Item class="type:x-xmb/xmlnpsignup" key="nopsn_downloader_int_pstore_link" attr="nopsn_downloader_int_pstore_link"/> 
+			<Item class="type:x-xmb/xmlnpsignup" key="nopsn_downloader_int_pstore_item" attr="nopsn_downloader_int_pstore_item"/> 
 		</Items> 
 	</View> 	
 	

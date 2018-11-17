@@ -7,27 +7,27 @@
 			<Table key="nopsn_downloader_EU">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_nopsn_eu_ver</String></Pair>
-				<Pair key="info_rsc"><String>4</String></Pair>
+				<Pair key="info"><String>4</String></Pair>
 			</Table>
 			<Table key="nopsn_downloader_HK">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_nopsn_hk_ver</String></Pair>
-				<Pair key="info_rsc"><String>3</String></Pair>
+				<Pair key="info"><String>3</String></Pair>
 			</Table>
 			<Table key="nopsn_downloader_JP">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_nopsn_jp_ver</String></Pair>
-				<Pair key="info_rsc"><String>0</String></Pair>
+				<Pair key="info"><String>0</String></Pair>
 			</Table>
 			<Table key="nopsn_downloader_US">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_nopsn_us_ver</String></Pair>
-				<Pair key="info_rsc"><String>6</String></Pair>
+				<Pair key="info"><String>6</String></Pair>
 			</Table>
 			<Table key="nopsn_downloader_int">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_nopsn_int_ver</String></Pair>
-				<Pair key="info_rsc"><String>1</String></Pair>
+				<Pair key="info"><String>1</String></Pair>
 			</Table>
 		</Attributes>
 		<Items>
@@ -57,8 +57,8 @@
 				/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
-				key="nopsn_downloader_US" 
-				attr="nopsn_downloader_US"
+				key="nopsn_downloader_int" 
+				attr="nopsn_downloader_int"
 				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/nopsn_downloader_int.xml#nopsn_downloader_int_items"
 				/>
 		</Items>

@@ -25,46 +25,46 @@
 				class="type:x-xmb/folder-pixmap" 
 				key="nopsn_downloader_HK_mlbtv" 
 				attr="nopsn_downloader_HK_mlbtv"
-				src="nopsn_downloader_HK_mlbtv_link"
+				src="#nopsn_downloader_HK_mlbtv_main"
 				/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
 				key="nopsn_downloader_HK_twitch" 
 				attr="nopsn_downloader_HK_twitch"
-				src="nopsn_downloader_HK_twitch_link"
+				src="#nopsn_downloader_HK_twitch_main"
 				/>
 		</Items>
 	</View>
 
-	<View id="nopsn_downloader_HK_mlbtv_link"> 
+	<View id="nopsn_downloader_HK_mlbtv_main"> 
 		<Attributes> 
-			<Table key="nopsn_downloader_HK_mlbtv_link"> 
+			<Table key="nopsn_downloader_HK_mlbtv_item"> 
 				<Pair key="info"><String>net_package_install</String></Pair> 
-				<Pair key="pkg_src"><String>https://www.dropbox.com/s/h0x6nygd8zc46t2/MLB_tv-v6.23-%5BNPHA80252%5D-NoPSN-etHANol.pkg?dl=1</String></Pair> 
-				<Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/h0x6nygd8zc46t2/MLB_tv-v6.23-%5BNPHA80252%5D-NoPSN-etHANol.pkg?dl=1</String></Pair> 
+				<Pair key="pkg_src"><String>http://nopsn.com/pkg/ps3/mlbtv/MLB_tv-v6.23-[NPHA80252]-NoPSN-etHANol.pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://nopsn.com/pkg/ps3/mlbtv/MLB_tv-v6.23-[NPHA80252]-NoPSN-etHANol.pkg</String></Pair> 
 				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
 				<Pair key="content_id"><String>HP9010-NPHA80252_00-MLBTVPS3STREAM01</String></Pair> 
 				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/nopsn_icons/mlbtv.png</String></Pair> 
 			</Table> 
 		</Attributes> 
 		<Items> 
-			<Item class="type:x-xmb/xmlnpsignup" key="nopsn_downloader_HK_mlbtv_link" attr="nopsn_downloader_HK_mlbtv_link"/> 
+			<Item class="type:x-xmb/xmlnpsignup" key="nopsn_downloader_HK_mlbtv_item" attr="nopsn_downloader_HK_mlbtv_item"/> 
 		</Items> 
 	</View> 	
 
-	<View id="nopsn_downloader_HK_twitch_link"> 
+	<View id="nopsn_downloader_HK_twitch_main"> 
 		<Attributes> 
-			<Table key="nopsn_downloader_HK_twitch_link"> 
+			<Table key="nopsn_downloader_HK_twitch_item"> 
 				<Pair key="info"><String>net_package_install</String></Pair> 
-				<Pair key="pkg_src"><String>https://www.dropbox.com/s/se4trkzfzgo9nxn/Twitch-v1.07-%5BNPHB00730%5D-NoPSN-etHANol.pkg?dl=1</String></Pair> 
-				<Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/se4trkzfzgo9nxn/Twitch-v1.07-%5BNPHB00730%5D-NoPSN-etHANol.pkg?dl=1</String></Pair> 
+				<Pair key="pkg_src"><String>http://nopsn.com/pkg/ps3/twitch/Twitch-v1.07-[NPHB00730]-NoPSN-etHANol.pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://nopsn.com/pkg/ps3/twitch/Twitch-v1.07-[NPHB00730]-NoPSN-etHANol.pkg</String></Pair> 
 				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
 				<Pair key="content_id"><String>HP8901-NPHB00730_00-TWITCHPS3APPASIA</String></Pair> 
 				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/nopsn_icons/twitch.png</String></Pair> 
 			</Table> 
 		</Attributes> 
 		<Items> 
-			<Item class="type:x-xmb/xmlnpsignup" key="nopsn_downloader_HK_twitch_link" attr="nopsn_downloader_HK_twitch_link"/> 
+			<Item class="type:x-xmb/xmlnpsignup" key="nopsn_downloader_HK_twitch_item" attr="nopsn_downloader_HK_twitch_item"/> 
 		</Items> 
 	</View> 
 		

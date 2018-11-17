@@ -7,22 +7,22 @@
 			<Table key="demo_downloader_C00_EU">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title"><String>EU Demos</String></Pair>
-				<Pair key="info"><String>246 Available</String></Pair>
+				<Pair key="info"><String>246 items</String></Pair>
 			</Table>
 			<Table key="demo_downloader_C00_HK">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title"><String>HK Demos</String></Pair>
-				<Pair key="info"><String>50 Available</String></Pair>
+				<Pair key="info"><String>50 items</String></Pair>
 			</Table>
 			<Table key="demo_downloader_C00_JP">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title"><String>JP Demos</String></Pair>
-				<Pair key="info"><String>68 Available</String></Pair>
+				<Pair key="info"><String>68 items</String></Pair>
 			</Table>
 			<Table key="demo_downloader_C00_US">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title"><String>US Demos</String></Pair>
-				<Pair key="info"><String>269 Available</String></Pair>
+				<Pair key="info"><String>269 items</String></Pair>
 			</Table>
 		</Attributes>
 		<Items>
@@ -60,17 +60,17 @@
 			<Table key="demo_downloader_C00_EU_alpha">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title"><String>Sorted alphabetically</String></Pair>
-				<Pair key="info"><String></String></Pair>
+				<Pair key="info"><String># items</String></Pair>
 			</Table>
 			<Table key="demo_downloader_C00_EU_genre">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title"><String>Sorted by genre</String></Pair>
-				<Pair key="info"><String></String></Pair>
+				<Pair key="info"><String># items</String></Pair>
 			</Table>
 			<Table key="demo_downloader_C00_EU_score">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title"><String>Sorted by metascore</String></Pair>
-				<Pair key="info"><String></String></Pair>
+				<Pair key="info"><String># items</String></Pair>
 			</Table>
 		</Attributes>
 		<Items>
@@ -102,17 +102,17 @@
 			<Table key="demo_downloader_C00_HK_alpha">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title"><String>Sorted alphabetically</String></Pair>
-				<Pair key="info"><String></String></Pair>
+				<Pair key="info"><String># items</String></Pair>
 			</Table>
 			<Table key="demo_downloader_C00_HK_genre">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title"><String>Sorted by genre</String></Pair>
-				<Pair key="info"><String></String></Pair>
+				<Pair key="info"><String># items</String></Pair>
 			</Table>
 			<Table key="demo_downloader_C00_HK_score">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title"><String>Sorted by metascore</String></Pair>
-				<Pair key="info"><String></String></Pair>
+				<Pair key="info"><String># items</String></Pair>
 			</Table>
 		</Attributes>
 		<Items>
@@ -144,17 +144,17 @@
 			<Table key="demo_downloader_C00_JP_alpha">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title"><String>Sorted alphabetically</String></Pair>
-				<Pair key="info"><String></String></Pair>
+				<Pair key="info"><String># items</String></Pair>
 			</Table>
 			<Table key="demo_downloader_C00_JP_genre">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title"><String>Sorted by genre</String></Pair>
-				<Pair key="info"><String></String></Pair>
+				<Pair key="info"><String># items</String></Pair>
 			</Table>
 			<Table key="demo_downloader_C00_JP_score">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title"><String>Sorted by metascore</String></Pair>
-				<Pair key="info"><String></String></Pair>
+				<Pair key="info"><String># items</String></Pair>
 			</Table>
 		</Attributes>
 		<Items>
@@ -186,17 +186,17 @@
 			<Table key="demo_downloader_C00_US_alpha">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title"><String>Sorted alphabetically</String></Pair>
-				<Pair key="info"><String></String></Pair>
+				<Pair key="info"><String># items</String></Pair>
 			</Table>
 			<Table key="demo_downloader_C00_US_genre">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title"><String>Sorted by genre</String></Pair>
-				<Pair key="info"><String></String></Pair>
+				<Pair key="info"><String># items</String></Pair>
 			</Table>
 			<Table key="demo_downloader_C00_US_score">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title"><String>Sorted by metascore</String></Pair>
-				<Pair key="info"><String></String></Pair>
+				<Pair key="info"><String># items</String></Pair>
 			</Table>
 		</Attributes>
 		<Items>
@@ -229,52 +229,52 @@
 			<Table key="demo_downloader_C00_EU_genre_action">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title"><String>Action Adventure</String></Pair>
-				<Pair key="info"><String></String></Pair>
+				<Pair key="info"><String># items</String></Pair>
 			</Table>
 			<Table key="demo_downloader_C00_EU_genre_driving">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title"><String>Driving</String></Pair>
-				<Pair key="info"><String></String></Pair>
+				<Pair key="info"><String># items</String></Pair>
 			</Table>
 			<Table key="demo_downloader_C00_EU_genre_fighting">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title"><String>Fighting</String></Pair>
-				<Pair key="info"><String></String></Pair>
+				<Pair key="info"><String># items</String></Pair>
 			</Table>
 			<Table key="demo_downloader_C00_EU_genre_misc">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title"><String>Misc</String></Pair>
-				<Pair key="info"><String></String></Pair>
+				<Pair key="info"><String># items</String></Pair>
 			</Table>
 			<Table key="demo_downloader_C00_EU_genre_plateformer">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title"><String>Plateformer</String></Pair>
-				<Pair key="info"><String></String></Pair>
+				<Pair key="info"><String># items</String></Pair>
 			</Table>
 			<Table key="demo_downloader_C00_EU_genre_puzzle">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title"><String>Puzzle</String></Pair>
-				<Pair key="info"><String></String></Pair>
+				<Pair key="info"><String># items</String></Pair>
 			</Table>
 			<Table key="demo_downloader_C00_EU_genre_rpg">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title"><String>Role Playing</String></Pair>
-				<Pair key="info"><String></String></Pair>
+				<Pair key="info"><String># items</String></Pair>
 			</Table>
 			<Table key="demo_downloader_C00_EU_genre_shooter">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title"><String>Shooter</String></Pair>
-				<Pair key="info"><String></String></Pair>
+				<Pair key="info"><String># items</String></Pair>
 			</Table>
 			<Table key="demo_downloader_C00_EU_genre_sports">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title"><String>Sports</String></Pair>
-				<Pair key="info"><String></String></Pair>
+				<Pair key="info"><String># items</String></Pair>
 			</Table>
 			<Table key="demo_downloader_C00_EU_genre_strategy">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title"><String>Strategy</String></Pair>
-				<Pair key="info"><String></String></Pair>
+				<Pair key="info"><String># items</String></Pair>
 			</Table>
 		</Attributes>
 		<Items>
@@ -348,32 +348,32 @@
 			<Table key="demo_downloader_C00_HK_genre_action">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title"><String>Action Adventure</String></Pair>
-				<Pair key="info"><String></String></Pair>
+				<Pair key="info"><String># items</String></Pair>
 			</Table>
 			<Table key="demo_downloader_C00_HK_genre_driving">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title"><String>Driving</String></Pair>
-				<Pair key="info"><String></String></Pair>
+				<Pair key="info"><String># items</String></Pair>
 			</Table>
 			<Table key="demo_downloader_C00_HK_genre_fighting">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title"><String>Fighting</String></Pair>
-				<Pair key="info"><String></String></Pair>
+				<Pair key="info"><String># items</String></Pair>
 			</Table>
 			<Table key="demo_downloader_C00_HK_genre_misc">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title"><String>Misc</String></Pair>
-				<Pair key="info"><String></String></Pair>
+				<Pair key="info"><String># items</String></Pair>
 			</Table>
 			<Table key="demo_downloader_C00_HK_genre_plateformer">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title"><String>Plateformer</String></Pair>
-				<Pair key="info"><String></String></Pair>
+				<Pair key="info"><String># items</String></Pair>
 			</Table>
 			<Table key="demo_downloader_C00_HK_genre_puzzle">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title"><String>Puzzle</String></Pair>
-				<Pair key="info"><String></String></Pair>
+				<Pair key="info"><String># items</String></Pair>
 			</Table>
 			<Table key="demo_downloader_C00_HK_genre_rpg">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
@@ -383,17 +383,17 @@
 			<Table key="demo_downloader_C00_HK_genre_shooter">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title"><String>Shooter</String></Pair>
-				<Pair key="info"><String></String></Pair>
+				<Pair key="info"><String># items</String></Pair>
 			</Table>
 			<Table key="demo_downloader_C00_HK_genre_sports">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title"><String>Sports</String></Pair>
-				<Pair key="info"><String></String></Pair>
+				<Pair key="info"><String># items</String></Pair>
 			</Table>
 			<Table key="demo_downloader_C00_HK_genre_strategy">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title"><String>Strategy</String></Pair>
-				<Pair key="info"><String></String></Pair>
+				<Pair key="info"><String># items</String></Pair>
 			</Table>
 		</Attributes>
 		<Items>
@@ -467,52 +467,52 @@
 			<Table key="demo_downloader_C00_JP_genre_action">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title"><String>Action Adventure</String></Pair>
-				<Pair key="info"><String></String></Pair>
+				<Pair key="info"><String># items</String></Pair>
 			</Table>
 			<Table key="demo_downloader_C00_JP_genre_driving">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title"><String>Driving</String></Pair>
-				<Pair key="info"><String></String></Pair>
+				<Pair key="info"><String># items</String></Pair>
 			</Table>
 			<Table key="demo_downloader_C00_JP_genre_fighting">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title"><String>Fighting</String></Pair>
-				<Pair key="info"><String></String></Pair>
+				<Pair key="info"><String># items</String></Pair>
 			</Table>
 			<Table key="demo_downloader_C00_JP_genre_misc">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title"><String>Misc</String></Pair>
-				<Pair key="info"><String></String></Pair>
+				<Pair key="info"><String># items</String></Pair>
 			</Table>
 			<Table key="demo_downloader_C00_JP_genre_plateformer">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title"><String>Plateformer</String></Pair>
-				<Pair key="info"><String></String></Pair>
+				<Pair key="info"><String># items</String></Pair>
 			</Table>
 			<Table key="demo_downloader_C00_JP_genre_puzzle">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title"><String>Puzzle</String></Pair>
-				<Pair key="info"><String></String></Pair>
+				<Pair key="info"><String># items</String></Pair>
 			</Table>
 			<Table key="demo_downloader_C00_JP_genre_rpg">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title"><String>Role Playing</String></Pair>
-				<Pair key="info"><String></String></Pair>
+				<Pair key="info"><String># items</String></Pair>
 			</Table>
 			<Table key="demo_downloader_C00_JP_genre_shooter">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title"><String>Shooter</String></Pair>
-				<Pair key="info"><String></String></Pair>
+				<Pair key="info"><String># items</String></Pair>
 			</Table>
 			<Table key="demo_downloader_C00_JP_genre_sports">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title"><String>Sports</String></Pair>
-				<Pair key="info"><String></String></Pair>
+				<Pair key="info"><String># items</String></Pair>
 			</Table>
 			<Table key="demo_downloader_C00_JP_genre_strategy">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title"><String>Strategy</String></Pair>
-				<Pair key="info"><String></String></Pair>
+				<Pair key="info"><String># items</String></Pair>
 			</Table>
 		</Attributes>
 		<Items>
@@ -586,52 +586,52 @@
 			<Table key="demo_downloader_C00_US_genre_action">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title"><String>Action Adventure</String></Pair>
-				<Pair key="info"><String></String></Pair>
+				<Pair key="info"><String># items</String></Pair>
 			</Table>
 			<Table key="demo_downloader_C00_US_genre_driving">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title"><String>Driving</String></Pair>
-				<Pair key="info"><String></String></Pair>
+				<Pair key="info"><String># items</String></Pair>
 			</Table>
 			<Table key="demo_downloader_C00_US_genre_fighting">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title"><String>Fighting</String></Pair>
-				<Pair key="info"><String></String></Pair>
+				<Pair key="info"><String># items</String></Pair>
 			</Table>
 			<Table key="demo_downloader_C00_US_genre_misc">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title"><String>Misc</String></Pair>
-				<Pair key="info"><String></String></Pair>
+				<Pair key="info"><String># items</String></Pair>
 			</Table>
 			<Table key="demo_downloader_C00_US_genre_plateformer">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title"><String>Plateformer</String></Pair>
-				<Pair key="info"><String></String></Pair>
+				<Pair key="info"><String># items</String></Pair>
 			</Table>
 			<Table key="demo_downloader_C00_US_genre_puzzle">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title"><String>Puzzle</String></Pair>
-				<Pair key="info"><String></String></Pair>
+				<Pair key="info"><String># items</String></Pair>
 			</Table>
 			<Table key="demo_downloader_C00_US_genre_rpg">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title"><String>Role Playing</String></Pair>
-				<Pair key="info"><String></String></Pair>
+				<Pair key="info"><String># items</String></Pair>
 			</Table>
 			<Table key="demo_downloader_C00_US_genre_shooter">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title"><String>Shooter</String></Pair>
-				<Pair key="info"><String></String></Pair>
+				<Pair key="info"><String># items</String></Pair>
 			</Table>
 			<Table key="demo_downloader_C00_US_genre_sports">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title"><String>Sports</String></Pair>
-				<Pair key="info"><String></String></Pair>
+				<Pair key="info"><String># items</String></Pair>
 			</Table>
 			<Table key="demo_downloader_C00_US_genre_strategy">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title"><String>Strategy</String></Pair>
-				<Pair key="info"><String></String></Pair>
+				<Pair key="info"><String># items</String></Pair>
 			</Table>
 		</Attributes>
 		<Items>

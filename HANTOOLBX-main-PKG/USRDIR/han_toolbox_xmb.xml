@@ -931,11 +931,11 @@
 		
 		<View id="han_toolbox_setup_main"> 
 		<Attributes>
-			<!-- Table key="han_toolbox_install_lang">
+			<Table key="han_toolbox_install_lang">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/update.png</String></Pair>
 				<Pair key="title"><String>Install Multi Language support</String></Pair>
 				<Pair key="info"><String>Download and install the lang resources and reboot after</String></Pair>
-			</Table -->
+			</Table>
 			<Table key="han_toolbox_update">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/update.png</String></Pair>
 				<Pair key="title"><String>Update Toolbox</String></Pair>
@@ -954,12 +954,12 @@
 			</Table>
 		</Attributes>
 			<Items>
-			<!-- Query 
+			<Query 
 				class="type:x-xmb/folder-pixmap" 
 				key="han_toolbox_install_lang" 
 				attr="han_toolbox_install_lang"
-				src="#han_toolbox_lang_install_items"
-				/ -->
+				src="#han_toolbox_install_lang_main"
+				/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
 				key="han_toolbox_update" 
@@ -1018,7 +1018,7 @@
 
 <!-- Toolbox Multi Language support -->
 		
-		<!-- View id="han_toolbox_lang_items"> 
+		<View id="han_toolbox_install_lang_main"> 
 		<Attributes> 
 			<Table key="han_download_lang_rco">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/download.png</String></Pair>
@@ -1059,9 +1059,9 @@
 			</Items> 
 		</View>
 
-		<!-- Download **EDITED** lang RCO file -->
+<!-- Download **EDITED** lang RCO file -->
 		
-		<!-- View id="han_download_lang_rco_main">
+		<View id="han_download_lang_rco_main">
 		<Attributes>
 			<Table key="han_download_lang_rco_item">
 				<Pair key="info"><String>net_package_install</String></Pair>
@@ -1073,13 +1073,13 @@
  			</Table> 
 		</Attributes> 
 			<Items>
-			<Item class="type:x-xmb/xmlnpsignup" key="han_download_lang_rco_item" attr="han_han_download_lang_rco_item"/>
+			<Item class="type:x-xmb/xmlnpsignup" key="han_download_lang_rco_item" attr="han_download_lang_rco_item"/>
 		</Items> 
 		</View>
 		
-		<!-- Download lang patch PKG file -->
+<!-- Download lang patch PKG file -->
 				
-		<!-- View id="han_download_patch_file_main">
+		<View id="han_download_patch_file_main">
 		<Attributes>
 			<Table key="han_download_patch_file_item">
 				<Pair key="info"><String>net_package_install</String></Pair>

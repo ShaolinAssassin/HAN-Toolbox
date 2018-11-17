@@ -7,22 +7,22 @@
 			<Table key="demo_downloader_C00_EU">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_demos_eu</String></Pair>
-				<Pair key="info_rsc"><String>han_toolbox_demos_eu_info</String></Pair>
+				<Pair key="info"><String></String></Pair>
 			</Table>
 			<Table key="demo_downloader_C00_HK">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_demos_hk</String></Pair>
-				<Pair key="info_rsc"><String>han_toolbox_demos_hk_info</String></Pair>
+				<Pair key="info"><String></String></Pair>
 			</Table>
 			<Table key="demo_downloader_C00_JP">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_demos_jp</String></Pair>
-				<Pair key="info_rsc"><String>han_toolbox_demos_jp_info</String></Pair>
+				<Pair key="info"><String></String></Pair>
 			</Table>
 			<Table key="demo_downloader_C00_US">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_demos_us</String></Pair>
-				<Pair key="info_rsc"><String>han_toolbox_demos_us_info</String></Pair>
+				<Pair key="info"><String></String></Pair>
 			</Table>
 		</Attributes>
 		<Items>
@@ -60,17 +60,17 @@
 			<Table key="demo_downloader_C00_EU_alpha">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_demos_alpha</String></Pair>
-				<Pair key="info_rsc"><String></String></Pair>
+				<Pair key="info"><String></String></Pair>
 			</Table>
 			<Table key="demo_downloader_C00_EU_genre">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_demos_genre</String></Pair>
-				<Pair key="info_rsc"><String></String></Pair>
+				<Pair key="info"><String></String></Pair>
 			</Table>
 			<Table key="demo_downloader_C00_EU_score">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_demos_score</String></Pair>
-				<Pair key="info_rsc"><String></String></Pair>
+				<Pair key="info"><String></String></Pair>
 			</Table>
 		</Attributes>
 		<Items>
@@ -102,17 +102,17 @@
 			<Table key="demo_downloader_C00_HK_alpha">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_demos_alpha</String></Pair>
-				<Pair key="info_rsc"><String></String></Pair>
+				<Pair key="info"><String></String></Pair>
 			</Table>
 			<Table key="demo_downloader_C00_HK_genre">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_demos_genre</String></Pair>
-				<Pair key="info_rsc"><String></String></Pair>
+				<Pair key="info"><String></String></Pair>
 			</Table>
 			<Table key="demo_downloader_C00_HK_score">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_demos_score</String></Pair>
-				<Pair key="info_rsc"><String></String></Pair>
+				<Pair key="info"><String></String></Pair>
 			</Table>
 		</Attributes>
 		<Items>
@@ -144,17 +144,17 @@
 			<Table key="demo_downloader_C00_JP_alpha">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_demos_alpha</String></Pair>
-				<Pair key="info_rsc"><String></String></Pair>
+				<Pair key="info"><String></String></Pair>
 			</Table>
 			<Table key="demo_downloader_C00_JP_genre">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_demos_genre</String></Pair>
-				<Pair key="info_rsc"><String></String></Pair>
+				<Pair key="info"><String></String></Pair>
 			</Table>
 			<Table key="demo_downloader_C00_JP_score">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_demos_score</String></Pair>
-				<Pair key="info_rsc"><String></String></Pair>
+				<Pair key="info"><String></String></Pair>
 			</Table>
 		</Attributes>
 		<Items>
@@ -186,17 +186,17 @@
 			<Table key="demo_downloader_C00_US_alpha">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_demos_alpha</String></Pair>
-				<Pair key="info_rsc"><String></String></Pair>
+				<Pair key="info"><String></String></Pair>
 			</Table>
 			<Table key="demo_downloader_C00_US_genre">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_demos_genre</String></Pair>
-				<Pair key="info_rsc"><String></String></Pair>
+				<Pair key="info"><String></String></Pair>
 			</Table>
 			<Table key="demo_downloader_C00_US_score">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_demos_score</String></Pair>
-				<Pair key="info_rsc"><String></String></Pair>
+				<Pair key="info"><String></String></Pair>
 			</Table>
 		</Attributes>
 		<Items>
@@ -229,52 +229,52 @@
 			<Table key="demo_downloader_C00_EU_genre_action">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_demos_action</String></Pair>
-				<Pair key="info_rsc"><String></String></Pair>
+				<Pair key="info"><String></String></Pair>
 			</Table>
 			<Table key="demo_downloader_C00_EU_genre_driving">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_demos_driving</String></Pair>
-				<Pair key="info_rsc"><String></String></Pair>
+				<Pair key="info"><String></String></Pair>
 			</Table>
 			<Table key="demo_downloader_C00_EU_genre_fighting">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_demos_fighting</String></Pair>
-				<Pair key="info_rsc"><String></String></Pair>
+				<Pair key="info"><String></String></Pair>
 			</Table>
 			<Table key="demo_downloader_C00_EU_genre_misc">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_demos_misc</String></Pair>
-				<Pair key="info_rsc"><String></String></Pair>
+				<Pair key="info"><String></String></Pair>
 			</Table>
 			<Table key="demo_downloader_C00_EU_genre_plateformer">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_demos_plateformer</String></Pair>
-				<Pair key="info_rsc"><String></String></Pair>
+				<Pair key="info"><String></String></Pair>
 			</Table>
 			<Table key="demo_downloader_C00_EU_genre_puzzle">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_demos_puzzle</String></Pair>
-				<Pair key="info_rsc"><String></String></Pair>
+				<Pair key="info"><String></String></Pair>
 			</Table>
 			<Table key="demo_downloader_C00_EU_genre_rpg">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_demos_rpg</String></Pair>
-				<Pair key="info_rsc"><String></String></Pair>
+				<Pair key="info"><String></String></Pair>
 			</Table>
 			<Table key="demo_downloader_C00_EU_genre_shooter">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_demos_shooter</String></Pair>
-				<Pair key="info_rsc"><String></String></Pair>
+				<Pair key="info"><String></String></Pair>
 			</Table>
 			<Table key="demo_downloader_C00_EU_genre_sports">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_demos_sports</String></Pair>
-				<Pair key="info_rsc"><String></String></Pair>
+				<Pair key="info"><String></String></Pair>
 			</Table>
 			<Table key="demo_downloader_C00_EU_genre_strategy">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_demos_strategy</String></Pair>
-				<Pair key="info_rsc"><String></String></Pair>
+				<Pair key="info"><String></String></Pair>
 			</Table>
 		</Attributes>
 		<Items>
@@ -348,52 +348,52 @@
 			<Table key="demo_downloader_C00_HK_genre_action">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 <Pair key="title_rsc"><String>han_toolbox_demos_action</String></Pair>
-				<Pair key="info_rsc"><String></String></Pair>
+				<Pair key="info"><String></String></Pair>
 			</Table>
 			<Table key="demo_downloader_C00_HK_genre_driving">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_demos_driving</String></Pair>
-				<Pair key="info_rsc"><String></String></Pair>
+				<Pair key="info"><String></String></Pair>
 			</Table>
 			<Table key="demo_downloader_C00_HK_genre_fighting">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_demos_fighting</String></Pair>
-				<Pair key="info_rsc"><String></String></Pair>
+				<Pair key="info"><String></String></Pair>
 			</Table>
 			<Table key="demo_downloader_C00_HK_genre_misc">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_demos_misc</String></Pair>
-				<Pair key="info_rsc"><String></String></Pair>
+				<Pair key="info"><String></String></Pair>
 			</Table>
 			<Table key="demo_downloader_C00_HK_genre_plateformer">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_demos_plateformer</String></Pair>
-				<Pair key="info_rsc"><String></String></Pair>
+				<Pair key="info"><String></String></Pair>
 			</Table>
 			<Table key="demo_downloader_C00_HK_genre_puzzle">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_demos_puzzle</String></Pair>
-				<Pair key="info_rsc"><String></String></Pair>
+				<Pair key="info"><String></String></Pair>
 			</Table>
 			<Table key="demo_downloader_C00_HK_genre_rpg">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_demos_rpg</String></Pair>
-				<Pair key="info_rsc"><String></String></Pair>
+				<Pair key="info"><String></String></Pair>
 			</Table>
 			<Table key="demo_downloader_C00_HK_genre_shooter">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_demos_shooter</String></Pair>
-				<Pair key="info_rsc"><String></String></Pair>
+				<Pair key="info"><String></String></Pair>
 			</Table>
 			<Table key="demo_downloader_C00_HK_genre_sports">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_demos_sports</String></Pair>
-				<Pair key="info_rsc"><String></String></Pair>
+				<Pair key="info"><String></String></Pair>
 			</Table>
 			<Table key="demo_downloader_C00_HK_genre_strategy">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_demos_strategy</String></Pair>
-				<Pair key="info_rsc"><String></String></Pair>
+				<Pair key="info"><String></String></Pair>
 			</Table>
 		</Attributes>
 		<Items>
@@ -467,52 +467,52 @@
 			<Table key="demo_downloader_C00_JP_genre_action">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 <Pair key="title_rsc"><String>han_toolbox_demos_action</String></Pair>
-				<Pair key="info_rsc"><String></String></Pair>
+				<Pair key="info"><String></String></Pair>
 			</Table>
 			<Table key="demo_downloader_C00_JP_genre_driving">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_demos_driving</String></Pair>
-				<Pair key="info_rsc"><String></String></Pair>
+				<Pair key="info"><String></String></Pair>
 			</Table>
 			<Table key="demo_downloader_C00_JP_genre_fighting">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_demos_fighting</String></Pair>
-				<Pair key="info_rsc"><String></String></Pair>
+				<Pair key="info"><String></String></Pair>
 			</Table>
 			<Table key="demo_downloader_C00_JP_genre_misc">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_demos_misc</String></Pair>
-				<Pair key="info_rsc"><String></String></Pair>
+				<Pair key="info"><String></String></Pair>
 			</Table>
 			<Table key="demo_downloader_C00_JP_genre_plateformer">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_demos_plateformer</String></Pair>
-				<Pair key="info_rsc"><String></String></Pair>
+				<Pair key="info"><String></String></Pair>
 			</Table>
 			<Table key="demo_downloader_C00_JP_genre_puzzle">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_demos_puzzle</String></Pair>
-				<Pair key="info_rsc"><String></String></Pair>
+				<Pair key="info"><String></String></Pair>
 			</Table>
 			<Table key="demo_downloader_C00_JP_genre_rpg">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_demos_rpg</String></Pair>
-				<Pair key="info_rsc"><String></String></Pair>
+				<Pair key="info"><String></String></Pair>
 			</Table>
 			<Table key="demo_downloader_C00_JP_genre_shooter">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_demos_shooter</String></Pair>
-				<Pair key="info_rsc"><String></String></Pair>
+				<Pair key="info"><String></String></Pair>
 			</Table>
 			<Table key="demo_downloader_C00_JP_genre_sports">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_demos_sports</String></Pair>
-				<Pair key="info_rsc"><String></String></Pair>
+				<Pair key="info"><String></String></Pair>
 			</Table>
 			<Table key="demo_downloader_C00_JP_genre_strategy">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_demos_strategy</String></Pair>
-				<Pair key="info_rsc"><String></String></Pair>
+				<Pair key="info"><String></String></Pair>
 			</Table>
 		</Attributes>
 		<Items>
@@ -586,52 +586,52 @@
 			<Table key="demo_downloader_C00_US_genre_action">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 <Pair key="title_rsc"><String>han_toolbox_demos_action</String></Pair>
-				<Pair key="info_rsc"><String></String></Pair>
+				<Pair key="info"><String></String></Pair>
 			</Table>
 			<Table key="demo_downloader_C00_US_genre_driving">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_demos_driving</String></Pair>
-				<Pair key="info_rsc"><String></String></Pair>
+				<Pair key="info"><String></String></Pair>
 			</Table>
 			<Table key="demo_downloader_C00_US_genre_fighting">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_demos_fighting</String></Pair>
-				<Pair key="info_rsc"><String></String></Pair>
+				<Pair key="info"><String></String></Pair>
 			</Table>
 			<Table key="demo_downloader_C00_US_genre_misc">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_demos_misc</String></Pair>
-				<Pair key="info_rsc"><String></String></Pair>
+				<Pair key="info"><String></String></Pair>
 			</Table>
 			<Table key="demo_downloader_C00_US_genre_plateformer">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_demos_plateformer</String></Pair>
-				<Pair key="info_rsc"><String></String></Pair>
+				<Pair key="info"><String></String></Pair>
 			</Table>
 			<Table key="demo_downloader_C00_US_genre_puzzle">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_demos_puzzle</String></Pair>
-				<Pair key="info_rsc"><String></String></Pair>
+				<Pair key="info"><String></String></Pair>
 			</Table>
 			<Table key="demo_downloader_C00_US_genre_rpg">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_demos_rpg</String></Pair>
-				<Pair key="info_rsc"><String></String></Pair>
+				<Pair key="info"><String></String></Pair>
 			</Table>
 			<Table key="demo_downloader_C00_US_genre_shooter">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_demos_shooter</String></Pair>
-				<Pair key="info_rsc"><String></String></Pair>
+				<Pair key="info"><String></String></Pair>
 			</Table>
 			<Table key="demo_downloader_C00_US_genre_sports">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_demos_sports</String></Pair>
-				<Pair key="info_rsc"><String></String></Pair>
+				<Pair key="info"><String></String></Pair>
 			</Table>
 			<Table key="demo_downloader_C00_US_genre_strategy">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_demos_strategy</String></Pair>
-				<Pair key="info_rsc"><String></String></Pair>
+				<Pair key="info"><String></String></Pair>
 			</Table>
 		</Attributes>
 		<Items>
