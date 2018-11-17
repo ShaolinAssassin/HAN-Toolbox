@@ -86,13 +86,13 @@
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/wallpaper_icons/Space_icons/Space 0014.jpg</String></Pair> 
 				<Pair key="title"><String>Space 0014</String></Pair> 
 				<Pair key="module_name"><String>webbrowser_plugin</String></Pair> 
-				<Pair key="module_action"><String>http://xmbmods.co/XMBPD/Wallpapers/Space/Space%200014.jpg</String></Pair> 
+				<Pair key="module_action"><String>http://xmbmods.co/XMBPD/Wallpapers/Space/Space%200014.png</String></Pair> 
 			</Table>
 			<Table key="item_15"> 
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/wallpaper_icons/Space_icons/Space 0015.jpg</String></Pair> 
 				<Pair key="title"><String>Space 0015</String></Pair> 
 				<Pair key="module_name"><String>webbrowser_plugin</String></Pair> 
-				<Pair key="module_action"><String>http://xmbmods.co/XMBPD/Wallpapers/Space/Space%200015.jpg</String></Pair> 
+				<Pair key="module_action"><String>http://xmbmods.co/XMBPD/Wallpapers/Space/Space%200015.jpeg</String></Pair> 
 			</Table>
 			<Table key="item_16"> 
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/wallpaper_icons/Space_icons/Space 0016.jpg</String></Pair> 
@@ -290,7 +290,7 @@
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/wallpaper_icons/Space_icons/Space 0048.jpg</String></Pair> 
 				<Pair key="title"><String>Space 0048</String></Pair> 
 				<Pair key="module_name"><String>webbrowser_plugin</String></Pair> 
-				<Pair key="module_action"><String>http://xmbmods.co/XMBPD/Wallpapers/Space/Space%200048.jpg</String></Pair> 
+				<Pair key="module_action"><String>http://xmbmods.co/XMBPD/Wallpapers/Space/Space%200048.jpeg</String></Pair> 
 			</Table>
 			<Table key="item_49"> 
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/wallpaper_icons/Space_icons/Space 0049.jpg</String></Pair> 
@@ -308,7 +308,7 @@
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/wallpaper_icons/Space_icons/Space 0051.jpg</String></Pair> 
 				<Pair key="title"><String>Space 0051</String></Pair> 
 				<Pair key="module_name"><String>webbrowser_plugin</String></Pair> 
-				<Pair key="module_action"><String>http://xmbmods.co/XMBPD/Wallpapers/Space/Space%200051.jpg</String></Pair> 
+				<Pair key="module_action"><String>http://xmbmods.co/XMBPD/Wallpapers/Space/Space%200051.jpeg</String></Pair> 
 			</Table>
 			<Table key="item_52"> 
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/wallpaper_icons/Space_icons/Space 0052.jpg</String></Pair> 
@@ -380,7 +380,7 @@
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/wallpaper_icons/Space_icons/Space 0063.jpg</String></Pair> 
 				<Pair key="title"><String>Space 0063</String></Pair> 
 				<Pair key="module_name"><String>webbrowser_plugin</String></Pair> 
-				<Pair key="module_action"><String>http://xmbmods.co/XMBPD/Wallpapers/Space/Space%200063.jpg</String></Pair> 
+				<Pair key="module_action"><String>http://xmbmods.co/XMBPD/Wallpapers/Space/Space%200063.png</String></Pair> 
 			</Table>
 			<Table key="item_64"> 
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/wallpaper_icons/Space_icons/Space 0064.jpg</String></Pair> 
@@ -686,7 +686,7 @@
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/wallpaper_icons/Space_icons/Space 0114.jpg</String></Pair> 
 				<Pair key="title"><String>Space 0114</String></Pair> 
 				<Pair key="module_name"><String>webbrowser_plugin</String></Pair> 
-				<Pair key="module_action"><String>http://xmbmods.co/XMBPD/Wallpapers/Space/Space%200114.jpg</String></Pair> 
+				<Pair key="module_action"><String>http://xmbmods.co/XMBPD/Wallpapers/Space/Space%200114.png</String></Pair> 
 			</Table>
 			<Table key="item_115"> 
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/wallpaper_icons/Space_icons/Space 0115.jpg</String></Pair> 
@@ -872,7 +872,7 @@
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/wallpaper_icons/Space_icons/Space 0145.jpg</String></Pair> 
 				<Pair key="title"><String>Space 0145</String></Pair> 
 				<Pair key="module_name"><String>webbrowser_plugin</String></Pair> 
-				<Pair key="module_action"><String>http://xmbmods.co/XMBPD/Wallpapers/Space/Space%200145.jpg</String></Pair> 
+				<Pair key="module_action"><String>http://xmbmods.co/XMBPD/Wallpapers/Space/Space%200145.tif</String></Pair> 
 			</Table>
 			<Table key="item_146"> 
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/wallpaper_icons/Space_icons/Space 0146.jpg</String></Pair> 

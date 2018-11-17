@@ -14,27 +14,27 @@
 			<Table key="theme_downloader_ac">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/theme.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_themes_ac</String></Pair>
-				<Pair key="info"><String>209</String></Pair>
+				<Pair key="info"><String>194 items</String></Pair>
 			</Table>
 			<Table key="theme_downloader_dh">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/theme.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_themes_dh</String></Pair>
-				<Pair key="info"><String>248</String></Pair>
+				<Pair key="info"><String>235 items</String></Pair>
 			</Table>
 			<Table key="theme_downloader_in">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/theme.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_themes_in</String></Pair>
-				<Pair key="info"><String>210</String></Pair>
+				<Pair key="info"><String>195 items</String></Pair>
 			</Table>
 			<Table key="theme_downloader_os">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/theme.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_themes_os</String></Pair>
-				<Pair key="info"><String>204</String></Pair>
+				<Pair key="info"><String>190 items</String></Pair>
 			</Table>
 			<Table key="theme_downloader_tz">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/theme.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_themes_tz</String></Pair>
-				<Pair key="info"><String>125</String></Pair>
+				<Pair key="info"><String>114 items</String></Pair>
 			</Table>
 		</Attributes>
 		<Items>

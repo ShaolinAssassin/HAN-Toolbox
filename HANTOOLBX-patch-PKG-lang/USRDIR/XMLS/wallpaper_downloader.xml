@@ -7,57 +7,57 @@
 			<Table key="wallpaper_downloader_abstract">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/abstract_folder.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_abstract</String></Pair>
-				<Pair key="info_rsc"><String>200</String></Pair>
+				<Pair key="info"><String>200 items</String></Pair>
 			</Table>
 			<Table key="wallpaper_downloader_animals">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/animals_folder.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_animals</String></Pair>
-				<Pair key="info_rsc"><String>200</String></Pair>
+				<Pair key="info"><String>200 items</String></Pair>
 			</Table>
 			<Table key="wallpaper_downloader_cars">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/cars_folder.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_cars</String></Pair>
-				<Pair key="info_rsc"><String>200</String></Pair>
+				<Pair key="info"><String>200 items</String></Pair>
 			</Table>
 			<Table key="wallpaper_downloader_cityscapes">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/cityscapes_folder.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_cityscapes</String></Pair>
-				<Pair key="info_rsc"><String>200</String></Pair>
+				<Pair key="info"><String>200 items</String></Pair>
 			</Table>
 			<Table key="wallpaper_downloader_games">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/games_folder.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_games</String></Pair>
-				<Pair key="info_rsc"><String>200</String></Pair>
+				<Pair key="info"><String>200 items</String></Pair>
 			</Table>
 			<Table key="wallpaper_downloader_landscapes">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/landscapes_folder.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_landscapes</String></Pair>
-				<Pair key="info_rsc"><String>200</String></Pair>
+				<Pair key="info"><String>200 items</String></Pair>
 			</Table>
 			<Table key="wallpaper_downloader_love">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/love_folder.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_love</String></Pair>
-				<Pair key="info_rsc"><String>200</String></Pair>
+				<Pair key="info"><String>200 items</String></Pair>
 			</Table>
 			<Table key="wallpaper_downloader_nature">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/nature_folder.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_nature</String></Pair>
-				<Pair key="info_rsc"><String>200</String></Pair>
+				<Pair key="info"><String>200 items</String></Pair>
 			</Table>
 			<Table key="wallpaper_downloader_plain">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/plain_folder.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_plain</String></Pair>
-				<Pair key="info_rsc"><String>200</String></Pair>
+				<Pair key="info"><String>30 items</String></Pair>
 			</Table>
 			<Table key="wallpaper_downloader_space">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/space_folder.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_space</String></Pair>
-				<Pair key="info_rsc"><String>200</String></Pair>
+				<Pair key="info"><String>200 items</String></Pair>
 			</Table>
 			<Table key="wallpaper_downloader_unsorted">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/unsorted_folder.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_unsorted</String></Pair>
-				<Pair key="info_rsc"><String>200</String></Pair>
+				<Pair key="info"><String>200 items</String></Pair>
 			</Table>
 		</Attributes>
 		<Items>

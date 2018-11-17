@@ -7,27 +7,27 @@
 			<Table key="nopsn_downloader_EU">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_nopsn_eu_ver</String></Pair>
-				<Pair key="info"><String>4</String></Pair>
+				<Pair key="info"><String>4 items</String></Pair>
 			</Table>
 			<Table key="nopsn_downloader_HK">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_nopsn_hk_ver</String></Pair>
-				<Pair key="info"><String>3</String></Pair>
+				<Pair key="info"><String>3 items</String></Pair>
 			</Table>
 			<Table key="nopsn_downloader_JP">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_nopsn_jp_ver</String></Pair>
-				<Pair key="info"><String>0</String></Pair>
+				<Pair key="info"><String>0 item</String></Pair>
 			</Table>
 			<Table key="nopsn_downloader_US">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_nopsn_us_ver</String></Pair>
-				<Pair key="info"><String>6</String></Pair>
+				<Pair key="info"><String>6 items</String></Pair>
 			</Table>
 			<Table key="nopsn_downloader_int">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_nopsn_int_ver</String></Pair>
-				<Pair key="info"><String>1</String></Pair>
+				<Pair key="info"><String>1 item</String></Pair>
 			</Table>
 		</Attributes>
 		<Items>
