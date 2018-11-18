@@ -1,5 +1,12 @@
 # HAN-Toolbox-v0.6-beta
 
+## New in v0.6 : 
+* HAN Enabler, Soft Reboot and Debug Packages Enabler (CEX only) offline codes,
+* New xRegistry.sys Operations (Backup/Restore System Settings) added,
+* Demo Downloader updated,
+* NoPSN Apps Downloader added,
+* Multi-language support added.
+
 ## Superlite Version (HANTOOLBX-SUPERLITE folder) : 
 * uses XMB default icons, 
 * no multi-language support, 

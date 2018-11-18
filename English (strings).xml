@@ -175,6 +175,8 @@
 	<Text name="han_toolbox_update_info">Download and install the latest Toolbox package and reboot after</Text>
 	<Text name="han_toolbox_resources">Download Toolbox Resources</Text>
 	<Text name="han_toolbox_resources_info">Download and install the HAN Toolbox resource package (41 MB) and reboot after</Text>
+	<Text name="han_toolbox_delete_resources">Uninstall Toolbox Resources</Text>
+	<Text name="han_toolbox_delete_resources_info">Uninstall the HAN Toolbox resource package and reboot after</Text>
 	<Text name="han_toolbox_version">Version: 0.6</Text>
 	<Text name="han_toolbox_credits">By DeViL303, Pink1, esc0rtd3w, Berion, ShaolinAssassin, Demon Hades and lmn7
 	Massive thanks to the PS3Xploit Team for all the hacks</Text>
@@ -195,6 +197,13 @@
 	<Text name="han_toolbox_restore_toolbox">Step 3: Restore English HAN Toolbox</Text>
 	<Text name="han_toolbox_restore_toolbox_info">Download and install HAN Toolbox and reboot after</Text-->
 	
+<!-- Resources Uninstaller -->
+
+	<Text name="han_toolbox_delete_resources_icons_folder">Step 1: Delete Resources icons folders</Text>
+	<Text name="han_toolbox_delete_resources_icons_folder_info">Press  to acces HAN Toolbox images folder and unlink (folder) all *_icons folders</Text>
+	<Text name="han_toolbox_delete_resources_xmls">Step 2: Delete Resources XML files</Text>
+	<Text name="han_toolbox_delete_resources_xmls_info">Press  to acces HAN Toolbox XML folder and unlink all *.xml files</Text>
+
 <!-- server_setup.templet -->
 	
 	<Text name="han_toolbox_server_setup">Server Setup</Text>
@@ -269,7 +278,6 @@
 	<Text name="han_toolbox_cars">Cars</Text>
 	<Text name="han_toolbox_cityscapes">Cityscapes</Text>
 	<Text name="han_toolbox_games">Games</Text>
-	<Text name="han_toolbox_girls">Girls</Text>
 	<Text name="han_toolbox_landscapes">Landscapes</Text>
 	<Text name="han_toolbox_love">Love</Text>
 	<Text name="han_toolbox_nature">Nature</Text>
