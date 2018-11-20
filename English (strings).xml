@@ -165,42 +165,54 @@
 	<Text name="han_toolbox_nopsn_downloader">NoPSN Apps Downloader</Text>
 	<Text name="han_toolbox_nopsn_downloader_info">Download and install NoPSN HAN compatible Apps (pkg)</Text>
 	
-<!-- Toolbox Update / About -->	
+<!-- Toolbox Multi Lang / Resources / Update / About -->
 
-	<!--Text name="han_toolbox_install_lang">Install Multi Language support</Text>
-	<Text name="han_toolbox_lang_install_info">Download and install the lang resources and reboot after</Text-->
-	<!--Text name="han_toolbox_uninstall_lang">Uninstall Multi Language support</Text>
-	<Text name="han_toolbox_lang_uninstall_info">Restore English language and reboot after</Text-->
+	<Text name="han_toolbox_lang">Toolbox Multi Language Support</Text>
+	<Text name="han_toolbox_lang_info">Install / Uninstall the HAN Toolbox lang resources files</Text>
+	<Text name="han_toolbox_resources">Toolbox Resources</Text>
+	<Text name="han_toolbox_resources_info">Install / Uninstall the HAN Toolbox resource package</Text>
 	<Text name="han_toolbox_update">Update Toolbox</Text>
 	<Text name="han_toolbox_update_info">Download and install the latest Toolbox package and reboot after</Text>
-	<Text name="han_toolbox_resources">Download Toolbox Resources</Text>
-	<Text name="han_toolbox_resources_info">Download and install the HAN Toolbox resource package (41 MB) and reboot after</Text>
-	<Text name="han_toolbox_delete_resources">Uninstall Toolbox Resources</Text>
-	<Text name="han_toolbox_delete_resources_info">Uninstall the HAN Toolbox resource package and reboot after</Text>
 	<Text name="han_toolbox_version">Version: 0.6</Text>
 	<Text name="han_toolbox_credits">By DeViL303, Pink1, esc0rtd3w, Berion, ShaolinAssassin, Demon Hades and lmn7
-	Massive thanks to the PS3Xploit Team for all the hacks</Text>
+	Massive thanks to the PS3Xploit Team for all the hacks</Text>	
+	
+<!-- Toolbox Multi Lang -->	
 
-<!-- Toolbox Multi Language support -->
+	<Text name="han_toolbox_install_lang">Install Multi Language support</Text>
+	<Text name="han_toolbox_lang_install_info">Download and install the lang resources and reboot after</Text>
+	<Text name="han_toolbox_uninstall_lang">Uninstall Multi Language support</Text>
+	<Text name="han_toolbox_lang_uninstall_info">Restore English language and reboot after</Text>
 
-	<!--Text name="han_toolbox_download_lang_rco">Step 1: Download lang RCO file</Text>
+<!-- Install Multi Language -->
+
+	<Text name="han_toolbox_download_lang_rco">Step 1: Download lang RCO file</Text>
 	<Text name="han_toolbox_download_lang_rco_info">Download explore_plugin_full.rco to HANTOOLBX/USRDIR/files/ ready for installation</Text>
 	<Text name="han_toolbox_inject_lang_rco">Step 2: Inject lang RCO file</Text>
 	<Text name="han_toolbox_inject_lang_rco_info">Copy downloaded explore_plugin_full.rco from HANTOOLBX/USRDIR/files to dev_flash/vsh/resource/*.rco</Text>
 	<Text name="han_toolbox_download_patch_file">Step 3: Download and install patch PKG file</Text>
-	<Text name="han_toolbox_download_patch_file_info">Download and install patch PKG file and reboot after</Text-->
+	<Text name="han_toolbox_download_patch_file_info">Download and install patch PKG file and reboot after</Text>
 	
-	<!--Text name="han_toolbox_download_original_lang_rco">Step 1: Download original lang RCO file</Text>
+<!-- Uninstall Multi Language -->	
+
+	<Text name="han_toolbox_download_original_lang_rco">Step 1: Download original lang RCO file</Text>
 	<Text name="han_toolbox_download_original_lang_rco_info">Download explore_plugin_full.rco to HANTOOLBX/USRDIR/files/ ready for installation</Text>
 	<Text name="han_toolbox_inject_original_lang_rco">Step 2: Restore original lang RCO file</Text>
 	<Text name="han_toolbox_inject_original_lang_rco_info">Copy original downloaded explore_plugin_full.rco from HANTOOLBX/USRDIR/files to dev_flash/vsh/resource/*.rco</Text>
 	<Text name="han_toolbox_restore_toolbox">Step 3: Restore English HAN Toolbox</Text>
-	<Text name="han_toolbox_restore_toolbox_info">Download and install HAN Toolbox and reboot after</Text-->
+	<Text name="han_toolbox_restore_toolbox_info">Download and install HAN Toolbox and reboot after</Text>
+
+<!-- Toolbox Resources -->
 	
+	<Text name="han_toolbox_install_resources">Download Toolbox Resources</Text>
+	<Text name="han_toolbox_install_resources_info">Download and install the HAN Toolbox resource package (41 MB) and reboot after</Text>
+	<Text name="han_toolbox_delete_resources">Uninstall Toolbox Resources</Text>
+	<Text name="han_toolbox_delete_resources_info">Uninstall the HAN Toolbox resource package and reboot after</Text>
+
 <!-- Resources Uninstaller -->
 
-	<Text name="han_toolbox_delete_resources_icons_folder">Step 1: Delete Resources icons folders</Text>
-	<Text name="han_toolbox_delete_resources_icons_folder_info">Press  to acces HAN Toolbox images folder and unlink (folder) all *_icons folders</Text>
+	<Text name="han_toolbox_delete_resources_icons_folders">Step 1: Delete Resources icons folders</Text>
+	<Text name="han_toolbox_delete_resources_icons_folders_info">Press  to acces HAN Toolbox images folder and unlink (folder) all *_icons folders</Text>
 	<Text name="han_toolbox_delete_resources_xmls">Step 2: Delete Resources XML files</Text>
 	<Text name="han_toolbox_delete_resources_xmls_info">Press  to acces HAN Toolbox XML folder and unlink all *.xml files</Text>
 

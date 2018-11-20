@@ -664,7 +664,7 @@
 			</Items>
 		</View>
 		
-<!-- File inejctor Cert Submenu -->
+<!-- File injector Cert Submenu -->
 		
 		<View id="han_inject_remove_cert_items"> 
 		<Attributes> 
@@ -925,31 +925,26 @@
 			<Query class="type:x-xmb/folder-pixmap" key="pkg_folder_root" attr="pkg_folder_root" src="xmb://localhost/dev_hdd0/game/PKGLINKER/USRDIR/pkg_folder_root.xml#pkg_items"/>
 			<Query class="type:x-xmb/folder-pixmap" key="pkg_folder_old" attr="pkg_folder_old" src="xmb://localhost/dev_hdd0/game/PKGLINKER/USRDIR/package_link.xml#package_link_game"/>
 			</Items>
-		</View>
+		</View>		
 		
-<!-- Toolbox Update / About -->
+<!-- Toolbox Multi Lang / Resources / Update / About -->
 		
 		<View id="han_toolbox_setup_main"> 
 		<Attributes>
-			<Table key="han_toolbox_install_lang">
+			<Table key="han_toolbox_lang">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/update.png</String></Pair>
-				<Pair key="title"><String>Install Multi Language support</String></Pair>
-				<Pair key="info"><String>Download and install the lang resources and reboot after</String></Pair>
+				<Pair key="title"><String>Toolbox Multi Language support</String></Pair>
+				<Pair key="info"><String>Install / Uninstall the HAN Toolbox lang resources files</String></Pair>
+			</Table>
+			<Table key="han_toolbox_resources">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/update.png</String></Pair>
+				<Pair key="title"><String>Toolbox Resources</String></Pair>
+				<Pair key="info"><String>Install / Uninstall  the HAN Toolbox resource package</String></Pair>
 			</Table>
 			<Table key="han_toolbox_update">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/update.png</String></Pair>
 				<Pair key="title"><String>Update Toolbox</String></Pair>
 				<Pair key="info"><String>Download and install the latest Toolbox package and reboot after</String></Pair>
-			</Table>
-			<Table key="han_toolbox_resources">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/update.png</String></Pair>
-				<Pair key="title"><String>Download Toolbox Resources</String></Pair>
-				<Pair key="info"><String>Download and install the HAN Toolbox resource package (41 MB) and reboot after</String></Pair>
-			</Table>
-			<Table key="han_toolbox_delete_resources">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/update.png</String></Pair>
-				<Pair key="title"><String>Uninstall Toolbox Resources</String></Pair>
-				<Pair key="info"><String>Uninstall the HAN Toolbox resource package and reboot after</String></Pair>
 			</Table>
 			<Table key="han_toolbox_about">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/list.png</String></Pair>
@@ -961,15 +956,9 @@
 			<Items>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
-				key="han_toolbox_install_lang" 
-				attr="han_toolbox_install_lang"
-				src="#han_toolbox_install_lang_main"
-				/>
-			<Query 
-				class="type:x-xmb/folder-pixmap" 
-				key="han_toolbox_update" 
-				attr="han_toolbox_update"
-				src="#han_toolbox_update_main"
+				key="han_toolbox_lang" 
+				attr="han_toolbox_lang"
+				src="#han_toolbox_lang_main"
 				/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
@@ -979,55 +968,50 @@
 				/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
-				key="han_toolbox_delete_resources" 
-				attr="han_toolbox_delete_resources"
-				src="#han_toolbox_delete_resources_main"
+				key="han_toolbox_update" 
+				attr="han_toolbox_update"
+				src="#han_toolbox_update_main"
 				/>
 			<Query 
 				class="type:x-xmb/module-action"
 				key="han_toolbox_about"
 				attr="han_toolbox_about"
-				/>
+					/>
 			</Items>
 		</View>
-		
-<!-- Toolbox Updater -->
-		
-		<View id="han_toolbox_update_main">
-		<Attributes>
-			<Table key="han_toolbox_update_item">
-				<Pair key="info"><String>net_package_install</String></Pair>
-				<Pair key="pkg_src"><String>http://dl.dropboxusercontent.com/s/5w8yvfmor1lhgp4/Latest_HAN_Toolbox_CEX.pkg</String></Pair>
-				<Pair key="pkg_src_qa"><String>http://dl.dropboxusercontent.com/s/5w8yvfmor1lhgp4/Latest_HAN_Toolbox_CEX.pkg</String></Pair>
-				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
-				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair>
-				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/update.png</String></Pair>
- 			</Table> 
-		</Attributes> 
-			<Items>
-			<Item class="type:x-xmb/xmlnpsignup" key="han_toolbox_update_item" attr="han_toolbox_update_item"/>
-		</Items> 
-		</View> 
 
-<!-- Resource Downloader -->
-		
-		<View id="han_toolbox_resources_main">
+<!-- Toolbox Multi Lang -->
+
+		<View id="han_toolbox_lang_main"> 
 		<Attributes>
-			<Table key="han_toolbox_resources_item">
-				<Pair key="info"><String>net_package_install</String></Pair>
-				<Pair key="pkg_src"><String>http://dl.dropboxusercontent.com/s/p29cxn3c984ik48/HAN_Toolbox_Resources.pkg</String></Pair>
-				<Pair key="pkg_src_qa"><String>http://dl.dropboxusercontent.com/s/p29cxn3c984ik48/HAN_Toolbox_Resources.pkg</String></Pair>
-				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
-				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair>
-				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/update.png</String></Pair>
- 			</Table> 
-		</Attributes> 
+			<Table key="han_toolbox_install_lang">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/update.png</String></Pair>
+				<Pair key="title"><String>Install Multi Language support</String></Pair>
+				<Pair key="info"><String>Download and install the lang resources and reboot after</String></Pair>
+			</Table>
+			<Table key="han_toolbox_uninstall_lang">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/update.png</String></Pair>
+				<Pair key="title"><String>Uninstall Multi Language support</String></Pair>
+				<Pair key="info"><String>Restore English language and reboot after</String></Pair>
+			</Table>
+		</Attributes>
 			<Items>
-			<Item class="type:x-xmb/xmlnpsignup" key="han_toolbox_resources_item" attr="han_toolbox_resources_item"/>
-		</Items> 
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_toolbox_install_lang" 
+				attr="han_toolbox_install_lang"
+				src="#han_toolbox_install_lang_main"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_toolbox_uninstall_lang" 
+				attr="han_toolbox_uninstall_lang"
+				src="#han_toolbox_uninstall_lang_main"
+			/>
+			</Items>
 		</View>
 
-<!-- Toolbox Multi Language support -->
+<!-- Install Multi Language -->
 		
 		<View id="han_toolbox_install_lang_main"> 
 		<Attributes> 
@@ -1085,11 +1069,11 @@
 		</Attributes> 
 			<Items>
 			<Item class="type:x-xmb/xmlnpsignup" key="han_download_lang_rco_item" attr="han_download_lang_rco_item"/>
-		</Items> 
+			</Items> 
 		</View>
 		
 <!-- Download lang patch PKG file -->
-				
+			
 		<View id="han_download_patch_file_main">
 		<Attributes>
 			<Table key="han_download_patch_file_item">
@@ -1103,11 +1087,121 @@
 		</Attributes> 
 			<Items>
 			<Item class="type:x-xmb/xmlnpsignup" key="han_download_patch_file_item" attr="han_download_patch_file_item"/>
-		</Items> 
+			</Items> 
 		</View>		
 
-<!-- Resources Uninstaller -->
+<!-- Uninstall Multi Language -->
+
+		<View id="han_toolbox_uninstall_lang_main"> 
+		<Attributes> 
+			<Table key="han_download_original_lang_rco">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/download.png</String></Pair>
+				<Pair key="title_rsc"><String>Step 1: Download original lang RCO file</String></Pair>
+				<Pair key="info_rsc"><String>Download explore_plugin_full.rco to HANTOOLBX/USRDIR/files/ ready for installation</String></Pair>
+			</Table>
+			<Table key="han_inject_original_lang_rco">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/inj_rco.png</String></Pair>
+				<Pair key="title_rsc"><String>Step 2: Restore original lang RCO file</String></Pair>
+				<Pair key="info_rsc"><String>Copy original downloaded explore_plugin_full.rco from HANTOOLBX/USRDIR/files to dev_flash/vsh/resource/*.rco</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://ps3xploit.com/flash_rco_replacer/flash_rco_replacer.html</String></Pair>
+			</Table>
+			<Table key="han_restore_toolbox">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/download.png</String></Pair>
+				<Pair key="title_rsc"><String>Step 3: Restore English HAN Toolbox</String></Pair>
+				<Pair key="info_rsc"><String>Download and install HAN Toolbox and reboot after</String></Pair>
+			</Table>
+		</Attributes>
+			<Items>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_download_original_lang_rco" 
+				attr="han_download_original_lang_rco"
+				src="#han_download_original_lang_rco_main"
+			/>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_inject_original_lang_rco"
+				attr="han_inject_original_lang_rco"
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_restore_toolbox" 
+				attr="han_restore_toolbox"
+				src="#han_toolbox_update_main"
+			/>
+			</Items> 
+		</View>
+
+<!-- Download **ORIGINAL** lang RCO file -->
 		
+		<View id="han_download_original_lang_rco_main">
+		<Attributes>
+			<Table key="han_download_original_lang_rco_item">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>??????????????????????????</String></Pair>
+				<Pair key="pkg_src_qa"><String>??????????????????????????</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/download.png</String></Pair>
+ 			</Table> 
+		</Attributes> 
+			<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="han_download_original_lang_rco_main" attr="han_download_original_lang_rco_main"/>
+			</Items> 
+		</View>
+
+<!-- Toolbox Resources -->
+
+		<View id="han_toolbox_resources_main"> 
+		<Attributes>
+			<Table key="han_toolbox_install_resources">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/update.png</String></Pair>
+				<Pair key="title"><String>Download Toolbox Resources</String></Pair>
+				<Pair key="info"><String>Download and install the HAN Toolbox resource package (?? MB) and reboot after</String></Pair>
+			</Table>
+			<Table key="han_toolbox_delete_resources">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/update.png</String></Pair>
+				<Pair key="title"><String>Uninstall Toolbox Resources</String></Pair>
+				<Pair key="info"><String>Uninstall the HAN Toolbox resource package and reboot after</String></Pair>
+			</Table>
+		</Attributes>
+			<Items>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_toolbox_install_resources" 
+				attr="han_toolbox_install_resources"
+				src="#han_toolbox_install_resources_main"
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_toolbox_delete_resources" 
+				attr="han_toolbox_delete_resources"
+				src="#han_toolbox_delete_resources_main"
+			/>
+			</Items>
+		</View>
+
+<!-- Resources Downloader -->
+			
+		<View id="han_toolbox_install_resources_main">
+		<Attributes>
+			<Table key="han_toolbox_install_resources_item">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://dl.dropboxusercontent.com/s/p29cxn3c984ik48/HAN_Toolbox_Resources.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://dl.dropboxusercontent.com/s/p29cxn3c984ik48/HAN_Toolbox_Resources.pkg</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/update.png</String></Pair>
+ 			</Table> 
+		</Attributes> 
+			<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="han_toolbox_install_resources_item" attr="han_toolbox_install_resources_item"/>
+			</Items> 
+		</View>
+
+<!-- Resources Uninstaller -->
+			
 		<View id="han_toolbox_delete_resources_main"> 
 		<Attributes>
 			<Table key="han_toolbox_delete_resources_icons_folder">
@@ -1135,6 +1229,24 @@
 				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/"
 				/>
 			</Items>
+		</View>		
+		
+<!-- Toolbox Updater -->
+		
+		<View id="han_toolbox_update_main">
+		<Attributes>
+			<Table key="han_toolbox_update_item">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://dl.dropboxusercontent.com/s/5w8yvfmor1lhgp4/Latest_HAN_Toolbox_CEX.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://dl.dropboxusercontent.com/s/5w8yvfmor1lhgp4/Latest_HAN_Toolbox_CEX.pkg</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/update.png</String></Pair>
+			</Table> 
+		</Attributes> 
+			<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="han_toolbox_update_item" attr="han_toolbox_update_item"/>
+			</Items> 
 		</View>
-			
+	
 </XMBML>
