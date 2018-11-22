@@ -228,7 +228,7 @@
 			<Table key="han_toolbox_setup">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/setup.png</String></Pair>
 				<Pair key="title"><String>Toolbox Settings</String></Pair>
-				<Pair key="info"><String>Version info, Resource download, Updates</String></Pair>
+				<Pair key="info"><String>Version info, Resources download, Updates</String></Pair>
 			</Table>
 		</Attributes>
 			<Items>
@@ -900,8 +900,7 @@
 		
 		<View id="pkg_linker_items"> 
 			<Items>
-			<Query class="type:x-xmb/folder-pixmap" key="server_setup" attr="server_setup" src="xmb://localhost/dev_hdd0/game/PKGLINKER/USRDIR/server_setup.xml#server_setup_items"/>
-			
+			<Query class="type:x-xmb/folder-pixmap" key="server_setup" attr="server_setup" src="xmb://localhost/dev_hdd0/game/PKGLINKER/USRDIR/server_setup.xml#server_setup_items"/>			
 			<Query class="type:x-xmb/folder-pixmap" key="pkg_folder_1" attr="pkg_folder_1" src="xmb://localhost/dev_hdd0/game/PKGLINKER/USRDIR/pkg_folder_1.xml#package_link_game"/>
 			<Query class="type:x-xmb/folder-pixmap" key="pkg_folder_2" attr="pkg_folder_2" src="xmb://localhost/dev_hdd0/game/PKGLINKER/USRDIR/pkg_folder_2.xml#package_link_game"/>
 			<Query class="type:x-xmb/folder-pixmap" key="pkg_folder_3" attr="pkg_folder_3" src="xmb://localhost/dev_hdd0/game/PKGLINKER/USRDIR/pkg_folder_3.xml#package_link_game"/>
@@ -939,7 +938,7 @@
 			<Table key="han_toolbox_resources">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/update.png</String></Pair>
 				<Pair key="title"><String>Toolbox Resources</String></Pair>
-				<Pair key="info"><String>Install / Uninstall  the HAN Toolbox resource package</String></Pair>
+				<Pair key="info"><String>Install / Uninstall  the HAN Toolbox resources package</String></Pair>
 			</Table>
 			<Table key="han_toolbox_update">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/update.png</String></Pair>
@@ -1096,13 +1095,13 @@
 		<Attributes> 
 			<Table key="han_download_original_lang_rco">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/download.png</String></Pair>
-				<Pair key="title_rsc"><String>Step 1: Download original lang RCO file</String></Pair>
-				<Pair key="info_rsc"><String>Download explore_plugin_full.rco to HANTOOLBX/USRDIR/files/ ready for installation</String></Pair>
+				<Pair key="title"><String>Step 1: Download original lang RCO file</String></Pair>
+				<Pair key="info"><String>Download explore_plugin_full.rco to HANTOOLBX/USRDIR/files/ ready for installation</String></Pair>
 			</Table>
 			<Table key="han_inject_original_lang_rco">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/inj_rco.png</String></Pair>
-				<Pair key="title_rsc"><String>Step 2: Restore original lang RCO file</String></Pair>
-				<Pair key="info_rsc"><String>Copy original downloaded explore_plugin_full.rco from HANTOOLBX/USRDIR/files to dev_flash/vsh/resource/*.rco</String></Pair>
+				<Pair key="title"><String>Step 2: Restore original lang RCO file</String></Pair>
+				<Pair key="info"><String>Copy original downloaded explore_plugin_full.rco from HANTOOLBX/USRDIR/files to dev_flash/vsh/resource/*.rco</String></Pair>
 				<Pair key="module_name"><String>webrender_plugin</String></Pair>
 				<Pair key="module_action"><String>http://ps3xploit.com/flash_rco_replacer/flash_rco_replacer.html</String></Pair>
 			</Table>
@@ -1158,12 +1157,12 @@
 			<Table key="han_toolbox_install_resources">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/update.png</String></Pair>
 				<Pair key="title"><String>Download Toolbox Resources</String></Pair>
-				<Pair key="info"><String>Download and install the HAN Toolbox resource package (?? MB) and reboot after</String></Pair>
+				<Pair key="info"><String>Download and install the HAN Toolbox resources package (?? MB) and reboot after</String></Pair>
 			</Table>
 			<Table key="han_toolbox_delete_resources">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/update.png</String></Pair>
 				<Pair key="title"><String>Uninstall Toolbox Resources</String></Pair>
-				<Pair key="info"><String>Uninstall the HAN Toolbox resource package and reboot after</String></Pair>
+				<Pair key="info"><String>Uninstall the HAN Toolbox resources package and reboot after</String></Pair>
 			</Table>
 		</Attributes>
 			<Items>
@@ -1220,13 +1219,13 @@
 				class="type:x-xmb/folder-pixmap" 
 				key="han_toolbox_delete_resources_icons_folder" 
 				attr="han_toolbox_delete_resources_icons_folder"
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/"
+				src="host://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/"
 				/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
 				key="han_toolbox_delete_resources_xmls" 
 				attr="han_toolbox_delete_resources_xmls"
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/"
+				src="host://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/"
 				/>
 			</Items>
 		</View>		

@@ -45,7 +45,7 @@
 	<Text name="han_toolbox_dex_xmb_setup">DEX XMB Setup</Text>
 	<Text name="han_toolbox_dex_xmb_setup_info">Add/Remove DEX settings etc (Be careful)</Text>
 	<Text name="han_toolbox_settings">Toolbox Settings</Text>
-	<Text name="han_toolbox_settings_info">Version info, Resource download, Updates</Text>
+	<Text name="han_toolbox_settings_info">Version info, Resources download, Updates</Text>
 
 <!-- Main HAN functions Online CEX -->
 
@@ -149,8 +149,8 @@
 
 	<Text name="han_toolbox_dump_xregistry">Dump xRegistry.sys</Text>
 	<Text name="han_toolbox_dump_xregistry_info">Copy xRegistry.sys from dev_flash2/etc/ to USB</Text>
-	<Text name="han_inject_xregistry">Inject xRegistry.sys</Text>
-	<Text name="han_inject_xregistry_info">Copy xRegistry.sys from USB to dev_flash2/etc/</Text>
+	<Text name="han_toolbox_inject_xregistry">Inject xRegistry.sys</Text>
+	<Text name="han_toolbox_inject_xregistry_info">Copy xRegistry.sys from USB to dev_flash2/etc/</Text>
 
 <!-- External Content Submenu -->
 	
@@ -170,7 +170,7 @@
 	<Text name="han_toolbox_lang">Toolbox Multi Language Support</Text>
 	<Text name="han_toolbox_lang_info">Install / Uninstall the HAN Toolbox lang resources files</Text>
 	<Text name="han_toolbox_resources">Toolbox Resources</Text>
-	<Text name="han_toolbox_resources_info">Install / Uninstall the HAN Toolbox resource package</Text>
+	<Text name="han_toolbox_resources_info">Install / Uninstall the HAN Toolbox resources package</Text>
 	<Text name="han_toolbox_update">Update Toolbox</Text>
 	<Text name="han_toolbox_update_info">Download and install the latest Toolbox package and reboot after</Text>
 	<Text name="han_toolbox_version">Version: 0.6</Text>
@@ -205,9 +205,9 @@
 <!-- Toolbox Resources -->
 	
 	<Text name="han_toolbox_install_resources">Download Toolbox Resources</Text>
-	<Text name="han_toolbox_install_resources_info">Download and install the HAN Toolbox resource package (41 MB) and reboot after</Text>
+	<Text name="han_toolbox_install_resources_info">Download and install the HAN Toolbox resources package (41 MB) and reboot after</Text>
 	<Text name="han_toolbox_delete_resources">Uninstall Toolbox Resources</Text>
-	<Text name="han_toolbox_delete_resources_info">Uninstall the HAN Toolbox resource package and reboot after</Text>
+	<Text name="han_toolbox_delete_resources_info">Uninstall the HAN Toolbox resources package and reboot after</Text>
 
 <!-- Resources Uninstaller -->
 
