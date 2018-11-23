@@ -81,7 +81,7 @@
 				<Pair key="info_rsc"><String>han_toolbox_external_content_info</String></Pair>
 			</Table>
 			<Table key="han_advanced_menu">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/setup.png</String></Pair>
+				<Pair key="icon"><String>http://raw.githubusercontent.com/ShaolinAssassin/HAN-Toolbox/master/update_status/v0.6-setup.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_advanced_tools</String></Pair>
 				<Pair key="info_rsc"><String>han_toolbox_advanced_tools_info</String></Pair>
 			</Table>
@@ -163,7 +163,7 @@
 				<Pair key="info_rsc"><String>han_toolbox_external_content_info</String></Pair>
 			</Table>
 			<Table key="han_advanced_menu">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/setup.png</String></Pair>
+				<Pair key="icon"><String>http://raw.githubusercontent.com/ShaolinAssassin/HAN-Toolbox/master/update_status/v0.6-setup.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_advanced_tools</String></Pair>
 				<Pair key="info_rsc"><String>han_toolbox_advanced_tools_info</String></Pair>
 			</Table>
@@ -226,7 +226,7 @@
 				<Pair key="info_rsc"><String>han_toolbox_dex_xmb_setup_info</String></Pair>
 			</Table>
 			<Table key="han_toolbox_setup">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/setup.png</String></Pair>
+				<Pair key="icon"><String>http://raw.githubusercontent.com/ShaolinAssassin/HAN-Toolbox/master/update_status/v0.6-setup.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_settings</String></Pair>
 				<Pair key="info_rsc"><String>han_toolbox_settings_info</String></Pair>
 			</Table>
@@ -941,7 +941,7 @@
 				<Pair key="info_rsc"><String>han_toolbox_resources_info</String></Pair>
 			</Table>
 			<Table key="han_toolbox_update">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/update.png</String></Pair>
+				<Pair key="icon"><String>http://raw.githubusercontent.com/ShaolinAssassin/HAN-Toolbox/master/update_status/v0.6-update.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_update</String></Pair>
 				<Pair key="info_rsc"><String>han_toolbox_update_info</String></Pair>
 			</Table>
