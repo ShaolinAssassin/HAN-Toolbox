@@ -1017,11 +1017,25 @@
 			<Table key="han_toolbox_check_lang_item">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/update.png</String></Pair>
 				<Pair key="title"><String>Before installing your langugage, check below if a translation exists for it :</String></Pair>
-				<Pair key="info"><String>
-
-				
-				
-				If your language is listed, press  to proceed installation.</String></Pair>
+				<Pair key="info"><String>Chinese (Simplified): Not yet
+				Chinese (Traditional): Not yet
+				Danish: Not yet
+				Dutch: Not yet
+				Finnish: Not yet
+				French: Not yet
+				German: Not yet
+				Italian: Not yet
+				Japanese: Not yet
+				Korean: Not yet
+				Norwegian: Not yet
+				Polish: Not yet
+				Portuguese (Brazil): Not yet
+				Portuguese (Portugal): Not yet
+				Russian: Not yet
+				Spanish (Spain): Not yet
+				Swedish: Not yet
+				Turkish: Not yet
+				If your language is listed, press  to proceed installation</String></Pair>
 			</Table>
 		</Attributes>
 			<Items>
