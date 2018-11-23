@@ -999,7 +999,7 @@
 				class="type:x-xmb/folder-pixmap" 
 				key="han_toolbox_install_lang" 
 				attr="han_toolbox_install_lang"
-				src="#han_toolbox_install_lang_main"
+				src="#han_toolbox_check_lang_main"
 				/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
@@ -1010,26 +1010,66 @@
 			</Items>
 		</View>
 
+<!-- Check if lang res exists -->
+
+		<View id="han_toolbox_check_lang_main"> 
+		<Attributes>
+			<Table key="han_toolbox_check_lang_item">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/update.png</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_check_lang_item</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_check_lang_item_info
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				</String></Pair>
+			</Table>
+		</Attributes>
+			<Items>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_toolbox_check_lang_item" 
+				attr="han_toolbox_check_lang_item"
+				src="#han_toolbox_install_lang_main"
+				/>
+			</Items>
+		</View>		
+		
 <!-- Install Multi Language -->
 		
 		<View id="han_toolbox_install_lang_main"> 
 		<Attributes> 
 			<Table key="han_download_lang_rco">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/download.png</String></Pair>
-				<Pair key="title_rsc"><String>han_download_lang_rco</String></Pair>
-				<Pair key="info_rsc"><String>han_download_lang_rco_info</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_download_lang_rco</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_download_lang_rco_info</String></Pair>
 			</Table>
 			<Table key="han_inject_lang_rco">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/inj_rco.png</String></Pair>
-				<Pair key="title_rsc"><String>han_inject_lang_rco</String></Pair>
-				<Pair key="info_rsc"><String>han_inject_lang_rco_info</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_inject_lang_rco</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_inject_lang_rco_info</String></Pair>
 				<Pair key="module_name"><String>webrender_plugin</String></Pair>
 				<Pair key="module_action"><String>http://ps3xploit.com/flash_rco_replacer/flash_rco_replacer.html</String></Pair>
 			</Table>
 			<Table key="han_download_patch_file">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/download.png</String></Pair>
-				<Pair key="title_rsc"><String>han_download_patch_file</String></Pair>
-				<Pair key="info_rsc"><String>han_download_patch_file_info</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_download_patch_file</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_download_patch_file_info</String></Pair>
 			</Table>
 		</Attributes>
 			<Items>
@@ -1100,15 +1140,15 @@
 			</Table>
 			<Table key="han_inject_original_lang_rco">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/inj_rco.png</String></Pair>
-				<Pair key="title_rsc"><String>han_inject_original_lang_rco</String></Pair>
-				<Pair key="info_rsc"><String>han_inject_original_lang_rco_info</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_inject_original_lang_rco</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_inject_original_lang_rco_info</String></Pair>
 				<Pair key="module_name"><String>webrender_plugin</String></Pair>
 				<Pair key="module_action"><String>http://ps3xploit.com/flash_rco_replacer/flash_rco_replacer.html</String></Pair>
 			</Table>
 			<Table key="han_restore_toolbox">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/download.png</String></Pair>
-				<Pair key="title_rsc"><String>han_restore_toolbox</String></Pair>
-				<Pair key="info_rsc"><String>han_restore_toolbox_info</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_restore_toolbox</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_restore_toolbox_info</String></Pair>
 			</Table>
 		</Attributes>
 			<Items>

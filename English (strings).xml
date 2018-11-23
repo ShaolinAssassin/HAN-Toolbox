@@ -180,9 +180,37 @@
 <!-- Toolbox Multi Lang -->	
 
 	<Text name="han_toolbox_install_lang">Install Multi Language support</Text>
-	<Text name="han_toolbox_lang_install_info">Download and install the lang resources and reboot after</Text>
+	<Text name="han_toolbox_install_lang_info">Download and install the lang resources and reboot after</Text>
 	<Text name="han_toolbox_uninstall_lang">Uninstall Multi Language support</Text>
-	<Text name="han_toolbox_lang_uninstall_info">Restore English language and reboot after</Text>
+	<Text name="han_toolbox_uninstall_lang_info">Restore English language and reboot after</Text>
+	
+<!-- Check if lang res exists -->
+
+	<Text name="han_toolbox_check_lang_item">Before installing your langugage, check below if a translation exists for it :</Text>
+	<Text name="han_toolbox_check_lang_item_info">
+	Chinese (Simplified):
+	Chinese (Traditional):
+	Danish:
+	Dutch:
+	Finnish:
+	French:
+	German:
+	Italian:
+	Japanese:
+	Korean:
+	Norwegian:
+	Polish:
+	Portuguese (Brazil):
+	Portuguese (Portugal):
+	Russian:
+	Spanish (Spain):
+	Swedish:
+	Turkish:
+	
+	If your language is listed, press  to proceed installation</Text>
+/// <Text name="han_toolbox_yes">Yes</Text>
+/// <Text name="han_toolbox_notyet">Not yet</Text>
+/// <Text name="han_toolbox_translationby">(translation by %name%)</Text> /// Do not translate %name%
 
 <!-- Install Multi Language -->
 

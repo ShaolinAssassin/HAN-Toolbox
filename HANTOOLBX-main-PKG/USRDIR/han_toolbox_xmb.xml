@@ -999,7 +999,7 @@
 				class="type:x-xmb/folder-pixmap" 
 				key="han_toolbox_install_lang" 
 				attr="han_toolbox_install_lang"
-				src="#han_toolbox_install_lang_main"
+				src="#han_toolbox_check_lang_main"
 				/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
@@ -1007,6 +1007,30 @@
 				attr="han_toolbox_uninstall_lang"
 				src="#han_toolbox_uninstall_lang_main"
 			/>
+			</Items>
+		</View>
+		
+<!-- Check if lang res exists -->
+
+		<View id="han_toolbox_check_lang_main"> 
+		<Attributes>
+			<Table key="han_toolbox_check_lang_item">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/update.png</String></Pair>
+				<Pair key="title"><String>Before installing your langugage, check below if a translation exists for it :</String></Pair>
+				<Pair key="info"><String>
+
+				
+				
+				If your language is listed, press  to proceed installation.</String></Pair>
+			</Table>
+		</Attributes>
+			<Items>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_toolbox_check_lang_item" 
+				attr="han_toolbox_check_lang_item"
+				src="#han_toolbox_install_lang_main"
+				/>
 			</Items>
 		</View>
 
