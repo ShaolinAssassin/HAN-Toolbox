@@ -5,7 +5,8 @@
 * New xRegistry.sys Operations (Backup/Restore System Settings) added,
 * Demo Downloader updated,
 * NoPSN Apps Downloader added,
-* Multi-language support added.
+* Multi-language support added,
+* Icon notification when update is available.
 
 ## Superlite Version (HANTOOLBX-SUPERLITE folder) : 
 * uses XMB default icons, 
