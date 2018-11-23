@@ -45,7 +45,7 @@
 	<Text name="han_toolbox_dex_xmb_setup">DEX XMB Setup</Text>
 	<Text name="han_toolbox_dex_xmb_setup_info">Add/Remove DEX settings etc (Be careful)</Text>
 	<Text name="han_toolbox_settings">Toolbox Settings</Text>
-	<Text name="han_toolbox_settings_info">Version info, Resources download, Updates</Text>
+	<Text name="han_toolbox_settings_info">Version info, Resources download, Updates, Languages</Text>
 
 <!-- Main HAN functions Online CEX -->
 

@@ -228,7 +228,7 @@
 			<Table key="han_toolbox_setup">
 				<Pair key="icon"><String>http://raw.githubusercontent.com/ShaolinAssassin/HAN-Toolbox/master/update_status/v0.6-setup.png</String></Pair>
 				<Pair key="title"><String>Toolbox Settings</String></Pair>
-				<Pair key="info"><String>Version info, Resources download, Updates</String></Pair>
+				<Pair key="info"><String>Version info, Resources download, Updates, Languages</String></Pair>
 			</Table>
 		</Attributes>
 			<Items>
