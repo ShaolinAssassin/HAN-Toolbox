@@ -1249,7 +1249,7 @@
 			<Table key="han_toolbox_delete_resources_xmls">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/?.png</String></Pair>
 				<Pair key="title"><String>Step 2: Delete Resources XML files</String></Pair>
-				<Pair key="info"><String>Press  to acces HAN Toolbox XML folder and unlink all *.xml files</String></Pair>
+				<Pair key="info"><String>Press  to acces HAN Toolbox XML folder and unlink all *.xml files, except demo_downloader.xml, nopsn_downloader.xml, theme_downloader.xml, wallpaper_downloader.xml</String></Pair>
 			</Table>
 		</Attributes>
 			<Items>

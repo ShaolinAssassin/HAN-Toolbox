@@ -242,7 +242,7 @@
 	<Text name="han_toolbox_delete_resources_icons_folders">Step 1: Delete Resources icons folders</Text>
 	<Text name="han_toolbox_delete_resources_icons_folders_info">Press  to acces HAN Toolbox images folder and unlink (folder) all *_icons folders</Text>
 	<Text name="han_toolbox_delete_resources_xmls">Step 2: Delete Resources XML files</Text>
-	<Text name="han_toolbox_delete_resources_xmls_info">Press  to acces HAN Toolbox XML folder and unlink all *.xml files</Text>
+	<Text name="han_toolbox_delete_resources_xmls_info">Press  to acces HAN Toolbox XML folder and unlink all *.xml files, except demo_downloader.xml, nopsn_downloader.xml, theme_downloader.xml, wallpaper_downloader.xml</Text>
 
 <!-- server_setup.templet -->
 	
