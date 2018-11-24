@@ -6,11 +6,11 @@
 
 <!-- Main Items CEX -->
 	
-	<Text name="han_toolbox_soft_reboot_offline">Soft Reboot (Offline)</Text>
+	<Text name="han_toolbox_soft_reboot_offline">Offline Soft Rebooter</Text>
 	<Text name="han_toolbox_reboot_info">Restart console</Text>
-	<Text name="han_toolbox_enabler_offline">Enable HAN (Offline)</Text>	
+	<Text name="han_toolbox_enabler_offline">Offline HAN Enabler</Text>	
 	<Text name="han_toolbox_enabler_info_cex">Enable custom signed packages and licenses (CEX)</Text>	
-	<Text name="han_toolbox_debug_enabler_offline">Enable Debug Packages (Offline)</Text>
+	<Text name="han_toolbox_debug_enabler_offline">Offline Debug Package Enabler</Text>
 	<Text name="han_toolbox_debug_enabler_offline_info">Enable modified retail packages (CEX)</Text>
 	<Text name="han_toolbox_functions">HAN Functions</Text>
 	<Text name="han_toolbox_functions_info">Autorun HAN functions (Official site)</Text>	
@@ -125,7 +125,7 @@
 	<Text name="han_toolbox_inject_self_bd">Inject SELF (BD Player)</Text>
 	<Text name="han_toolbox_inject_self_bd_info">Copy *.self to dev_flash/bdplayer/*.self</Text>
 	
-<!-- File inejctor Cert Submenu -->
+<!-- File injector Cert Submenu -->
 
 	<Text name="han_toolbox_inject_cert">Inject Cert (SSL Cert)</Text>
 	<Text name="han_toolbox_inject_cert_info">Copy certs to dev_flash/data/cert/*.cer</Text>
@@ -139,11 +139,11 @@
 	<Text name="han_toolbox_download_cex_files">Step 1: Download CEX Files (Retail)</Text>
 	<Text name="han_toolbox_download_cex_files_info">Download CEX 4.82 files to HANTOOLBX/USRDIR/files/ ready for installation</Text>
 	<Text name="han_toolbox_debug_settings">Step 2: Debug Settings Installer / Remover</Text>
-	<Text name="han_toolbox_debug_settings_info">Copy downloaded files from HANTOOLBX/USRDIR/files/ to dev_flash</Text>
+	<Text name="han_toolbox_debug_settings_info">Copy downloaded files from HANTOOLBX/USRDIR/files/ to dev_flash (Don't select usb000)</Text>
 	<Text name="han_toolbox_debug_settings_toggler">Toggle Debug Settings</Text>
-	<Text name="han_toolbox_debug_settings_toggler_info">Copy downloaded sysconf_plugin.sprx from HANTOOLBX/USRDIR/files to dev_flash</Text>
+	<Text name="han_toolbox_debug_settings_toggler_info">Copy downloaded sysconf_plugin.sprx from HANTOOLBX/USRDIR/files to dev_flash (Don't select usb000)</Text>
 	<Text name="han_toolbox_toggle_ip">Toggle IP/Host info</Text>
-	<Text name="han_toolbox_toggle_ip_info">Copy downloaded xmb_plugin.sprx from HANTOOLBX/USRDIR/files/ to dev_flash</Text>
+	<Text name="han_toolbox_toggle_ip_info">Copy downloaded xmb_plugin.sprx from HANTOOLBX/USRDIR/files/ to dev_flash (Don't select usb000)</Text>
 	
 <!-- xRegistry Operations -->
 
@@ -167,10 +167,10 @@
 	
 <!-- Toolbox Multi Lang / Resources / Update / About -->
 
-	<Text name="han_toolbox_lang">Toolbox Multi Language Support</Text>
-	<Text name="han_toolbox_lang_info">Install / Uninstall the HAN Toolbox lang resources files</Text>
+	<Text name="han_toolbox_lang">Toolbox Multi Language</Text>
+	<Text name="han_toolbox_lang_info">Install/Uninstall the HAN Toolbox lang resources files</Text>
 	<Text name="han_toolbox_resources">Toolbox Resources</Text>
-	<Text name="han_toolbox_resources_info">Install / Uninstall the HAN Toolbox resources package</Text>
+	<Text name="han_toolbox_resources_info">Install/Uninstall the HAN Toolbox resources package</Text>
 	<Text name="han_toolbox_update">Update Toolbox</Text>
 	<Text name="han_toolbox_update_info">Download and install the latest Toolbox package and reboot after</Text>
 	<Text name="han_toolbox_version">Version: 0.6</Text>
@@ -179,9 +179,9 @@
 	
 <!-- Toolbox Multi Lang -->	
 
-	<Text name="han_toolbox_install_lang">Install Multi Language support</Text>
+	<Text name="han_toolbox_install_lang">Install Multi Language</Text>
 	<Text name="han_toolbox_install_lang_info">Download and install the lang resources and reboot after</Text>
-	<Text name="han_toolbox_uninstall_lang">Uninstall Multi Language support</Text>
+	<Text name="han_toolbox_uninstall_lang">Uninstall Multi Language</Text>
 	<Text name="han_toolbox_uninstall_lang_info">Restore English language and reboot after</Text>
 	
 <!-- Check if lang res exists -->
@@ -208,9 +208,9 @@
 	Turkish:
 	
 	If your language is listed, press  to proceed installation</Text>
-/// <Text name="han_toolbox_yes">Yes</Text>
-/// <Text name="han_toolbox_notyet">Not yet</Text>
-/// <Text name="han_toolbox_translationby">(translation by %name%)</Text> /// Do not translate %name%
+	
+/// <Text name="han_toolbox_translated">Translated</Text>
+/// <Text name="han_toolbox_not_translated">Not yet translated</Text>
 
 <!-- Install Multi Language -->
 

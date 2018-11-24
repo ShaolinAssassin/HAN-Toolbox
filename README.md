@@ -36,5 +36,6 @@
 * English (strings).xml = file containing all English strings from HANTOOLBX-patch-PKG-lang/.../han_toolbox_xmb.xml,
 * English (template).xm = all english strings from English (strings).xml file, minus duplicates,
 * HANTOOLBX-rco-lang-file folder = used to build the new RCO file that includes foreign languages,
-* HANTOOLBX-original-rco-lang-file folder = used to restore the original RCO file (to unistall multi-language support).
+* HANTOOLBX-original-rco-lang-file folder = used to restore the original RCO file (to unistall multi-language support),
+* Icon notification when update is available.
 	

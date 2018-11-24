@@ -664,7 +664,7 @@
 			</Items>
 		</View>
 		
-<!-- File inejctor Cert Submenu -->
+<!-- File injector Cert Submenu -->
 		
 		<View id="han_inject_remove_cert_items"> 
 		<Attributes> 
@@ -1017,7 +1017,7 @@
 			<Table key="han_toolbox_check_lang_item">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/update.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_check_lang_item</String></Pair>
-				<Pair key="info_rsc"><String>han_toolbox_check_lang_item_info
+				<Pair key="info_rsc"><String>han_toolbox_check_lang_item_info</String></Pair>
 				
 				
 				
@@ -1033,9 +1033,10 @@
 				
 				
 				
+			
+			
 				
 				
-				</String></Pair>
 			</Table>
 		</Attributes>
 			<Items>
@@ -1193,7 +1194,7 @@
 		<View id="han_toolbox_resources_main"> 
 		<Attributes>
 			<Table key="han_toolbox_install_resources">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/update.png</String></Pair>
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/download.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_install_resources</String></Pair>
 				<Pair key="info_rsc"><String>han_toolbox_install_resources_info</String></Pair>
 			</Table>
@@ -1229,7 +1230,7 @@
 				<Pair key="pkg_src_qa"><String>http://dl.dropboxusercontent.com/s/p29cxn3c984ik48/HAN_Toolbox_Resources.pkg</String></Pair>
 				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
 				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair>
-				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/update.png</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/download.png</String></Pair>
  			</Table> 
 		</Attributes> 
 			<Items>
@@ -1255,8 +1256,8 @@
 			<Items>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
-				key="han_toolbox_delete_resources_icons_folder" 
-				attr="han_toolbox_delete_resources_icons_folder"
+				key="han_toolbox_delete_resources_icons_folders" 
+				attr="han_toolbox_delete_resources_icons_folders"
 				src="host://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/"
 				/>
 			<Query 
@@ -1278,7 +1279,7 @@
 				<Pair key="pkg_src_qa"><String>http://dl.dropboxusercontent.com/s/5w8yvfmor1lhgp4/Latest_HAN_Toolbox_CEX.pkg</String></Pair>
 				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
 				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair>
-				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/update.png</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/download.png</String></Pair>
 			</Table> 
 		</Attributes> 
 			<Items>
