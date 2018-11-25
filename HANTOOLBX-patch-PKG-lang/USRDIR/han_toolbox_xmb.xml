@@ -1131,7 +1131,12 @@
 <!-- Uninstall Multi Language -->
 
 		<View id="han_toolbox_uninstall_lang_main"> 
-		<Attributes> 
+		<Attributes>
+			<Table key="han_restore_toolbox">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_file.png</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_restore_toolbox</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_restore_toolbox_info</String></Pair>
+			</Table>
 			<Table key="han_download_original_lang_rco">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_file.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_download_original_lang_rco</String></Pair>
@@ -1144,13 +1149,14 @@
 				<Pair key="module_name"><String>webrender_plugin</String></Pair>
 				<Pair key="module_action"><String>http://ps3xploit.com/flash_rco_replacer/flash_rco_replacer.html</String></Pair>
 			</Table>
-			<Table key="han_restore_toolbox">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_file.png</String></Pair>
-				<Pair key="title_rsc"><String>han_toolbox_restore_toolbox</String></Pair>
-				<Pair key="info_rsc"><String>han_toolbox_restore_toolbox_info</String></Pair>
-			</Table>
 		</Attributes>
 			<Items>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_restore_toolbox" 
+				attr="han_restore_toolbox"
+				src="#han_toolbox_update_main"
+			/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
 				key="han_download_original_lang_rco" 
@@ -1161,12 +1167,6 @@
 				class="type:x-xmb/module-action"
 				key="han_inject_original_lang_rco"
 				attr="han_inject_original_lang_rco"
-			/>
-			<Query 
-				class="type:x-xmb/folder-pixmap" 
-				key="han_restore_toolbox" 
-				attr="han_restore_toolbox"
-				src="#han_toolbox_update_main"
 			/>
 			</Items> 
 		</View>
