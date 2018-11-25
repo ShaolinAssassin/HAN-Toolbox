@@ -186,7 +186,7 @@
 	
 <!-- Check if lang res exists -->
 
-	<Text name="han_toolbox_check_lang_item">Before installing your langugage, check below if a translation exists for it :</Text>
+	<Text name="han_toolbox_check_lang_item">Before installing your language, check below if a translation exists for it :</Text>
 	<Text name="han_toolbox_check_lang_item_info">
 	Chinese (Simplified):
 	Chinese (Traditional):

@@ -1016,7 +1016,7 @@
 		<Attributes>
 			<Table key="han_toolbox_check_lang_item">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_file.png</String></Pair>
-				<Pair key="title"><String>Before installing your langugage, check below if a translation exists for it :</String></Pair>
+				<Pair key="title"><String>Before installing your language, check below if a translation exists for it :</String></Pair>
 				<Pair key="info"><String>Chinese (Simplified): Not yet translated
 				Chinese (Traditional): Not yet translated
 				Danish: Not yet translated
