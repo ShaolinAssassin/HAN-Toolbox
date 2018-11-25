@@ -282,49 +282,49 @@
 				class="type:x-xmb/folder-pixmap" 
 				key="demo_downloader_C00_EU_genre_action" 
 				attr="demo_downloader_C00_EU_genre_action"
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_EU_genre_action.xml#C00_EU_genre_action_items"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_EU_genre.xml#C00_EU_genre_action_items"
 				/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
 				key="demo_downloader_C00_EU_genre_driving" 
 				attr="demo_downloader_C00_EU_genre_driving"
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_EU_genre_driving.xml#C00_EU_genre_driving_items"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_EU_genre.xml#C00_EU_genre_driving_items"
 				/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
 				key="demo_downloader_C00_EU_genre_fighting" 
 				attr="demo_downloader_C00_EU_genre_fighting"
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_EU_genre_fighting.xml#C00_EU_genre_fighting_items"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_EU_genre.xml#C00_EU_genre_fighting_items"
 				/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
 				key="demo_downloader_C00_EU_genre_misc" 
 				attr="demo_downloader_C00_EU_genre_misc"
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_EU_genre_misc.xml#C00_EU_genre_misc_items"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_EU_genre.xml#C00_EU_genre_misc_items"
 				/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
 				key="demo_downloader_C00_EU_genre_plateformer" 
 				attr="demo_downloader_C00_EU_genre_plateformer"
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_EU_genre_plateformer.xml#C00_EU_genre_plateformer_items"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_EU_genre.xml#C00_EU_genre_plateformer_items"
 				/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
 				key="demo_downloader_C00_EU_genre_puzzle" 
 				attr="demo_downloader_C00_EU_genre_puzzle"
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_EU_genre_puzzle.xml#C00_EU_genre_puzzle_items"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_EU_genre.xml#C00_EU_genre_puzzle_items"
 				/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
 				key="demo_downloader_C00_EU_genre_rpg" 
 				attr="demo_downloader_C00_EU_genre_rpg"
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_EU_genre_rpg.xml#C00_EU_genre_rpg_items"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_EU_genre.xml#C00_EU_genre_rpg_items"
 				/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
 				key="demo_downloader_C00_EU_genre_shooter" 
 				attr="demo_downloader_C00_EU_genre_shooter"
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_EU_genre_shooter.xml#C00_EU_genre_shooter_items"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_EU_genre.xml#C00_EU_genre_shooter_items"
 				/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
@@ -401,49 +401,49 @@
 				class="type:x-xmb/folder-pixmap" 
 				key="demo_downloader_C00_HK_genre_action" 
 				attr="demo_downloader_C00_HK_genre_action"
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_HK_genre_action.xml#C00_HK_genre_action_items"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_HK_genre.xml#C00_HK_genre_action_items"
 				/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
 				key="demo_downloader_C00_HK_genre_driving" 
 				attr="demo_downloader_C00_HK_genre_driving"
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_HK_genre_driving.xml#C00_HK_genre_driving_items"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_HK_genre.xml#C00_HK_genre_driving_items"
 				/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
 				key="demo_downloader_C00_HK_genre_fighting" 
 				attr="demo_downloader_C00_HK_genre_fighting"
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_HK_genre_fighting.xml#C00_HK_genre_fighting_items"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_HK_genre.xml#C00_HK_genre_fighting_items"
 				/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
 				key="demo_downloader_C00_HK_genre_misc" 
 				attr="demo_downloader_C00_HK_genre_misc"
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_HK_genre_misc.xml#C00_HK_genre_misc_items"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_HK_genre.xml#C00_HK_genre_misc_items"
 				/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
 				key="demo_downloader_C00_HK_genre_plateformer" 
 				attr="demo_downloader_C00_HK_genre_plateformer"
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_HK_genre_plateformer.xml#C00_HK_genre_plateformer_items"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_HK_genre.xml#C00_HK_genre_plateformer_items"
 				/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
 				key="demo_downloader_C00_HK_genre_puzzle" 
 				attr="demo_downloader_C00_HK_genre_puzzle"
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_HK_genre_puzzle.xml#C00_HK_genre_puzzle_items"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_HK_genre.xml#C00_HK_genre_puzzle_items"
 				/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
 				key="demo_downloader_C00_HK_genre_rpg" 
 				attr="demo_downloader_C00_HK_genre_rpg"
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_HK_genre_rpg.xml#C00_HK_genre_rpg_items"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_HK_genre.xml#C00_HK_genre_rpg_items"
 				/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
 				key="demo_downloader_C00_HK_genre_shooter" 
 				attr="demo_downloader_C00_HK_genre_shooter"
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_HK_genre_shooter.xml#C00_HK_genre_shooter_items"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_HK_genre.xml#C00_HK_genre_shooter_items"
 				/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
@@ -520,49 +520,49 @@
 				class="type:x-xmb/folder-pixmap" 
 				key="demo_downloader_C00_JP_genre_action" 
 				attr="demo_downloader_C00_JP_genre_action"
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_JP_genre_action.xml#C00_JP_genre_action_items"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_JP_genre.xml#C00_JP_genre_action_items"
 				/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
 				key="demo_downloader_C00_JP_genre_driving" 
 				attr="demo_downloader_C00_JP_genre_driving"
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_JP_genre_driving.xml#C00_JP_genre_driving_items"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_JP_genre.xml#C00_JP_genre_driving_items"
 				/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
 				key="demo_downloader_C00_JP_genre_fighting" 
 				attr="demo_downloader_C00_JP_genre_fighting"
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_JP_genre_fighting.xml#C00_JP_genre_fighting_items"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_JP_genre.xml#C00_JP_genre_fighting_items"
 				/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
 				key="demo_downloader_C00_JP_genre_misc" 
 				attr="demo_downloader_C00_JP_genre_misc"
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_JP_genre_misc.xml#C00_JP_genre_misc_items"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_JP_genre.xml#C00_JP_genre_misc_items"
 				/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
 				key="demo_downloader_C00_JP_genre_plateformer" 
 				attr="demo_downloader_C00_JP_genre_plateformer"
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_JP_genre_plateformer.xml#C00_JP_genre_plateformer_items"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_JP_genre.xml#C00_JP_genre_plateformer_items"
 				/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
 				key="demo_downloader_C00_JP_genre_puzzle" 
 				attr="demo_downloader_C00_JP_genre_puzzle"
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_JP_genre_puzzle.xml#C00_JP_genre_puzzle_items"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_JP_genre.xml#C00_JP_genre_puzzle_items"
 				/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
 				key="demo_downloader_C00_JP_genre_rpg" 
 				attr="demo_downloader_C00_JP_genre_rpg"
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_JP_genre_rpg.xml#C00_JP_genre_rpg_items"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_JP_genre.xml#C00_JP_genre_rpg_items"
 				/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
 				key="demo_downloader_C00_JP_genre_shooter" 
 				attr="demo_downloader_C00_JP_genre_shooter"
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_JP_genre_shooter.xml#C00_JP_genre_shooter_items"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_JP_genre.xml#C00_JP_genre_shooter_items"
 				/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
@@ -639,49 +639,49 @@
 				class="type:x-xmb/folder-pixmap" 
 				key="demo_downloader_C00_US_genre_action" 
 				attr="demo_downloader_C00_US_genre_action"
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_US_genre_action.xml#C00_US_genre_action_items"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_US_genre.xml#C00_US_genre_action_items"
 				/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
 				key="demo_downloader_C00_US_genre_driving" 
 				attr="demo_downloader_C00_US_genre_driving"
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_US_genre_driving.xml#C00_US_genre_driving_items"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_US_genre.xml#C00_US_genre_driving_items"
 				/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
 				key="demo_downloader_C00_US_genre_fighting" 
 				attr="demo_downloader_C00_US_genre_fighting"
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_US_genre_fighting.xml#C00_US_genre_fighting_items"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_US_genre.xml#C00_US_genre_fighting_items"
 				/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
 				key="demo_downloader_C00_US_genre_misc" 
 				attr="demo_downloader_C00_US_genre_misc"
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_US_genre_misc.xml#C00_US_genre_misc_items"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_US_genre.xml#C00_US_genre_misc_items"
 				/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
 				key="demo_downloader_C00_US_genre_plateformer" 
 				attr="demo_downloader_C00_US_genre_plateformer"
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_US_genre_plateformer.xml#C00_US_genre_plateformer_items"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_US_genre.xml#C00_US_genre_plateformer_items"
 				/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
 				key="demo_downloader_C00_US_genre_puzzle" 
 				attr="demo_downloader_C00_US_genre_puzzle"
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_US_genre_puzzle.xml#C00_US_genre_puzzle_items"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_US_genre.xml#C00_US_genre_puzzle_items"
 				/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
 				key="demo_downloader_C00_US_genre_rpg" 
 				attr="demo_downloader_C00_US_genre_rpg"
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_US_genre_rpg.xml#C00_US_genre_rpg_items"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_US_genre.xml#C00_US_genre_rpg_items"
 				/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
 				key="demo_downloader_C00_US_genre_shooter" 
 				attr="demo_downloader_C00_US_genre_shooter"
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_US_genre_shooter.xml#C00_US_genre_shooter_items"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_US_genre.xml#C00_US_genre_shooter_items"
 				/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
