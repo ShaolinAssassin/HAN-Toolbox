@@ -5,7 +5,7 @@
 	<View id="theme_downloader_items">
 		<Attributes>
 			<Table key="Metalification">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/theme_icons/Metalification_v1.0.png</String></Pair>
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/Metalification_v1.0.png</String></Pair>
 				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
 				<Pair key="title"><String>Metalification v1.0</String></Pair>
 				<Pair key="info"><String>By Berion</String></Pair>
