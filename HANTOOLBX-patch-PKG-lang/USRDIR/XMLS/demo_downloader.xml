@@ -5,22 +5,22 @@
 	<View id="demo_downloader_items">
 		<Attributes>
 			<Table key="demo_downloader_C00_EU">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder_eu.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_demos_eu</String></Pair>
 				<Pair key="info"><String></String></Pair>
 			</Table>
 			<Table key="demo_downloader_C00_HK">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder_hk.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_demos_hk</String></Pair>
 				<Pair key="info"><String></String></Pair>
 			</Table>
 			<Table key="demo_downloader_C00_JP">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder_jp.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_demos_jp</String></Pair>
 				<Pair key="info"><String></String></Pair>
 			</Table>
 			<Table key="demo_downloader_C00_US">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder_us.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_demos_us</String></Pair>
 				<Pair key="info"><String></String></Pair>
 			</Table>
