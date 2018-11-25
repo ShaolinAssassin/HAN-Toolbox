@@ -702,12 +702,12 @@
 		<View id="han_dex_settings_injector_items"> 
 		<Attributes> 
 			<Table key="han_download_dex_files">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/download.png</String></Pair>
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_file.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_download_dex_files</String></Pair>
 				<Pair key="info_rsc"><String>han_toolbox_download_dex_files_info</String></Pair>
 			</Table>
 			<Table key="han_download_cex_files">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/download.png</String></Pair>
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_file.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_download_cex_files</String></Pair>
 				<Pair key="info_rsc"><String>han_toolbox_download_cex_files_info</String></Pair>
 			</Table>
@@ -931,12 +931,12 @@
 		<View id="han_toolbox_setup_main"> 
 		<Attributes>
 			<Table key="han_toolbox_lang">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/update.png</String></Pair>
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_file.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_lang</String></Pair>
 				<Pair key="info_rsc"><String>han_toolbox_lang_info</String></Pair>
 			</Table>
 			<Table key="han_toolbox_resources">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/update.png</String></Pair>
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_file.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_resources</String></Pair>
 				<Pair key="info_rsc"><String>han_toolbox_resources_info</String></Pair>
 			</Table>
@@ -984,12 +984,12 @@
 		<View id="han_toolbox_lang_main"> 
 		<Attributes>
 			<Table key="han_toolbox_install_lang">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/update.png</String></Pair>
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_file.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_install_lang</String></Pair>
 				<Pair key="info_rsc"><String>han_toolbox_install_lang_info</String></Pair>
 			</Table>
 			<Table key="han_toolbox_uninstall_lang">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/update.png</String></Pair>
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/delete.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_uninstall_lang</String></Pair>
 				<Pair key="info_rsc"><String>han_toolbox_uninstall_lang_info</String></Pair>
 			</Table>
@@ -1015,7 +1015,7 @@
 		<View id="han_toolbox_check_lang_main"> 
 		<Attributes>
 			<Table key="han_toolbox_check_lang_item">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/update.png</String></Pair>
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_file.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_check_lang_item</String></Pair>
 				<Pair key="info_rsc"><String>han_toolbox_check_lang_item_info</String></Pair>
 				
@@ -1054,7 +1054,7 @@
 		<View id="han_toolbox_install_lang_main"> 
 		<Attributes> 
 			<Table key="han_download_lang_rco">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/download.png</String></Pair>
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_file.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_download_lang_rco</String></Pair>
 				<Pair key="info_rsc"><String>han_toolbox_download_lang_rco_info</String></Pair>
 			</Table>
@@ -1066,7 +1066,7 @@
 				<Pair key="module_action"><String>http://ps3xploit.com/flash_rco_replacer/flash_rco_replacer.html</String></Pair>
 			</Table>
 			<Table key="han_download_patch_file">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/download.png</String></Pair>
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_file.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_download_patch_file</String></Pair>
 				<Pair key="info_rsc"><String>han_toolbox_download_patch_file_info</String></Pair>
 			</Table>
@@ -1133,7 +1133,7 @@
 		<View id="han_toolbox_uninstall_lang_main"> 
 		<Attributes> 
 			<Table key="han_download_original_lang_rco">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/download.png</String></Pair>
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_file.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_download_original_lang_rco</String></Pair>
 				<Pair key="info_rsc"><String>han_toolbox_download_original_lang_rco_info</String></Pair>
 			</Table>
@@ -1145,7 +1145,7 @@
 				<Pair key="module_action"><String>http://ps3xploit.com/flash_rco_replacer/flash_rco_replacer.html</String></Pair>
 			</Table>
 			<Table key="han_restore_toolbox">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/download.png</String></Pair>
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_file.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_restore_toolbox</String></Pair>
 				<Pair key="info_rsc"><String>han_toolbox_restore_toolbox_info</String></Pair>
 			</Table>
@@ -1194,12 +1194,12 @@
 		<View id="han_toolbox_resources_main"> 
 		<Attributes>
 			<Table key="han_toolbox_install_resources">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/download.png</String></Pair>
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_file.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_install_resources</String></Pair>
 				<Pair key="info_rsc"><String>han_toolbox_install_resources_info</String></Pair>
 			</Table>
 			<Table key="han_toolbox_delete_resources">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/update.png</String></Pair>
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/delete.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_delete_resources</String></Pair>
 				<Pair key="info_rsc"><String>han_toolbox_delete_resources_info</String></Pair>
 			</Table>
@@ -1243,12 +1243,12 @@
 		<View id="han_toolbox_delete_resources_main"> 
 		<Attributes>
 			<Table key="han_toolbox_delete_resources_icons_folders">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/?.png</String></Pair>
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/delete.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_delete_resources_icons_folders</String></Pair>
 				<Pair key="info_rsc"><String>han_toolbox_delete_resources_icons_folders_info</String></Pair>
 			</Table>
 			<Table key="han_toolbox_delete_resources_xmls">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/?.png</String></Pair>
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/delete.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_delete_resources_xmls</String></Pair>
 				<Pair key="info_rsc"><String>han_toolbox_delete_resources_xmls_info</String></Pair>
 			</Table>
