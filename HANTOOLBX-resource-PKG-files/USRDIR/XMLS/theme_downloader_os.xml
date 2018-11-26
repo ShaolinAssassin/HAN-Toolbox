@@ -2,7 +2,7 @@
 
 	<!-- Theme Downloader Items O-S -->
 	
-	<View id="seg_theme_downloader_os_items">
+	<View id="theme_downloader_os_items">
 		<Attributes>
 			<Table key="item_670">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/theme_icons/OceanDynamicGlideshowTheme.png</String></Pair>
