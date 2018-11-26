@@ -1017,24 +1017,25 @@
 			<Table key="han_toolbox_check_lang_item">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_file.png</String></Pair>
 				<Pair key="title"><String>Before installing your language, check below if a translation exists for it :</String></Pair>
-				<Pair key="info"><String>Chinese (Simplified): No
-				Chinese (Traditional): No
-				Danish: No
-				Dutch: No
-				Finnish: No
-				French: No
-				German: No
-				Italian: No
-				Japanese: No
-				Korean: No
-				Norwegian: No
-				Polish: No
-				Portuguese (Brazil): No
-				Portuguese (Portugal): No
-				Russian: No
-				Spanish (Spain): No
-				Swedish: No
-				Turkish: No
+				<Pair key="info"><String>
+				Chinese (Simplified): 		No
+				Chinese (Traditional):  	No
+				Danish: 					No
+				Dutch:						No
+				Finnish: 					No
+				French: 					No
+				German: 					No
+				Italian: 					No
+				Japanese: 					No
+				Korean: 					No
+				Norwegian: 					No
+				Polish: 					No
+				Portuguese (Brazil): 		No
+				Portuguese (Portugal):	 	No
+				Russian: 					No
+				Spanish (Spain):			No
+				Swedish: 					No
+				Turkish: 					No
 				
 				If your language is listed, press  to start installation</String></Pair>
 			</Table>
@@ -1189,14 +1190,14 @@
 			</Items> 
 		</View>
 
-<!-- Toolbox Resources -->
+<!-- Toolbox Resources Installer/Uninstaller -->
 
 		<View id="han_toolbox_resources_main"> 
 		<Attributes>
 			<Table key="han_toolbox_install_resources">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_file.png</String></Pair>
-				<Pair key="title"><String>Download Toolbox Resources</String></Pair>
-				<Pair key="info"><String>Download and install the HAN Toolbox resources package and reboot after</String></Pair>
+				<Pair key="title"><String>Install Toolbox Resources</String></Pair>
+				<Pair key="info"><String>Install the HAN Toolbox resources package and reboot after</String></Pair>
 			</Table>
 			<Table key="han_toolbox_delete_resources">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/delete.png</String></Pair>
@@ -1219,12 +1220,43 @@
 			/>
 			</Items>
 		</View>
+		
+<!-- Toolbox Resources Installer -->
 
-<!-- Resources Downloader -->
-			
-		<View id="han_toolbox_install_resources_main">
+		<View id="han_toolbox_install_resources_main"> 
 		<Attributes>
-			<Table key="han_toolbox_install_resources_item">
+			<Table key="han_toolbox_install_resources_pkg">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_file.png</String></Pair>
+				<Pair key="title"><String>Step 1: Download Toolbox Resources</String></Pair>
+				<Pair key="info"><String>Download and install the HAN Toolbox resources package and reboot after</String></Pair>
+			</Table>
+			<Table key="han_toolbox_install_resources_lang">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_file.png</String></Pair>
+				<Pair key="title"><String>Step 2 (Optional): Download Toolbox Resources Lang files</String></Pair>
+				<Pair key="info"><String>Download and install the HAN Toolbox resources lang files and reboot after</String></Pair>
+			</Table>
+		</Attributes>
+			<Items>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_toolbox_install_resources_pkg" 
+				attr="han_toolbox_install_resources_pkg"
+				src="#han_toolbox_install_resources_pkg_main"
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_toolbox_install_resources_lang" 
+				attr="han_toolbox_install_resources_lang"
+				src="#han_toolbox_install_resources_lang_main"
+			/>
+			</Items>
+		</View>
+
+<!-- Resources PKG Downloader -->
+			
+		<View id="han_toolbox_install_resources_pkg_main">
+		<Attributes>
+			<Table key="han_toolbox_install_resources_pkg_item">
 				<Pair key="info"><String>net_package_install</String></Pair>
 				<Pair key="pkg_src"><String>http://dl.dropboxusercontent.com/s/p29cxn3c984ik48/HAN_Toolbox_Resources.pkg</String></Pair>
 				<Pair key="pkg_src_qa"><String>http://dl.dropboxusercontent.com/s/p29cxn3c984ik48/HAN_Toolbox_Resources.pkg</String></Pair>
@@ -1234,7 +1266,25 @@
  			</Table> 
 		</Attributes> 
 			<Items>
-			<Item class="type:x-xmb/xmlnpsignup" key="han_toolbox_install_resources_item" attr="han_toolbox_install_resources_item"/>
+			<Item class="type:x-xmb/xmlnpsignup" key="han_toolbox_install_resources_pkg_item" attr="han_toolbox_install_resources_pkg_item"/>
+			</Items> 
+		</View>
+
+<!-- Resources Lang Downloader -->
+
+		<View id="han_toolbox_install_resources_lang_main">
+		<Attributes>
+			<Table key="han_toolbox_install_resources_lang_item">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>>??????????????????????????</String></Pair>
+				<Pair key="pkg_src_qa"><String>??????????????????????????</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/download.png</String></Pair>
+ 			</Table> 
+		</Attributes> 
+			<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="han_toolbox_install_resources_lang_item" attr="han_toolbox_install_resources_lang_item"/>
 			</Items> 
 		</View>
 
@@ -1250,7 +1300,7 @@
 			<Table key="han_toolbox_delete_resources_xmls">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/delete.png</String></Pair>
 				<Pair key="title"><String>Step 2: Delete Resources XML files</String></Pair>
-				<Pair key="info"><String>Press  to acces HAN Toolbox XML folder and unlink all *.xml files, except demo_downloader.xml, nopsn_downloader.xml, theme_downloader.xml, wallpaper_downloader.xml</String></Pair>
+				<Pair key="info"><String>Press  to acces HAN Toolbox XML folder and unlink (folder) XMLS folder</String></Pair>
 			</Table>
 		</Attributes>
 			<Items>
@@ -1264,7 +1314,7 @@
 				class="type:x-xmb/folder-pixmap" 
 				key="han_toolbox_delete_resources_xmls" 
 				attr="han_toolbox_delete_resources_xmls"
-				src="host://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/"
+				src="host://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/"
 				/>
 			</Items>
 		</View>		

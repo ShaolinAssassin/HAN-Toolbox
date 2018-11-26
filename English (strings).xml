@@ -230,19 +230,26 @@
 	<Text name="han_toolbox_inject_original_lang_rco">Step 3 (Optionnal): Restore original lang RCO file</Text>
 	<Text name="han_toolbox_inject_original_lang_rco_info">Copy original downloaded explore_plugin_full.rco from HANTOOLBX/USRDIR/files to dev_flash/vsh/resource/*.rco</Text>
 
-<!-- Toolbox Resources -->
+<!-- Toolbox Resources Installer/Uninstaller -->
 	
-	<Text name="han_toolbox_install_resources">Download Toolbox Resources</Text>
-	<Text name="han_toolbox_install_resources_info">Download and install the HAN Toolbox resources package and reboot after</Text>
+	<Text name="han_toolbox_install_resources">Install Toolbox Resources</Text>
+	<Text name="han_toolbox_install_resources_info">Install the HAN Toolbox resources package and reboot after</Text>
 	<Text name="han_toolbox_delete_resources">Uninstall Toolbox Resources</Text>
 	<Text name="han_toolbox_delete_resources_info">Uninstall the HAN Toolbox resources package and reboot after</Text>
+
+<!-- Toolbox Resources Installer -->
+
+	<Text name="han_toolbox_install_resources_pkg">Step 1: Download Toolbox Resources</Text>
+	<Text name="han_toolbox_install_resources_pkg_info">Download and install the HAN Toolbox resources package and reboot after</Text>
+	<Text name="han_toolbox_delete_resources_xmls">Step 2 (Optional): Download Toolbox Resources Lang files</Text>
+	<Text name="han_toolbox_delete_resources_xmls_info">Download and install the HAN Toolbox resources lang files and reboot after</Text>
 
 <!-- Resources Uninstaller -->
 
 	<Text name="han_toolbox_delete_resources_icons_folders">Step 1: Delete Resources icons folders</Text>
 	<Text name="han_toolbox_delete_resources_icons_folders_info">Press  to acces HAN Toolbox images folder and unlink (folder) all *_icons folders</Text>
 	<Text name="han_toolbox_delete_resources_xmls">Step 2: Delete Resources XML files</Text>
-	<Text name="han_toolbox_delete_resources_xmls_info">Press  to acces HAN Toolbox XML folder and unlink all *.xml files, except demo_downloader.xml, nopsn_downloader.xml, theme_downloader.xml, wallpaper_downloader.xml</Text>
+	<Text name="han_toolbox_delete_resources_xmls_info">Press  to acces HAN Toolbox XML folder and unlink (folder) XMLS folder</Text>
 
 <!-- server_setup.templet -->
 	
@@ -282,6 +289,11 @@
 	<Text name="han_toolbox_injector_info">Auto running injector Xploit useful for act.dat</Text>	
 	<Text name="han_toolbox_debug_enabler">Debug Package Enabler</Text>
 	<Text name="han_toolbox_debug_enabler_info">For modifed retail PS3 packages only</Text>	
+
+<!-- No Resources Found -->
+
+	<Text name="han_toolbox_no_resources">No Resources Found</Text>
+	<Text name="han_toolbox_no_resources_info">Press  to download and install the resources package then reboot</Text>
 	
 <!-- Themes Downloader -->
 
@@ -299,7 +311,7 @@
 	<Text name="han_toolbox_demos_us">US Demos</Text>
 	<Text name="han_toolbox_demos_alpha">Sorted alphabetically</Text>
 	<Text name="han_toolbox_demos_genre">Sorted by genre</Text>
-	<Text name="han_toolbox_demos_score">Sorted by metascore</Text>*
+	<Text name="han_toolbox_demos_score">Sorted by metascore</Text>
 	<Text name="han_toolbox_demos_action">Action Adventure</Text>
 	<Text name="han_toolbox_demos_driving">Driving</Text>
 	<Text name="han_toolbox_demos_fighting">Fighting</Text>
