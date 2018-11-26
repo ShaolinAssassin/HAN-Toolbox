@@ -109,8 +109,8 @@
 	<Text name="han_toolbox_inject_emoji_info">Copy imagefont.bin to dev_flash/vsh/resource/imagefont.bin</Text>
 	<Text name="han_toolbox_inject_font">Inject TTF (Font)</Text>
 	<Text name="han_toolbox_inject_font_info">Copy *.ttf to dev_flash/data/font/*.ttf</Text>
-	<Text name="han_toolbox_inject_remove_cert">Inject / Remove Cert (SSL Cert)</Text>
-	<Text name="han_toolbox_inject_remove_cert_info">Copy / Delete certs at dev_flash/data/cert/*.cer</Text>
+	<Text name="han_toolbox_inject_remove_cert">Inject/Remove Cert (SSL Cert)</Text>
+	<Text name="han_toolbox_inject_remove_cert_info">Copy/Delete certs at dev_flash/data/cert/*.cer</Text>
 	
 <!-- File injector Self Submenu -->
 	
@@ -138,7 +138,7 @@
 	<Text name="han_toolbox_download_dex_files_info">Download DEX 4.82 files to HANTOOLBX/USRDIR/files/ ready for installation</Text>
 	<Text name="han_toolbox_download_cex_files">Step 1: Download CEX Files (Retail)</Text>
 	<Text name="han_toolbox_download_cex_files_info">Download CEX 4.82 files to HANTOOLBX/USRDIR/files/ ready for installation</Text>
-	<Text name="han_toolbox_debug_settings">Step 2: Debug Settings Installer / Remover</Text>
+	<Text name="han_toolbox_debug_settings">Step 2: Debug Settings Installer/Remover</Text>
 	<Text name="han_toolbox_debug_settings_info">Copy downloaded files from HANTOOLBX/USRDIR/files/ to dev_flash (Don't select usb000)</Text>
 	<Text name="han_toolbox_debug_settings_toggler">Toggle Debug Settings</Text>
 	<Text name="han_toolbox_debug_settings_toggler_info">Copy downloaded sysconf_plugin.sprx from HANTOOLBX/USRDIR/files to dev_flash (Don't select usb000)</Text>
@@ -207,10 +207,10 @@
 	Swedish:
 	Turkish:
 	
-	If your language is listed, press  to proceed installation</Text>
+	If your language is listed, press  to start installation</Text>
 	
-/// <Text name="han_toolbox_translated">Translated</Text>
-/// <Text name="han_toolbox_not_translated">Not yet translated</Text>
+/// <Text name="han_toolbox_yes">Yes</Text>
+/// <Text name="han_toolbox_no">No</Text>
 
 <!-- Install Multi Language -->
 
@@ -233,7 +233,7 @@
 <!-- Toolbox Resources -->
 	
 	<Text name="han_toolbox_install_resources">Download Toolbox Resources</Text>
-	<Text name="han_toolbox_install_resources_info">Download and install the HAN Toolbox resources package (41 MB) and reboot after</Text>
+	<Text name="han_toolbox_install_resources_info">Download and install the HAN Toolbox resources package and reboot after</Text>
 	<Text name="han_toolbox_delete_resources">Uninstall Toolbox Resources</Text>
 	<Text name="han_toolbox_delete_resources_info">Uninstall the HAN Toolbox resources package and reboot after</Text>
 

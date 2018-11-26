@@ -676,7 +676,7 @@
 				<Pair key="module_action"><String>http://ps3xploit.com/ssl_cert_injector_remover/ssl_cert_injector.html</String></Pair>
 			</Table>
 			<Table key="han_remove_cert">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/inj_cert.png</String></Pair>
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/delete.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_remove_cert</String></Pair>
 				<Pair key="info_rsc"><String>han_toolbox_remove_cert_info</String></Pair>
 				<Pair key="module_name"><String>webrender_plugin</String></Pair>

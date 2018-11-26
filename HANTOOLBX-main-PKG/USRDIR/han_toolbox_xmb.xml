@@ -524,8 +524,8 @@
 			</Table>
 			<Table key="han_inject_remove_cert">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/inj_cert.png</String></Pair>
-				<Pair key="title"><String>Inject / Remove Cert (SSL Cert)</String></Pair>
-				<Pair key="info"><String>Copy / Delete certs at dev_flash/data/cert/*.cer</String></Pair>
+				<Pair key="title"><String>Inject/Remove Cert (SSL Cert)</String></Pair>
+				<Pair key="info"><String>Copy/Delete certs at dev_flash/data/cert/*.cer</String></Pair>
 			</Table>
 		</Attributes>
 			<Items>
@@ -676,7 +676,7 @@
 				<Pair key="module_action"><String>http://ps3xploit.com/ssl_cert_injector_remover/ssl_cert_injector.html</String></Pair>
 			</Table>
 			<Table key="han_remove_cert">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/inj_cert.png</String></Pair>
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/delete.png</String></Pair>
 				<Pair key="title"><String>Remove Cert (SSL Cert)</String></Pair>
 				<Pair key="info"><String>Delete certs from dev_flash/data/cert/*.cer</String></Pair>
 				<Pair key="module_name"><String>webrender_plugin</String></Pair>
@@ -713,7 +713,7 @@
 			</Table>
 			<Table key="han_debug_settings_installer">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/inj_debug.png</String></Pair>
-				<Pair key="title"><String>Step 2: Debug Settings Installer / Remover</String></Pair>
+				<Pair key="title"><String>Step 2: Debug Settings Installer/Remover</String></Pair>
 				<Pair key="info"><String>Copy downloaded files from HANTOOLBX/USRDIR/files/ to dev_flash (Don't select usb000)</String></Pair>
 				<Pair key="module_name"><String>webrender_plugin</String></Pair>
 				<Pair key="module_action"><String>http://ps3xploit.com/debug_settings_installer/debug_settings_installer.html</String></Pair>
@@ -1017,26 +1017,26 @@
 			<Table key="han_toolbox_check_lang_item">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_file.png</String></Pair>
 				<Pair key="title"><String>Before installing your language, check below if a translation exists for it :</String></Pair>
-				<Pair key="info"><String>Chinese (Simplified): Not yet translated
-				Chinese (Traditional): Not yet translated
-				Danish: Not yet translated
-				Dutch: Not yet translated
-				Finnish: Not yet translated
-				French: Not yet translated
-				German: Not yet translated
-				Italian: Not yet translated
-				Japanese: Not yet translated
-				Korean: Not yet translated
-				Norwegian: Not yet translated
-				Polish: Not yet translated
-				Portuguese (Brazil): Not yet translated
-				Portuguese (Portugal): Not yet translated
-				Russian: Not yet translated
-				Spanish (Spain): Not yet translated
-				Swedish: Not yet translated
-				Turkish: Not yet translated
+				<Pair key="info"><String>Chinese (Simplified): No
+				Chinese (Traditional): No
+				Danish: No
+				Dutch: No
+				Finnish: No
+				French: No
+				German: No
+				Italian: No
+				Japanese: No
+				Korean: No
+				Norwegian: No
+				Polish: No
+				Portuguese (Brazil): No
+				Portuguese (Portugal): No
+				Russian: No
+				Spanish (Spain): No
+				Swedish: No
+				Turkish: No
 				
-				If your language is listed, press  to proceed installation</String></Pair>
+				If your language is listed, press  to start installation</String></Pair>
 			</Table>
 		</Attributes>
 			<Items>
@@ -1196,7 +1196,7 @@
 			<Table key="han_toolbox_install_resources">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_file.png</String></Pair>
 				<Pair key="title"><String>Download Toolbox Resources</String></Pair>
-				<Pair key="info"><String>Download and install the HAN Toolbox resources package (?? MB) and reboot after</String></Pair>
+				<Pair key="info"><String>Download and install the HAN Toolbox resources package and reboot after</String></Pair>
 			</Table>
 			<Table key="han_toolbox_delete_resources">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/delete.png</String></Pair>
