@@ -1723,11 +1723,8 @@
 			<Item class="type:x-xmb/module-action" key="item_287" attr="item_287"/>
 			<Item class="type:x-xmb/module-action" key="item_288" attr="item_288"/>
 			<Item class="type:x-xmb/module-action" key="item_289" attr="item_289"/>
-			<Item class="type:x-xmb/module-action" key="item_290" attr="item_290"/>
-			<Item class="type:x-xmb/module-action" key="item_291" attr="item_291"/>
 			<Item class="type:x-xmb/module-action" key="item_292" attr="item_292"/>
 			<Item class="type:x-xmb/module-action" key="item_293" attr="item_293"/>
-			<Item class="type:x-xmb/module-action" key="item_294" attr="item_294"/>
 			<Item class="type:x-xmb/module-action" key="item_295" attr="item_295"/>
 			<Item class="type:x-xmb/module-action" key="item_296" attr="item_296"/>
 			<Item class="type:x-xmb/module-action" key="item_297" attr="item_297"/>
@@ -1797,7 +1794,7 @@
 			<Item class="type:x-xmb/module-action" key="item_369" attr="item_369"/>
 			<Item class="type:x-xmb/module-action" key="item_370" attr="item_370"/>
 			<Item class="type:x-xmb/module-action" key="item_371" attr="item_371"/>
-			<Item class="type:x-xmb/module-action" key="item_374" attr="item_374"/>
+			<Item class="type:x-xmb/module-action" key="item_372" attr="item_372"/>
 			<Item class="type:x-xmb/module-action" key="item_375" attr="item_375"/>
 			<Item class="type:x-xmb/module-action" key="item_376" attr="item_376"/>
 			<Item class="type:x-xmb/module-action" key="item_377" attr="item_377"/>

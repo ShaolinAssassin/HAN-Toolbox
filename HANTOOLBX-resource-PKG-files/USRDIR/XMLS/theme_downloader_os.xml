@@ -1334,7 +1334,7 @@
 				<Pair key="info"><String>558.0 KB Dynamic</String></Pair>
 				<Pair key="module_action"><String>http://xmbmods.co/Themes/files.php?file=Symbol_Art_3.p3t</String></Pair>
 			</Table>
-			<Table key="item_item_874">
+			<Table key="item_874">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/theme_icons/Symbol_Flow.png</String></Pair>
 				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
 				<Pair key="title"><String>Symbol Flow</String></Pair>

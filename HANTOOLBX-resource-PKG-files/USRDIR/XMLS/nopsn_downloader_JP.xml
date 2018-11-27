@@ -2,9 +2,9 @@
 
 	<!-- NoPSN Downloader Items JP  -->
 	
-	<View id="nopsn_downloader_jp_items">
+	<View id="nopsn_downloader_JP_items">
 		<Attributes>
-			<Table key="nopsn_downloader_jp_empty">
+			<Table key="nopsn_downloader_JP_empty">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/about.png</String></Pair>
 				<Pair key="title"><String>Empty, no JP version available</String></Pair>
 				<Pair key="info"><String></String></Pair>
@@ -12,9 +12,9 @@
 		</Attributes>
 		<Items>
 			<Query 
-				class="type:x-xmb/folder-pixmap" 
-				key="nopsn_downloader_jp_empty" 
-				attr="nopsn_downloader_jp_empty"
+				class="type:x-xmb/module-action" 
+				key="nopsn_downloader_JP_empty" 
+				attr="nopsn_downloader_JP_empty"
 				/>
 		</Items>
 	</View>

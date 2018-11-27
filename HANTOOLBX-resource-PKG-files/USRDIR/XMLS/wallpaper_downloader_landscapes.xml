@@ -2,7 +2,7 @@
 
 	<!-- Wallpaper Downloader Landscapes Items -->
  
-	<View id="wallpaper_downloader_lanscapes_items">
+	<View id="wallpaper_downloader_landscapes_items">
 		<Attributes>
 			<Table key="item_1"> 
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/wallpaper_icons/Landscapes_icons/Landscapes 0001.jpg</String></Pair> 
