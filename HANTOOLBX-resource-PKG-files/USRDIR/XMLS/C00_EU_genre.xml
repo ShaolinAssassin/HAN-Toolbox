@@ -1,0 +1,2792 @@
+<XMBML version="1.0">
+
+ 	<!-- C00 EU demos genre sorted items -->
+	
+	<View id="C00_EU_genre_action_items">
+		<Attributes>
+			<Table key="item_NPEB00872"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Adams_Venture_Chronicles.png</String></Pair> 
+				<Pair key="title"><String>Adam's Venture Chronicles: Episode 1</String></Pair> 
+				<Pair key="info"><String>Action-Adventure - 49/100 - 1516 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB02323"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Adams_Venture_Chronicles.png</String></Pair> 
+				<Pair key="title"><String>Adam's Venture Chronicles: Episodes 1-3</String></Pair> 
+				<Pair key="info"><String>Action-Adventure - 49/100 - 1501 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB02234"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Adventure_Time_-_Finn_And_Jake_Investigations.png</String></Pair> 
+				<Pair key="title"><String>Adventure Time: Finn And Jake Investigations</String></Pair> 
+				<Pair key="info"><String>Action-Adventure - TBD - 1237 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB01127"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/A-MEN.png</String></Pair> 
+				<Pair key="title"><String>A-Men</String></Pair> 
+				<Pair key="info"><String>Action-Adventure - 67/100 - 285 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB01386"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Assassin's_Creed_Liberation_HD.png</String></Pair> 
+				<Pair key="title"><String>Assassin's Creed Liberation HD</String></Pair> 
+				<Pair key="info"><String>Action-Adventure - 64/100 - 2021 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB01968"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Batman_Arkham_Origins_-_Blackgate.png</String></Pair> 
+				<Pair key="title"><String>Batman: Arkham Origins Blackgate</String></Pair> 
+				<Pair key="info"><String>Action-Adventure - 60/100 - 2106 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB01201"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Brothers_-_A_Tale_of_Two_Sons.png</String></Pair> 
+				<Pair key="title"><String>Brothers: A Tale of Two Sons</String></Pair> 
+				<Pair key="info"><String>Action-Adventure - 85/100 - 625 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00563"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Castlevania_-_Harmony_of_Despair.png</String></Pair> 
+				<Pair key="title"><String>Castlevania: Harmony of Despair</String></Pair> 
+				<Pair key="info"><String>Action-Adventure - 68/100 - 772 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB01441"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Castlevania_-_Lords_of_Shadow_Mirror_of_Fate_HD.png</String></Pair> 
+				<Pair key="title"><String>Castlevania: Lords of Shadow - Mirror of Fate HD</String></Pair> 
+				<Pair key="info"><String>Action-Adventure - 70/100 - 2357 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00318"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Dead_Space_Extraction.png</String></Pair> 
+				<Pair key="title"><String>Dead Space Extraction</String></Pair> 
+				<Pair key="info"><String>Action-Adventure - 79/100 - 3529 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB01302"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Demolition_Inc.png</String></Pair> 
+				<Pair key="title"><String>Demolition Inc.</String></Pair> 
+				<Pair key="info"><String>Action-Adventure - TBD - 587 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB01058"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Dollar_Dash.png</String></Pair> 
+				<Pair key="title"><String>Dollar Dash</String></Pair> 
+				<Pair key="info"><String>Action-Adventure - TBD - 438 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00747"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Frogger_Hyper_Arcade_Edition.png</String></Pair> 
+				<Pair key="title"><String>Frogger: Hyper Arcade Edition</String></Pair> 
+				<Pair key="info"><String>Action-Adventure - 62/100 - 200 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00395"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Hoard.png</String></Pair> 
+				<Pair key="title"><String>Hoard</String></Pair> 
+				<Pair key="info"><String>Action-Adventure - 75/100 - 162 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB01387"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/How_to_survive.png</String></Pair> 
+				<Pair key="title"><String>How to Survive</String></Pair> 
+				<Pair key="info"><String>Action-Adventure - TBD - 2344 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00476"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/I_am_Alive.png</String></Pair> 
+				<Pair key="title"><String>I Am Alive</String></Pair> 
+				<Pair key="info"><String>Action-Adventure - 75/100 - 1952 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB02223"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Kung_Fu_Panda_Showdown_of_Legendary_Legends.png</String></Pair> 
+				<Pair key="title"><String>Kung Fu Panda: Showdown of Legendary Legends</String></Pair> 
+				<Pair key="info"><String>Action-Adventure - TBD - 1507 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB02197"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Life_Is_Strange_-_Episode_1_Chrysalis.png</String></Pair> 
+				<Pair key="title"><String>Life Is Strange: Episode 1 - Chrysalis</String></Pair> 
+				<Pair key="info"><String>Action-Adventure - TBD - 1027 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00253"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Monkey_Island_2_-_Special_Edition_Le_Chucks_Revenge.png</String></Pair> 
+				<Pair key="title"><String>Monkey Island 2 Special Edition: LeChuck's Revenge</String></Pair> 
+				<Pair key="info"><String>Action-Adventure - 87/100 - 1164 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB01054"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Naughty_Bear_Panic_In_Paradise.png</String></Pair> 
+				<Pair key="title"><String>Naughty Bear: Panic In Paradise</String></Pair> 
+				<Pair key="info"><String>Action-Adventure - 44/100 - 957 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00621"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Okabu.png</String></Pair> 
+				<Pair key="title"><String>Okabu</String></Pair> 
+				<Pair key="info"><String>Action-Adventure - 59/100 - 214 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00906"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Orc_Attack_Flatulent_Rebellion.png</String></Pair> 
+				<Pair key="title"><String>Orc Attack: Flatulent Rebellion</String></Pair> 
+				<Pair key="info"><String>Action-Adventure - TBD - 1507 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB01888"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Pacific_Rim.png</String></Pair> 
+				<Pair key="title"><String>Pacific Rim</String></Pair> 
+				<Pair key="info"><String>Action-Adventure - TBD - 425 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB01109"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Papo_&_Yo.png</String></Pair> 
+				<Pair key="title"><String>Papo & Yo</String></Pair> 
+				<Pair key="info"><String>Action-Adventure - 72/100 - 975 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00940"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Realms_of_the_ancient_War.png</String></Pair> 
+				<Pair key="title"><String>Realms of the Ancient War</String></Pair> 
+				<Pair key="info"><String>Action-Adventure - TBD - 833 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB02128"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Resident_Evil_Revelations_2.png</String></Pair> 
+				<Pair key="title"><String>Resident Evil: Revelations 2</String></Pair> 
+				<Pair key="info"><String>Action-Adventure - TBD - 2859 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB01166"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Retro_City_Rampage.png</String></Pair> 
+				<Pair key="title"><String>Retro City Rampage</String></Pair> 
+				<Pair key="info"><String>Action-Adventure - 71/100 - 44 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00223"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Ricochet_HD.png</String></Pair> 
+				<Pair key="title"><String>Ricochet HD</String></Pair> 
+				<Pair key="info"><String>Action-Adventure - TBD - 325 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00669"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Rock_of_Ages.png</String></Pair> 
+				<Pair key="title"><String>Rock of Ages</String></Pair> 
+				<Pair key="info"><String>Action-Adventure - 68/100 - 567 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00545"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Rust_Bucaneers.png</String></Pair> 
+				<Pair key="title"><String>Rust Bucaneers</String></Pair> 
+				<Pair key="info"><String>Action-Adventure - TBD - 264 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00767"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Shoot_Many_Robots.png</String></Pair> 
+				<Pair key="title"><String>Shoot Many Robots</String></Pair> 
+				<Pair key="info"><String>Action-Adventure - TBD - 755 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEA00274"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Slam_Bolt_Scrappers.png</String></Pair> 
+				<Pair key="title"><String>Slam Bolt Scrappers</String></Pair> 
+				<Pair key="info"><String>Action-Adventure - 66/100 - 489 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00301"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Spare_Parts.png</String></Pair> 
+				<Pair key="title"><String>Spare Parts</String></Pair> 
+				<Pair key="info"><String>Action-Adventure - 53/100 - 905 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00151"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Star_Trek_-_D_A_C.png</String></Pair> 
+				<Pair key="title"><String>Star Trek: D-A-C</String></Pair> 
+				<Pair key="info"><String>Action-Adventure - 62/100 - 133 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB01297"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Strider.png</String></Pair> 
+				<Pair key="title"><String>Strider</String></Pair> 
+				<Pair key="info"><String>Action-Adventure - 70/100 - 3921 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00158"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Tank_Battles.png</String></Pair> 
+				<Pair key="title"><String>Tank Battles</String></Pair> 
+				<Pair key="info"><String>Action-Adventure - TBD - 102 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEA00395"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/The_Unfinished_Swan.png</String></Pair> 
+				<Pair key="title"><String>The Unfinished Swan</String></Pair> 
+				<Pair key="info"><String>Action-Adventure - 79/100 - 1590 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB01911_1"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/The_Walking_Dead_Season_2_-_A_House_Divided.png</String></Pair> 
+				<Pair key="title"><String>The Walking Dead: Season Two Episode 2 - A House Divided</String></Pair> 
+				<Pair key="info"><String>Action-Adventure - 82/100 - 395 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB01911_2"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/The_Walking_Dead_Season_2_-_A_House_Divided.png</String></Pair> 
+				<Pair key="title"><String>The Walking Dead: Season Two Episode 2 - A House Divided (Unlock)</String></Pair> 
+				<Pair key="info"><String>Action-Adventure - 82/100 - 3 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00570"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Twisted_Lands_Shadow_Town.png</String></Pair> 
+				<Pair key="title"><String>Twisted Lands: Shadow Town</String></Pair> 
+				<Pair key="info"><String>Action-Adventure - TBD - 476 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00521"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Warlords.png</String></Pair> 
+				<Pair key="title"><String>Warlords</String></Pair> 
+				<Pair key="info"><String>Action-Adventure - 72/100 - 762 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00636"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Warp.png</String></Pair> 
+				<Pair key="title"><String>Warp</String></Pair> 
+				<Pair key="info"><String>Action-Adventure - 78/100 - 1167 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEA00372"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/When_Vikings_Attack.png</String></Pair> 
+				<Pair key="title"><String>When Vikings Attack!</String></Pair> 
+				<Pair key="info"><String>Action-Adventure - 73/100 - 673 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00811"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Zombie_Driver_HD.png</String></Pair> 
+				<Pair key="title"><String>Zombie Driver HD</String></Pair> 
+				<Pair key="info"><String>Action-Adventure - TBD - 1037 MB</String></Pair> 
+			</Table>		
+		</Attributes>
+		<Items>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00872" 
+				attr="item_NPEB00872" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00872_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB02323" 
+				attr="item_NPEB02323" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB02323_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB02234" 
+				attr="item_NPEB02234" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB02234_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB01127" 
+				attr="item_NPEB01127" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB01127_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB01386" 
+				attr="item_NPEB01386" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB01386_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB01968" 
+				attr="item_NPEB01968" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB01968_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB01201" 
+				attr="item_NPEB01201" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB01201_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00563" 
+				attr="item_NPEB00563" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00563_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB01441" 
+				attr="item_NPEB01441" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB01441_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00318" 
+				attr="item_NPEB00318" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00318_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB01302" 
+				attr="item_NPEB01302" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB01302_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB01058" 
+				attr="item_NPEB01058" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB01058_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00747" 
+				attr="item_NPEB00747" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00747_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00395" 
+				attr="item_NPEB00395" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00395_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB01387" 
+				attr="item_NPEB01387" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB01387_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00476" 
+				attr="item_NPEB00476" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00476_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB02223" 
+				attr="item_NPEB02223" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB02223_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB02197" 
+				attr="item_NPEB02197" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB02197_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00253" 
+				attr="item_NPEB00253" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00253_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB01054" 
+				attr="item_NPEB01054" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB01054_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00621" 
+				attr="item_NPEB00621" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00621_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00906" 
+				attr="item_NPEB00906" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00906_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB01888" 
+				attr="item_NPEB01888" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB01888_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB01109" 
+				attr="item_NPEB01109" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB01109_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00940" 
+				attr="item_NPEB00940" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00940_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB02128" 
+				attr="item_NPEB02128" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB02128_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB01166" 
+				attr="item_NPEB01166" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB01166_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00223" 
+				attr="item_NPEB00223" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00223_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00669" 
+				attr="item_NPEB00669" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00669_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00545" 
+				attr="item_NPEB00545" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00545_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00767" 
+				attr="item_NPEB00767" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00767_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEA00274" 
+				attr="item_NPEA00274" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEA00274_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00301" 
+				attr="item_NPEB00301" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00301_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00151" 
+				attr="item_NPEB00151" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00151_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB01297" 
+				attr="item_NPEB01297" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB01297_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00158" 
+				attr="item_NPEB00158" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00158_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEA00395" 
+				attr="item_NPEA00395" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEA00395_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB01911_1" 
+				attr="item_NPEB01911_1" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB01911_1_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB01911_2" 
+				attr="item_NPEB01911_2" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB01911_2_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00570" 
+				attr="item_NPEB00570" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00570_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00521" 
+				attr="item_NPEB00521" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00521_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00636" 
+				attr="item_NPEB00636" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00636_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEA00372" 
+				attr="item_NPEA00372" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEA00372_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00811" 
+				attr="item_NPEB00811" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00811_main" 
+			/>		
+		</Items>
+		</View>
+
+	<View id="C00_EU_genre_driving_items">
+		<Attributes>
+			<Table key="item_NPEB00542"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Wrecked_Revenge_Revisited.png</String></Pair> 
+				<Pair key="title"><String>Wrecked: Revenge Revisited</String></Pair> 
+				<Pair key="info"><String>Driving - 64/100 - 910 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00529"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Burnout_CRASH.png</String></Pair> 
+				<Pair key="title"><String>Burnout Crash!</String></Pair> 
+				<Pair key="info"><String>Driving (Arcade) - 69/100 - 1057 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00326"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Joe_Danger.png</String></Pair> 
+				<Pair key="title"><String>Joe Danger</String></Pair> 
+				<Pair key="info"><String>Driving (Arcade) - 86/100 - 265 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB01167"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Joe_Danger_2_The_Movie.png</String></Pair> 
+				<Pair key="title"><String>Joe Danger 2: The Movie</String></Pair> 
+				<Pair key="info"><String>Driving (Arcade) - 78/100 - 1163 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00886"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Mad_Riders.png</String></Pair> 
+				<Pair key="title"><String>Mad Riders</String></Pair> 
+				<Pair key="info"><String>Driving (Arcade) - 71/100 - 1285 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00566"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Sky_Drift.png</String></Pair> 
+				<Pair key="title"><String>SkyDrift</String></Pair> 
+				<Pair key="info"><String>Driving (Arcade) - 76/100 - 458 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00221"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/TNT_Racers.png</String></Pair> 
+				<Pair key="title"><String>TNT Racers</String></Pair> 
+				<Pair key="info"><String>Driving (Arcade) - 70/100 - 150 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB02086"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Toybox_Turbos.png</String></Pair> 
+				<Pair key="title"><String>Toybox Turbos</String></Pair> 
+				<Pair key="info"><String>Driving (Arcade) - 78/100 - 232 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00378"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Bang_Bang_Racing.png</String></Pair> 
+				<Pair key="title"><String>Bang Bang Racing</String></Pair> 
+				<Pair key="info"><String>Driving (Simulation) - TBD - 209 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB01324"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/WRC_Powerslide.png</String></Pair> 
+				<Pair key="title"><String>WRC Powerslide</String></Pair> 
+				<Pair key="info"><String>Driving (Simulation) - 62/100 - 1870 MB</String></Pair> 
+			</Table>		
+		</Attributes>
+		<Items>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00542" 
+				attr="item_NPEB00542" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00542_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00529" 
+				attr="item_NPEB00529" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00529_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00326" 
+				attr="item_NPEB00326" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00326_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB01167" 
+				attr="item_NPEB01167" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB01167_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00886" 
+				attr="item_NPEB00886" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00886_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00566" 
+				attr="item_NPEB00566" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00566_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00221" 
+				attr="item_NPEB00221" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00221_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB02086" 
+				attr="item_NPEB02086" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB02086_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00378" 
+				attr="item_NPEB00378" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00378_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB01324" 
+				attr="item_NPEB01324" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB01324_main" 
+			/>		
+		</Items>
+		</View>
+		
+	<View id="C00_EU_genre_fighting_items">
+		<Attributes>
+			<Table key="item_NPEB00870"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Darkstalkers_Resurrection.png</String></Pair> 
+				<Pair key="title"><String>Darkstalkers Resurrection</String></Pair> 
+				<Pair key="info"><String>Fighting (2D) - 80/100 - 335 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00956"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/JoJo's_Bizarre_Adventure_HD_Version.png</String></Pair> 
+				<Pair key="title"><String>JoJo's Bizarre Adventure HD ver.</String></Pair> 
+				<Pair key="info"><String>Fighting (2D) - 64/100 - 650 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB01236"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Karateka.png</String></Pair> 
+				<Pair key="title"><String>Karateka</String></Pair> 
+				<Pair key="info"><String>Fighting (2D) - 73/100 - 891 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00087"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Marvel_VS_Capcom_2.png</String></Pair> 
+				<Pair key="title"><String>Marvel vs. Capcom 2</String></Pair> 
+				<Pair key="info"><String>Fighting (2D) - 85/100 - 198 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00869"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Marvel_VS_Capcom_Origins.png</String></Pair> 
+				<Pair key="title"><String>Marvel vs. Capcom Origins</String></Pair> 
+				<Pair key="info"><String>Fighting (2D) - 72/100 - 232 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00910"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Skullgirls.png</String></Pair> 
+				<Pair key="title"><String>Skullgirls</String></Pair> 
+				<Pair key="info"><String>Fighting (2D) - 82/100 - 1159 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB01989"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Skullgirls_Encore.png</String></Pair> 
+				<Pair key="title"><String>Skullgirls: Encore</String></Pair> 
+				<Pair key="info"><String>Fighting (2D) - TBD - 785 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00554"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Street_Fighter_III_3rd_Strike_Online_Edition.png</String></Pair> 
+				<Pair key="title"><String>Street Fighter III: Third Strike Online Edition</String></Pair> 
+				<Pair key="info"><String>Fighting (2D) - 86/100 - 618 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB01036"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Girl_Fight.png</String></Pair> 
+				<Pair key="title"><String>Girl Fight</String></Pair> 
+				<Pair key="info"><String>Fighting (3D) - 35/100 - 1427 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00754"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Real_Steel.png</String></Pair> 
+				<Pair key="title"><String>Real Steel</String></Pair> 
+				<Pair key="info"><String>Fighting (3D) - 41/100 - 343 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00293"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Castle_Crashers.png</String></Pair> 
+				<Pair key="title"><String>Castle Crashers</String></Pair> 
+				<Pair key="info"><String>Fighting (Beat'-Em-Up) - 85/100 - 154 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00317"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Castle_Crashers.png</String></Pair> 
+				<Pair key="title"><String>Castle Crashers</String></Pair> 
+				<Pair key="info"><String>Fighting (Beat'-Em-Up) - 85/100 - 154 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB01168"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Double_Dragon_Neon.png</String></Pair> 
+				<Pair key="title"><String>Double Dragon: Neon</String></Pair> 
+				<Pair key="info"><String>Fighting (Beat'-Em-Up) - 71/100 - 1870 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB01275"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Dungeons_and_Dragons_-_Chronicles_Of_Mystara.png</String></Pair> 
+				<Pair key="title"><String>Dungeons and Dragons: Chronicles Of Mystara</String></Pair> 
+				<Pair key="info"><String>Fighting (Beat'-Em-Up) - 83/100 - 244 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB01409"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Final_Exam.png</String></Pair> 
+				<Pair key="title"><String>Final Exam</String></Pair> 
+				<Pair key="info"><String>Fighting (Beat'-Em-Up) - 60/100 - 724 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB01212"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Sacred_Citadel.png</String></Pair> 
+				<Pair key="title"><String>Sacred Citadel</String></Pair> 
+				<Pair key="info"><String>Fighting (Beat'-Em-Up) - 62/100 - 793 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00258"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Scott_Pilgrim.png</String></Pair> 
+				<Pair key="title"><String>Scott Pilgrim Vs. The World: The Game</String></Pair> 
+				<Pair key="info"><String>Fighting (Beat'-Em-Up) - 77/100 - 176 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00310"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Shank.png</String></Pair> 
+				<Pair key="title"><String>Shank</String></Pair> 
+				<Pair key="info"><String>Fighting (Beat'-Em-Up) - 75/100 - 2012 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00814"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Shank_2.png</String></Pair> 
+				<Pair key="title"><String>Shank 2</String></Pair> 
+				<Pair key="info"><String>Fighting (Beat'-Em-Up) - 77/100 - 1256 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB01425"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/TMNT_-_Out_of_the_Shadows.png</String></Pair> 
+				<Pair key="title"><String>Teenage Mutant Ninja Turtles: Out of the Shadows</String></Pair> 
+				<Pair key="info"><String>Fighting (Beat'-Em-Up) - TBD - 1003 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00149"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/TMNT_-_Turtles_in_Time_ReShelled.png</String></Pair> 
+				<Pair key="title"><String>Teenage Mutant Ninja Turtles: Turtles in Time Re-Shelled</String></Pair> 
+				<Pair key="info"><String>Fighting (Beat'-Em-Up) - 55/100 - 369 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00727"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/The_Simpsons_Arcade_Game.png</String></Pair> 
+				<Pair key="title"><String>The Simpsons Arcade Game</String></Pair> 
+				<Pair key="info"><String>Fighting (Beat'-Em-Up) - 69/100 - 21 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00070"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Watchmen_-_The_End_is_nigh_EP1.png</String></Pair> 
+				<Pair key="title"><String>Watchmen: The End Is Nigh</String></Pair> 
+				<Pair key="info"><String>Fighting (Beat'-Em-Up) - 54/100 - 1262 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00071"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Watchmen_-_The_End_is_nigh_EP1.png</String></Pair> 
+				<Pair key="title"><String>Watchmen: The End Is Nigh</String></Pair> 
+				<Pair key="info"><String>Fighting (Beat'-Em-Up) - 54/100 - 1262 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00108"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Watchmen_-_The_End_is_nigh_EP2.png</String></Pair> 
+				<Pair key="title"><String>Watchmen: The End Is Nigh Part 2</String></Pair> 
+				<Pair key="info"><String>Fighting (Beat'-Em-Up) - 46/100 - 806 MB</String></Pair> 
+			</Table>		
+		</Attributes>
+		<Items>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00870" 
+				attr="item_NPEB00870" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00870_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00956" 
+				attr="item_NPEB00956" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00956_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB01236" 
+				attr="item_NPEB01236" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB01236_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00087" 
+				attr="item_NPEB00087" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00087_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00869" 
+				attr="item_NPEB00869" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00869_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00910" 
+				attr="item_NPEB00910" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00910_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB01989" 
+				attr="item_NPEB01989" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB01989_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00554" 
+				attr="item_NPEB00554" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00554_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB01036" 
+				attr="item_NPEB01036" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB01036_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00754" 
+				attr="item_NPEB00754" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00754_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00293" 
+				attr="item_NPEB00293" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00293_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00317" 
+				attr="item_NPEB00317" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00317_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB01168" 
+				attr="item_NPEB01168" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB01168_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB01275" 
+				attr="item_NPEB01275" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB01275_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB01409" 
+				attr="item_NPEB01409" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB01409_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB01212" 
+				attr="item_NPEB01212" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB01212_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00258" 
+				attr="item_NPEB00258" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00258_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00310" 
+				attr="item_NPEB00310" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00310_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00814" 
+				attr="item_NPEB00814" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00814_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB01425" 
+				attr="item_NPEB01425" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB01425_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00149" 
+				attr="item_NPEB00149" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00149_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00727" 
+				attr="item_NPEB00727" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00727_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00070" 
+				attr="item_NPEB00070" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00070_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00071" 
+				attr="item_NPEB00071" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00071_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00108" 
+				attr="item_NPEB00108" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00108_main" 
+			/>		
+		</Items>
+		</View>
+		
+	<View id="C00_EU_genre_misc_items">
+		<Attributes>
+			<Table key="item_NPEA00282"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Beat_Sketcher.png</String></Pair> 
+				<Pair key="title"><String>Beat Sketcher</String></Pair> 
+				<Pair key="info"><String>Misc - 67/100 - 1263 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEA00427"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Bentleys_Hackpack.png</String></Pair> 
+				<Pair key="title"><String>Bentley's Hackpack</String></Pair> 
+				<Pair key="info"><String>Misc - TBD - 2115 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00947"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/BIT_TRIP_Presents_Runner_2_Future_Legend_of_Rhythm_Alien.png</String></Pair> 
+				<Pair key="title"><String>Bit.Trip Presents...Runner2: Future Legend of Rhythm Alien</String></Pair> 
+				<Pair key="info"><String>Misc - 86/100 - 766 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00171"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Brain_Challenge.png</String></Pair> 
+				<Pair key="title"><String>Brain Challenge</String></Pair> 
+				<Pair key="info"><String>Misc - TBD - 223 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00170"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Fret_Nice.png</String></Pair> 
+				<Pair key="title"><String>Fret Nice</String></Pair> 
+				<Pair key="info"><String>Misc - 67/100 - 193 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB01309"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Hunters_Trophy_2_-_America.png</String></Pair> 
+				<Pair key="title"><String>Hunters Trophy 2 - America</String></Pair> 
+				<Pair key="info"><String>Misc - TBD - 1633 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB01308"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Hunters_Trophy_2_-_Australia.png</String></Pair> 
+				<Pair key="title"><String>Hunters Trophy 2 - Australia</String></Pair> 
+				<Pair key="info"><String>Misc - TBD - 1631 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00885"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Kick_Beat.png</String></Pair> 
+				<Pair key="title"><String>KickBeat</String></Pair> 
+				<Pair key="info"><String>Misc - TBD - 1383 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB01000"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Mix_Superstar.png</String></Pair> 
+				<Pair key="title"><String>Mix Superstar</String></Pair> 
+				<Pair key="info"><String>Misc - TBD - 212 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00315"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/PAC-MAN_Championship_Edition_DX.png</String></Pair> 
+				<Pair key="title"><String>Pac-Man Championship Edition DX</String></Pair> 
+				<Pair key="info"><String>Misc - 91/100 - 248 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB01892"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/PAC-MAN_Museum.png</String></Pair> 
+				<Pair key="title"><String>Pac-Man Museum</String></Pair> 
+				<Pair key="info"><String>Misc - 66/100 - 214 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00894"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Pinball_Arcade.png</String></Pair> 
+				<Pair key="title"><String>Pinball Arcade</String></Pair> 
+				<Pair key="info"><String>Misc - TBD - 221 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEA00376"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/PixelJunk_4AM.png</String></Pair> 
+				<Pair key="title"><String>PixelJunk 4am</String></Pair> 
+				<Pair key="info"><String>Misc - 63/100 - 279 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00031"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Red_Baron.png</String></Pair> 
+				<Pair key="title"><String>Red Baron Arcade</String></Pair> 
+				<Pair key="info"><String>Misc - 20/100 - 135 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00988"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Rock_Band_Blitz.png</String></Pair> 
+				<Pair key="title"><String>Rock Band Blitz</String></Pair> 
+				<Pair key="info"><String>Misc - 78/100 - 348 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEA00332"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Sideway_New_York.png</String></Pair> 
+				<Pair key="title"><String>Sideway: New York</String></Pair> 
+				<Pair key="info"><String>Misc - 73/100 - 1668 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00531"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Star_Raiders.png</String></Pair> 
+				<Pair key="title"><String>Star Raiders</String></Pair> 
+				<Pair key="info"><String>Misc - TBD - 877 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00475"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Swarm.png</String></Pair> 
+				<Pair key="title"><String>Swarm</String></Pair> 
+				<Pair key="info"><String>Misc - 71/100 - 456 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00156"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/TV_Show_King.png</String></Pair> 
+				<Pair key="title"><String>TV Show King</String></Pair> 
+				<Pair key="info"><String>Misc - TBD - 247 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB01894"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Backgammon_Blitz.png</String></Pair> 
+				<Pair key="title"><String>Backgammon Blitz</String></Pair> 
+				<Pair key="info"><String>Misc (Card game) - TBD - 217 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00373"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Blokus.png</String></Pair> 
+				<Pair key="title"><String>Blokus</String></Pair> 
+				<Pair key="info"><String>Misc (Card game) - 76/100 - 257 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00647"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Pure_Chess.png</String></Pair> 
+				<Pair key="title"><String>Pure Chess</String></Pair> 
+				<Pair key="info"><String>Misc (Card game) - TBD - 364 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00157"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/UNO.png</String></Pair> 
+				<Pair key="title"><String>UNO</String></Pair> 
+				<Pair key="info"><String>Misc (Card game) - TBD - 259 MB</String></Pair> 
+			</Table>		
+		</Attributes>
+		<Items>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEA00282" 
+				attr="item_NPEA00282" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEA00282_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEA00427" 
+				attr="item_NPEA00427" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEA00427_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00947" 
+				attr="item_NPEB00947" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00947_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00171" 
+				attr="item_NPEB00171" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00171_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00170" 
+				attr="item_NPEB00170" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00170_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB01309" 
+				attr="item_NPEB01309" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB01309_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB01308" 
+				attr="item_NPEB01308" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB01308_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00885" 
+				attr="item_NPEB00885" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00885_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB01000" 
+				attr="item_NPEB01000" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB01000_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00315" 
+				attr="item_NPEB00315" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00315_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB01892" 
+				attr="item_NPEB01892" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB01892_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00894" 
+				attr="item_NPEB00894" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00894_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEA00376" 
+				attr="item_NPEA00376" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEA00376_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00031" 
+				attr="item_NPEB00031" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00031_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00988" 
+				attr="item_NPEB00988" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00988_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEA00332" 
+				attr="item_NPEA00332" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEA00332_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00531" 
+				attr="item_NPEB00531" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00531_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00475" 
+				attr="item_NPEB00475" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00475_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00156" 
+				attr="item_NPEB00156" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00156_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB01894" 
+				attr="item_NPEB01894" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB01894_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00373" 
+				attr="item_NPEB00373" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00373_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00647" 
+				attr="item_NPEB00647" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00647_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00157" 
+				attr="item_NPEB00157" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00157_main" 
+			/>		
+		</Items>
+		</View>
+		
+	<View id="C00_EU_genre_plateformer_items">
+		<Attributes>
+			<Table key="item_NPEB01022"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Alien_Spidy.png</String></Pair> 
+				<Pair key="title"><String>Alien Spidy</String></Pair> 
+				<Pair key="info"><String>Plateformer (2D) - TBD - 1533 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB01284"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Atomic_Ninjas.png</String></Pair> 
+				<Pair key="title"><String>Atomic Ninjas</String></Pair> 
+				<Pair key="info"><String>Plateformer (2D) - 58/100 - 98 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00859"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Black_Knight_Sword.png</String></Pair> 
+				<Pair key="title"><String>Black Knight Sword</String></Pair> 
+				<Pair key="info"><String>Plateformer (2D) - 66/100 - 763 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00646"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Burgertime_World_Tour.png</String></Pair> 
+				<Pair key="title"><String>Burgertime World Tour</String></Pair> 
+				<Pair key="info"><String>Plateformer (2D) - 50/100 - 347 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB01427"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Castle_of_Illusion_Starring_Mickey_Mouse.png</String></Pair> 
+				<Pair key="title"><String>Castle of Illusion Starring Mickey Mouse</String></Pair> 
+				<Pair key="info"><String>Plateformer (2D) - 72/100 - 448 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB01878"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Dustforce.png</String></Pair> 
+				<Pair key="title"><String>Dustforce</String></Pair> 
+				<Pair key="info"><String>Plateformer (2D) - 70/100 - 206 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00226"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Earthworm_Jim_HD.png</String></Pair> 
+				<Pair key="title"><String>Earthworm Jim HD</String></Pair> 
+				<Pair key="info"><String>Plateformer (2D) - 70/100 - 230 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00306"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Explodemon.png</String></Pair> 
+				<Pair key="title"><String>Explodemon</String></Pair> 
+				<Pair key="info"><String>Plateformer (2D) - 65/100 - 1264 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB01893"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/FEZ.png</String></Pair> 
+				<Pair key="title"><String>Fez</String></Pair> 
+				<Pair key="info"><String>Plateformer (2D) - TBD - 181 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00349"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Funky_Lab_Rat.png</String></Pair> 
+				<Pair key="title"><String>Funky Lab Rat</String></Pair> 
+				<Pair key="info"><String>Plateformer (2D) - 73/100 - 152 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB01338"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Giana_Sisters_Twisted_Dreams.png</String></Pair> 
+				<Pair key="title"><String>Giana Sisters: Twisted Dreams</String></Pair> 
+				<Pair key="info"><String>Plateformer (2D) - TBD - 1690 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB01141"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Guacamelee.png</String></Pair> 
+				<Pair key="title"><String>Guacamelee!</String></Pair> 
+				<Pair key="info"><String>Plateformer (2D) - 84/100 - 527 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00831"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Hell_Yeah_-_Wrath_of_the_Dead_Rabbit.png</String></Pair> 
+				<Pair key="title"><String>Hell Yeah! Wrath of the Dead Rabbit</String></Pair> 
+				<Pair key="info"><String>Plateformer (2D) - 68/100 - 2711 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00564"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Limbo.png</String></Pair> 
+				<Pair key="title"><String>LIMBO</String></Pair> 
+				<Pair key="info"><String>Plateformer (2D) - 90/100 - 94 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00596"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Max_and_The_Magic_Marker_-_Gold_Edition.png</String></Pair> 
+				<Pair key="title"><String>Max and the Magic Marker: Gold Edition</String></Pair> 
+				<Pair key="info"><String>Plateformer (2D) - 69/100 - 241 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00463"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Outland.png</String></Pair> 
+				<Pair key="title"><String>Outland</String></Pair> 
+				<Pair key="info"><String>Plateformer (2D) - 83/100 - 1195 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB01056"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/PiD.png</String></Pair> 
+				<Pair key="title"><String>PiD</String></Pair> 
+				<Pair key="info"><String>Plateformer (2D) - 70/100 - 1183 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEA00314"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Rochard.png</String></Pair> 
+				<Pair key="title"><String>Rochard</String></Pair> 
+				<Pair key="info"><String>Plateformer (2D) - 79/100 - 1293 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00186"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Rocket_Knight.png</String></Pair> 
+				<Pair key="title"><String>Rocket Knight</String></Pair> 
+				<Pair key="info"><String>Plateformer (2D) - 70/100 - 429 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00722"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Rocketbirds_-_Hard_Boiled_Chicken.png</String></Pair> 
+				<Pair key="title"><String>Rocketbirds: Hardboiled Chicken</String></Pair> 
+				<Pair key="info"><String>Plateformer (2D) - 74/100 - 433 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00299"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Rush_N_Attack_-_Ex-Patriot.png</String></Pair> 
+				<Pair key="title"><String>Rush'N Attack Ex-Patriot</String></Pair> 
+				<Pair key="info"><String>Plateformer (2D) - 47/100 - 706 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00644"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Scarygirl.png</String></Pair> 
+				<Pair key="title"><String>Scarygirl</String></Pair> 
+				<Pair key="info"><String>Plateformer (2D) - 66/100 - 1049 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00787"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Sonic_CD.png</String></Pair> 
+				<Pair key="title"><String>Sonic CD</String></Pair> 
+				<Pair key="info"><String>Plateformer (2D) - 80/100 - 355 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB01419"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Spelunky.png</String></Pair> 
+				<Pair key="title"><String>Spelunky</String></Pair> 
+				<Pair key="info"><String>Plateformer (2D) - 83/100 - 207 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00388"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Tales_from_Space_-_About_a_Blob.png</String></Pair> 
+				<Pair key="title"><String>Tales From Space: About a Blob</String></Pair> 
+				<Pair key="info"><String>Plateformer (2D) - 76/100 - 283 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB01824"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Tales_from_Space_-_Mutant_Blobs_Attack.png</String></Pair> 
+				<Pair key="title"><String>Tales From Space: Mutant Blobs Attack</String></Pair> 
+				<Pair key="info"><String>Plateformer (2D) - 81/100 - 243 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB01270"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Terraria.png</String></Pair> 
+				<Pair key="title"><String>Terraria</String></Pair> 
+				<Pair key="info"><String>Plateformer (2D) - 81/100 - 48 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB01237"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/The_Cave.png</String></Pair> 
+				<Pair key="title"><String>The Cave</String></Pair> 
+				<Pair key="info"><String>Plateformer (2D) - 72/100 - 984 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00668"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Trine_2.png</String></Pair> 
+				<Pair key="title"><String>Trine 2</String></Pair> 
+				<Pair key="info"><String>Plateformer (2D) - 85/100 - 1144 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00924"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Jet_Set_Radio.png</String></Pair> 
+				<Pair key="title"><String>Jet Set Radio</String></Pair> 
+				<Pair key="info"><String>Plateformer (3D) - 75/100 - 1103 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEA00378"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Ratchet_and_Clank_-_Full_Frontal_Assault.png</String></Pair> 
+				<Pair key="title"><String>Ratchet & Clank: Full Frontal Assault</String></Pair> 
+				<Pair key="info"><String>Plateformer (3D) - 64/100 - 4737 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00879"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Rayman_3_HD.png</String></Pair> 
+				<Pair key="title"><String>Rayman 3 HD</String></Pair> 
+				<Pair key="info"><String>Plateformer (3D) - 72/100 - 1668 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB01114"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Oddworld_Munchs_Oddysee_HD.png</String></Pair> 
+				<Pair key="title"><String>Oddworld: Munch's Oddysee HD</String></Pair> 
+				<Pair key="info"><String>Platformer (2D) - TBD - 1242 MB</String></Pair> 
+			</Table>		
+		</Attributes>
+		<Items>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB01022" 
+				attr="item_NPEB01022" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB01022_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB01284" 
+				attr="item_NPEB01284" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB01284_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00859" 
+				attr="item_NPEB00859" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00859_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00646" 
+				attr="item_NPEB00646" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00646_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB01427" 
+				attr="item_NPEB01427" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB01427_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB01878" 
+				attr="item_NPEB01878" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB01878_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00226" 
+				attr="item_NPEB00226" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00226_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00306" 
+				attr="item_NPEB00306" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00306_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB01893" 
+				attr="item_NPEB01893" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB01893_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00349" 
+				attr="item_NPEB00349" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00349_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB01338" 
+				attr="item_NPEB01338" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB01338_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB01141" 
+				attr="item_NPEB01141" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB01141_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00831" 
+				attr="item_NPEB00831" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00831_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00564" 
+				attr="item_NPEB00564" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00564_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00596" 
+				attr="item_NPEB00596" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00596_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00463" 
+				attr="item_NPEB00463" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00463_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB01056" 
+				attr="item_NPEB01056" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB01056_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEA00314" 
+				attr="item_NPEA00314" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEA00314_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00186" 
+				attr="item_NPEB00186" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00186_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00722" 
+				attr="item_NPEB00722" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00722_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00299" 
+				attr="item_NPEB00299" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00299_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00644" 
+				attr="item_NPEB00644" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00644_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00787" 
+				attr="item_NPEB00787" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00787_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB01419" 
+				attr="item_NPEB01419" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB01419_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00388" 
+				attr="item_NPEB00388" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00388_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB01824" 
+				attr="item_NPEB01824" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB01824_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB01270" 
+				attr="item_NPEB01270" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB01270_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB01237" 
+				attr="item_NPEB01237" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB01237_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00668" 
+				attr="item_NPEB00668" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00668_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00924" 
+				attr="item_NPEB00924" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00924_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEA00378" 
+				attr="item_NPEA00378" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEA00378_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00879" 
+				attr="item_NPEB00879" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00879_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB01114" 
+				attr="item_NPEB01114" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB01114_main" 
+			/>		
+		</Items>
+		</View>
+		
+	<View id="C00_EU_genre_puzzle_items">
+		<Attributes>
+			<Table key="item_NPEB00970"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Mensa_Academy.png</String></Pair> 
+				<Pair key="title"><String>American Mensa Academy</String></Pair> 
+				<Pair key="info"><String>Puzzle - TBD - 341 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00514"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Auditorium_HD.png</String></Pair> 
+				<Pair key="title"><String>Auditorium HD</String></Pair> 
+				<Pair key="info"><String>Puzzle - 79/100 - 349 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEA00124"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Bejeweled_2.png</String></Pair> 
+				<Pair key="title"><String>Bejeweled 2</String></Pair> 
+				<Pair key="info"><String>Puzzle - 74/100 - 24 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00374"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Chime_Super_Deluxe.png</String></Pair> 
+				<Pair key="title"><String>Chime Super Deluxe</String></Pair> 
+				<Pair key="info"><String>Puzzle - 78/100 - 188 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00337"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Crazy_Machines_Elements.png</String></Pair> 
+				<Pair key="title"><String>Crazy Machines Elements</String></Pair> 
+				<Pair key="info"><String>Puzzle - 62/100 - 340 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00165"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Critter_Crunch.png</String></Pair> 
+				<Pair key="title"><String>Critter Crunch</String></Pair> 
+				<Pair key="info"><String>Puzzle - 87/100 - 428 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00556"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Cubixx_HD.png</String></Pair> 
+				<Pair key="title"><String>Cubixx HD</String></Pair> 
+				<Pair key="info"><String>Puzzle - 70/100 - 163 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEA00132"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Feeding_Frenzy_2.png</String></Pair> 
+				<Pair key="title"><String>Feeding Frenzy 2: Shipwreck Showdown</String></Pair> 
+				<Pair key="info"><String>Puzzle - TBD - 57 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00078"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Flock.png</String></Pair> 
+				<Pair key="title"><String>Flock!</String></Pair> 
+				<Pair key="info"><String>Puzzle - 71/100 - 91 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB01924"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Forest_Legends_-_The_Call_of_Love.png</String></Pair> 
+				<Pair key="title"><String>Forest Legends: The Call of Love</String></Pair> 
+				<Pair key="info"><String>Puzzle - TBD - 2242 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB01104"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Germinator.png</String></Pair> 
+				<Pair key="title"><String>Germinator</String></Pair> 
+				<Pair key="info"><String>Puzzle - 68/100 - 306 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB01410"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Ibb_and_Obb.png</String></Pair> 
+				<Pair key="title"><String>Ibb & Obb</String></Pair> 
+				<Pair key="info"><String>Puzzle - 78/100 - 1027 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB02118"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/King_Oddball.png</String></Pair> 
+				<Pair key="title"><String>King Oddball</String></Pair> 
+				<Pair key="info"><String>Puzzle - TBD - 56 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB01280"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Magrunner_Dark_Pulse.png</String></Pair> 
+				<Pair key="title"><String>Magrunner: Dark Pulse</String></Pair> 
+				<Pair key="info"><String>Puzzle - 72/100 - 1376 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00473"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Mercury_HG.png</String></Pair> 
+				<Pair key="title"><String>Mercury Hg</String></Pair> 
+				<Pair key="info"><String>Puzzle - 74/100 - 113 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB01161"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Mountain_Crime_Requital.png</String></Pair> 
+				<Pair key="title"><String>Mountain Crime: Requital</String></Pair> 
+				<Pair key="info"><String>Puzzle - TBD - 1008 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00441"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Puddle.png</String></Pair> 
+				<Pair key="title"><String>Puddle</String></Pair> 
+				<Pair key="info"><String>Puzzle - 71/100 - 1098 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00895"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Quantum_Conundrum.png</String></Pair> 
+				<Pair key="title"><String>Quantum Conundrum</String></Pair> 
+				<Pair key="info"><String>Puzzle - 79/100 - 1650 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00836"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Rotastic.png</String></Pair> 
+				<Pair key="title"><String>Rotastic</String></Pair> 
+				<Pair key="info"><String>Puzzle - TBD - 401 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB02120"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Sparkle_2.png</String></Pair> 
+				<Pair key="title"><String>Sparkle 2</String></Pair> 
+				<Pair key="info"><String>Puzzle - TBD - 111 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB02227"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Sparkle_Unleashed.png</String></Pair> 
+				<Pair key="title"><String>Sparkle Unleashed</String></Pair> 
+				<Pair key="info"><String>Puzzle - TBD - 152 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00283"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Stacking.png</String></Pair> 
+				<Pair key="title"><String>Stacking</String></Pair> 
+				<Pair key="info"><String>Puzzle - 83/100 - 1000 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB02173"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Tennis_In_The_Face.png</String></Pair> 
+				<Pair key="title"><String>Tennis In The Face</String></Pair> 
+				<Pair key="info"><String>Puzzle - TBD - 37 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00445"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Tetris.png</String></Pair> 
+				<Pair key="title"><String>Tetris</String></Pair> 
+				<Pair key="info"><String>Puzzle - 80/100 - 74 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00383"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/The_Undergarden.png</String></Pair> 
+				<Pair key="title"><String>The Undergarden</String></Pair> 
+				<Pair key="info"><String>Puzzle - 63/100 - 322 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00252"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Time_Machine_Rogue_Pilot.png</String></Pair> 
+				<Pair key="title"><String>Time Machine: Rogue Pilot</String></Pair> 
+				<Pair key="info"><String>Puzzle - 64/100 - 248 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB01883"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Tiny_Brains.png</String></Pair> 
+				<Pair key="title"><String>Tiny Brains</String></Pair> 
+				<Pair key="info"><String>Puzzle - TBD - 1222 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00651"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Toki_Tori.png</String></Pair> 
+				<Pair key="title"><String>Toki Tori</String></Pair> 
+				<Pair key="info"><String>Puzzle - 75/100 - 103 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00183"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Voodoo_Dice.png</String></Pair> 
+				<Pair key="title"><String>Voodoo Dice</String></Pair> 
+				<Pair key="info"><String>Puzzle - TBD - 130 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB01160"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Zumas_Revenge.png</String></Pair> 
+				<Pair key="title"><String>Zuma's Revenge</String></Pair> 
+				<Pair key="info"><String>Puzzle - TBD - 143 MB</String></Pair> 
+			</Table>		
+		</Attributes>
+		<Items>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00970" 
+				attr="item_NPEB00970" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00970_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00514" 
+				attr="item_NPEB00514" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00514_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEA00124" 
+				attr="item_NPEA00124" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEA00124_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00374" 
+				attr="item_NPEB00374" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00374_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00337" 
+				attr="item_NPEB00337" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00337_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00165" 
+				attr="item_NPEB00165" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00165_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00556" 
+				attr="item_NPEB00556" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00556_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEA00132" 
+				attr="item_NPEA00132" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEA00132_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00078" 
+				attr="item_NPEB00078" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00078_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB01924" 
+				attr="item_NPEB01924" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB01924_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB01104" 
+				attr="item_NPEB01104" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB01104_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB01410" 
+				attr="item_NPEB01410" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB01410_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB02118" 
+				attr="item_NPEB02118" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB02118_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB01280" 
+				attr="item_NPEB01280" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB01280_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00473" 
+				attr="item_NPEB00473" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00473_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB01161" 
+				attr="item_NPEB01161" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB01161_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00441" 
+				attr="item_NPEB00441" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00441_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00895" 
+				attr="item_NPEB00895" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00895_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00836" 
+				attr="item_NPEB00836" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00836_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB02120" 
+				attr="item_NPEB02120" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB02120_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB02227" 
+				attr="item_NPEB02227" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB02227_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00283" 
+				attr="item_NPEB00283" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00283_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB02173" 
+				attr="item_NPEB02173" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB02173_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00445" 
+				attr="item_NPEB00445" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00445_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00383" 
+				attr="item_NPEB00383" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00383_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00252" 
+				attr="item_NPEB00252" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00252_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB01883" 
+				attr="item_NPEB01883" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB01883_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00651" 
+				attr="item_NPEB00651" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00651_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00183" 
+				attr="item_NPEB00183" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00183_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB01160" 
+				attr="item_NPEB01160" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB01160_main" 
+			/>		
+		</Items>
+		</View>
+		
+	<View id="C00_EU_genre_rpg_items">
+		<Attributes>
+			<Table key="item_NPEB01787"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Battle_of_Titles_EX.png</String></Pair> 
+				<Pair key="title"><String>Battle of Tiles EX</String></Pair> 
+				<Pair key="info"><String>RPG - TBD - 56 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00981"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Blood_Knights.png</String></Pair> 
+				<Pair key="title"><String>Blood Knights</String></Pair> 
+				<Pair key="info"><String>RPG - TBD - 1506 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB01901"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Blood_Knights.png</String></Pair> 
+				<Pair key="title"><String>Blood Knights</String></Pair> 
+				<Pair key="info"><String>RPG - TBD - 1506 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB01934"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Child_of_Light.png</String></Pair> 
+				<Pair key="title"><String>Child of Light</String></Pair> 
+				<Pair key="info"><String>RPG - 89/100 - 2009 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00631"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/DeathSpank_-_The_Baconing.png</String></Pair> 
+				<Pair key="title"><String>DeathSpank: The Baconing</String></Pair> 
+				<Pair key="info"><String>RPG - TBD - 993 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00291"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/DeathSpank_-_Thongs_of_Virtue.png</String></Pair> 
+				<Pair key="title"><String>DeathSpank: Thongs of Virtue</String></Pair> 
+				<Pair key="info"><String>RPG - 79/100 - 1295 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00652"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Dungeon_Defenders.png</String></Pair> 
+				<Pair key="title"><String>Dungeon Defenders</String></Pair> 
+				<Pair key="info"><String>RPG - 80/100 - 1381 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00289"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Dungeon_Hunter_Alliance.png</String></Pair> 
+				<Pair key="title"><String>Dungeon Hunter: Alliance</String></Pair> 
+				<Pair key="info"><String>RPG - 67/100 - 945 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00385"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Dungeons_and_Dragons_-_Daggerdale.png</String></Pair> 
+				<Pair key="title"><String>Dungeons and Dragons: Daggerdale</String></Pair> 
+				<Pair key="info"><String>RPG - 46/100 - 1781 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00328"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Faery_Legends_of_Avalon.png</String></Pair> 
+				<Pair key="title"><String>Faery: Legends of Avalon</String></Pair> 
+				<Pair key="info"><String>RPG - 57/100 - 560 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB01301"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Mars_War_Logs.png</String></Pair> 
+				<Pair key="title"><String>Mars: War Logs</String></Pair> 
+				<Pair key="info"><String>RPG - TBD - 1583 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00174"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Might_and_Magic_-_Clash_of_Heroes.png</String></Pair> 
+				<Pair key="title"><String>Might and Magic: Clash of Heroes</String></Pair> 
+				<Pair key="info"><String>RPG - 84/100 - 1610 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00593"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Wizardry_Labyrinth_of_Lost_Souls.png</String></Pair> 
+				<Pair key="title"><String>Wizardry: Labyrinth of Lost Souls</String></Pair> 
+				<Pair key="info"><String>RPG - 57/100 - 475 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB01351"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Zeno_Clash_2.png</String></Pair> 
+				<Pair key="title"><String>Zeno Clash 2</String></Pair> 
+				<Pair key="info"><String>RPG - TBD - 1087 MB</String></Pair> 
+			</Table>		
+		</Attributes>
+		<Items>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB01787" 
+				attr="item_NPEB01787" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB01787_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00981" 
+				attr="item_NPEB00981" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00981_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB01901" 
+				attr="item_NPEB01901" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB01901_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB01934" 
+				attr="item_NPEB01934" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB01934_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00631" 
+				attr="item_NPEB00631" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00631_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00291" 
+				attr="item_NPEB00291" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00291_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00652" 
+				attr="item_NPEB00652" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00652_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00289" 
+				attr="item_NPEB00289" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00289_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00385" 
+				attr="item_NPEB00385" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00385_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00328" 
+				attr="item_NPEB00328" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00328_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB01301" 
+				attr="item_NPEB01301" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB01301_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00174" 
+				attr="item_NPEB00174" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00174_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00593" 
+				attr="item_NPEB00593" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00593_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB01351" 
+				attr="item_NPEB01351" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB01351_main" 
+			/>		
+		</Items>
+		</View>
+		
+	<View id="C00_EU_genre_shooter_items">
+		<Attributes>
+			<Table key="item_NPEB01272"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Mad_Dog_2_-_The_Lost_Gold.png</String></Pair> 
+				<Pair key="title"><String>Mad Dog II: The Lost Gold</String></Pair> 
+				<Pair key="info"><String>Shooter - TBD - 1407 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB01153"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Mad_Dog_McCree.png</String></Pair> 
+				<Pair key="title"><String>Mad Dog McCree</String></Pair> 
+				<Pair key="info"><String>Shooter - TBD - 967 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00339"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/The_Fancy_Pants_Adventures.png</String></Pair> 
+				<Pair key="title"><String>The Fancy Pants Adventures</String></Pair> 
+				<Pair key="info"><String>Shooter - 71/100 - 330 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB01328"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/The_Last_Bounty_Hunter.png</String></Pair> 
+				<Pair key="title"><String>The Last Bounty Hunter</String></Pair> 
+				<Pair key="info"><String>Shooter - TBD - 1316 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB01088"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Alien_Rage.png</String></Pair> 
+				<Pair key="title"><String>Alien Rage</String></Pair> 
+				<Pair key="info"><String>Shooter (FPS) - TBD - 2661 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00092"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Battlefield_1943.png</String></Pair> 
+				<Pair key="title"><String>Battlefield 1943</String></Pair> 
+				<Pair key="info"><String>Shooter (FPS) - 84/100 - 565 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00365"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Blacklight_Tango_Down.png</String></Pair> 
+				<Pair key="title"><String>Blacklight: Tango Down</String></Pair> 
+				<Pair key="info"><String>Shooter (FPS) - 63/100 - 672 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB01214"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Call_of_Juarez_-_Gunslinger.png</String></Pair> 
+				<Pair key="title"><String>Call of Juarez: Gunslinger</String></Pair> 
+				<Pair key="info"><String>Shooter (FPS) - 75/100 - 1983 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00075"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/CellFactor_Psychokinetic_Wars.png</String></Pair> 
+				<Pair key="title"><String>CellFactor: Psychokinetic Wars</String></Pair> 
+				<Pair key="info"><String>Shooter (FPS) - 71/100 - 222 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00338"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Dead_Space_Ignition.png</String></Pair> 
+				<Pair key="title"><String>Dead Space Ignition</String></Pair> 
+				<Pair key="info"><String>Shooter (FPS) - 36/100 - 1626 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB02100"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Deadfall_Adventures_-_Heart_Of_Atlantis.png</String></Pair> 
+				<Pair key="title"><String>Deadfall Adventures: Heart Of Atlantis</String></Pair> 
+				<Pair key="info"><String>Shooter (FPS) - 46/100 - 2725 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB01322"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Far_Cry_3_-_Blood_Dragon.png</String></Pair> 
+				<Pair key="title"><String>Far Cry 3: Blood Dragon</String></Pair> 
+				<Pair key="info"><String>Shooter (FPS) - 82/100 - 1947 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB01982"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Far_Cry_4_-_Keys_To_Kyrat.png</String></Pair> 
+				<Pair key="title"><String>Far Cry 4: Keys To Kyrat</String></Pair> 
+				<Pair key="info"><String>Shooter (FPS) - TBD - 10822 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00989"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Far_Cry_Classic.png</String></Pair> 
+				<Pair key="title"><String>Far Cry Classic</String></Pair> 
+				<Pair key="info"><String>Shooter (FPS) - TBD - 2863 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00239"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Gotham_City_Imposters.png</String></Pair> 
+				<Pair key="title"><String>Gotham City Imposters</String></Pair> 
+				<Pair key="info"><String>Shooter (FPS) - 72/100 - 1683 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEA00321"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Killzone_3_Multiplayer.png</String></Pair> 
+				<Pair key="title"><String>Killzone 3: Multiplayer</String></Pair> 
+				<Pair key="info"><String>Shooter (FPS) - 84/100 - 4068 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEA00278"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/MAG.png</String></Pair> 
+				<Pair key="title"><String>MAG</String></Pair> 
+				<Pair key="info"><String>Shooter (FPS) - 76/100 - 4773 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00290"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Modern_Combat_Domination.png</String></Pair> 
+				<Pair key="title"><String>Modern Combat: Domination</String></Pair> 
+				<Pair key="info"><String>Shooter (FPS) - 67/100 - 696 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB01374"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Sanctum_2.png</String></Pair> 
+				<Pair key="title"><String>Sanctum 2</String></Pair> 
+				<Pair key="info"><String>Shooter (FPS) - TBD - 798 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00386"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Section_8_Prejudice.png</String></Pair> 
+				<Pair key="title"><String>Section 8: Prejudice</String></Pair> 
+				<Pair key="info"><String>Shooter (FPS) - 70/100 - 1957 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB01040"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Big_Sky_Infinity.png</String></Pair> 
+				<Pair key="title"><String>Big Sky: Infinity</String></Pair> 
+				<Pair key="info"><String>Shooter (Shoot-'Em-Up) - TBD - 350 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB02119"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Crimsonland.png</String></Pair> 
+				<Pair key="title"><String>Crimsonland</String></Pair> 
+				<Pair key="info"><String>Shooter (Shoot-'Em-Up) - TBD - 83 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00333"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Galaga_Legions_DX.png</String></Pair> 
+				<Pair key="title"><String>Galaga Legions DX</String></Pair> 
+				<Pair key="info"><String>Shooter (Shoot-'Em-Up) - 72/100 - 134 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00510"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Gatling_Gears.png</String></Pair> 
+				<Pair key="title"><String>Gatling Gears</String></Pair> 
+				<Pair key="info"><String>Shooter (Shoot-'Em-Up) - 76/100 - 1443 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEA00154"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Gravity_Crash.png</String></Pair> 
+				<Pair key="title"><String>Gravity Crash</String></Pair> 
+				<Pair key="info"><String>Shooter (Shoot-'Em-Up) - 73/100 - 178 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00332"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Hard_Corps_Uprising.png</String></Pair> 
+				<Pair key="title"><String>Hard Corps: Uprising</String></Pair> 
+				<Pair key="info"><String>Shooter (Shoot-'Em-Up) - 76/100 - 1354 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB02287"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Hyper_Void.png</String></Pair> 
+				<Pair key="title"><String>Hyper Void</String></Pair> 
+				<Pair key="info"><String>Shooter (Shoot-'Em-Up) - TBD - 1075 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00133"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Matt_Hazard_-_Blood_Bath_and_Beyond.png</String></Pair> 
+				<Pair key="title"><String>Matt Hazard: Blood Bath and Beyond</String></Pair> 
+				<Pair key="info"><String>Shooter (Shoot-'Em-Up) - 65/100 - 526 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00336"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/MicroBot.png</String></Pair> 
+				<Pair key="title"><String>MicroBot</String></Pair> 
+				<Pair key="info"><String>Shooter (Shoot-'Em-Up) - 62/100 - 147 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB01094"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Retro_Grade.png</String></Pair> 
+				<Pair key="title"><String>Retro Grade</String></Pair> 
+				<Pair key="info"><String>Shooter (Shoot-'Em-Up) - 78/100 - 303 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00454"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Sine_Mora.png</String></Pair> 
+				<Pair key="title"><String>Sine Mora</String></Pair> 
+				<Pair key="info"><String>Shooter (Shoot-'Em-Up) - 83/100 - 902 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00923"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/The_Expendables_2_-_The_Videogame.png</String></Pair> 
+				<Pair key="title"><String>The Expendables 2 Videogame</String></Pair> 
+				<Pair key="info"><String>Shooter (Shoot-'Em-Up) - 34/100 - 1109 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB01380"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Thunder_Wolves.png</String></Pair> 
+				<Pair key="title"><String>Thunder Wolves</String></Pair> 
+				<Pair key="info"><String>Shooter (Shoot-'Em-Up) - 62/100 - 1071 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00594"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Voltron_-_Defender_of_the_Universe.png</String></Pair> 
+				<Pair key="title"><String>Voltron: Defender of the Universe</String></Pair> 
+				<Pair key="info"><String>Shooter (Shoot-'Em-Up) - 52/100 - 973 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00128"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Zombie_Apocalypse.png</String></Pair> 
+				<Pair key="title"><String>Zombie Apocalypse</String></Pair> 
+				<Pair key="info"><String>Shooter (Shoot-'Em-Up) - 61/100 - 740 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00576"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Zombie_Apocalypse_-_Never_Die_Alone.png</String></Pair> 
+				<Pair key="title"><String>Zombie Apocalypse: Never Die Alone</String></Pair> 
+				<Pair key="info"><String>Shooter (Shoot-'Em-Up) - 67/100 - 1216 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00345"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Alien_Breed_2_-_Assault.png</String></Pair> 
+				<Pair key="title"><String>Alien Breed 2: Assault</String></Pair> 
+				<Pair key="info"><String>Shooter (TPS) - 69/100 - 1366 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00346"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Alien_Breed_3_-_Descent.png</String></Pair> 
+				<Pair key="title"><String>Alien Breed 3: Descent</String></Pair> 
+				<Pair key="info"><String>Shooter (TPS) - 64/100 - 1683 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00260"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Alien_Breed_-_Impact.png</String></Pair> 
+				<Pair key="title"><String>Alien Breed: Impact</String></Pair> 
+				<Pair key="info"><String>Shooter (TPS) - 71/100 - 1181 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00716"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Bloodrayne_-_Betrayal.png</String></Pair> 
+				<Pair key="title"><String>Bloodrayne: Betrayal</String></Pair> 
+				<Pair key="info"><String>Shooter (TPS) - 69/100 - 961 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB01300"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/God_Mode.png</String></Pair> 
+				<Pair key="title"><String>God Mode</String></Pair> 
+				<Pair key="info"><String>Shooter (TPS) - 60/100 - 1026 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB01373"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Narco_Terror.png</String></Pair> 
+				<Pair key="title"><String>Narco Terror</String></Pair> 
+				<Pair key="info"><String>Shooter (TPS) - TBD - 1210 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB01220"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Scourge_Outbreak.png</String></Pair> 
+				<Pair key="title"><String>Scourge: Outbreak</String></Pair> 
+				<Pair key="info"><String>Shooter (TPS) - TBD - 2042 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00547"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Warhammer_40000_-_Kill_Team.png</String></Pair> 
+				<Pair key="title"><String>Warhammer 40,000 - Kill Team</String></Pair> 
+				<Pair key="info"><String>Shooter (TPS) - 65/100 - 831 MB</String></Pair> 
+			</Table>		
+		</Attributes>
+		<Items>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB01272" 
+				attr="item_NPEB01272" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB01272_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB01153" 
+				attr="item_NPEB01153" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB01153_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00339" 
+				attr="item_NPEB00339" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00339_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB01328" 
+				attr="item_NPEB01328" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB01328_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB01088" 
+				attr="item_NPEB01088" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB01088_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00092" 
+				attr="item_NPEB00092" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00092_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00365" 
+				attr="item_NPEB00365" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00365_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB01214" 
+				attr="item_NPEB01214" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB01214_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00075" 
+				attr="item_NPEB00075" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00075_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00338" 
+				attr="item_NPEB00338" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00338_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB02100" 
+				attr="item_NPEB02100" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB02100_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB01322" 
+				attr="item_NPEB01322" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB01322_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB01982" 
+				attr="item_NPEB01982" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB01982_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00989" 
+				attr="item_NPEB00989" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00989_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00239" 
+				attr="item_NPEB00239" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00239_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEA00321" 
+				attr="item_NPEA00321" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEA00321_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEA00278" 
+				attr="item_NPEA00278" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEA00278_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00290" 
+				attr="item_NPEB00290" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00290_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB01374" 
+				attr="item_NPEB01374" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB01374_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00386" 
+				attr="item_NPEB00386" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00386_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB01040" 
+				attr="item_NPEB01040" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB01040_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB02119" 
+				attr="item_NPEB02119" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB02119_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00333" 
+				attr="item_NPEB00333" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00333_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00510" 
+				attr="item_NPEB00510" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00510_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEA00154" 
+				attr="item_NPEA00154" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEA00154_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00332" 
+				attr="item_NPEB00332" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00332_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB02287" 
+				attr="item_NPEB02287" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB02287_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00133" 
+				attr="item_NPEB00133" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00133_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00336" 
+				attr="item_NPEB00336" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00336_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB01094" 
+				attr="item_NPEB01094" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB01094_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00454" 
+				attr="item_NPEB00454" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00454_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00923" 
+				attr="item_NPEB00923" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00923_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB01380" 
+				attr="item_NPEB01380" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB01380_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00594" 
+				attr="item_NPEB00594" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00594_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00128" 
+				attr="item_NPEB00128" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00128_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00576" 
+				attr="item_NPEB00576" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00576_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00345" 
+				attr="item_NPEB00345" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00345_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00346" 
+				attr="item_NPEB00346" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00346_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00260" 
+				attr="item_NPEB00260" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00260_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00716" 
+				attr="item_NPEB00716" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00716_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB01300" 
+				attr="item_NPEB01300" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB01300_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB01373" 
+				attr="item_NPEB01373" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB01373_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB01220" 
+				attr="item_NPEB01220" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB01220_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00547" 
+				attr="item_NPEB00547" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00547_main" 
+			/>		
+		</Items>
+		</View>
+		
+	<View id="C00_EU_genre_sports_items">
+		<Attributes>
+			<Table key="item_NPEB00080"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/3_on_3_NHL_Arcade.png</String></Pair> 
+				<Pair key="title"><String>3 on 3 NHL Arcade</String></Pair> 
+				<Pair key="info"><String>Sports - 66/100 - 188 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00592"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Backbreaker_Vengeance.png</String></Pair> 
+				<Pair key="title"><String>Backbreaker: Vengeance</String></Pair> 
+				<Pair key="info"><String>Sports - TBD - 477 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00987"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Foosball_2012.png</String></Pair> 
+				<Pair key="title"><String>Foosball 2012</String></Pair> 
+				<Pair key="info"><String>Sports - TBD - 134 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEA00123"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Hustle_Kings.png</String></Pair> 
+				<Pair key="title"><String>Hustle Kings</String></Pair> 
+				<Pair key="info"><String>Sports - 81/100 - 341 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00650"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/NBA_Jam_-_On_Fire_Edition.png</String></Pair> 
+				<Pair key="title"><String>NBA Jam: On Fire Edition</String></Pair> 
+				<Pair key="info"><String>Sports - 81/100 - 859 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00352"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Quizball_Goal.png</String></Pair> 
+				<Pair key="title"><String>Quizball Goal</String></Pair> 
+				<Pair key="info"><String>Sports - 51/100 - 400 MB</String></Pair> 
+			</Table>		
+		</Attributes>
+		<Items>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00080" 
+				attr="item_NPEB00080" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00080_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00592" 
+				attr="item_NPEB00592" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00592_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00987" 
+				attr="item_NPEB00987" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00987_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEA00123" 
+				attr="item_NPEA00123" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEA00123_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00650" 
+				attr="item_NPEB00650" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00650_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00352" 
+				attr="item_NPEB00352" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00352_main" 
+			/>		
+		</Items>
+		</View>
+		
+	<View id="C00_EU_genre_strategy_items">
+		<Attributes>
+			<Table key="item_NPEB00904"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Anomaly_Warzone_Earth.png</String></Pair> 
+				<Pair key="title"><String>Anomaly: Warzone Earth</String></Pair> 
+				<Pair key="info"><String>Strategy - 78/100 - 599 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00670"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Awesomenauts.png</String></Pair> 
+				<Pair key="title"><String>Awesomenauts</String></Pair> 
+				<Pair key="info"><String>Strategy - 75/100 - 682 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00617"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Babel_Rising.png</String></Pair> 
+				<Pair key="title"><String>Babel Rising</String></Pair> 
+				<Pair key="info"><String>Strategy - 55/100 - 356 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00677"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Castlestorm.png</String></Pair> 
+				<Pair key="title"><String>Castlestorm</String></Pair> 
+				<Pair key="info"><String>Strategy - TBD - 281 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00461"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Dead_Block.png</String></Pair> 
+				<Pair key="title"><String>Dead Block</String></Pair> 
+				<Pair key="info"><String>Strategy - 63/100 - 448 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00309"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Dungeon_Twister.png</String></Pair> 
+				<Pair key="title"><String>Dungeon Twister</String></Pair> 
+				<Pair key="info"><String>Strategy - 49/100 - 155 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00466"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/From_Dust.png</String></Pair> 
+				<Pair key="title"><String>From DUST</String></Pair> 
+				<Pair key="info"><String>Strategy - 81/100 - 929 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB01085"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Guardians_of_Middle_Earth.png</String></Pair> 
+				<Pair key="title"><String>Guardians of Middle Earth</String></Pair> 
+				<Pair key="info"><String>Strategy - 75/100 - 1219 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEA00473"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Invizimals_-_The_Lost_Kingdom.png</String></Pair> 
+				<Pair key="title"><String>Invizimals: The Lost Kingdom</String></Pair> 
+				<Pair key="info"><String>Strategy - 50/100 - 6687 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00367"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Magic_2012.png</String></Pair> 
+				<Pair key="title"><String>Magic: The Gathering - Duels of the Planeswalkers 2012</String></Pair> 
+				<Pair key="info"><String>Strategy - 74/100 - 393 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00515"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Magic_the_Gathering_-_Duels_of_the_Planeswalkers.png</String></Pair> 
+				<Pair key="title"><String>Magic: The Gathering - Duels of the Planeswalkers 2012</String></Pair> 
+				<Pair key="info"><String>Strategy - 74/100 - 694 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB01176"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Planets_under_Attack.png</String></Pair> 
+				<Pair key="title"><String>Planets under Attack</String></Pair> 
+				<Pair key="info"><String>Strategy - TBD - 425 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEA00271"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Plants_VS_Zombies.png</String></Pair> 
+				<Pair key="title"><String>Plants vs. Zombies</String></Pair> 
+				<Pair key="info"><String>Strategy - 85/100 - 108 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00410"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/RISK_Factions.png</String></Pair> 
+				<Pair key="title"><String>RISK: Factions</String></Pair> 
+				<Pair key="info"><String>Strategy - TBD - 586 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEA00206"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Swords_and_Soldiers.png</String></Pair> 
+				<Pair key="title"><String>Swords & Soldiers</String></Pair> 
+				<Pair key="info"><String>Strategy - 81/100 - 247 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00942"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Tiny_Token_Empires.png</String></Pair> 
+				<Pair key="title"><String>Tiny Token Empires</String></Pair> 
+				<Pair key="info"><String>Strategy - 64/100 - 350 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB00292"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Worms_2_Armageddon.png</String></Pair> 
+				<Pair key="title"><String>Worms 2: Armageddon</String></Pair> 
+				<Pair key="info"><String>Strategy - 76/100 - 270 MB</String></Pair> 
+			</Table>
+			<Table key="item_NPEB02010"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Yu-Gi-Oh_-_Millennium_Duels.png</String></Pair> 
+				<Pair key="title"><String>Yu-Gi-Oh! Millennium Duels</String></Pair> 
+				<Pair key="info"><String>Strategy - TBD - 499 MB</String></Pair> 
+			</Table>		
+		</Attributes>
+		<Items>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00904" 
+				attr="item_NPEB00904" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00904_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00670" 
+				attr="item_NPEB00670" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00670_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00617" 
+				attr="item_NPEB00617" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00617_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00677" 
+				attr="item_NPEB00677" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00677_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00461" 
+				attr="item_NPEB00461" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00461_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00309" 
+				attr="item_NPEB00309" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00309_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00466" 
+				attr="item_NPEB00466" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00466_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB01085" 
+				attr="item_NPEB01085" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB01085_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEA00473" 
+				attr="item_NPEA00473" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEA00473_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00367" 
+				attr="item_NPEB00367" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00367_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00515" 
+				attr="item_NPEB00515" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00515_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB01176" 
+				attr="item_NPEB01176" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB01176_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEA00271" 
+				attr="item_NPEA00271" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEA00271_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00410" 
+				attr="item_NPEB00410" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00410_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEA00206" 
+				attr="item_NPEA00206" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEA00206_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00942" 
+				attr="item_NPEB00942" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00942_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00292" 
+				attr="item_NPEB00292" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00292_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB02010" 
+				attr="item_NPEB02010" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB02010_main" 
+			/>		
+		</Items>
+		</View>		
+		
+</XMBML>
