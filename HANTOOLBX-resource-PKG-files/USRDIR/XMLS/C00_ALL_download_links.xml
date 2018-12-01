@@ -322,22 +322,6 @@
 		</Items> 
 	</View> 
 
-	<View id="item_NPEB00071_main"> 
-		<Attributes> 
-			<Table key="item_NPEB00071_link"> 
-				<Pair key="info"><String>net_package_install</String></Pair> 
-				<Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP1018/NPEB00071_00/4jlclNpeFyoONbThCIJHIYEToNmvd7pXJPrF3VlKlf2sNa9RCWsbdHbv3QdWWdTb81BkjiEhSxqrG0Sde812o7EQ5OfeM99jfI2Og.pkg</String></Pair> 
-				<Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP1018/NPEB00071_00/4jlclNpeFyoONbThCIJHIYEToNmvd7pXJPrF3VlKlf2sNa9RCWsbdHbv3QdWWdTb81BkjiEhSxqrG0Sde812o7EQ5OfeM99jfI2Og.pkg</String></Pair> 
-				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
-				<Pair key="content_id"><String>EP1018-NPEB00071_00-WATCHMENDEMOGAME</String></Pair> 
-				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Watchmen_-_The_End_is_nigh_EP1.png</String></Pair> 
-			</Table> 
-		</Attributes> 
-		<Items> 
-			<Item class="type:x-xmb/xmlnpsignup" key="item_NPEB00071_link" attr="item_NPEB00071_link"/> 
-		</Items> 
-	</View> 
-
 	<View id="item_NPEB00075_main"> 
 		<Attributes> 
 			<Table key="item_NPEB00075_link"> 
@@ -962,22 +946,6 @@
 		</Items> 
 	</View> 
 
-	<View id="item_NPEB00317_main"> 
-		<Attributes> 
-			<Table key="item_NPEB00317_link"> 
-				<Pair key="info"><String>net_package_install</String></Pair> 
-				<Pair key="pkg_src"><String>http://ares.dl.playstation.net/cdn/EP2015/NPEB00317_00/r47fkq7HFWRTiKE5rVskdUeieU3KksLcDytJYUIaaRjheXcvJnJSD9sKWkBBWOnI.pkg</String></Pair> 
-				<Pair key="pkg_src_qa"><String>http://ares.dl.playstation.net/cdn/EP2015/NPEB00317_00/r47fkq7HFWRTiKE5rVskdUeieU3KksLcDytJYUIaaRjheXcvJnJSD9sKWkBBWOnI.pkg</String></Pair> 
-				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
-				<Pair key="content_id"><String>EP2015-NPEB00317_00-CASTLECRASHERS01</String></Pair> 
-				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Castle_Crashers.png</String></Pair> 
-			</Table> 
-		</Attributes> 
-		<Items> 
-			<Item class="type:x-xmb/xmlnpsignup" key="item_NPEB00317_link" attr="item_NPEB00317_link"/> 
-		</Items> 
-	</View> 
-
 	<View id="item_NPEB00318_main"> 
 		<Attributes> 
 			<Table key="item_NPEB00318_link"> 
@@ -1199,22 +1167,6 @@
 		</Attributes> 
 		<Items> 
 			<Item class="type:x-xmb/xmlnpsignup" key="item_NPEB00365_link" attr="item_NPEB00365_link"/> 
-		</Items> 
-	</View> 
-
-	<View id="item_NPEB00367_main"> 
-		<Attributes> 
-			<Table key="item_NPEB00367_link"> 
-				<Pair key="info"><String>net_package_install</String></Pair> 
-				<Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP2037/NPEB00367_00/DyTIwXxozXMfEnfcfAWWxDrEMUZVlfpzsSuQrohhMvmyIbYoWhvxbuVwrQQCLWKb.pkg</String></Pair> 
-				<Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP2037/NPEB00367_00/DyTIwXxozXMfEnfcfAWWxDrEMUZVlfpzsSuQrohhMvmyIbYoWhvxbuVwrQQCLWKb.pkg</String></Pair> 
-				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
-				<Pair key="content_id"><String>EP2037-NPEB00367_00-XYLOPHONE000000E</String></Pair> 
-				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Magic_2012.png</String></Pair> 
-			</Table> 
-		</Attributes> 
-		<Items> 
-			<Item class="type:x-xmb/xmlnpsignup" key="item_NPEB00367_link" attr="item_NPEB00367_link"/> 
 		</Items> 
 	</View> 
 
@@ -3599,22 +3551,6 @@
 		</Attributes> 
 		<Items> 
 			<Item class="type:x-xmb/xmlnpsignup" key="item_NPEB01894_link" attr="item_NPEB01894_link"/> 
-		</Items> 
-	</View> 
-
-	<View id="item_NPEB01901_main"> 
-		<Attributes> 
-			<Table key="item_NPEB01901_link"> 
-				<Pair key="info"><String>net_package_install</String></Pair> 
-				<Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP4365/NPEB01901_00/zsMYCElXLfVeXpIWaikHnpvUPTmNsKSwNIgvYQAGsmCxTXMkTsOZvrOYVKDoahtT.pkg</String></Pair> 
-				<Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP4365/NPEB01901_00/zsMYCElXLfVeXpIWaikHnpvUPTmNsKSwNIgvYQAGsmCxTXMkTsOZvrOYVKDoahtT.pkg</String></Pair> 
-				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
-				<Pair key="content_id"><String>EP4365-NPEB01901_00-BLOODKNIGHTS0001</String></Pair> 
-				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Blood_Knights.png</String></Pair> 
-			</Table> 
-		</Attributes> 
-		<Items> 
-			<Item class="type:x-xmb/xmlnpsignup" key="item_NPEB01901_link" attr="item_NPEB01901_link"/> 
 		</Items> 
 	</View> 
 
@@ -7458,22 +7394,6 @@
 		</Items> 
 	</View> 
 
-	<View id="item_NPUB30381_main"> 
-		<Attributes> 
-			<Table key="item_NPUB30381_link"> 
-				<Pair key="info"><String>net_package_install</String></Pair> 
-				<Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/UP2024/NPUB30381_00/KahdEcQwXTZIfkreDkfjDCMFHZQSjTDMNywffjwdbGYcmBniamXurAQzRRsFBRDDnZkywujYHLDAWAgurzXWGXxInuYTplrYUvSsm.pkg</String></Pair> 
-				<Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/UP2024/NPUB30381_00/KahdEcQwXTZIfkreDkfjDCMFHZQSjTDMNywffjwdbGYcmBniamXurAQzRRsFBRDDnZkywujYHLDAWAgurzXWGXxInuYTplrYUvSsm.pkg</String></Pair> 
-				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
-				<Pair key="content_id"><String>UP2024-NPUB30381_00-PREJUDICETRIALGM</String></Pair> 
-				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Section_8_Prejudice.png</String></Pair> 
-			</Table> 
-		</Attributes> 
-		<Items> 
-			<Item class="type:x-xmb/xmlnpsignup" key="item_NPUB30381_link" attr="item_NPUB30381_link"/> 
-		</Items> 
-	</View> 
-
 	<View id="item_NPUB30383_main"> 
 		<Attributes> 
 			<Table key="item_NPUB30383_link"> 
@@ -7519,22 +7439,6 @@
 		</Attributes> 
 		<Items> 
 			<Item class="type:x-xmb/xmlnpsignup" key="item_NPUB30391_link" attr="item_NPUB30391_link"/> 
-		</Items> 
-	</View> 
-
-	<View id="item_NPUB30408_main"> 
-		<Attributes> 
-			<Table key="item_NPUB30408_link"> 
-				<Pair key="info"><String>net_package_install</String></Pair> 
-				<Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/UP2037/NPUB30408_00/uWlZOUcOHXKTgCVSoBsmXCtQWNvaSxCIMIPJjpMDdpPwMaoVIamEXRYLKUcYIRHIBAtQBrFmUpxfanVZFFqSzZWbsnptuRIdotHTC.pkg</String></Pair> 
-				<Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/UP2037/NPUB30408_00/uWlZOUcOHXKTgCVSoBsmXCtQWNvaSxCIMIPJjpMDdpPwMaoVIamEXRYLKUcYIRHIBAtQBrFmUpxfanVZFFqSzZWbsnptuRIdotHTC.pkg</String></Pair> 
-				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
-				<Pair key="content_id"><String>UP2037-NPUB30408_00-D120000000000001</String></Pair> 
-				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Magic_the_Gathering_-_Duels_of_the_Planeswalkers.png</String></Pair> 
-			</Table> 
-		</Attributes> 
-		<Items> 
-			<Item class="type:x-xmb/xmlnpsignup" key="item_NPUB30408_link" attr="item_NPUB30408_link"/> 
 		</Items> 
 	</View> 
 

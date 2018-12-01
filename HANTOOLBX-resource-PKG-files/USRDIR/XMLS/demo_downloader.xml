@@ -7,7 +7,7 @@
 			<Table key="demo_downloader_C00_EU">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder_eu.png</String></Pair>
 				<Pair key="title"><String>EU Demos</String></Pair>
-				<Pair key="info"><String>246 items</String></Pair>
+				<Pair key="info"><String>242 items</String></Pair>
 			</Table>
 			<Table key="demo_downloader_C00_HK">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder_hk.png</String></Pair>
@@ -22,7 +22,7 @@
 			<Table key="demo_downloader_C00_US">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder_us.png</String></Pair>
 				<Pair key="title"><String>US Demos</String></Pair>
-				<Pair key="info"><String>268 items</String></Pair>
+				<Pair key="info"><String>266 items</String></Pair>
 			</Table>
 		</Attributes>
 		<Items>

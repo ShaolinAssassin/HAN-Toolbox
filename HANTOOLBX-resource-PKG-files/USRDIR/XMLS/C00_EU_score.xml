@@ -54,11 +54,6 @@
 				<Pair key="title"><String>Castle Crashers</String></Pair> 
 				<Pair key="info"><String>85/100 - 154 MB - Fighting (Beat'-Em-Up)</String></Pair> 
 			</Table>
-			<Table key="item_NPEB00317"> 
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Castle_Crashers.png</String></Pair> 
-				<Pair key="title"><String>Castle Crashers</String></Pair> 
-				<Pair key="info"><String>85/100 - 154 MB - Fighting (Beat'-Em-Up)</String></Pair> 
-			</Table>
 			<Table key="item_NPEB00087"> 
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Marvel_VS_Capcom_2.png</String></Pair> 
 				<Pair key="title"><String>Marvel vs. Capcom 2</String></Pair> 
@@ -348,11 +343,6 @@
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Bejeweled_2.png</String></Pair> 
 				<Pair key="title"><String>Bejeweled 2</String></Pair> 
 				<Pair key="info"><String>74/100 - 24 MB - Puzzle</String></Pair> 
-			</Table>
-			<Table key="item_NPEB00367"> 
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Magic_2012.png</String></Pair> 
-				<Pair key="title"><String>Magic: The Gathering - Duels of the Planeswalkers 2012</String></Pair> 
-				<Pair key="info"><String>74/100 - 393 MB - Strategy</String></Pair> 
 			</Table>
 			<Table key="item_NPEB00515"> 
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Magic_the_Gathering_-_Duels_of_the_Planeswalkers.png</String></Pair> 
@@ -789,11 +779,6 @@
 				<Pair key="title"><String>Watchmen: The End Is Nigh</String></Pair> 
 				<Pair key="info"><String>54/100 - 1262 MB - Fighting (Beat'-Em-Up)</String></Pair> 
 			</Table>
-			<Table key="item_NPEB00071"> 
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Watchmen_-_The_End_is_nigh_EP1.png</String></Pair> 
-				<Pair key="title"><String>Watchmen: The End Is Nigh</String></Pair> 
-				<Pair key="info"><String>54/100 - 1262 MB - Fighting (Beat'-Em-Up)</String></Pair> 
-			</Table>
 			<Table key="item_NPEB00301"> 
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Spare_Parts.png</String></Pair> 
 				<Pair key="title"><String>Spare Parts</String></Pair> 
@@ -935,11 +920,6 @@
 				<Pair key="info"><String>TBD - 350 MB - Shooter (Shoot-'Em-Up)</String></Pair> 
 			</Table>
 			<Table key="item_NPEB00981"> 
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Blood_Knights.png</String></Pair> 
-				<Pair key="title"><String>Blood Knights</String></Pair> 
-				<Pair key="info"><String>TBD - 1506 MB - RPG</String></Pair> 
-			</Table>
-			<Table key="item_NPEB01901"> 
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Blood_Knights.png</String></Pair> 
 				<Pair key="title"><String>Blood Knights</String></Pair> 
 				<Pair key="info"><String>TBD - 1506 MB - RPG</String></Pair> 
@@ -1303,12 +1283,6 @@
 			/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
-				key="item_NPEB00317" 
-				attr="item_NPEB00317" 
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00317_main" 
-			/>
-			<Query 
-				class="type:x-xmb/folder-pixmap" 
 				key="item_NPEB00087" 
 				attr="item_NPEB00087" 
 				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00087_main" 
@@ -1654,12 +1628,6 @@
 				key="item_NPEA00124" 
 				attr="item_NPEA00124" 
 				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEA00124_main" 
-			/>
-			<Query 
-				class="type:x-xmb/folder-pixmap" 
-				key="item_NPEB00367" 
-				attr="item_NPEB00367" 
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00367_main" 
 			/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
@@ -2185,12 +2153,6 @@
 			/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
-				key="item_NPEB00071" 
-				attr="item_NPEB00071" 
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00071_main" 
-			/>
-			<Query 
-				class="type:x-xmb/folder-pixmap" 
 				key="item_NPEB00301" 
 				attr="item_NPEB00301" 
 				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00301_main" 
@@ -2362,12 +2324,6 @@
 				key="item_NPEB00981" 
 				attr="item_NPEB00981" 
 				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00981_main" 
-			/>
-			<Query 
-				class="type:x-xmb/folder-pixmap" 
-				key="item_NPEB01901" 
-				attr="item_NPEB01901" 
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB01901_main" 
 			/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 

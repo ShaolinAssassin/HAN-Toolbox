@@ -354,11 +354,6 @@
 				<Pair key="title"><String>Magic: The Gathering - Duels of the Planeswalkers 2012</String></Pair> 
 				<Pair key="info"><String>74/100 - 393 MB - Strategy</String></Pair> 
 			</Table>
-			<Table key="item_NPUB30408"> 
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Magic_the_Gathering_-_Duels_of_the_Planeswalkers.png</String></Pair> 
-				<Pair key="title"><String>Magic: The Gathering - Duels of the Planeswalkers 2012</String></Pair> 
-				<Pair key="info"><String>74/100 - 694 MB - Strategy</String></Pair> 
-			</Table>
 			<Table key="item_NPUB30419"> 
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Mercury_HG.png</String></Pair> 
 				<Pair key="title"><String>Mercury Hg</String></Pair> 
@@ -523,11 +518,6 @@
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Section_8_Prejudice.png</String></Pair> 
 				<Pair key="title"><String>Section 8: Prejudice</String></Pair> 
 				<Pair key="info"><String>70/100 - 3628 MB - Shooter (FPS)</String></Pair> 
-			</Table>
-			<Table key="item_NPUB30381"> 
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Section_8_Prejudice.png</String></Pair> 
-				<Pair key="title"><String>Section 8: Prejudice</String></Pair> 
-				<Pair key="info"><String>70/100 - 1957 MB - Shooter (FPS)</String></Pair> 
 			</Table>
 			<Table key="item_NPUB31139"> 
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/demo_icons/Strider.png</String></Pair> 
@@ -1768,12 +1758,6 @@
 			/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
-				key="item_NPUB30408" 
-				attr="item_NPUB30408" 
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPUB30408_main" 
-			/>
-			<Query 
-				class="type:x-xmb/folder-pixmap" 
 				key="item_NPUB30419" 
 				attr="item_NPUB30419" 
 				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPUB30419_main" 
@@ -1969,12 +1953,6 @@
 				key="item_NPUB30161" 
 				attr="item_NPUB30161" 
 				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPUB30161_main" 
-			/>
-			<Query 
-				class="type:x-xmb/folder-pixmap" 
-				key="item_NPUB30381" 
-				attr="item_NPUB30381" 
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPUB30381_main" 
 			/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
