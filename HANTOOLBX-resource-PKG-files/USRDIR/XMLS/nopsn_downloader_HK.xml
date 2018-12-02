@@ -20,47 +20,17 @@
 				class="type:x-xmb/folder-pixmap" 
 				key="item_NPHA80252_v623" 
 				attr="item_NPHA80252_v623"
-				src="#item_NPHA80252_v623_main"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_NPHA80252_v623_main"
 				/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
 				key="item_NPHB00730_v107" 
 				attr="item_NPHB00730_v107"
-				src="#item_NPHB00730_v107_main"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_NPHB00730_v107_main"
 				/>
 		</Items>
 	</View>
 
-	<View id="item_NPHA80252_v623_main"> 
-		<Attributes> 
-			<Table key="item_NPHA80252_v623_link"> 
-				<Pair key="info"><String>net_package_install</String></Pair> 
-				<Pair key="pkg_src"><String>http://nopsn.com/pkg/ps3/mlbtv/MLB_tv-v6.23-[NPHA80252]-NoPSN-etHANol.pkg</String></Pair> 
-				<Pair key="pkg_src_qa"><String>http://nopsn.com/pkg/ps3/mlbtv/MLB_tv-v6.23-[NPHA80252]-NoPSN-etHANol.pkg</String></Pair> 
-				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
-				<Pair key="content_id"><String>HP9010-NPHA80252_00-MLBTVPS3STREAM01</String></Pair> 
-				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/nopsn_icons/mlbtv.png</String></Pair> 
-			</Table> 
-		</Attributes> 
-		<Items> 
-			<Item class="type:x-xmb/xmlnpsignup" key="item_NPHA80252_v623_link" attr="item_NPHA80252_v623_link"/> 
-		</Items> 
-	</View> 	
 
-	<View id="item_NPHB00730_v107_main"> 
-		<Attributes> 
-			<Table key="item_NPHB00730_v107_link"> 
-				<Pair key="info"><String>net_package_install</String></Pair> 
-				<Pair key="pkg_src"><String>http://nopsn.com/pkg/ps3/twitch/Twitch-v1.07-[NPHB00730]-NoPSN-etHANol.pkg</String></Pair> 
-				<Pair key="pkg_src_qa"><String>http://nopsn.com/pkg/ps3/twitch/Twitch-v1.07-[NPHB00730]-NoPSN-etHANol.pkg</String></Pair> 
-				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
-				<Pair key="content_id"><String>HP8901-NPHB00730_00-TWITCHPS3APPASIA</String></Pair> 
-				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/nopsn_icons/twitch.png</String></Pair> 
-			</Table> 
-		</Attributes> 
-		<Items> 
-			<Item class="type:x-xmb/xmlnpsignup" key="item_NPHB00730_v107_link" attr="item_NPHB00730_v107_link"/> 
-		</Items> 
-	</View> 
 		
 </XMBML>
