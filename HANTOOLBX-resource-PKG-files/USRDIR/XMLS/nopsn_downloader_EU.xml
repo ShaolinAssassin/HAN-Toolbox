@@ -4,58 +4,58 @@
 	
 	<View id="nopsn_downloader_EU_items">
 		<Attributes>
-			<Table key="nopsn_downloader_EU_crunchyroll">
+			<Table key="item_NPEB02307_v129">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/nopsn_icons/crunchyroll.png</String></Pair>
 				<Pair key="title"><String>Crunchyroll</String></Pair>
 				<Pair key="info"><String>v1.29 - 19.73 MB</String></Pair>
 			</Table>
-			<Table key="nopsn_downloader_EU_pstore">
+			<Table key="item_NPEB02080_v126">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/nopsn_icons/pstore.png</String></Pair>
 				<Pair key="title"><String>PlayStation Store</String></Pair>
 				<Pair key="info"><String>v1.26 - 58.09 MB</String></Pair>
 			</Table>
-			<Table key="nopsn_downloader_EU_twitch">
+			<Table key="item_NPEB02359_v107">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/nopsn_icons/twitch.png</String></Pair>
 				<Pair key="title"><String>Twitch</String></Pair>
 				<Pair key="info"><String>v1.07 - 9.87 MB</String></Pair>
 			</Table>
-			<Table key="nopsn_downloader_EU_youtube">
+			<Table key="item_NPEB01229_v102v303spoof">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/nopsn_icons/youtube.png</String></Pair>
 				<Pair key="title"><String>YouTube</String></Pair>
-				<Pair key="info"><String>v1.02-v3.03 - 59.25 MB</String></Pair>
+				<Pair key="info"><String>v1.02-v3.03-Spoof - 59.25 MB</String></Pair>
 			</Table>
 		</Attributes>
 		<Items>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
-				key="nopsn_downloader_EU_crunchyroll" 
-				attr="nopsn_downloader_EU_crunchyroll"
-				src="#nopsn_downloader_EU_crunchyroll_main"
+				key="item_NPEB02307_v129" 
+				attr="item_NPEB02307_v129"
+				src="#item_NPEB02307_v129_main"
 				/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
-				key="nopsn_downloader_EU_pstore" 
-				attr="nopsn_downloader_EU_pstore"
-				src="#nopsn_downloader_EU_pstore_main"
+				key="item_NPEB02080_v126" 
+				attr="item_NPEB02080_v126"
+				src="#item_NPEB02080_v126_main"
 				/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
-				key="nopsn_downloader_EU_twitch" 
-				attr="nopsn_downloader_EU_twitch"
-				src="#nopsn_downloader_EU_twitch_main"
+				key="item_NPEB02359_v107" 
+				attr="item_NPEB02359_v107"
+				src="#item_NPEB02359_v107_main"
 				/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
-				key="nopsn_downloader_EU_youtube" 
-				attr="nopsn_downloader_EU_youtube"
-				src="#nopsn_downloader_EU_youtube_main"
+				key="item_NPEB01229_v102v303spoof" 
+				attr="item_NPEB01229_v102v303spoof"
+				src="#item_NPEB01229_v102v303spoof_main"
 				/>
 		</Items>
 	</View>
 
-	<View id="nopsn_downloader_EU_crunchyroll_main"> 
+	<View id="item_NPEB02307_v129_main"> 
 		<Attributes> 
-			<Table key="nopsn_downloader_EU_crunchyroll_item"> 
+			<Table key="item_NPEB02307_v129_link"> 
 				<Pair key="info"><String>net_package_install</String></Pair> 
 				<Pair key="pkg_src"><String>http://nopsn.com/pkg/ps3/crunchyroll/Crunchyroll-v1.29-[NPEB02307]-NoPSN-etHANol.pkg</String></Pair> 
 				<Pair key="pkg_src_qa"><String>http://nopsn.com/pkg/ps3/crunchyroll/Crunchyroll-v1.29-[NPEB02307]-NoPSN-etHANol.pkg</String></Pair> 
@@ -65,13 +65,13 @@
 			</Table> 
 		</Attributes> 
 		<Items> 
-			<Item class="type:x-xmb/xmlnpsignup" key="nopsn_downloader_EU_crunchyroll_item" attr="nopsn_downloader_EU_crunchyroll_item"/> 
+			<Item class="type:x-xmb/xmlnpsignup" key="item_NPEB02307_v129_link" attr="item_NPEB02307_v129_link"/> 
 		</Items> 
 	</View> 	
 
-	<View id="nopsn_downloader_EU_pstore_main"> 
+	<View id="item_NPEB02080_v126_main"> 
 		<Attributes> 
-			<Table key="nopsn_downloader_EU_pstore_item"> 
+			<Table key="item_NPEB02080_v126_link"> 
 				<Pair key="info"><String>net_package_install</String></Pair> 
 				<Pair key="pkg_src"><String>http://nopsn.com/pkg/ps3/playstation-store/PlayStation-Store-v1.26-[NPEB02080]-NoPSN-OFW-etHANol.pkg</String></Pair> 
 				<Pair key="pkg_src_qa"><String>http://nopsn.com/pkg/ps3/playstation-store/PlayStation-Store-v1.26-[NPEB02080]-NoPSN-OFW-etHANol.pkg</String></Pair> 
@@ -81,13 +81,13 @@
 			</Table> 
 		</Attributes> 
 		<Items> 
-			<Item class="type:x-xmb/xmlnpsignup" key="nopsn_downloader_EU_pstore_item" attr="nopsn_downloader_EU_pstore_item"/> 
+			<Item class="type:x-xmb/xmlnpsignup" key="item_NPEB02080_v126_link" attr="item_NPEB02080_v126_link"/> 
 		</Items> 
-	</View> 	
+	</View> 
 
-	<View id="nopsn_downloader_EU_twitch_main"> 
-		<Attributes> 
-			<Table key="nopsn_downloader_EU_twitch_item"> 
+	<View id="item_NPEB02359_v107_main""> 
+		<Attributes>
+			<Table key="item_NPEB02359_v107_link"> 
 				<Pair key="info"><String>net_package_install</String></Pair> 
 				<Pair key="pkg_src"><String>http://nopsn.com/pkg/ps3/twitch/Twitch-v1.07-[NPEB02359]-NoPSN-etHANol.pkg</String></Pair> 
 				<Pair key="pkg_src_qa"><String>http://nopsn.com/pkg/ps3/twitch/Twitch-v1.07-[NPEB02359]-NoPSN-etHANol.pkg</String></Pair> 
@@ -97,13 +97,13 @@
 			</Table> 
 		</Attributes> 
 		<Items> 
-			<Item class="type:x-xmb/xmlnpsignup" key="nopsn_downloader_EU_twitch_item" attr="nopsn_downloader_EU_twitch_item"/> 
+			<Item class="type:x-xmb/xmlnpsignup" key="item_NPEB02359_v107_link" attr="item_NPEB02359_v107_link"/> 
 		</Items> 
 	</View> 	
 
-	<View id="nopsn_downloader_EU_youtube_main"> 
+	<View id="item_NPEB01229_v102v303spoof_main"> 
 		<Attributes> 
-			<Table key="nopsn_downloader_EU_youtube_item"> 
+			<Table key="item_NPEB01229_v102v303spoof_link"> 
 				<Pair key="info"><String>net_package_install</String></Pair> 
 				<Pair key="pkg_src"><String>http://nopsn.com/pkg/ps3/youtube/Youtube-v1.02-v3.03-Spoof-[NPEB01229]-NoPSN-etHANol.pkg</String></Pair> 
 				<Pair key="pkg_src_qa"><String>http://nopsn.com/pkg/ps3/youtube/Youtube-v1.02-v3.03-Spoof-[NPEB01229]-NoPSN-etHANol.pkg</String></Pair> 
@@ -113,7 +113,7 @@
 			</Table> 
 		</Attributes> 
 		<Items> 
-			<Item class="type:x-xmb/xmlnpsignup" key="nopsn_downloader_EU_youtube_item" attr="nopsn_downloader_EU_youtube_item"/> 
+			<Item class="type:x-xmb/xmlnpsignup" key="item_NPEB01229_v102v303spoof_link" attr="item_NPEB01229_v102v303spoof_link"/> 
 		</Items> 
 	</View> 
 		

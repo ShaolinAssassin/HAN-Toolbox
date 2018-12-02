@@ -4,7 +4,7 @@
 	
 	<View id="nopsn_downloader_int_items">
 		<Attributes>
-			<Table key="nopsn_downloader_int_pstore">
+			<Table key="item_NPIA00025_v126">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/nopsn_icons/pstore.png</String></Pair>
 				<Pair key="title"><String>PlayStation Store</String></Pair>
 				<Pair key="info"><String>v1.26 - 58.09 MB</String></Pair>
@@ -13,16 +13,16 @@
 		<Items>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
-				key="nopsn_downloader_int_pstore" 
-				attr="nopsn_downloader_int_pstore"
-				src="#nopsn_downloader_int_pstore_main"
+				key="item_NPIA00025_v126" 
+				attr="item_NPIA00025_v126"
+				src="#item_NPIA00025_v126_main"
 				/>
 		</Items>
 	</View>
 
-	<View id="nopsn_downloader_int_pstore_main"> 
+	<View id="item_NPIA00025_v126_main"> 
 		<Attributes> 
-			<Table key="nopsn_downloader_int_pstore_item"> 
+			<Table key="item_NPIA00025_v126_link"> 
 				<Pair key="info"><String>net_package_install</String></Pair> 
 				<Pair key="pkg_src"><String>http://nopsn.com/pkg/ps3/playstation-store/PlayStation-Store-v1.26-[NPIA00025]-NoPSN-OFW-etHANol.pkg</String></Pair> 
 				<Pair key="pkg_src_qa"><String>http://nopsn.com/pkg/ps3/playstation-store/PlayStation-Store-v1.26-[NPIA00025]-NoPSN-OFW-etHANol.pkg</String></Pair> 
@@ -32,7 +32,7 @@
 			</Table> 
 		</Attributes> 
 		<Items> 
-			<Item class="type:x-xmb/xmlnpsignup" key="nopsn_downloader_int_pstore_item" attr="nopsn_downloader_int_pstore_item"/> 
+			<Item class="type:x-xmb/xmlnpsignup" key="item_NPIA00025_v126_link" attr="item_NPIA00025_v126_link"/> 
 		</Items> 
 	</View> 	
 	

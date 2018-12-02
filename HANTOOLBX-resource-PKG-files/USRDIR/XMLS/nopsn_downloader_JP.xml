@@ -4,7 +4,7 @@
 	
 	<View id="nopsn_downloader_JP_items">
 		<Attributes>
-			<Table key="nopsn_downloader_JP_empty">
+			<Table key="item_JP_empty">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/about.png</String></Pair>
 				<Pair key="title"><String>Empty, no JP version available</String></Pair>
 				<Pair key="info"><String></String></Pair>
@@ -13,8 +13,8 @@
 		<Items>
 			<Query 
 				class="type:x-xmb/module-action" 
-				key="nopsn_downloader_JP_empty" 
-				attr="nopsn_downloader_JP_empty"
+				key="item_JP_empty" 
+				attr="item_JP_empty"
 				/>
 		</Items>
 	</View>

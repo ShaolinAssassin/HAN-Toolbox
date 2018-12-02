@@ -22,7 +22,7 @@
 			<Table key="nopsn_downloader_US">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder_us.png</String></Pair>
 				<Pair key="title"><String>US Versions</String></Pair>
-				<Pair key="info"><String>7 items</String></Pair>
+				<Pair key="info"><String>11 items</String></Pair>
 			</Table>
 			<Table key="nopsn_downloader_int">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder_int.png</String></Pair>
