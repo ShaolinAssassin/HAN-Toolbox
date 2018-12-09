@@ -37,7 +37,9 @@
 	<Text name="han_toolbox_advanced_tools_info">Be careful with items in here</Text>	
 
 <!-- Advanced Submenu -->
-	
+
+	<Text name="han_toolbox_file_copier">File Copier</Text>
+	<Text name="han_toolbox_file_copier_info">Transfer files between your PS3 and USB flash drive</Text>	
 	<Text name="han_toolbox_file_explorer">File Explorer</Text>
 	<Text name="han_toolbox_file_explorer_info">Browse complete file system and delete files (Be careful)</Text>
 	<Text name="han_toolbox_file_injector">File Injector</Text>
