@@ -1028,26 +1028,26 @@
 		<Attributes>
 			<Table key="han_toolbox_check_lang_item">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_file.png</String></Pair>
-				<Pair key="title"><String>Before installing your language, check below if a translation exists for it :</String></Pair>
+				<Pair key="title"><String>HAN Toolbox is translated in the following languages :</String></Pair>
 				<Pair key="info"><String>
-				Chinese (Simplified): 		No
-				Chinese (Traditional):  	No
-				Danish: 					No
-				Dutch:						No
-				Finnish: 					No
-				French: 					No
-				German: 					No
-				Italian: 					No
-				Japanese: 					No
-				Korean: 					No
-				Norwegian: 					No
-				Polish: 					No
-				Portuguese (Brazil): 		No
-				Portuguese (Portugal):	 	No
-				Russian: 					No
-				Spanish (Spain):			No
-				Swedish: 					No
-				Turkish: 					No
+				Chinese (Simplified)
+				Chinese (Traditional)
+				Danish
+				Dutch
+				Finnish
+				French
+				German
+				Italian
+				Japanese
+				Korean
+				Norwegian
+				Polish
+				Portuguese (Brazil)
+				Portuguese (Portugal)
+				Russian
+				Spanish (Spain)
+				Swedish
+				Turkish
 				
 				If your language is listed, press  to start installation</String></Pair>
 			</Table>
@@ -1158,7 +1158,7 @@
 			<Table key="han_inject_original_lang_rco">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/inj_rco.png</String></Pair>
 				<Pair key="title"><String>Step 3 (Optionnal): Restore original lang RCO file</String></Pair>
-				<Pair key="info"><String>Copy original downloaded explore_plugin_full.rco from HANTOOLBX/USRDIR/files to dev_flash/vsh/resource/*.rco</String></Pair>
+				<Pair key="info"><String>Restore original downloaded explore_plugin_full.rco from HANTOOLBX/USRDIR/files to dev_flash/vsh/resource/*.rco</String></Pair>
 				<Pair key="module_name"><String>webrender_plugin</String></Pair>
 				<Pair key="module_action"><String>http://ps3xploit.com/flash_rco_replacer/flash_rco_replacer.html</String></Pair>
 			</Table>
@@ -1244,7 +1244,7 @@
 			</Table>
 			<Table key="han_toolbox_install_resources_lang">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_file.png</String></Pair>
-				<Pair key="title"><String>Step 2 (Optional): Download Toolbox Resources Lang files</String></Pair>
+				<Pair key="title"><String>Step 2 (Optional): Download Toolbox Resources lang files</String></Pair>
 				<Pair key="info"><String>Download and install the HAN Toolbox resources lang files and reboot after</String></Pair>
 			</Table>
 		</Attributes>
@@ -1307,7 +1307,7 @@
 			<Table key="han_toolbox_delete_resources_icons_folders">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/delete.png</String></Pair>
 				<Pair key="title"><String>Step 1: Delete Resources icons folders</String></Pair>
-				<Pair key="info"><String>Press  to acces HAN Toolbox images folder and unlink (folder) all *_icons folders</String></Pair>
+				<Pair key="info"><String>Press  to acces HAN Toolbox images folder and unlink (folder) demo_icons & nopsn_icons & theme_icons & wallpaper_icons folders</String></Pair>
 			</Table>
 			<Table key="han_toolbox_delete_resources_xmls">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/delete.png</String></Pair>

@@ -188,26 +188,26 @@
 	
 <!-- Check if lang res exists -->
 
-	<Text name="han_toolbox_check_lang_item">Before installing your language, check below if a translation exists for it :</Text>
+	<Text name="han_toolbox_check_lang_item">HAN Toolbox is translated in the following languages :</Text>
 	<Text name="han_toolbox_check_lang_item_info">
-	Chinese (Simplified):
-	Chinese (Traditional):
-	Danish:
-	Dutch:
-	Finnish:
-	French:
-	German:
-	Italian:
-	Japanese:
-	Korean:
-	Norwegian:
-	Polish:
-	Portuguese (Brazil):
-	Portuguese (Portugal):
-	Russian:
-	Spanish (Spain):
-	Swedish:
-	Turkish:
+	Chinese (Simplified)
+	Chinese (Traditional)
+	Danish
+	Dutch
+	Finnish
+	French
+	German
+	Italian
+	Japanese
+	Korean
+	Norwegian
+	Polish
+	Portuguese (Brazil)
+	Portuguese (Portugal)
+	Russian
+	Spanish (Spain)
+	Swedish
+	Turkish
 	
 	If your language is listed, press  to start installation</Text>
 	
@@ -230,7 +230,7 @@
 	<Text name="han_toolbox_download_original_lang_rco">Step 2 (Optionnal): Download original lang RCO file</Text>
 	<Text name="han_toolbox_download_original_lang_rco_info">Download explore_plugin_full.rco to HANTOOLBX/USRDIR/files/ ready for installation</Text>
 	<Text name="han_toolbox_inject_original_lang_rco">Step 3 (Optionnal): Restore original lang RCO file</Text>
-	<Text name="han_toolbox_inject_original_lang_rco_info">Copy original downloaded explore_plugin_full.rco from HANTOOLBX/USRDIR/files to dev_flash/vsh/resource/*.rco</Text>
+	<Text name="han_toolbox_inject_original_lang_rco_info">Restore original downloaded explore_plugin_full.rco from HANTOOLBX/USRDIR/files to dev_flash/vsh/resource/*.rco</Text>
 
 <!-- Toolbox Resources Installer/Uninstaller -->
 	
@@ -243,13 +243,13 @@
 
 	<Text name="han_toolbox_install_resources_pkg">Step 1: Download Toolbox Resources</Text>
 	<Text name="han_toolbox_install_resources_pkg_info">Download and install the HAN Toolbox resources package and reboot after</Text>
-	<Text name="han_toolbox_delete_resources_xmls">Step 2 (Optional): Download Toolbox Resources Lang files</Text>
+	<Text name="han_toolbox_delete_resources_xmls">Step 2 (Optional): Download Toolbox Resources lang files</Text>
 	<Text name="han_toolbox_delete_resources_xmls_info">Download and install the HAN Toolbox resources lang files and reboot after</Text>
 
 <!-- Resources Uninstaller -->
 
 	<Text name="han_toolbox_delete_resources_icons_folders">Step 1: Delete Resources icons folders</Text>
-	<Text name="han_toolbox_delete_resources_icons_folders_info">Press  to acces HAN Toolbox images folder and unlink (folder) all *_icons folders</Text>
+	<Text name="han_toolbox_delete_resources_icons_folders_info">Press  to acces HAN Toolbox images folder and unlink (folder) demo_icons & nopsn_icons & theme_icons & wallpaper_icons folders</Text>
 	<Text name="han_toolbox_delete_resources_xmls">Step 2: Delete Resources XML files</Text>
 	<Text name="han_toolbox_delete_resources_xmls_info">Press  to acces HAN Toolbox XML folder and unlink (folder) XMLS folder</Text>
 
