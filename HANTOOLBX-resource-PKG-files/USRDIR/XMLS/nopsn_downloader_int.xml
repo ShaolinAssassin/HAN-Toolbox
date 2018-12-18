@@ -1,12 +1,12 @@
 <XMBML version="1.0">
 
-	<!-- NoPSN Downloader Items Internal - Last update : 2018/12/02  -->
+	<!-- NoPSN Downloader Items Internal - Last update : 2018/12/18  -->
 	
 	<View id="nopsn_downloader_int_items">
 		<Attributes>
 			<Table key="item_NPIA00025_v126">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/nopsn_icons/pstore.png</String></Pair>
-				<Pair key="title"><String>PlayStation Store</String></Pair>
+				<Pair key="title"><String>PlayStation Store [Forced Guest Mode]</String></Pair>
 				<Pair key="info"><String>v1.26 - 58.09 MB</String></Pair>
 			</Table>
 		</Attributes>

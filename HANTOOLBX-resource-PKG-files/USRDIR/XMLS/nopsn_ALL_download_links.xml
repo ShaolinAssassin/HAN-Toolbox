@@ -124,9 +124,25 @@
 	
 	<!-- NoPSN US download links -->
 	
+	<View id="item_NPUP00077_v241_main"> 
+		<Attributes> 
+			<Table key="item_NPUP00077_v241_link"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://nopsn.com/pkg/ps3/crackle/Crackle-v2.41-[NPUP00077]-NoPSN-etHANol.pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://nopsn.com/pkg/ps3/crackle/Crackle-v2.41-[NPUP00077]-NoPSN-etHANol.pkg</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>US007-NPUP00077_00-CRACKLEPS3TRILIT</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/nopsn_icons/crackle.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="item_NPUP00077_v241_main_link" attr="item_NPUP00077_v241_main_link"/> 
+		</Items> 
+	</View>
+
 	<View id="item_NPUP10027_v129_main"> 
 		<Attributes> 
-			<Table key="item_NPUP10027_v129_main_link"> 
+			<Table key="item_NPUP10027_v129_link"> 
 				<Pair key="info"><String>net_package_install</String></Pair> 
 				<Pair key="pkg_src"><String>http://nopsn.com/pkg/ps3/crunchyroll/Crunchyroll-v1.29-[NPUP10027]-NoPSN-etHANol.pkg</String></Pair> 
 				<Pair key="pkg_src_qa"><String>http://nopsn.com/pkg/ps3/crunchyroll/Crunchyroll-v1.29-[NPUP10027]-NoPSN-etHANol.pkg</String></Pair> 
