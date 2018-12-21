@@ -1,0 +1,32 @@
+* v0.6 (2018/12/XX) :
+-HAN Enabler, Soft Reboot and Debug Packages Enabler (CEX only) Offline codes added, thanks to Imn7
+-New xRegistry.sys Operations (Backup/Restore System Settings) added, thanks to by Demon Hades
+-Demo Downloader updated (3 ways of sorting demos : alpha + by genre + by metascore)
+-NoPSN Apps Downloader added (NoPSN pkg hacks by esc0rtd3w)
+-Multi-language support added, waiting for translations @psx-place
+-Icon notification when update is available (idea taken from XMBPD by DeViL303)
+
+* v0.5 (2018/04/18) :
+-Self injector added
+-Cert remover added
+-Demo Downloader updated with demos from all regions
+-Theme Downloader added
+-Wallpaper Downloader added
+-Menus rearranged
+-Debug Settings Toggler added
+-DEX Xploit links added (Auto switching, see below)
+-New icons
+More info here : http://www.psx-place.com/resources/han-toolbox.628/update?update=1034
+
+* v0.4 (2018/04/02) :
+Here is update 4 for the HAN Toolbox, v0.4 by Pink1 and DeViL303, this has the new File Injector hacks from PS3Xploit Team added , 
+Also Demo Downloader item and Local Xploits (PKG Linker 2.0 Required for the local xploits)
+Demo Downloader requires 2 extra setup steps, see the video, its just a package download and an RCO injection.
+
+* v0.3 (2018/03/19) :
+-Soft Reboot added
+-Hard Reboot added
+-Shutdown Added
+-File Explorer Added (browse and delete files)...
+
+* v0.2 (2018/03/14) : Initial release.

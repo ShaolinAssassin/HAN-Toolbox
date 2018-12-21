@@ -750,13 +750,13 @@
 				class="type:x-xmb/folder-pixmap" 
 				key="han_download_dex_files" 
 				attr="han_download_dex_files"
-				src="#han_download_dex_files_main"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/han_toolbox_stuff_downloader.xml#han_download_dex_files_main"
 				/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
 				key="han_download_cex_files" 
 				attr="han_download_cex_files"
-				src="#han_download_cex_files_main"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/han_toolbox_stuff_downloader.xml#han_download_cex_files_main"
 				/>
 			<Query 
 				class="type:x-xmb/module-action"
@@ -775,40 +775,6 @@
 				/>
 			</Items>
 		</View>
-		
-<!-- Debug Settings File Downloader -->
-		
-		<View id="han_download_dex_files_main">
-		<Attributes>
-			<Table key="han_download_dex_files_item">
-				<Pair key="info"><String>net_package_install</String></Pair>
-				<Pair key="pkg_src"><String>http://dl.dropboxusercontent.com/s/j0pj2n8rgvkxerc/DEX_Settings_Files.pkg</String></Pair>
-				<Pair key="pkg_src_qa"><String>http://dl.dropboxusercontent.com/s/j0pj2n8rgvkxerc/DEX_Settings_Files.pkg</String></Pair>
-				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
-				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair>
-				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/download.png</String></Pair>
- 			</Table> 
-		</Attributes> 
-			<Items>
-			<Item class="type:x-xmb/xmlnpsignup" key="han_download_dex_files_item" attr="han_download_dex_files_item"/>
-		</Items> 
-		</View> 
-		
-		<View id="han_download_cex_files_main">
-		<Attributes>
-			<Table key="han_download_cex_files_item">
-				<Pair key="info"><String>net_package_install</String></Pair>
-				<Pair key="pkg_src"><String>http://dl.dropboxusercontent.com/s/vo8l4x91jqepykq/CEX_Settings_Files.pkg</String></Pair>
-				<Pair key="pkg_src_qa"><String>http://dl.dropboxusercontent.com/s/vo8l4x91jqepykq/CEX_Settings_Files.pkg</String></Pair>
-				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
-				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair>
-				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/download.png</String></Pair>
- 			</Table> 
-		</Attributes> 
-			<Items>
-			<Item class="type:x-xmb/xmlnpsignup" key="han_download_cex_files_item" attr="han_download_cex_files_item"/>
-		</Items> 
-		</View> 
 		
 <!-- xRegistry Operations -->
 		
@@ -981,7 +947,7 @@
 				class="type:x-xmb/folder-pixmap" 
 				key="han_toolbox_update" 
 				attr="han_toolbox_update"
-				src="#han_toolbox_update_main"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/han_toolbox_stuff_downloader.xml#han_toolbox_update_main"
 				/>
 			<Query 
 				class="type:x-xmb/module-action"
@@ -1089,7 +1055,7 @@
 				class="type:x-xmb/folder-pixmap" 
 				key="han_download_lang_rco" 
 				attr="han_download_lang_rco"
-				src="#han_download_lang_rco_main"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/han_toolbox_stuff_downloader.xml#han_download_lang_rco_main"
 				/>
 			<Query 
 				class="type:x-xmb/module-action"
@@ -1100,46 +1066,10 @@
 				class="type:x-xmb/folder-pixmap" 
 				key="han_download_patch_file" 
 				attr="han_download_patch_file"
-				src="#han_download_patch_file_main"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/han_toolbox_stuff_downloader.xml#han_download_patch_file_main"
 				/>
 			</Items> 
 		</View>
-
-<!-- Download **EDITED** lang RCO file -->
-		
-		<View id="han_download_lang_rco_main">
-		<Attributes>
-			<Table key="han_download_lang_rco_item">
-				<Pair key="info"><String>net_package_install</String></Pair>
-				<Pair key="pkg_src"><String>https://www.dropbox.com/s/dxut0ud0l91deco/HAN_Toolbox-lang_edited_rco.pkg_signed.pkg?dl=1</String></Pair>
-				<Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/dxut0ud0l91deco/HAN_Toolbox-lang_edited_rco.pkg_signed.pkg?dl=1</String></Pair>
-				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
-				<Pair key="content_id"><String>TA9000-HANTOOLBX_00-GLORYOFBRUNESTUD</String></Pair>
-				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/download.png</String></Pair>
- 			</Table> 
-		</Attributes> 
-			<Items>
-			<Item class="type:x-xmb/xmlnpsignup" key="han_download_lang_rco_item" attr="han_download_lang_rco_item"/>
-			</Items> 
-		</View>
-		
-<!-- Download lang patch PKG file -->
-			
-		<View id="han_download_patch_file_main">
-		<Attributes>
-			<Table key="han_download_patch_file_item">
-				<Pair key="info"><String>net_package_install</String></Pair>
-				<Pair key="pkg_src"><String>https://www.dropbox.com/s/l7x4aet1765ynun/Latest_HAN_Toolbox_CEX-lang_patch.pkg_signed.pkg?dl=1</String></Pair>
-				<Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/l7x4aet1765ynun/Latest_HAN_Toolbox_CEX-lang_patch.pkg_signed.pkg?dl=1</String></Pair>
-				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
-				<Pair key="content_id"><String>TA9000-HANTOOLBX_00-GLORYOFBRUNESTUD</String></Pair>
-				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/download.png</String></Pair>
- 			</Table> 
-		</Attributes> 
-			<Items>
-			<Item class="type:x-xmb/xmlnpsignup" key="han_download_patch_file_item" attr="han_download_patch_file_item"/>
-			</Items> 
-		</View>		
 
 <!-- Uninstall Multi Language -->
 
@@ -1168,37 +1098,19 @@
 				class="type:x-xmb/folder-pixmap" 
 				key="han_restore_toolbox" 
 				attr="han_restore_toolbox"
-				src="#han_toolbox_update_main"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/han_toolbox_stuff_downloader.xml#han_toolbox_update_main"
 			/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
 				key="han_download_original_lang_rco" 
 				attr="han_download_original_lang_rco"
-				src="#han_download_original_lang_rco_main"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/han_toolbox_stuff_downloader.xml#han_download_original_lang_rco_main"
 			/>
 			<Query 
 				class="type:x-xmb/module-action"
 				key="han_inject_original_lang_rco"
 				attr="han_inject_original_lang_rco"
 			/>
-			</Items> 
-		</View>
-
-<!-- Download **ORIGINAL** lang RCO file -->
-		
-		<View id="han_download_original_lang_rco_main">
-		<Attributes>
-			<Table key="han_download_original_lang_rco_item">
-				<Pair key="info"><String>net_package_install</String></Pair>
-				<Pair key="pkg_src"><String>https://www.dropbox.com/s/l7x4aet1765ynun/Latest_HAN_Toolbox_CEX-lang_patch.pkg_signed.pkg?dl=1</String></Pair>
-				<Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/l7x4aet1765ynun/Latest_HAN_Toolbox_CEX-lang_patch.pkg_signed.pkg?dl=1</String></Pair>
-				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
-				<Pair key="content_id"><String>TA9000-HANTOOLBX_00-GLORYOFBRUNESTUD</String></Pair>
-				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/download.png</String></Pair>
- 			</Table> 
-		</Attributes> 
-			<Items>
-			<Item class="type:x-xmb/xmlnpsignup" key="han_download_original_lang_rco_main" attr="han_download_original_lang_rco_main"/>
 			</Items> 
 		</View>
 
@@ -1253,51 +1165,15 @@
 				class="type:x-xmb/folder-pixmap" 
 				key="han_toolbox_install_resources_pkg" 
 				attr="han_toolbox_install_resources_pkg"
-				src="#han_toolbox_install_resources_pkg_main"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/han_toolbox_stuff_downloader.xml#han_toolbox_install_resources_pkg_main"
 			/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
 				key="han_toolbox_install_resources_lang" 
 				attr="han_toolbox_install_resources_lang"
-				src="#han_toolbox_install_resources_lang_main"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/han_toolbox_stuff_downloader.xml#han_toolbox_install_resources_lang_main"
 			/>
 			</Items>
-		</View>
-
-<!-- Resources PKG Downloader -->
-			
-		<View id="han_toolbox_install_resources_pkg_main">
-		<Attributes>
-			<Table key="han_toolbox_install_resources_pkg_item">
-				<Pair key="info"><String>net_package_install</String></Pair>
-				<Pair key="pkg_src"><String>http://dl.dropboxusercontent.com/s/p29cxn3c984ik48/HAN_Toolbox_Resources.pkg</String></Pair>
-				<Pair key="pkg_src_qa"><String>http://dl.dropboxusercontent.com/s/p29cxn3c984ik48/HAN_Toolbox_Resources.pkg</String></Pair>
-				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
-				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair>
-				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/download.png</String></Pair>
- 			</Table> 
-		</Attributes> 
-			<Items>
-			<Item class="type:x-xmb/xmlnpsignup" key="han_toolbox_install_resources_pkg_item" attr="han_toolbox_install_resources_pkg_item"/>
-			</Items> 
-		</View>
-
-<!-- Resources Lang Downloader -->
-
-		<View id="han_toolbox_install_resources_lang_main">
-		<Attributes>
-			<Table key="han_toolbox_install_resources_lang_item">
-				<Pair key="info"><String>net_package_install</String></Pair>
-				<Pair key="pkg_src"><String>>https://www.dropbox.com/s/ij8dex2sjkw5uxg/HAN_Toolbox_Resources-lang_patch.pkg_signed.pkg?dl=1</String></Pair>
-				<Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/ij8dex2sjkw5uxg/HAN_Toolbox_Resources-lang_patch.pkg_signed.pkg?dl=1</String></Pair>
-				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
-				<Pair key="content_id"><String>TA9000-HANTOOLBX_00-GLORYOFBRUNESTUD</String></Pair>
-				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/download.png</String></Pair>
- 			</Table> 
-		</Attributes> 
-			<Items>
-			<Item class="type:x-xmb/xmlnpsignup" key="han_toolbox_install_resources_lang_item" attr="han_toolbox_install_resources_lang_item"/>
-			</Items> 
 		</View>
 
 <!-- Resources Uninstaller -->
@@ -1330,23 +1206,5 @@
 				/>
 			</Items>
 		</View>		
-		
-<!-- Toolbox Updater -->
-		
-		<View id="han_toolbox_update_main">
-		<Attributes>
-			<Table key="han_toolbox_update_item">
-				<Pair key="info"><String>net_package_install</String></Pair>
-				<Pair key="pkg_src"><String>http://dl.dropboxusercontent.com/s/5w8yvfmor1lhgp4/Latest_HAN_Toolbox_CEX.pkg</String></Pair>
-				<Pair key="pkg_src_qa"><String>http://dl.dropboxusercontent.com/s/5w8yvfmor1lhgp4/Latest_HAN_Toolbox_CEX.pkg</String></Pair>
-				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
-				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair>
-				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/download.png</String></Pair>
-			</Table> 
-		</Attributes> 
-			<Items>
-			<Item class="type:x-xmb/xmlnpsignup" key="han_toolbox_update_item" attr="han_toolbox_update_item"/>
-			</Items> 
-		</View>
 	
 </XMBML>
