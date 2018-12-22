@@ -45,9 +45,9 @@
 				<Pair key="str_noitem"><String>msg_error_no_content</String></Pair>
 				<Pair key="child"><String>segment</String></Pair>
 			</Table>
-			<Table key="han_toolbox_update">
+			<Table key="han_toolbox_upgrade">
 				<Pair key="icon_rsc"><String>item_tex_cam_icon</String></Pair>
-				<Pair key="title"><String>Download Full Toolbox</String></Pair>
+				<Pair key="title"><String>Upgrade Toolbox</String></Pair>
 				<Pair key="info"><String>Download and install the latest FULL Toolbox package (Reboot after)</String></Pair>
 			</Table>
 		</Attributes>
@@ -56,7 +56,7 @@
 			<Query class="type:x-xmb/module-action" key="han_enabler_auto_main_offline" attr="han_enabler_auto_main_offline"/>
 			<Query class="type:x-xmb/folder-pixmap" key="han_functions" attr="han_functions" src="#han_functions_main"/>
 			<Query class="type:x-xmb/folder-pixmap" key="pkg_linker" attr="pkg_linker" src="#pkg_linker_items"/>
-			<Query class="type:x-xmb/folder-pixmap" key="han_toolbox_update" attr="han_toolbox_update" src="#han_toolbox_update_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="han_toolbox_upgrade" attr="han_toolbox_upgrade" src="#han_toolbox_upgrade_main"/>
 			</Items>
 		</View>
 		
@@ -114,9 +114,9 @@
 			</Items>
 		</View>
 		
-		<View id="han_toolbox_update_main">
+		<View id="han_toolbox_upgrade_main">
 		<Attributes>
-			<Table key="han_toolbox_update_item">
+			<Table key="han_toolbox_upgrade_item">
 				<Pair key="info"><String>net_package_install</String></Pair>
 				<Pair key="pkg_src"><String>https://www.dropbox.com/s/ah5ar2ornvw5qw7/Latest_HAN_Toolbox_CEX.pkg?dl=1</String></Pair>
 				<Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/ah5ar2ornvw5qw7/Latest_HAN_Toolbox_CEX.pkg?dl=1</String></Pair>
@@ -126,7 +126,7 @@
  			</Table> 
 		</Attributes> 
 			<Items>
-			<Item class="type:x-xmb/xmlnpsignup" key="han_toolbox_update_item" attr="han_toolbox_update_item"/>
+			<Item class="type:x-xmb/xmlnpsignup" key="han_toolbox_upgrade_item" attr="han_toolbox_upgrade_item"/>
 		</Items> 
 		</View> 
 		
