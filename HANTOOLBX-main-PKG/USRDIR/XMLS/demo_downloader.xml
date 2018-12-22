@@ -15,7 +15,7 @@
 				class="type:x-xmb/folder-pixmap" 
 				key="no_resources" 
 				attr="no_resources"
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/han_toolbox_stuff_downloader.xml#han_toolbox_install_resources_pkg_main"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/han_toolbox_stuff_downloader.xml#han_toolbox_install_resources_pkg_main"
 				/>
 		</Items>
 	</View>

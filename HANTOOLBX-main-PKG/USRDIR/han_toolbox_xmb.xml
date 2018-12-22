@@ -246,6 +246,12 @@
 				/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
+				key="han_file_browser"
+				attr="han_file_browser" 				
+				src="host://localhost/"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
 				key="han_file_injector"
 				attr="han_file_injector" 				
 				src="#han_file_injector_items"
@@ -255,12 +261,6 @@
 				key="han_dex_settings_injector"
 				attr="han_dex_settings_injector" 				
 				src="#han_dex_settings_injector_items"
-				/>
-			<Query 
-				class="type:x-xmb/folder-pixmap" 
-				key="han_file_browser"
-				attr="han_file_browser" 				
-				src="host://localhost/"
 				/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
@@ -750,13 +750,13 @@
 				class="type:x-xmb/folder-pixmap" 
 				key="han_download_dex_files" 
 				attr="han_download_dex_files"
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/han_toolbox_stuff_downloader.xml#han_download_dex_files_main"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/han_toolbox_stuff_downloader.xml#han_download_dex_files_main"
 				/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
 				key="han_download_cex_files" 
 				attr="han_download_cex_files"
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/han_toolbox_stuff_downloader.xml#han_download_cex_files_main"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/han_toolbox_stuff_downloader.xml#han_download_cex_files_main"
 				/>
 			<Query 
 				class="type:x-xmb/module-action"
@@ -947,10 +947,10 @@
 				class="type:x-xmb/folder-pixmap" 
 				key="han_toolbox_update" 
 				attr="han_toolbox_update"
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/han_toolbox_stuff_downloader.xml#han_toolbox_update_main"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/han_toolbox_stuff_downloader.xml#han_toolbox_update_main"
 				/>
 			<Query 
-				class="type:x-xmb/module-action"
+				class="type:x-xmb/folder-pixmap"
 				key="han_toolbox_about"
 				attr="han_toolbox_about"
 				src="#han_toolbox_changelog"
@@ -1056,7 +1056,7 @@
 				class="type:x-xmb/folder-pixmap" 
 				key="han_download_lang_rco" 
 				attr="han_download_lang_rco"
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/han_toolbox_stuff_downloader.xml#han_download_lang_rco_main"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/han_toolbox_stuff_downloader.xml#han_download_lang_rco_main"
 				/>
 			<Query 
 				class="type:x-xmb/module-action"
@@ -1067,7 +1067,7 @@
 				class="type:x-xmb/folder-pixmap" 
 				key="han_download_patch_file" 
 				attr="han_download_patch_file"
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/han_toolbox_stuff_downloader.xml#han_download_patch_file_main"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/han_toolbox_stuff_downloader.xml#han_download_patch_file_main"
 				/>
 			</Items> 
 		</View>
@@ -1099,13 +1099,13 @@
 				class="type:x-xmb/folder-pixmap" 
 				key="han_restore_toolbox" 
 				attr="han_restore_toolbox"
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/han_toolbox_stuff_downloader.xml#han_toolbox_update_main"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/han_toolbox_stuff_downloader.xml#han_toolbox_update_main"
 			/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
 				key="han_download_original_lang_rco" 
 				attr="han_download_original_lang_rco"
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/han_toolbox_stuff_downloader.xml#han_download_original_lang_rco_main"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/han_toolbox_stuff_downloader.xml#han_download_original_lang_rco_main"
 			/>
 			<Query 
 				class="type:x-xmb/module-action"
@@ -1166,13 +1166,13 @@
 				class="type:x-xmb/folder-pixmap" 
 				key="han_toolbox_install_resources_pkg" 
 				attr="han_toolbox_install_resources_pkg"
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/han_toolbox_stuff_downloader.xml#han_toolbox_install_resources_pkg_main"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/han_toolbox_stuff_downloader.xml#han_toolbox_install_resources_pkg_main"
 			/>
 			<!--Query 
 				class="type:x-xmb/folder-pixmap" 
 				key="han_toolbox_install_resources_lang" 
 				attr="han_toolbox_install_resources_lang"
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/han_toolbox_stuff_downloader.xml#han_toolbox_install_resources_lang_main"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/han_toolbox_stuff_downloader.xml#han_toolbox_install_resources_lang_main"
 			/-->
 			</Items>
 		</View>
@@ -1263,7 +1263,7 @@
 		</Attributes>
 			<Items>
 			<Query 
-				class="type:x-xmb/folder-pixmap" 
+				class="type:x-xmb/module-action" 
 				key="han_toolbox_last_changes" 
 				attr="han_toolbox_last_changes"
 				/>
