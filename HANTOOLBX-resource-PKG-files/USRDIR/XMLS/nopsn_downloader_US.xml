@@ -49,7 +49,7 @@
 				<Pair key="title"><String>PopcornFlix</String></Pair>
 				<Pair key="info"><String>v1.10-Spoof (NoADS-NoAnalytics) - 9.00MB</String></Pair>
 			</Table>
-			<Table key="item_NPUP31351_v110_spoof_noads_agressive">
+			<Table key="item_NPUP31351_v110_spoof_noads_aggressive">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/nopsn_icons/popcornflix.png</String></Pair>
 				<Pair key="title"><String>PopcornFlix</String></Pair>
 				<Pair key="info"><String>v1.10-Spoof (NoADS-Aggressive) - 8.86MB</String></Pair>
@@ -122,9 +122,9 @@
 				/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
-				key="item_NPUP31351_v110_spoof_noads_agressive" 
-				attr="item_NPUP31351_v110_spoof_noads_agressive"
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_NPUP31351_v110_spoof_noads_agressive_main"
+				key="item_NPUP31351_v110_spoof_noads_aggressive" 
+				attr="item_NPUP31351_v110_spoof_noads_aggressive"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_NPUP31351_v110_spoof_noads_aggressive_main"
 				/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
