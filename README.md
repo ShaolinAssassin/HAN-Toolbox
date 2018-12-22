@@ -1,17 +1,19 @@
 # HAN-Toolbox-v0.6-beta
 
 ## New in v0.6 : 
+* 3 versions : SuperLite / Lite / Full,
 * HAN Enabler, Soft Reboot and Debug Packages Enabler (CEX only) offline codes,
+* New File copier (PS3 to USB & vice-versa),
 * New xRegistry.sys Operations (Backup/Restore System Settings) added,
 * Demo Downloader updated,
 * NoPSN Apps Downloader added,
 * Multi-language support added,
 * Icon notification when update is available.
 
-## Superlite Version (HANTOOLBX-SUPERLITE folder) : 
+## Superlite Version (HANTOOLBX-SUPERLITE folder) :
 * uses XMB default icons, 
 * no multi-language support, 
-* only includes basic PS3Xploit tools (using online site),
+* only includes basic PS3Xploit tools (using offline code & online site),
 * basic PKG Linker support,
 * no demo/nopsn/theme/wallpaper downloader support,
 * possibility to upgrade to Full version.
@@ -19,7 +21,7 @@
 ## Lite Version (HANTOOLBX-LITE folder) :
 * uses XMB default icons, 
 * no multi-language support, 
-* includes basic & advanced PS3Xploit tools (using online site and/or locally hosted via PKG Linker),
+* includes basic & advanced PS3Xploit tools (using offline code & online site and/or locally hosted via PKG Linker),
 * advanced PKG Linker support,
 * no demo/nopsn/theme/wallpaper downloader support,
 * possibility to upgrade to Full version.
