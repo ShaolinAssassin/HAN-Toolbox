@@ -61,8 +61,8 @@
 			</Table>
 			<Table key="item_NPUP10028_v112303_spoof">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/nopsn_icons/youtube.png</String></Pair>
-				<Pair key="title"><String>YouTube [Press  To Bypass]</String></Pair>
-				<Pair key="info"><String>v1.12-v3.03-Spoof - 59.12 MB</String></Pair>
+				<Pair key="title"><String>YouTube</String></Pair>
+				<Pair key="info"><String>v1.12-v3.03-Spoof - 59.12 MB [Press  To Bypass]</String></Pair>
 			</Table>
 		</Attributes>
 		<Items>
