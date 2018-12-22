@@ -239,7 +239,7 @@
 			<Table key="han_toolbox_setup">
 				<Pair key="icon_rsc"><String>tex_album_icon</String></Pair>
 				<Pair key="title"><String>Toolbox Settings</String></Pair>
-				<Pair key="info"><String>Version info, Updgrade</String></Pair>
+				<Pair key="info"><String>Version info, Upgrade</String></Pair>
 			</Table>
 		</Attributes>
 			<Items>
