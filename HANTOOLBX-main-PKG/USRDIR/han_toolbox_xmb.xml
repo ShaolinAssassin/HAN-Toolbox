@@ -908,11 +908,11 @@
 		
 		<View id="han_toolbox_setup_main"> 
 		<Attributes>
-			<Table key="han_toolbox_lang">
+			<!--Table key="han_toolbox_lang">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_file.png</String></Pair>
 				<Pair key="title"><String>Toolbox Multi Language</String></Pair>
 				<Pair key="info"><String>Install/Uninstall the HAN Toolbox lang resources files</String></Pair>
-			</Table>
+			</Table-->
 			<Table key="han_toolbox_resources">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_file.png</String></Pair>
 				<Pair key="title"><String>Toolbox Resources</String></Pair>
@@ -931,12 +931,12 @@
 			</Table>
 		</Attributes>
 			<Items>
-			<Query 
+			<!--Query 
 				class="type:x-xmb/folder-pixmap" 
 				key="han_toolbox_lang" 
 				attr="han_toolbox_lang"
 				src="#han_toolbox_lang_main"
-				/>
+				/-->
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
 				key="han_toolbox_resources" 
@@ -958,7 +958,7 @@
 			</Items>
 		</View>
 
-<!-- Toolbox Multi Lang -->
+<!-- Toolbox Multi Lang>
 
 		<View id="han_toolbox_lang_main"> 
 		<Attributes>
@@ -989,7 +989,7 @@
 			</Items>
 		</View>
 		
-<!-- Check if lang res exists -->
+<!-- Check if lang res exists>
 
 		<View id="han_toolbox_check_lang_main"> 
 		<Attributes>
@@ -1029,7 +1029,7 @@
 			</Items>
 		</View>
 
-<!-- Install Multi Language -->
+<!-- Install Multi Language>
 		
 		<View id="han_toolbox_install_lang_main"> 
 		<Attributes> 
@@ -1072,7 +1072,7 @@
 			</Items> 
 		</View>
 
-<!-- Uninstall Multi Language -->
+<!-- Uninstall Multi Language>
 
 		<View id="han_toolbox_uninstall_lang_main"> 
 		<Attributes>
@@ -1155,11 +1155,11 @@
 				<Pair key="title"><String>Step 1: Download Toolbox Resources</String></Pair>
 				<Pair key="info"><String>Download and install the HAN Toolbox resources package and reboot after</String></Pair>
 			</Table>
-			<Table key="han_toolbox_install_resources_lang">
+			<!--Table key="han_toolbox_install_resources_lang">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_file.png</String></Pair>
 				<Pair key="title"><String>Step 2 (Optional): Download Toolbox Resources lang files</String></Pair>
 				<Pair key="info"><String>Download and install the HAN Toolbox resources lang files and reboot after</String></Pair>
-			</Table>
+			</Table-->
 		</Attributes>
 			<Items>
 			<Query 
@@ -1168,12 +1168,12 @@
 				attr="han_toolbox_install_resources_pkg"
 				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/han_toolbox_stuff_downloader.xml#han_toolbox_install_resources_pkg_main"
 			/>
-			<Query 
+			<!--Query 
 				class="type:x-xmb/folder-pixmap" 
 				key="han_toolbox_install_resources_lang" 
 				attr="han_toolbox_install_resources_lang"
 				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/han_toolbox_stuff_downloader.xml#han_toolbox_install_resources_lang_main"
-			/>
+			/-->
 			</Items>
 		</View>
 
@@ -1221,7 +1221,7 @@
 				-New xRegistry.sys Operations (Backup/Restore System Settings) added
 				-Demo Downloader updated (3 ways of sorting demos : alpha + by genre + by metascore)
 				-NoPSN Apps Downloader added
-				-Multi-language support added, waiting for translations @psx-place
+				-Multi-language support added - currently disabled, waiting for translations @psx-place
 				-Icon notification when update is available
 
 				* v0.5 (2018/04/18) :
