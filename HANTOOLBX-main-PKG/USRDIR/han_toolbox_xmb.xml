@@ -1215,7 +1215,7 @@
 			<Table key="han_toolbox_last_changes">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/list.png</String></Pair>
 				<Pair key="title"><String>HAN Toolbox Changelog</String></Pair>
-				<Pair key="info"><String>* v0.6 (2018/12/XX) :
+				<Pair key="info"><String>* v0.6 (2018/12/23) :
 				-HAN Enabler, Soft Reboot and Debug Packages Enabler (CEX only) Offline codes added
 				-New File copier (PS3 to USB & vice-versa)
 				-New xRegistry.sys Operations (Backup/Restore System Settings) added
