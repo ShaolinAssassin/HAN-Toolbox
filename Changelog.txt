@@ -1,3 +1,7 @@
+* v0.6.1 (2018/12/2X) :
+-Multi-language support enabled
+-Added Spanish Translation - by mr_ota
+
 * v0.6 (2018/12/23) :
 -HAN Enabler, Soft Reboot and Debug Packages Enabler (CEX only) Offline codes added
 -New File copier (PS3 to USB & vice-versa)

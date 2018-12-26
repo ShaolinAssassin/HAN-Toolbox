@@ -7,7 +7,7 @@
 
 <!-- Main Items CEX -->
 	
-	<Text name="han_toolbox_soft_reboot_offline">Offline Soft Rebooter</Text>
+	<Text name="han_toolbox_reboot_soft_offline">Offline Soft Rebooter</Text>
 	<Text name="han_toolbox_reboot_info">Restart console</Text>
 	<Text name="han_toolbox_enabler_offline">Offline HAN Enabler</Text>	
 	<Text name="han_toolbox_enabler_info_cex">Enable custom signed packages and licenses (CEX)</Text>	
@@ -244,8 +244,8 @@
 
 	<Text name="han_toolbox_install_resources_pkg">Step 1: Download Toolbox Resources</Text>
 	<Text name="han_toolbox_install_resources_pkg_info">Download and install the HAN Toolbox resources package and reboot after</Text>
-	<Text name="han_toolbox_delete_resources_xmls">Step 2 (Optional): Download Toolbox Resources lang files</Text>
-	<Text name="han_toolbox_delete_resources_xmls_info">Download and install the HAN Toolbox resources lang files and reboot after</Text>
+	<Text name="han_toolbox_install_resources_lang">Step 2 (Optional): Download Toolbox Resources lang files</Text>
+	<Text name="han_toolbox_install_resources_lang_info">Download and install the HAN Toolbox resources lang files and reboot after</Text>
 
 <!-- Resources Uninstaller -->
 

@@ -908,11 +908,11 @@
 		
 		<View id="han_toolbox_setup_main"> 
 		<Attributes>
-			<!--Table key="han_toolbox_lang">
+			<Table key="han_toolbox_lang">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_file.png</String></Pair>
 				<Pair key="title"><String>Toolbox Multi Language</String></Pair>
 				<Pair key="info"><String>Install/Uninstall the HAN Toolbox lang resources files</String></Pair>
-			</Table-->
+			</Table>
 			<Table key="han_toolbox_resources">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_file.png</String></Pair>
 				<Pair key="title"><String>Toolbox Resources</String></Pair>
@@ -925,18 +925,18 @@
 			</Table>
 			<Table key="han_toolbox_about">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/list.png</String></Pair>
-				<Pair key="title"><String>Version: 0.6</String></Pair>
+				<Pair key="title"><String>Version: 0.6.1</String></Pair>
 				<Pair key="info"><String>By DeViL303, Pink1, esc0rtd3w, Berion, ShaolinAssassin, Demon Hades and lmn7
 				Massive thanks to the PS3Xploit Team for all the hacks</String></Pair>
 			</Table>
 		</Attributes>
 			<Items>
-			<!--Query 
+			<Query 
 				class="type:x-xmb/folder-pixmap" 
 				key="han_toolbox_lang" 
 				attr="han_toolbox_lang"
 				src="#han_toolbox_lang_main"
-				/-->
+				/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
 				key="han_toolbox_resources" 
@@ -958,7 +958,7 @@
 			</Items>
 		</View>
 
-<!-- Toolbox Multi Lang>
+<!-- Toolbox Multi Lang -->
 
 		<View id="han_toolbox_lang_main"> 
 		<Attributes>
@@ -989,7 +989,7 @@
 			</Items>
 		</View>
 		
-<!-- Check if lang res exists>
+<!-- Check if lang res exists -->
 
 		<View id="han_toolbox_check_lang_main"> 
 		<Attributes>
@@ -997,25 +997,8 @@
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_file.png</String></Pair>
 				<Pair key="title"><String>HAN Toolbox is translated in the following languages :</String></Pair>
 				<Pair key="info"><String>
-				Chinese (Simplified)
-				Chinese (Traditional)
-				Danish
-				Dutch
-				Finnish
-				French
-				German
-				Italian
-				Japanese
-				Korean
-				Norwegian
-				Polish
-				Portuguese (Brazil)
-				Portuguese (Portugal)
-				Russian
 				Spanish (Spain)
-				Swedish
-				Turkish
-				
+
 				If your language is listed, press  to start installation</String></Pair>
 			</Table>
 		</Attributes>
@@ -1029,7 +1012,7 @@
 			</Items>
 		</View>
 
-<!-- Install Multi Language>
+<!-- Install Multi Language -->
 		
 		<View id="han_toolbox_install_lang_main"> 
 		<Attributes> 
@@ -1072,7 +1055,7 @@
 			</Items> 
 		</View>
 
-<!-- Uninstall Multi Language>
+<!-- Uninstall Multi Language -->
 
 		<View id="han_toolbox_uninstall_lang_main"> 
 		<Attributes>
@@ -1155,11 +1138,11 @@
 				<Pair key="title"><String>Step 1: Download Toolbox Resources</String></Pair>
 				<Pair key="info"><String>Download and install the HAN Toolbox resources package and reboot after</String></Pair>
 			</Table>
-			<!--Table key="han_toolbox_install_resources_lang">
+			<Table key="han_toolbox_install_resources_lang">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_file.png</String></Pair>
 				<Pair key="title"><String>Step 2 (Optional): Download Toolbox Resources lang files</String></Pair>
 				<Pair key="info"><String>Download and install the HAN Toolbox resources lang files and reboot after</String></Pair>
-			</Table-->
+			</Table>
 		</Attributes>
 			<Items>
 			<Query 
@@ -1168,12 +1151,12 @@
 				attr="han_toolbox_install_resources_pkg"
 				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/han_toolbox_stuff_downloader.xml#han_toolbox_install_resources_pkg_main"
 			/>
-			<!--Query 
+			<Query 
 				class="type:x-xmb/folder-pixmap" 
 				key="han_toolbox_install_resources_lang" 
 				attr="han_toolbox_install_resources_lang"
 				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/han_toolbox_stuff_downloader.xml#han_toolbox_install_resources_lang_main"
-			/-->
+			/>
 			</Items>
 		</View>
 
@@ -1215,7 +1198,11 @@
 			<Table key="han_toolbox_last_changes">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/list.png</String></Pair>
 				<Pair key="title"><String>HAN Toolbox Changelog</String></Pair>
-				<Pair key="info"><String>* v0.6 (2018/12/23) :
+				<Pair key="info"><String>* v0.6.1 (2018/12/2X) :
+				- Multi-language support enabled
+				- Added Spanish Translation - by mr_ota
+				
+				* v0.6 (2018/12/23) :
 				-HAN Enabler, Soft Reboot and Debug Packages Enabler (CEX only) Offline codes added
 				-New File copier (PS3 to USB & vice-versa)
 				-New xRegistry.sys Operations (Backup/Restore System Settings) added
@@ -1233,32 +1220,7 @@
 				-Menus rearranged
 				-Debug Settings Toggler added
 				-DEX Xploit links added (Auto switching, see below)
-				-New icons
-
-				* v0.4 (2018/04/02) :
-				Here is update 4 for the HAN Toolbox, v0.4 by Pink1 and DeViL303, this has the new File Injector hacks from PS3Xploit Team added , 
-				Also Demo Downloader item and Local Xploits (PKG Linker 2.0 Required for the local xploits)
-				Demo Downloader requires 2 extra setup steps, see the video, its just a package download and an RCO injection.
-
-				* v0.3 (2018/03/19) :
-				-Soft Reboot added
-				-Hard Reboot added
-				-Shutdown Added
-				-File Explorer Added (browse and delete files)
-				-New auto running links for all Xploit options (no buttons to push)
-				-Moved all Xploits except "HAN Enabler" into sub categories
-				-Submenu added for DEX Firmware Xploits (NOT for Normal HAN users)
-				-Original manual start Xploits still available under legacy menu
-				-Built in Toolbox Updater (Update from the XMB in future)
-
-				* v0.2 (2018/03/14) : Initial release.
-				-HAN Installer
-				-HAN Enabler
-				-License Dumper
-				-License Injector
-				-Debug Package Enabler
-				-Support Forum
-				-Install Packages From Webserver (PKG Linker Required)</String></Pair>
+				-New icons</String></Pair>
 			</Table>
 		</Attributes>
 			<Items>
