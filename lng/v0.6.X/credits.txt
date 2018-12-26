@@ -1,0 +1,20 @@
+HAN Toolbox v0.6 Translations credits : 
+
+Chinese (Simplified)		:				
+Chinese (Traditional)		:
+Danish						:
+Dutch						:
+Finnish						:
+French						:
+German						:
+Italian						:
+Japanese					:
+Korean						:
+Norwegian					:
+Polish						:
+Portuguese (Brazil)			:
+Portuguese (Portugal)		:
+Russian						:
+Spanish (Spain)				:	mr_ota
+Swedish						:
+Turkish						:

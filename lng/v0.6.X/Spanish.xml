@@ -1,0 +1,222 @@
+<!-- HAN Toolbox v0.6 - Spanish translation by mr_ota -->
+
+    <Text name="han_toolbox_title">★ HAN Toolbox</Text>
+	<Text name="han_toolbox_info_cex">El Compañero de Xploit 3.0</Text>
+	<Text name="han_toolbox_info_dex">El Compañero de Xploit 3.0 (DEX)</Text>
+	<Text name="han_toolbox_soft_reboot_offline">Reinicio Suave Offline</Text>
+	<Text name="han_toolbox_reboot_info">Reiniciar Consola</Text>
+	<Text name="han_toolbox_enabler_offline">Activar HAN Offline</Text>
+	<Text name="han_toolbox_enabler_info_cex">Habilitar paquetes personalizados y licencias firmados Offline (CEX)</Text>
+	<Text name="han_toolbox_debug_enabler_offline">Activar paquete de Depuración Offline</Text>
+	<Text name="han_toolbox_debug_enabler_offline_info">Solo para paquetes retail PS3 modificados Offline</Text>
+	<Text name="han_toolbox_functions">Funciones HAN</Text>
+	<Text name="han_toolbox_functions_info">Autoiniciar Funciones HAN (Sitio Oficial)</Text>
+	<Text name="han_toolbox_functions_local">Funciones HAN Sin Conexión</Text>
+	<Text name="han_toolbox_functions_local_info">Autoiniciar Funciones HAN (Servidor Local vía PKG Linker)</Text>
+	<Text name="han_toolbox_external_content">Contenido Externo</Text>
+	<Text name="han_toolbox_external_content_info">Descarga e instala contenido de los servidores remotos</Text>
+	<Text name="han_toolbox_advanced_tools">Herramientas Avanzadas</Text>
+	<Text name="han_toolbox_advanced_tools_info">Cuidado con este contenido</Text>
+	<Text name="han_toolbox_soft_reboot">Reinicio Suave</Text>
+	<Text name="han_toolbox_enabler">Activar HAN</Text>
+	<Text name="han_toolbox_enabler_info_dex">Habilitar paquetes personalizados y licencias firmados (DEX)</Text>
+	<Text name="han_toolbox_functions_info_dex">Autoiniciar Funciones HAN para Firmware/Híbrido (DEX)</Text>
+	<Text name="han_toolbox_file_copier">Copiar Archivo</Text>
+	<Text name="han_toolbox_file_copier_info">Transfiere archivos entre tu PS3 y tu unidad flash USB</Text>
+	<Text name="han_toolbox_file_explorer">Explorador de Archivos</Text>
+	<Text name="han_toolbox_file_explorer_info">Explorador completo de archivos del sistema y borrado de archivos (Cuidado)</Text>
+	<Text name="han_toolbox_file_injector">Inyectar Archivos</Text>
+	<Text name="han_toolbox_file_injector_info">Usar para añadir mods XMB para flashear u otras operaciones de archivos (Cuidado)</Text>
+	<Text name="han_toolbox_dex_xmb_setup">Configuración XMB DEX</Text>
+	<Text name="han_toolbox_dex_xmb_setup_info">Añadir/Eliminar ajustes DEX etc (Cuidado)</Text>
+	<Text name="han_toolbox_settings">Ajustes de Toolbox</Text>
+	<Text name="han_toolbox_settings_info">Versión info, Descarga de Recursos, Actualizaciones, Idiomas</Text>
+	<Text name="han_toolbox_hard_reboot">Reinicio Duro</Text>
+	<Text name="han_toolbox_shutdown">Apagar</Text>
+	<Text name="han_toolbox_shutdown_info">Apagar Consola</Text>
+	<Text name="han_toolbox_enabler_info">Habilitar paquetes personalizados y licencias firmados</Text>
+	<Text name="han_toolbox_installer">Instalar HAN</Text>
+	<Text name="han_toolbox_installer_info">Activar Administrador de paquetes</Text>
+	<Text name="han_toolbox_license_dumper">Volcado de Licencia</Text>
+	<Text name="han_toolbox_license_dumper_info">Volcado de Activador de Datos (act.dat+idps)</Text>
+	<Text name="han_toolbox_injector">Inyectar Act.dat</Text>
+	<Text name="han_toolbox_injector_info">Auto ejecutar inyector del Xploit útil para act.dat</Text>
+	<Text name="han_toolbox_debug_enabler">Activar paquete de Depuración</Text>
+	<Text name="han_toolbox_debug_enabler_info">Solo para paquetes retail PS3 modificados</Text>
+	<Text name="han_toolbox_xreg_dumper_injector">Operaciones de xRegistry.sys (Copia de seguridad / Restaurar configuración del sistema)</Text>
+	<Text name="han_toolbox_xreg_dumper_injector_info">Volvar e Inyectar xRegistry.sys</Text>
+	<Text name="han_toolbox_inject_coldboot">Inyectar Coldboots (Logo de Arranque y Sonido)</Text>
+	<Text name="han_toolbox_inject_coldboot_info">Copiar coldboot_*.* para dev_flash/vsh/resource/coldboot_*.*</Text>
+	<Text name="han_toolbox_inject_rco">Inyectar RCO (Recurso de Sistema)</Text>
+	<Text name="han_toolbox_inject_rco_info">Copiar *.rco para dev_flash/vsh/resource/*.rco</Text>
+	<Text name="han_toolbox_inject_xml">Inyectar XML (Diseño XMB)</Text>
+	<Text name="han_toolbox_inject_xml_info">Copiar *.xml para dev_flash/vsh/resource/explore/xmb/*.xml</Text>
+	<Text name="han_toolbox_inject_self">Inyectar SELF (Módulos)</Text>
+	<Text name="han_toolbox_inject_self_info">Copiar *.self para dev_flash/vsh/*/*.self</Text>
+	<Text name="han_toolbox_inject_sprx_vsh">Inyectar SPRX (Módulos VSH)</Text>
+	<Text name="han_toolbox_inject_sprx_vsh_info">Copiar *.sprx para dev_flash/vsh/module/*.sprx</Text>
+	<Text name="han_toolbox_inject_sprx_int">Inyectar SPRX (Biblioteca Interna)</Text>
+	<Text name="han_toolbox_inject_sprx_int_info">Copiar *.sprx para dev_flash/sys/internal/*.sprx</Text>
+	<Text name="han_toolbox_inject_sprx_ext">Inyectar SPRX (Biblioteca Externa)</Text>
+	<Text name="han_toolbox_inject_sprx_ext_info">Copiar *.sprx para dev_flash/sys/external/*.sprx</Text>
+	<Text name="han_toolbox_inject_lines">Inyectar Lines.qrc (Ola)</Text>
+	<Text name="han_toolbox_inject_sprx_lines_info">Copiar lines.qrc para dev_flash/vsh/resource/qgl/lines.qrc</Text>
+	<Text name="han_toolbox_inject_emoji">Inyectar Imagefont.bin (Iconos y Emojis)</Text>
+	<Text name="han_toolbox_inject_emoji_info">Copiar imagefont.bin para dev_flash/vsh/resource/imagefont.bin</Text>
+	<Text name="han_toolbox_inject_font">Inyectar TTF (Fuente)</Text>
+	<Text name="han_toolbox_inject_font_info">Copiar *.ttf para dev_flash/data/font/*.ttf</Text>
+	<Text name="han_toolbox_inject_remove_cert">Inyectar / Eliminar Cert (Certificados SSL)</Text>
+	<Text name="han_toolbox_inject_remove_cert_info">Copiar / Borrar certs en dev_flash/data/cert/*.cer</Text>
+	<Text name="han_toolbox_inject_self_main">Inyectar SELF (Principal)</Text>
+	<Text name="han_toolbox_inject_self_main_info">Copiar *.self para dev_flash/vsh/module/*.self</Text>
+	<Text name="han_toolbox_inject_self_ps1">Inyectar SELF (Emulador PS1)</Text>
+	<Text name="han_toolbox_inject_self_ps1_info">Copiar *.self para dev_flash/ps1emu/*.self</Text>
+	<Text name="han_toolbox_inject_self_ps2">Inyectar SELF (Emulador PS2)</Text>
+	<Text name="han_toolbox_inject_self_ps2_info">Copiar *.self para dev_flash/ps2emu/*.self</Text>
+	<Text name="han_toolbox_inject_self_psp">Inyectar SELF (Emulador PSP)</Text>
+	<Text name="han_toolbox_inject_self_psp_info">Copiar *.self para dev_flash/pspemu/*.self</Text>
+	<Text name="han_toolbox_inject_self_bd">Inyectar SELF (Reproductor BD)</Text>
+	<Text name="han_toolbox_inject_self_bd_info">Copiar *.self para dev_flash/bdplayer/*.self</Text>
+	<Text name="han_toolbox_inject_cert">Inyectar Cert (Certificados SSL)</Text>
+	<Text name="han_toolbox_inject_cert_info">Copiar certs para dev_flash/data/cert/*.cer</Text>
+	<Text name="han_toolbox_remove_cert">Eliminar Cert (Certificados SSL)</Text>
+	<Text name="han_toolbox_remove_cert_info">Borrar certs de dev_flash/data/cert/*.cer</Text>
+	<Text name="han_toolbox_download_dex_files">Paso 1: Descarga los archivos DEX (Depuración)</Text>
+	<Text name="han_toolbox_download_dex_files_info">Descarga los archivos 4.82 DEX para HANTOOLBX/USRDIR/files/ Listo para instalar</Text>
+	<Text name="han_toolbox_download_cex_files">Paso 1: Descarga los archivos CEX (Retail)</Text>
+	<Text name="han_toolbox_download_cex_files_info">Descarga los archivos 4.82 CEX para HANTOOLBX/USRDIR/files/ Listo para instalar</Text>
+	<Text name="han_toolbox_debug_settings">Paso 2: Instalador de Herramientas de Depuración / Eliminador</Text>
+	<Text name="han_toolbox_debug_settings_info">Copie los archivos descargados de HANTOOLBX/USRDIR/files/ para dev_flash (No seleccionar usb000)</Text>
+	<Text name="han_toolbox_debug_settings_toggler">Alternar Configuración de Depuración</Text>
+	<Text name="han_toolbox_debug_settings_toggler_info">Copie el sysconf_plugin.sprx descargado de HANTOOLBX/USRDIR/files para dev_flash (No seleccionar usb000)</Text>
+	<Text name="han_toolbox_toggle_ip">Alternar la información IP / Host</Text>
+	<Text name="han_toolbox_toggle_ip_info">Copie xmb_plugin.sprx descargado de HANTOOLBX/USRDIR/files/ para dev_flash (No seleccionar usb000)</Text>
+	<Text name="han_toolbox_dump_xregistry">Volcar xRegistry.sys</Text>
+	<Text name="han_toolbox_dump_xregistry_info">Copiar xRegistry.sys de dev_flash2/etc/ para USB</Text>
+	<Text name="han_toolbox_inject_xregistry">Inyectar xRegistry.sys</Text>
+	<Text name="han_toolbox_inject_xregistry_info">Copiar xRegistry.sys de USB para dev_flash2/etc/</Text>
+	<Text name="han_toolbox_webserver_packages">Instalar paquetes desde el Servidor Web</Text>
+	<Text name="han_toolbox_webserver_packages_info">Descarga e Instala paquetes desde el PC via PKG Linker (pkg)</Text>
+	<Text name="han_toolbox_demo_downloader">Descargador de Demos</Text>
+	<Text name="han_toolbox_demo_downloader_info">Pruebe los juegos de PSN antes de comprar con el descargador de Demos (pkg)</Text>
+	<Text name="han_toolbox_theme_downloader">Descargador de Temas</Text>
+	<Text name="han_toolbox_theme_downloader_info">Descarga e Instala Temas (p3t)</Text>
+	<Text name="han_toolbox_wallpaper_downloader">Descargador de Wallpaper</Text>
+	<Text name="han_toolbox_wallpaper_downloader_info">Vista previa y descarga de fondos (jpg)</Text>
+	<Text name="han_toolbox_nopsn_downloader">Descargar Apps NoPSN</Text>
+	<Text name="han_toolbox_nopsn_downloader_info">Descargue e instala aplicaciones compatibles con NoPSN HAN (pkg)</Text>
+	<Text name="han_toolbox_lang">Toolbox Multi Idioma</Text>
+	<Text name="han_toolbox_lang_info">Instalar / desinstalar los archivos de recursos de idiomas de HAN Toolbox</Text>
+	<Text name="han_toolbox_resources">Descarga Recursos Toolbox</Text>
+	<Text name="han_toolbox_resources_info">Descarga e Instala el paquete de recurso HAN Toolbox (después Reiniciar)</Text>
+	<Text name="han_toolbox_update">Actualiza Toolbox</Text>
+	<Text name="han_toolbox_update_info">Descarga e Instala el último paquete de Toolbox (después Reiniciar)</Text>
+	<Text name="han_toolbox_version">Version: 0.6</Text>
+	<Text name="han_toolbox_credits">Por DeViL303, Pink1, esc0rtd3w, Berion, ShaolinAssassin, Demon Hades y lmn7
+	Gracias Masivo al equipo de PS3Xploit por todos los hacks</Text>
+	<Text name="han_toolbox_install_lang">Instalar Multi Idioma</Text>
+	<Text name="han_toolbox_install_lang_info">Descargue e instala los recursos de idioma (despues Reiniciar)</Text>
+	<Text name="han_toolbox_uninstall_lang">Desinstala Multi Idioma</Text>
+	<Text name="han_toolbox_uninstall_lang_info">Restaura idioma ingles (despues Reiniciar)</Text>
+	<Text name="han_toolbox_check_lang_item">HAN Toolbox esta traducido en los siguientes idiomas:</Text>
+	<Text name="han_toolbox_check_lang_item_info">
+	Chino (Simplificado)
+	Chino (Tradicional)
+	Danes
+	Holandes
+	Finlandes
+	Frances
+	Aleman
+	Italiano
+	Japones
+	Koreano
+	Noruego
+	Polaco
+	Portugues (Brazil)
+	Portugues (Portugal)
+	Ruso
+	Español (España)
+	Sueco
+	Turco
+	Si su idioma está en la lista, presione  para comenzar la instalación</Text>
+	<Text name="han_toolbox_download_lang_rco">Paso 1: Descarga el archivo de idioma RCO</Text>
+	<Text name="han_toolbox_download_lang_rco_info">Descarga explore_plugin_full.rco de HANTOOLBX/USRDIR/files/ listo para instalar</Text>
+	<Text name="han_toolbox_inject_lang_rco">Paso 2: Inyectar idioma archivo RCO</Text>
+	<Text name="han_toolbox_inject_lang_rco_info">Copia descargada explore_plugin_full.rco para HANTOOLBX/USRDIR/files para dev_flash/vsh/resource/*.rco</Text>
+	<Text name="han_toolbox_download_patch_file">Paso 3: Descarga e instala el archivo PKG del parche</Text>
+	<Text name="han_toolbox_download_patch_file_info">Descarga e instala el archivo PKG del parche y reinicie después</Text>
+	<Text name="han_toolbox_restore_toolbox">Paso 1: Restaurar HAN Toolbox en inglés</Text>
+	<Text name="han_toolbox_restore_toolbox_info">Descarga e instala HAN y reinicia despues</Text>
+	<Text name="han_toolbox_download_original_lang_rco">Paso 2 (opcional): descargue el archivo original de idioma RCO</Text>
+	<Text name="han_toolbox_download_original_lang_rco_info">Descarga explore_plugin_full.rco para HANTOOLBX/USRDIR/files/ listo para instalar</Text>
+	<Text name="han_toolbox_inject_original_lang_rco">Paso 3 (opcional): restaura el archivo RCO original de idioma</Text>
+	<Text name="han_toolbox_inject_original_lang_rco_info">Restaurar descarga original explore_plugin_full.rco de HANTOOLBX/USRDIR/files para dev_flash/vsh/resource/*.rco</Text>
+	<Text name="han_toolbox_install_resources">Instalar Recursos Toolbox</Text>
+	<Text name="han_toolbox_install_resources_info">Instale el paquete de recursos de HAN Toolbox y despues reiniciar</Text>
+	<Text name="han_toolbox_delete_resources">Desinstala Recursos de Toolbox</Text>
+	<Text name="han_toolbox_delete_resources_info">Desinstalar el paquete de recursos de HAN Toolbox y despues reiniciar</Text>
+	<Text name="han_toolbox_install_resources_pkg">Paso 1: Descargar los recursos de Toolbox</Text>
+	<Text name="han_toolbox_install_resources_pkg_info">Descargar e instalar el paquete de recursos de HAN Toolbox y despues reiniciar</Text>
+	<Text name="han_toolbox_delete_resources_xmls">Paso 2 (Opcional): Descargar archivos de Toolbox Recursos de Idioma</Text>
+	<Text name="han_toolbox_delete_resources_xmls_info">Descargar e instalar los archivos de Idioma de recursos de HAN Toolbox y despues reiniciar</Text>
+	<Text name="han_toolbox_delete_resources_icons_folders">Paso 1: Eliminar carpetas de iconos de recursos</Text>
+	<Text name="han_toolbox_delete_resources_icons_folders_info">Presiona  para acceder a la carpeta de imágenes de HAN Toolbox y desvincular (carpeta) demo_icons & nopsn_icons & theme_icons & wallpaper_icons</Text>
+	<Text name="han_toolbox_delete_resources_xmls">Paso 2: Eliminar recursos de archivos XML</Text>
+	<Text name="han_toolbox_delete_resources_xmls_info">Presiona  para acceder a la carpeta XML de HAN Toolbox y desvincular (carpeta) la carpeta XMLS</Text>
+	<Text name="han_toolbox_server_setup">Configurar Servidor</Text>
+	<Text name="han_toolbox_server_setup_info">Actualizar lista, Reescanear y otras opciones del Servidor</Text>
+	<Text name="han_toolbox_server_refresh">Refrescar lista de paquetes</Text>
+	<Text name="han_toolbox_server_refresh_info">Instalar un nuevo Package_List.pkg desde tu Servidor Web (después Reiniciar)</Text>
+	<Text name="han_toolbox_server_enable_han">Activar HAN (Sin Línea)</Text>
+	<Text name="han_toolbox_server_enable_han_info">PKG Linker debe estar ejecutándose para usar este HAN Xploit en local</Text>
+	<Text name="han_toolbox_server_rescan">Reescanear Carpeta</Text>
+	<Text name="han_toolbox_server_rescan_info">Reescanear carpeta de paquetes en el Servidor Web y crea un nuevo Package_List.pkg</Text>
+	<Text name="han_toolbox_server_stop">Parar Servidor</Text>
+	<Text name="han_toolbox_server_stop_info">Apagar PKG Linker incorporado en el servidor web</Text>
+	<Text name="han_toolbox_server_close">Cerrar PKG Linker</Text>
+	<Text name="han_toolbox_server_close_info">Apagar Servidor Web y cerrar PKG Linker</Text>
+	<Text name="han_toolbox_server_info">Info del Servidor</Text>
+	<Text name="han_toolbox_server_info_info">PC IP: xxx.xxx.xxx.xxx
+	Puerto: xxxx
+	Carpeta: xxxxxxxxxxxxx
+	Presiona  para ver la lista de paquetes</Text>
+	<Text name="han_toolbox_no_resources">No se encontraron recursos</Text>
+	<Text name="han_toolbox_no_resources_info">Presione  para descargar e instalar el paquete de recursos y luego reinicie</Text>
+	<Text name="han_toolbox_themes_ac">Temas (A-C)</Text>
+	<Text name="han_toolbox_themes_dh">Temas (D-H)</Text>
+	<Text name="han_toolbox_themes_in">Temas (I-N)</Text>
+	<Text name="han_toolbox_themes_os">Temas (O-S)</Text>
+	<Text name="han_toolbox_themes_tz">Temas (T-Z)</Text>
+	<Text name="han_toolbox_demos_eu">EU Demos</Text>
+	<Text name="han_toolbox_demos_hk">HK Demos</Text>
+	<Text name="han_toolbox_demos_jp">JP Demos</Text>
+	<Text name="han_toolbox_demos_us">US Demos</Text>
+	<Text name="han_toolbox_demos_alpha">Ordenados alfabéticamente</Text>
+	<Text name="han_toolbox_demos_genre">Ordenados por género</Text>
+	<Text name="han_toolbox_demos_score">Ordenado por puntuacion</Text>
+	<Text name="han_toolbox_demos_action">Accion Aventura</Text>
+	<Text name="han_toolbox_demos_driving">Conduccion</Text>
+	<Text name="han_toolbox_demos_fighting">Peleas</Text>
+	<Text name="han_toolbox_demos_misc">Miscelaneo</Text>
+	<Text name="han_toolbox_demos_plateformer">Plataformas</Text>
+	<Text name="han_toolbox_demos_puzzle">Puzzle</Text>
+	<Text name="han_toolbox_demos_rpg">RPG</Text>
+	<Text name="han_toolbox_demos_shooter">Disparos</Text>
+	<Text name="han_toolbox_demos_sports">Deportes</Text>
+	<Text name="han_toolbox_demos_strategy">Estrategia</Text>
+	<Text name="han_toolbox_abstract">Abstracto</Text>
+	<Text name="han_toolbox_animals">Animales</Text>
+	<Text name="han_toolbox_cars">Coches</Text>
+	<Text name="han_toolbox_cityscapes">Paisajes Urbanos</Text>
+	<Text name="han_toolbox_games">Juegos</Text>
+	<Text name="han_toolbox_landscapes">Paisajes</Text>
+	<Text name="han_toolbox_love">Amor</Text>
+	<Text name="han_toolbox_nature">Naturaleza</Text>
+	<Text name="han_toolbox_plain">Llanura</Text>
+	<Text name="han_toolbox_space">Espacio</Text>
+	<Text name="han_toolbox_unsorted">Sin Clasificar</Text>
+	<Text name="han_toolbox_nopsn_eu_ver">Versiones EU</Text>
+	<Text name="han_toolbox_nopsn_hk_ver">Versiones HK</Text>
+	<Text name="han_toolbox_nopsn_jp_ver">Versiones JP</Text>
+	<Text name="han_toolbox_nopsn_us_ver">Versiones US</Text>
+	<Text name="han_toolbox_nopsn_int_ver">Versiones Internas</Text>
