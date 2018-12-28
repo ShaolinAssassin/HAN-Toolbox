@@ -1,10 +1,10 @@
-* v0.6.1 (2018/12/2X) :
+* v0.6.1 (2018/12/28) :
 -Multi-language support enabled
 -Added Spanish Translation - by mr_ota
 
 * v0.6 (2018/12/23) :
--HAN Enabler, Soft Reboot and Debug Packages Enabler (CEX only) Offline codes added
--New File copier (PS3 to USB & vice-versa)
+-HAN Enabler, Soft Reboot and Debug Packages Enabler Offline codes added (4.82 CEX only) 
+-New File copier (PS3 to USB & vice-versa) (4.82 CEX only) 
 -New xRegistry.sys Operations (Backup/Restore System Settings) added
 -Demo Downloader updated (3 ways of sorting demos : alpha + by genre + by metascore)
 -NoPSN Apps Downloader added

@@ -104,7 +104,7 @@
  			</Table> 
 		</Attributes> 
 			<Items>
-			<Item class="type:x-xmb/xmlnpsignup" key="han_download_original_lang_rco_main" attr="han_download_original_lang_rco_main"/>
+			<Item class="type:x-xmb/xmlnpsignup" key="han_download_original_lang_rco_item" attr="han_download_original_lang_rco_item"/>
 			</Items> 
 		</View>
 

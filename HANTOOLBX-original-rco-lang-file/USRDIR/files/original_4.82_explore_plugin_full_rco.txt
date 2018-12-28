@@ -1,0 +1,1 @@
+original explore_plugin_full.rco file, from ps3_tools-v3.0-HAN481+_release_PS3XPloit

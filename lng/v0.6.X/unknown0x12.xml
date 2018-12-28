@@ -651,7 +651,7 @@ Do you want to update now?</Text>
 	<Text name="msg_systemsoftware_update_ask">You will need to update the system software before your next use.</Text>
 	<Text name="msg_game_start">Start</Text>
 	<Text name="msg_about_game">About this Game</Text>
-	<Text name="msg_about_game_ps3_content">Library programs ©Sony Interactive Entertainment Inc. Licensed for play on the PlayStation®3 Computer Entertainment System or authorized PlayStation®3 format systems. For full terms and conditions see the user's manual. This product is authorized and produced under license from Sony Interactive Entertainment Inc. Use is subject to the copyright laws and the terms and conditions of the user's license.</Text>
+	<Text name="msg_about_game_ps3_content">Library programs ©Sony Interactive Entertainment Inc. Licensed for play on the PlayStation®3 Computer Entertainment System or authorised PlayStation®3 format systems. For full terms and conditions see the user's manual. This product is authorised and produced under licence from Sony Interactive Entertainment Inc. Use is subject to the copyright laws and the terms and conditions of the user's licence.</Text>
 	<Text name="msg_game_update_history">Update History</Text>
 	<Text name="msg_purchase">Purchase</Text>
 	<Text name="msg_savedata_auto_upload">Saved Data Auto-Upload</Text>
