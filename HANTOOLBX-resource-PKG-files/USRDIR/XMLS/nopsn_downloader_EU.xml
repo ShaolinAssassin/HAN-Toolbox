@@ -1,6 +1,6 @@
 <XMBML version="1.0">
 
-	<!-- NoPSN Downloader Items EU - Last update : 2018/12/18  -->
+	<!-- NoPSN Downloader Items EU - Last update : 2018/12/29  -->
 	
 	<View id="nopsn_downloader_EU_items">
 		<Attributes>
@@ -8,11 +8,6 @@
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/nopsn_icons/crunchyroll.png</String></Pair>
 				<Pair key="title"><String>Crunchyroll</String></Pair>
 				<Pair key="info"><String>v1.29 - 19.73 MB</String></Pair>
-			</Table>
-			<Table key="item_NPEB02080_v126">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/nopsn_icons/pstore.png</String></Pair>
-				<Pair key="title"><String>PlayStation Store [Forced Guest Mode]</String></Pair>
-				<Pair key="info"><String>v1.26 - 58.09 MB</String></Pair>
 			</Table>
 			<Table key="item_NPEB02359_v107">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/nopsn_icons/twitch.png</String></Pair>
@@ -31,12 +26,6 @@
 				key="item_NPEB02307_v129" 
 				attr="item_NPEB02307_v129"
 				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_NPEB02307_v129_main"
-				/>
-			<Query 
-				class="type:x-xmb/folder-pixmap" 
-				key="item_NPEB02080_v126" 
-				attr="item_NPEB02080_v126"
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_NPEB02080_v126_main"
 				/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
