@@ -14,7 +14,7 @@ Norwegian					:
 Polish						:
 Portuguese (Brazil)			:
 Portuguese (Portugal)		:
-Russian						:
+Russian						:	PSPX.RU (partial translation)
 Spanish (Spain)				:	mr_ota
 Swedish						:
 Turkish						:
