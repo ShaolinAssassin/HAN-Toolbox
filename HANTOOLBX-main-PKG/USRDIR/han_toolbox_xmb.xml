@@ -970,7 +970,7 @@
 			<Table key="han_toolbox_uninstall_lang">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/delete.png</String></Pair>
 				<Pair key="title"><String>Remove Multi Language</String></Pair>
-				<Pair key="info"><String>Restore English language and reboot after</String></Pair>
+				<Pair key="info"><String>Restore English language of HAN Toolbox and reboot after</String></Pair>
 			</Table>
 		</Attributes>
 			<Items>
@@ -1053,12 +1053,12 @@
 			</Table>
 			<Table key="han_download_original_lang_rco">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_file.png</String></Pair>
-				<Pair key="title"><String>Step 2 (Optionnal): Download original lang RCO file</String></Pair>
+				<Pair key="title"><String>Step 2 (Optional): Download original lang RCO file</String></Pair>
 				<Pair key="info"><String>Download explore_plugin_full.rco to HANTOOLBX/USRDIR/files/ ready for installation</String></Pair>
 			</Table>
 			<Table key="han_inject_original_lang_rco">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/inj_rco.png</String></Pair>
-				<Pair key="title"><String>Step 3 (Optionnal): Restore original lang RCO file</String></Pair>
+				<Pair key="title"><String>Step 3 (Optional): Restore original lang RCO file</String></Pair>
 				<Pair key="info"><String>Restore original downloaded explore_plugin_full.rco from HANTOOLBX/USRDIR/files to dev_flash/vsh/resource/*.rco</String></Pair>
 				<Pair key="module_name"><String>webrender_plugin</String></Pair>
 				<Pair key="module_action"><String>http://ps3xploit.com/flash_rco_replacer/flash_rco_replacer.html</String></Pair>
@@ -1154,12 +1154,12 @@
 			<Table key="han_toolbox_delete_resources_icons_folders">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/delete.png</String></Pair>
 				<Pair key="title"><String>Step 1: Delete Resources icons folders</String></Pair>
-				<Pair key="info"><String>Press  to acces HAN Toolbox images folder and unlink (folder) demo_icons, nopsn_icons, theme_icons, wallpaper_icons folders</String></Pair>
+				<Pair key="info"><String>Press  to access HAN Toolbox images folder and unlink (folder) demo_icons, nopsn_icons, theme_icons, wallpaper_icons folders</String></Pair>
 			</Table>
 			<Table key="han_toolbox_delete_resources_xmls">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/delete.png</String></Pair>
 				<Pair key="title"><String>Step 2: Delete Resources XML files</String></Pair>
-				<Pair key="info"><String>Press  to acces HAN Toolbox XML folder and unlink (folder) XMLS folder</String></Pair>
+				<Pair key="info"><String>Press  to access HAN Toolbox XML folder and unlink (folder) XMLS folder</String></Pair>
 			</Table>
 		</Attributes>
 			<Items>

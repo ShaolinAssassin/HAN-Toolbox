@@ -119,7 +119,7 @@ Massive thanks to the PS3Xploit Team for all the hacks</Text>
 	<Text name="han_toolbox_install_lang">Install Multi Language</Text>
 	<Text name="han_toolbox_install_lang_info">Download and install the lang resources and reboot after</Text>
 	<Text name="han_toolbox_uninstall_lang">Uninstall Multi Language</Text>
-	<Text name="han_toolbox_uninstall_lang_info">Restore English language and reboot after</Text>
+	<Text name="han_toolbox_uninstall_lang_info">Restore English language of HAN Toolbox and reboot after</Text>
 	<Text name="han_toolbox_check_lang_item">HAN Toolbox is translated in the following languages :</Text>
 	<Text name="han_toolbox_download_lang_rco">Step 1: Download lang RCO file</Text>
 	<Text name="han_toolbox_download_lang_rco_info">Download explore_plugin_full.rco to HANTOOLBX/USRDIR/files/ ready for installation</Text>
@@ -129,9 +129,9 @@ Massive thanks to the PS3Xploit Team for all the hacks</Text>
 	<Text name="han_toolbox_download_patch_file_info">Download and install patch PKG file and reboot after</Text>
 	<Text name="han_toolbox_restore_toolbox">Step 1: Restore English HAN Toolbox</Text>
 	<Text name="han_toolbox_restore_toolbox_info">Download and install HAN Toolbox and reboot after</Text>
-	<Text name="han_toolbox_download_original_lang_rco">Step 2 (Optionnal): Download original lang RCO file</Text>
+	<Text name="han_toolbox_download_original_lang_rco">Step 2 (Optional): Download original lang RCO file</Text>
 	<Text name="han_toolbox_download_original_lang_rco_info">Download explore_plugin_full.rco to HANTOOLBX/USRDIR/files/ ready for installation</Text>
-	<Text name="han_toolbox_inject_original_lang_rco">Step 3 (Optionnal): Restore original lang RCO file</Text>
+	<Text name="han_toolbox_inject_original_lang_rco">Step 3 (Optional): Restore original lang RCO file</Text>
 	<Text name="han_toolbox_inject_original_lang_rco_info">Restore original downloaded explore_plugin_full.rco from HANTOOLBX/USRDIR/files to dev_flash/vsh/resource/*.rco</Text>
 	<Text name="han_toolbox_install_resources">Install Toolbox Resources</Text>
 	<Text name="han_toolbox_install_resources_info">Install the HAN Toolbox resources package and reboot after</Text>
@@ -142,9 +142,9 @@ Massive thanks to the PS3Xploit Team for all the hacks</Text>
 	<Text name="han_toolbox_install_resources_lang">Step 2 (Optional): Download Toolbox Resources lang files</Text>
 	<Text name="han_toolbox_install_resources_lang_info">Download and install the HAN Toolbox resources lang files and reboot after</Text>
 	<Text name="han_toolbox_delete_resources_icons_folders">Step 1: Delete Resources icons folders</Text>
-	<Text name="han_toolbox_delete_resources_icons_folders_info">Press  to acces HAN Toolbox images folder and unlink (folder) demo_icons, nopsn_icons, theme_icons, wallpaper_icons folders</Text>
+	<Text name="han_toolbox_delete_resources_icons_folders_info">Press  to access HAN Toolbox images folder and unlink (folder) demo_icons, nopsn_icons, theme_icons, wallpaper_icons folders</Text>
 	<Text name="han_toolbox_delete_resources_xmls">Step 2: Delete Resources XML files</Text>
-	<Text name="han_toolbox_delete_resources_xmls_info">Press  to acces HAN Toolbox XML folder and unlink (folder) XMLS folder</Text>
+	<Text name="han_toolbox_delete_resources_xmls_info">Press  to access HAN Toolbox XML folder and unlink (folder) XMLS folder</Text>
 	<Text name="han_toolbox_server_setup">Server Setup</Text>
 	<Text name="han_toolbox_server_setup_info">Update List, Rescan and Other Server Controls</Text>
 	<Text name="han_toolbox_server_refresh">Refresh Package List</Text>
@@ -180,9 +180,9 @@ Press  to see package list</Text>
 	<Text name="han_toolbox_demos_driving">Driving</Text>
 	<Text name="han_toolbox_demos_fighting">Fighting</Text>
 	<Text name="han_toolbox_demos_misc">Misc</Text>
-	<Text name="han_toolbox_demos_plateformer">Plateformer</Text>
+	<Text name="han_toolbox_demos_plateformer">Platformer</Text>
 	<Text name="han_toolbox_demos_puzzle">Puzzle</Text>
-	<Text name="han_toolbox_demos_rpg">Role Playing</Text>
+	<Text name="han_toolbox_demos_rpg">RPG</Text>
 	<Text name="han_toolbox_demos_shooter">Shooter</Text>
 	<Text name="han_toolbox_demos_sports">Sports</Text>
 	<Text name="han_toolbox_demos_strategy">Strategy</Text>

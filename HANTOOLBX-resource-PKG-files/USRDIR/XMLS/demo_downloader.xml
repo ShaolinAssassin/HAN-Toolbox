@@ -248,7 +248,7 @@
 			</Table>
 			<Table key="demo_downloader_C00_EU_genre_plateformer">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
-				<Pair key="title"><String>Plateformer</String></Pair>
+				<Pair key="title"><String>Platformer</String></Pair>
 				<Pair key="info"><String></String></Pair>
 			</Table>
 			<Table key="demo_downloader_C00_EU_genre_puzzle">
@@ -258,7 +258,7 @@
 			</Table>
 			<Table key="demo_downloader_C00_EU_genre_rpg">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
-				<Pair key="title"><String>Role Playing</String></Pair>
+				<Pair key="title"><String>RPG</String></Pair>
 				<Pair key="info"><String></String></Pair>
 			</Table>
 			<Table key="demo_downloader_C00_EU_genre_shooter">
@@ -367,7 +367,7 @@
 			</Table>
 			<Table key="demo_downloader_C00_HK_genre_plateformer">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
-				<Pair key="title"><String>Plateformer</String></Pair>
+				<Pair key="title"><String>Platformer</String></Pair>
 				<Pair key="info"><String></String></Pair>
 			</Table>
 			<Table key="demo_downloader_C00_HK_genre_puzzle">
@@ -377,7 +377,7 @@
 			</Table>
 			<Table key="demo_downloader_C00_HK_genre_rpg">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
-				<Pair key="title"><String>Role Playing</String></Pair>
+				<Pair key="title"><String>RPG</String></Pair>
 				<Pair key="info"><String></String></Pair>
 			</Table>
 			<Table key="demo_downloader_C00_HK_genre_shooter">
@@ -475,7 +475,7 @@
 			</Table>
 			<Table key="demo_downloader_C00_JP_genre_plateformer">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
-				<Pair key="title"><String>Plateformer</String></Pair>
+				<Pair key="title"><String>Platformer</String></Pair>
 				<Pair key="info"><String></String></Pair>
 			</Table>
 			<Table key="demo_downloader_C00_JP_genre_puzzle">
@@ -485,7 +485,7 @@
 			</Table>
 			<Table key="demo_downloader_C00_JP_genre_rpg">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
-				<Pair key="title"><String>Role Playing</String></Pair>
+				<Pair key="title"><String>RPG</String></Pair>
 				<Pair key="info"><String></String></Pair>
 			</Table>
 			<Table key="demo_downloader_C00_JP_genre_shooter">
@@ -594,7 +594,7 @@
 			</Table>
 			<Table key="demo_downloader_C00_US_genre_plateformer">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
-				<Pair key="title"><String>Plateformer</String></Pair>
+				<Pair key="title"><String>Platformer</String></Pair>
 				<Pair key="info"><String></String></Pair>
 			</Table>
 			<Table key="demo_downloader_C00_US_genre_puzzle">
@@ -604,7 +604,7 @@
 			</Table>
 			<Table key="demo_downloader_C00_US_genre_rpg">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
-				<Pair key="title"><String>Role Playing</String></Pair>
+				<Pair key="title"><String>RPG</String></Pair>
 				<Pair key="info"><String></String></Pair>
 			</Table>
 			<Table key="demo_downloader_C00_US_genre_shooter">
