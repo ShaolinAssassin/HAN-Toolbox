@@ -1165,7 +1165,7 @@ RESUME GAMEPLAY ONLY ON APPROVAL OF YOUR PHYSICIAN.
 	<Text name="han_toolbox_enabler_info_cex">Включить HAN (для подписанных pkg) (CEX)</Text>
 	<Text name="han_toolbox_enabler_info_482_cex">HAN для подписанных pkg (4.82 CEX)</Text>
 	<Text name="han_toolbox_debug_enabler_offline">Включить дебаг HAN (оффлайн)</Text>
-	<Text name="han_toolbox_debug_enabler_offline_info">Enable modified retail packages (CEX)</Text>
+	<Text name="han_toolbox_debug_enabler_offline_info">дебаг HAN для не подписанных pkg (CEX)</Text>
 	<Text name="han_toolbox_debug_enabler_info_482_cex">дебаг HAN для не подписанных pkg (4.82 CEX)</Text>
 	<Text name="han_toolbox_functions">Опции HAN</Text>
 	<Text name="han_toolbox_functions_info">Автоматически запустить HAN с сайта</Text>
