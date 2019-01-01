@@ -1,6 +1,6 @@
 <XMBML version="1.0">
 
-	<!-- NoPSN Downloader Items US - Last update : 2018/12/18  -->
+	<!-- NoPSN Downloader Items US - Last update : 2019/01/01  -->
 	
 	<View id="nopsn_downloader_US_items">
 		<Attributes>
@@ -14,6 +14,16 @@
 				<Pair key="title"><String>Crunchyroll</String></Pair>
 				<Pair key="info"><String>v1.29 - 19.73 MB (requires RAP file)</String></Pair>
 			</Table>
+			<Table key="item_NPUO00019_v601">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/nopsn_icons/directvnfl.png</String></Pair>
+				<Pair key="title"><String>DirecTV NFL</String></Pair>
+				<Pair key="info"><String>v6.01 - 120.78MB</String></Pair>
+			</Table>
+			<Table key="item_NPUP31353_v295">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/nopsn_icons/mlbtv.png</String></Pair>
+				<Pair key="title"><String>MLB. TV</String></Pair>
+				<Pair key="info"><String>v2.95 - 17.91 MB</String></Pair>
+			</Table>
 			<Table key="item_NPUP31353_v295_noads">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/nopsn_icons/mlbtv.png</String></Pair>
 				<Pair key="title"><String>MLB. TV</String></Pair>
@@ -23,6 +33,16 @@
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/nopsn_icons/mlbtv.png</String></Pair>
 				<Pair key="title"><String>MLB. TV</String></Pair>
 				<Pair key="info"><String>v6.13 - 18.92 MB</String></Pair>
+			</Table>
+			<Table key="item_NPUP31373_v118">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/nopsn_icons/nbagametime.png</String></Pair>
+				<Pair key="title"><String>NBA Game Time</String></Pair>
+				<Pair key="info"><String>v1.18 (Retail) - 48.72MB</String></Pair>
+			</Table>
+			<Table key="item_NPUP00030_v233">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/nopsn_icons/netflix.png</String></Pair>
+				<Pair key="title"><String>Netflix</String></Pair>
+				<Pair key="info"><String>v2.23 (Retail) - 31.08MB</String></Pair>
 			</Table>
 			<Table key="item_NPUP31340_v588">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/nopsn_icons/nhlgc.png</String></Pair>
@@ -80,6 +100,18 @@
 				/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
+				key="item_NPUO00019_v601" 
+				attr="item_NPUO00019_v601"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_NPUO00019_v601_main"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPUP31353_v295" 
+				attr="item_NPUP31353_v295"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_NPUP31353_v295_main"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
 				key="item_NPUP31353_v295_noads" 
 				attr="item_NPUP31353_v295_noads"
 				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_NPUP31353_v295_noads_main"
@@ -89,6 +121,18 @@
 				key="item_NPUP00024_v613" 
 				attr="item_NPUP00024_v613"
 				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_NPUP00024_v613_main"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPUP31373_v118" 
+				attr="item_NPUP31373_v118"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_NPUP31373_v118_main"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPUP00030_v233" 
+				attr="item_NPUP00030_v233"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_NPUP00030_v233_main"
 				/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 

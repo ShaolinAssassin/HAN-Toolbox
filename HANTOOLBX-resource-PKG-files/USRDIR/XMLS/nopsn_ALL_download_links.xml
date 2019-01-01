@@ -1,6 +1,6 @@
 <XMBML version="1.0">
 
-<!-- NoPSN Apps download links - Last update : 2018/12/29 -->
+<!-- NoPSN Apps download links - Last update : 2019/01/01 -->
 
 	<!-- NoPSN EU download links -->
 	
@@ -20,6 +20,22 @@
 		</Items> 
 	</View> 	
 
+		<View id="item_NPEB00874_v120_main"> 
+		<Attributes> 
+			<Table key="item_NPEB00874_v120_link"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://nopsn.com/pkg/ps3/netflix/Netflix-v1.20-[NPEB00874].pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://nopsn.com/pkg/ps3/netflix/Netflix-v1.20-[NPEB00874].pkg</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>EP4350-NPEB00874_00-NETFLIXRIGEL01EU</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/nopsn_icons/netflix.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="item_NPEB00874_v120_link" attr="item_NPEB00874_v120_link"/> 
+		</Items> 
+	</View> 		
+
 	<View id="item_NPEB02359_v107_main"> 
 		<Attributes>
 			<Table key="item_NPEB02359_v107_link"> 
@@ -36,9 +52,9 @@
 		</Items> 
 	</View> 	
 
-	<View id="item_NPEB01229_v102v303spoof_main"> 
+	<View id="item_NPEB01229_v102v303_spoof_main"> 
 		<Attributes> 
-			<Table key="item_NPEB01229_v102v303spoof_link"> 
+			<Table key="item_NPEB01229_v102v303_spoof_link"> 
 				<Pair key="info"><String>net_package_install</String></Pair> 
 				<Pair key="pkg_src"><String>http://nopsn.com/pkg/ps3/youtube/Youtube-v1.02-v3.03-Spoof-[NPEB01229]-NoPSN-etHANol.pkg</String></Pair> 
 				<Pair key="pkg_src_qa"><String>http://nopsn.com/pkg/ps3/youtube/Youtube-v1.02-v3.03-Spoof-[NPEB01229]-NoPSN-etHANol.pkg</String></Pair> 
@@ -48,7 +64,7 @@
 			</Table> 
 		</Attributes> 
 		<Items> 
-			<Item class="type:x-xmb/xmlnpsignup" key="item_NPEB01229_v102v303spoof_link" attr="item_NPEB01229_v102v303spoof_link"/> 
+			<Item class="type:x-xmb/xmlnpsignup" key="item_NPEB01229_v102v303_spoof_link" attr="item_NPEB01229_v102v303_spoof_link"/> 
 		</Items> 
 	</View> 
 
@@ -92,7 +108,21 @@
 
 	<!-- NoPSN JP download links -->
 	
-	
+		<View id="item_NPJB00766_v108_main"> 
+		<Attributes> 
+			<Table key="item_NPJB00766_v108_link"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://nopsn.com/pkg/ps3/netflix/Netflix-v1.08-[NPJB00766].pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://nopsn.com/pkg/ps3/netflix/Netflix-v1.08-[NPJB00766].pkg</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>JA0010-NPJB00766_00-NETFLIXRIGEL01JP</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/nopsn_icons/netflix.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="item_NPJB00766_v108_link" attr="item_NPJB00766_v108_link"/> 
+		</Items> 
+	</View>	
 	
 	<!-- NoPSN US download links -->
 	
@@ -128,6 +158,38 @@
 		</Items> 
 	</View> 	
 
+	<View id="item_NPUO00019_v601_main"> 
+		<Attributes> 
+			<Table key="item_NPUO00019_v601_link"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://nopsn.com/pkg/ps3/nfl/DirecTV-NFL-v6.01-[NPUO00019].pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://nopsn.com/pkg/ps3/nfl/DirecTV-NFL-v6.01-[NPUO00019].pkg</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>UP9002-NPUO00019_00-NFLTVPS3STREAM01</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/nopsn_icons/directvnfl.png</String></Pair>
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="item_NPUO00019_v601_link" attr="item_NPUO00019_v601_link"/> 
+		</Items> 
+	</View> 	
+
+	<View id="item_NPUP31353_v295_main"> 
+		<Attributes> 
+			<Table key="item_NPUP31353_v295_link"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://nopsn.com/pkg/ps3/mlbtv/MLB_tv-v2.95-[NPUP31353]-NoPSN-etHANol.pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://nopsn.com/pkg/ps3/mlbtv/MLB_tv-v2.95-[NPUP31353]-NoPSN-etHANol.pkg</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>UP0181-NPUP31353_00-MLBTVPS3US000001</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/nopsn_icons/mlbtv.png</String></Pair>
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="item_NPUP31353_v295_link" attr="item_NPUP31353_v295_link"/> 
+		</Items> 
+	</View> 	
+	
 	<View id="item_NPUP31353_v295_noads_main"> 
 		<Attributes> 
 			<Table key="item_NPUP31353_v295_noads_link"> 
@@ -160,6 +222,38 @@
 		</Items> 
 	</View> 	
 
+		<View id="item_NPUP31373_v118_main"> 
+		<Attributes> 
+			<Table key="item_NPUP31373_v118_link"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://nopsn.com/pkg/ps3/nbagametime/NBA-Game-Time-v1.18-[NPUP31373].pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://nopsn.com/pkg/ps3/nbagametime/NBA-Game-Time-v1.18-[NPUP31373].pkg</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>UP8824-NPUP31373_00-NBAUSPS3TDBS0001</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/nopsn_icons/nbagametime.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="item_NPUP31373_v118_link" attr="item_NPUP31373_v118_link"/> 
+		</Items> 
+	</View>		
+
+		<View id="item_NPUP00030_v233_main"> 
+		<Attributes> 
+			<Table key="item_NPUP00030_v233_link"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://nopsn.com/pkg/ps3/netflix/Netflix-v2.33-[NPUP00030].pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://nopsn.com/pkg/ps3/netflix/Netflix-v2.33-[NPUP00030].pkg</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>UT0007-NPUP00030_00-NETFLIXRIGEL01NA</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/nopsn_icons/netflix.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="item_NPUP00030_v233_link" attr="item_NPUP00030_v233_link"/> 
+		</Items> 
+	</View>	
+	
 	<View id="item_NPUP31340_v588_main"> 
 		<Attributes> 
 			<Table key="item_NPUP31340_v588_link"> 
