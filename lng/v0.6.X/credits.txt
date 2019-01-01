@@ -5,14 +5,14 @@ Chinese (Traditional)		:
 Danish						:
 Dutch						:
 Finnish						:
-French						:
+French						:	ShaolinAssassin
 German						:
 Italian						:
 Japanese					:
 Korean						:
 Norwegian					:
-Polish						:
-Portuguese (Brazil)			:
+Polish						:	NiHuShu
+Portuguese (Brazil)			:	Caio99BR
 Portuguese (Portugal)		:
 Russian						:	PSPX.RU (partial translation)
 Spanish (Spain)				:	mr_ota
