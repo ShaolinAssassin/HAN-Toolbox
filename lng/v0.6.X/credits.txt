@@ -1,20 +1,24 @@
-HAN Toolbox v0.6 Translations credits : 
+HAN Toolbox v0.6.X Translations credits: 
 
-Chinese (Simplified)		:				
-Chinese (Traditional)		:
-Danish						:
-Dutch						:
-Finnish						:
-French						:	ShaolinAssassin
-German						:
-Italian						:
-Japanese					:
-Korean						:
-Norwegian					:
-Polish						:	NiHuShu
-Portuguese (Brazil)			:	Caio99BR
-Portuguese (Portugal)		:
-Russian						:	PSPX.RU (partial translation)
-Spanish (Spain)				:	mr_ota
-Swedish						:
-Turkish						:
+Language								Translation
+Code	Name							State				Teams							Notes
+00		Japanese						Missing				Nobody	
+01		English (United States)			Updated (v0.6)		DeViL303/ShaolinAssassin	
+02		French							Updated (v0.6)		ShaolinAssassin	
+03		Spanish (neutral)				Updated (v0.6)		mr_ota							Included in v0.6.1
+04		German							Missing				Nobody	
+05		Italian							Missing				Nobody	
+06		Dutch							Missing				Nobody	
+07		Portuguese (Portugal)			Missing				Nobody	
+08		Russian							Updated (v0.6)		in1975	
+09		Korean							Missing				Nobody	
+10		Chinese (Traditional)			Missing				Nobody	
+11		Chinese (Simplified)			Missing				Nobody	
+12		Finnish							Missing				Nobody	
+13		Swedish							Missing				Nobody	
+14		Danish							Missing				Nobody	
+15		Norwegian						Missing				Nobody	
+16		Polish							Updated (v0.6)		NiHuShu							Almost ready
+17		Portuguese (Brazil)				Updated (v0.6)		Niander466/Caio99BR	
+18		English (United Kingdom)		Updated (v0.6)		DeViL303/ShaolinAssassin		By now using same file as English US
+19		Turkish							Missing				Nobody	
