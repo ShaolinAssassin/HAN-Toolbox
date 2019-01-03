@@ -81,7 +81,7 @@
 				<Pair key="info_rsc"><String>han_toolbox_external_content_info</String></Pair>
 			</Table>
 			<Table key="han_advanced_menu">
-				<Pair key="icon"><String>http://raw.githubusercontent.com/ShaolinAssassin/HAN-Toolbox/master/update_status/v0.6.1-setup.png</String></Pair>
+				<Pair key="icon"><String>http://raw.githubusercontent.com/ShaolinAssassin/HAN-Toolbox/master/update_status/v0.6.2-setup.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_advanced_tools</String></Pair>
 				<Pair key="info_rsc"><String>han_toolbox_advanced_tools_info</String></Pair>
 			</Table>
@@ -163,7 +163,7 @@
 				<Pair key="info_rsc"><String>han_toolbox_external_content_info</String></Pair>
 			</Table>
 			<Table key="han_advanced_menu">
-				<Pair key="icon"><String>http://raw.githubusercontent.com/ShaolinAssassin/HAN-Toolbox/master/update_status/v0.6.1-setup.png</String></Pair>
+				<Pair key="icon"><String>http://raw.githubusercontent.com/ShaolinAssassin/HAN-Toolbox/master/update_status/v0.6.2-setup.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_advanced_tools</String></Pair>
 				<Pair key="info_rsc"><String>han_toolbox_advanced_tools_info</String></Pair>
 			</Table>
@@ -233,7 +233,7 @@
 				<Pair key="info_rsc"><String>han_toolbox_dex_xmb_setup_info</String></Pair>
 			</Table>
 			<Table key="han_toolbox_setup">
-				<Pair key="icon"><String>http://raw.githubusercontent.com/ShaolinAssassin/HAN-Toolbox/master/update_status/v0.6.1-setup.png</String></Pair>
+				<Pair key="icon"><String>http://raw.githubusercontent.com/ShaolinAssassin/HAN-Toolbox/master/update_status/v0.6.2-setup.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_settings</String></Pair>
 				<Pair key="info_rsc"><String>han_toolbox_settings_info</String></Pair>
 			</Table>
@@ -919,13 +919,13 @@
 				<Pair key="info_rsc"><String>han_toolbox_resources_info</String></Pair>
 			</Table>
 			<Table key="han_toolbox_update">
-				<Pair key="icon"><String>http://raw.githubusercontent.com/ShaolinAssassin/HAN-Toolbox/master/update_status/v0.6.1-update.png</String></Pair>
+				<Pair key="icon"><String>http://raw.githubusercontent.com/ShaolinAssassin/HAN-Toolbox/master/update_status/v0.6.2-update.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_update</String></Pair>
 				<Pair key="info_rsc"><String>han_toolbox_update_info</String></Pair>
 			</Table>
 			<Table key="han_toolbox_about">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/list.png</String></Pair>
-				<Pair key="title"><String>Version: 0.6.1 (Full)</String></Pair>
+				<Pair key="title"><String>Version: 0.6.2 (Full)</String></Pair>
 				<Pair key="info_rsc"><String>han_toolbox_credits</String></Pair>				
 			</Table>
 		</Attributes>
@@ -996,7 +996,7 @@
 			<Table key="han_toolbox_check_lang_item">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/list.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_check_lang_item</String></Pair>
-				<Pair key="info"><String>Spanish</String></Pair>
+				<Pair key="info"><String>Chinese (Simplified), French, Portuguese (Brazil), Polish, Russian, Turkish</String></Pair>
 			</Table>
 			<Table key="han_download_lang_rco">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_file.png</String></Pair>
@@ -1185,7 +1185,25 @@
 			<Table key="han_toolbox_last_changes">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/list.png</String></Pair>
 				<Pair key="title"><String>HAN Toolbox Changelog</String></Pair>
-				<Pair key="info"><String>・ v0.6.1 (2018/12/28) :
+				<Pair key="info"><String>・ v0.6.2 (2019/01/03) :
+				-File copier updated
+				New languages available:
+				-Chinese (Simplified)
+				-French
+				-Portuguese (Brazil)
+				-Polish
+				-Russian
+				-Turkish
+				NoPSN Apps:
+				-DirecTV NFL (Retail) (US) added
+				-Funinmation (Retail) (US) added
+				-Netflix (Retail) (EU + JP + US) added
+				-MLB. TV (v2.95 with adds) (US) added
+				-NBA Game Time (Retail) (US) added
+				-PlayStation Store (all versions) removed
+				-Popcornflix (all versions) installation fixed
+				
+				・ v0.6.1 (2018/12/28) :
 				-Multi-language support enabled
 				-Added Spanish translation to lang RCO file
 								
@@ -1196,18 +1214,7 @@
 				-Demo Downloader updated
 				-NoPSN Apps Downloader added
 				-Multi-language support added - currently disabled, waiting for translations @psx-place
-				-Icon notification when update is available
-
-				・ v0.5 (2018/04/18) :
-				-Self injector added
-				-Cert remover added
-				-Demo Downloader updated with demos from all regions
-				-Theme Downloader added
-				-Wallpaper Downloader added
-				-Menus rearranged
-				-Debug Settings Toggler added
-				-DEX Xploit links added (Auto switching, see below)
-				-New icons</String></Pair>
+				-Icon notification when update is available</String></Pair>
 			</Table>
 		</Attributes>
 			<Items>

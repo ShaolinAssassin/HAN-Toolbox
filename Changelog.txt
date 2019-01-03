@@ -1,3 +1,21 @@
+* v0.6.2 (2019/01/03) :
+-File copier updated - by Imn7. Details here: http://www.psx-place.com/threads/update-han-toolbox-v0-6-released-by-shaolinassassin-3-new-versions-choices-other-new-features.21864/#post-150922
+New languages available:
+-Chinese (Simplified) - translation by Ding xiansheng
+-French - translation by ShaolinAssassin
+-Portuguese (Brazil) - translation by Caio99BR
+-Polish - translation by NiHuShu
+-Russian - translation by in1975
+-Turkish - translation by kemalsanli
+NoPSN Apps :
+-DirecTV NFL (Retail) (US) added
+-Funinmation (Retail) (US) added
+-Netflix (Retail) (EU + JP + US) added
+-MLB. TV (v2.95 with adds) (US) added
+-NBA Game Time (Retail) (US) added
+-PlayStation Store (all versions) removed
+-Popcornflix (all versions) installation fixed
+
 * v0.6.1 (2018/12/28) :
 -Multi-language support enabled
 -Added Spanish Translation - by mr_ota

@@ -7,7 +7,7 @@
 * New xRegistry.sys Operations (Backup/Restore System Settings) added - thanks to Demon Hades ;
 * Demo Downloader updated : demo info added (PKG size + genre + metascore) + 3 ways of sorting demos (alpha + by genre + by metascore) -- btw, "TBD" means that no metascore was given to that game ;
 * NoPSN Apps Downloader added - download and install NoPSN HAN compatible Apps hacks by @esc0rtd3w ;
-* Multi-language support added - Spanish available ;
+* Multi-language support added - Chinese (Simplified), French, Portuguese (Brazil), Polish, Russian, Spanish, Turkish available ;
 * Icon notification when update is available, just like XMBPD - you can also read the changelog from the XMB ;
 * Misc other things.
 
