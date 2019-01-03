@@ -1,6 +1,6 @@
 <XMBML version="1.0">
 
-	<!-- NoPSN Downloader Items US - Last update : 2019/01/01  -->
+	<!-- NoPSN Downloader Items US - Last update : 2019/01/03  -->
 	
 	<View id="nopsn_downloader_US_items">
 		<Attributes>
@@ -18,6 +18,11 @@
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/nopsn_icons/directvnfl.png</String></Pair>
 				<Pair key="title"><String>DirecTV NFL</String></Pair>
 				<Pair key="info"><String>v6.01 (Retail) - 120.78MB</String></Pair>
+			</Table>
+			<Table key="item_NPUP31349_v107">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/nopsn_icons/directvnfl.png</String></Pair>
+				<Pair key="title"><String>FUNimation</String></Pair>
+				<Pair key="info"><String>v1.07 (Retail) - 50.37MB</String></Pair>
 			</Table>
 			<Table key="item_NPUP31353_v295">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/nopsn_icons/mlbtv.png</String></Pair>
@@ -103,6 +108,12 @@
 				key="item_NPUO00019_v601" 
 				attr="item_NPUO00019_v601"
 				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_NPUO00019_v601_main"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPUP31349_v107" 
+				attr="item_NPUP31349_v107"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_NPUP31349_v107_main"
 				/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 

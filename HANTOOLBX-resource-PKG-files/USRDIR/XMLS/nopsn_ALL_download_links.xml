@@ -1,6 +1,6 @@
 <XMBML version="1.0">
 
-<!-- NoPSN Apps download links - Last update : 2019/01/01 -->
+<!-- NoPSN Apps download links - Last update : 2019/01/03 -->
 
 	<!-- NoPSN EU download links -->
 	
@@ -158,6 +158,22 @@
 		</Items> 
 	</View> 	
 
+	<View id="item_NPUP31349_v107_main"> 
+		<Attributes> 
+			<Table key="item_NPUP31349_v107_link"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://nopsn.com/pkg/ps3/funimation/FUNimation-v1.07-[NPUP31349].pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://nopsn.com/pkg/ps3/funimation/FUNimation-v1.07-[NPUP31349].pkg</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>US0026-NPUP31349_00-FUNIMATION123456</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/nopsn_icons/funimation.png</String></Pair>
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="item_NPUP31349_v107_link" attr="item_NPUP31349_v107_link"/> 
+		</Items> 
+	</View>
+	
 	<View id="item_NPUO00019_v601_main"> 
 		<Attributes> 
 			<Table key="item_NPUO00019_v601_link"> 
