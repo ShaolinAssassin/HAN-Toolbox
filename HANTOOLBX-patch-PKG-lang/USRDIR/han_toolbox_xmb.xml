@@ -946,7 +946,7 @@
 				class="type:x-xmb/folder-pixmap" 
 				key="han_toolbox_update" 
 				attr="han_toolbox_update"
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/han_toolbox_stuff_downloader.xml#han_toolbox_update_main"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/han_toolbox_stuff_downloader.xml#han_download_patch_file_main"
 				/>
 			<Query 
 				class="type:x-xmb/folder-pixmap"
