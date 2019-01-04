@@ -1269,7 +1269,8 @@ RESUME GAMEPLAY ONLY ON APPROVAL OF YOUR PHYSICIAN.
 	<Text name="han_toolbox_resources_info">HAN aracı yardımcı kaynaklarını yükleyin veya kaldırın</Text>
 	<Text name="han_toolbox_update">Aracı güncelleyin</Text>
 	<Text name="han_toolbox_update_info">Son sürümü indirip yükleyin, sonrasında yeniden başlatma gerekir</Text>
-	<Text name="han_toolbox_credits">DeViL303, Pink1, esc0rtd3w, Berion, ShaolinAssassin, Demon Hades and lmn7 tarafından yapılmıştır, Çeviri:KEMAL SANLI @kemalsanli
+	<Text name="han_toolbox_credits">DeViL303, Pink1, esc0rtd3w, Berion, ShaolinAssassin, Demon Hades and lmn7 tarafından yapılmıştır, 
+Çeviri:KEMAL SANLI @kemalsanli
 PS3Xploit Ekibine tüm hackleri için kocaman teşekkürler! </Text>
 	<Text name="han_toolbox_install_lang">Çoklu dil desteğini yükleyin</Text>
 	<Text name="han_toolbox_install_lang_info">Dil gerekliliklerini indirin ve yükleyin, sonrasında yeniden başlatma gerekir</Text>

@@ -1272,7 +1272,8 @@ RESUME GAMEPLAY ONLY ON APPROVAL OF YOUR PHYSICIAN.
 	<Text name="han_toolbox_update">Atualizar a Toolbox</Text>
 	<Text name="han_toolbox_update_info">Baixa a última versão do Toolbox, instala e reinicia</Text>
 	<Text name="han_toolbox_credits">Por DeViL303, Pink1, esc0rtd3w, Berion, ShaolinAssassin, Demon Hades and lmn7
-Um grande obrigado ao PS3Xploit Team por todos os seus hacks</Text>
+Um grande obrigado ao PS3Xploit Team por todos os seus hacks
+Tradução para o Português Brasileiro por Caio99BR, Niander466, FmTGamer, PTKick4ss e HollowChris</Text>
 	<Text name="han_toolbox_install_lang">Instalar os Multi Idiomas</Text>
 	<Text name="han_toolbox_install_lang_info">Baixa o suporte aos idiomas, instala e reinicia</Text>
 	<Text name="han_toolbox_uninstall_lang">Desinstalar os Multi Idiomas</Text>
