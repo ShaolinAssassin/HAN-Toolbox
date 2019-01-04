@@ -115,7 +115,8 @@
 	<Text name="han_toolbox_update">Update Toolbox</Text>
 	<Text name="han_toolbox_update_info">Download and install the latest Toolbox package and reboot after</Text>
 	<Text name="han_toolbox_credits">By DeViL303, Pink1, esc0rtd3w, Berion, ShaolinAssassin, Demon Hades and lmn7
-Massive thanks to the PS3Xploit Team for all the hacks</Text>
+Massive thanks to the PS3Xploit Team for all the hacks
+Translation in (language) by (your-name-here)</Text>
 	<Text name="han_toolbox_install_lang">Install Multi Language</Text>
 	<Text name="han_toolbox_install_lang_info">Download and install the lang resources and reboot after</Text>
 	<Text name="han_toolbox_uninstall_lang">Uninstall Multi Language</Text>
