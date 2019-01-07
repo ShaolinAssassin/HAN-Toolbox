@@ -7,7 +7,7 @@ Code	Name							State				Teams							Notes
 02		French							Updated (v0.6)		ShaolinAssassin					Included in v0.6.2
 03		Spanish (neutral)				Updated (v0.6)		mr_ota							Included in v0.6.1
 04		German							Missing				Nobody	
-05		Italian							Missing				Nobody	
+05		Italian							Updated (v0.6)		EdoMan	
 06		Dutch							Missing				Nobody	
 07		Portuguese (Portugal)			Missing				Nobody	
 08		Russian							Updated (v0.6)		in1975							Included in v0.6.2	
