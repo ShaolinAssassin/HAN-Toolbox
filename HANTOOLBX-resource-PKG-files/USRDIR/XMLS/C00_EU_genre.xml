@@ -1,6 +1,6 @@
 <XMBML version="1.0">
 
- 	<!-- C00 EU demos genre sorted items -->
+<!-- Main Items > External Content > OFW Demo Downloader v3.0 > C00 EU demos genre sorted items -->
 	
 	<View id="C00_EU_genre_action_items">
 		<Attributes>
@@ -491,7 +491,7 @@
 				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB00811_main" 
 			/>		
 		</Items>
-		</View>
+	</View>
 
 	<View id="C00_EU_genre_driving_items">
 		<Attributes>
@@ -2743,6 +2743,6 @@
 				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/C00_ALL_download_links.xml#item_NPEB02010_main" 
 			/>		
 		</Items>
-		</View>		
+	</View>		
 		
 </XMBML>

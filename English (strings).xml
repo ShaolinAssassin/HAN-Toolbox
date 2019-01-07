@@ -1,5 +1,4 @@
-﻿<!-- HAN Toolbox v0.6 english string - 1:1 mirror of HANTOOLBX-patch-PKG-lang/.../han_toolbox_xmb.xml // final English template will be generated later -->
-<!-- This is a WIP file -->
+﻿<!-- HAN Toolbox v0.6 english strings - 1:1  (almost) mirror of HANTOOLBX-patch-PKG-lang/.../han_toolbox_xmb.xml // final English template will be generated later - This is a WIP file -->
 
 	<Text name="han_toolbox_title">★ HAN Toolbox</Text>
 	<Text name="han_toolbox_info_cex">The Xploit 3.0 Companion</Text>
@@ -37,20 +36,7 @@
 	<Text name="han_toolbox_advanced_tools">Advanced Tools</Text>
 	<Text name="han_toolbox_advanced_tools_info">Be careful with items in here</Text>	
 
-<!-- Advanced Submenu -->
-
-	<Text name="han_toolbox_file_copier">File Copier</Text>
-	<Text name="han_toolbox_file_copier_info_482_cex">Transfer files between your PS3 and USB flash drive (4.82 CEX)</Text>	
-	<Text name="han_toolbox_file_explorer">File Explorer</Text>
-	<Text name="han_toolbox_file_explorer_info">Browse complete file system and delete files (Be careful)</Text>
-	<Text name="han_toolbox_file_injector">File Injector</Text>
-	<Text name="han_toolbox_file_injector_info">Use for adding XMB mods to flash or other file operations (Be careful)</Text>
-	<Text name="han_toolbox_dex_xmb_setup">DEX XMB Setup</Text>
-	<Text name="han_toolbox_dex_xmb_setup_info">Add/Remove DEX settings etc (Be careful)</Text>
-	<Text name="han_toolbox_settings">Toolbox Settings</Text>
-	<Text name="han_toolbox_settings_info">Version info, Resources download, Updates, Languages</Text>
-
-<!-- Main HAN functions Online CEX -->
+<!-- Main Items > HAN functions (online CEX) -->
 
 	<Text name="han_toolbox_soft_reboot">Soft Reboot</Text>
 	<Text name="han_toolbox_reboot_info">Restart console</Text>
@@ -69,7 +55,7 @@
 	<Text name="han_toolbox_debug_enabler">Debug Package Enabler</Text>
 	<Text name="han_toolbox_debug_enabler_info">For modifed retail PS3 packages only</Text>	
 
-<!-- Main HAN functions Online DEX -->
+<!-- Main Items > HAN functions (online DEX) -->
 
 	<Text name="han_toolbox_soft_reboot">Soft Reboot</Text>
 	<Text name="han_toolbox_reboot_info">Restart console</Text>
@@ -88,7 +74,33 @@
 	<Text name="han_toolbox_debug_enabler">Debug Package Enabler</Text>
 	<Text name="han_toolbox_debug_enabler_info">For modifed retail PS3 packages only</Text>
 	
-<!-- File injector Online -->
+<!-- Main Items > External Content -->
+	
+	<Text name="han_toolbox_webserver_packages">Install Packages From Webserver</Text>
+	<Text name="han_toolbox_webserver_packages_info">Download and install packages from your PC via PKG Linker (pkg)</Text>
+	<Text name="han_toolbox_demo_downloader">Demo Downloader</Text>
+	<Text name="han_toolbox_demo_downloader_info">Try PSN games before you buy with demo downloader (pkg)</Text>
+	<Text name="han_toolbox_theme_downloader">Theme Downloader</Text>
+	<Text name="han_toolbox_theme_downloader_info">Download and install themes (p3t)</Text>
+	<Text name="han_toolbox_wallpaper_downloader">Wallpaper Downloader</Text>
+	<Text name="han_toolbox_wallpaper_downloader_info">Preview and download backgrounds (jpg)</Text>
+	<Text name="han_toolbox_nopsn_downloader">NoPSN Apps Downloader</Text>
+	<Text name="han_toolbox_nopsn_downloader_info">Download and install NoPSN HAN compatible Apps (pkg)</Text>
+
+<!-- Main Items > Advanced Tools -->
+
+	<Text name="han_toolbox_file_copier">File Copier</Text>
+	<Text name="han_toolbox_file_copier_info_482_cex">Transfer files between your PS3 and USB flash drive (4.82 CEX)</Text>	
+	<Text name="han_toolbox_file_explorer">File Explorer</Text>
+	<Text name="han_toolbox_file_explorer_info">Browse complete file system and delete files (Be careful)</Text>
+	<Text name="han_toolbox_file_injector">File Injector</Text>
+	<Text name="han_toolbox_file_injector_info">Use for adding XMB mods to flash or other file operations (Be careful)</Text>
+	<Text name="han_toolbox_dex_xmb_setup">DEX XMB Setup</Text>
+	<Text name="han_toolbox_dex_xmb_setup_info">Add/Remove DEX settings etc (Be careful)</Text>
+	<Text name="han_toolbox_settings">Toolbox Settings</Text>
+	<Text name="han_toolbox_settings_info">Version info, Resources download, Updates, Languages</Text>	
+	
+<!-- Main Items > Advanced Tools > File injector (online) -->
 
 	<Text name="han_toolbox_xreg_dumper_injector">xRegistry.sys Operations (Backup/Restore System Settings)</Text>
 	<Text name="han_toolbox_xreg_dumper_injector_info">Dump and Inject xRegistry.sys</Text>
@@ -114,8 +126,15 @@
 	<Text name="han_toolbox_inject_font_info">Copy *.ttf to dev_flash/data/font/*.ttf</Text>
 	<Text name="han_toolbox_inject_remove_cert">Inject/Remove Cert (SSL Cert)</Text>
 	<Text name="han_toolbox_inject_remove_cert_info">Copy/Delete certs at dev_flash/data/cert/*.cer</Text>
+
+<!-- Main Items > Advanced Tools > File injector > xRegistry Operations (online) -->
+
+	<Text name="han_toolbox_dump_xregistry">Dump xRegistry.sys</Text>
+	<Text name="han_toolbox_dump_xregistry_info">Copy xRegistry.sys from dev_flash2/etc/ to USB</Text>
+	<Text name="han_toolbox_inject_xregistry">Inject xRegistry.sys</Text>
+	<Text name="han_toolbox_inject_xregistry_info">Copy xRegistry.sys from USB to dev_flash2/etc/</Text>
 	
-<!-- File injector Self Submenu -->
+<!-- Main Items > Advanced Tools > File injector > SELF injector (online) -->
 	
 	<Text name="han_toolbox_inject_self_main">Inject SELF (Main)</Text>
 	<Text name="han_toolbox_inject_self_main_info">Copy *.self to dev_flash/vsh/module/*.self</Text>
@@ -128,14 +147,14 @@
 	<Text name="han_toolbox_inject_self_bd">Inject SELF (BD Player)</Text>
 	<Text name="han_toolbox_inject_self_bd_info">Copy *.self to dev_flash/bdplayer/*.self</Text>
 	
-<!-- File injector Cert Submenu -->
+<!-- Main Items > Advanced Tools > File injector > Cert injector (online) -->
 
 	<Text name="han_toolbox_inject_cert">Inject Cert (SSL Cert)</Text>
 	<Text name="han_toolbox_inject_cert_info">Copy certs to dev_flash/data/cert/*.cer</Text>
 	<Text name="han_toolbox_remove_cert">Remove Cert (SSL Cert)</Text>
 	<Text name="han_toolbox_remove_cert_info">Delete certs from dev_flash/data/cert/*.cer</Text>
 
-<!-- Debug Settings injector menu -->
+<!-- Main Items > Advanced Tools > DEX XMB Setup -->
 
 	<Text name="han_toolbox_download_dex_files">Step 1: Download DEX Files (Debug)</Text>
 	<Text name="han_toolbox_download_dex_files_info">Download DEX 4.82 files to HANTOOLBX/USRDIR/files/ ready for installation</Text>
@@ -147,28 +166,8 @@
 	<Text name="han_toolbox_debug_settings_toggler_info">Copy downloaded sysconf_plugin.sprx from HANTOOLBX/USRDIR/files to dev_flash (Don't select usb000)</Text>
 	<Text name="han_toolbox_toggle_ip">Toggle IP/Host info</Text>
 	<Text name="han_toolbox_toggle_ip_info">Copy downloaded xmb_plugin.sprx from HANTOOLBX/USRDIR/files/ to dev_flash (Don't select usb000)</Text>
-	
-<!-- xRegistry Operations -->
 
-	<Text name="han_toolbox_dump_xregistry">Dump xRegistry.sys</Text>
-	<Text name="han_toolbox_dump_xregistry_info">Copy xRegistry.sys from dev_flash2/etc/ to USB</Text>
-	<Text name="han_toolbox_inject_xregistry">Inject xRegistry.sys</Text>
-	<Text name="han_toolbox_inject_xregistry_info">Copy xRegistry.sys from USB to dev_flash2/etc/</Text>
-
-<!-- External Content Submenu -->
-	
-	<Text name="han_toolbox_webserver_packages">Install Packages From Webserver</Text>
-	<Text name="han_toolbox_webserver_packages_info">Download and install packages from your PC via PKG Linker (pkg)</Text>
-	<Text name="han_toolbox_demo_downloader">Demo Downloader</Text>
-	<Text name="han_toolbox_demo_downloader_info">Try PSN games before you buy with demo downloader (pkg)</Text>
-	<Text name="han_toolbox_theme_downloader">Theme Downloader</Text>
-	<Text name="han_toolbox_theme_downloader_info">Download and install themes (p3t)</Text>
-	<Text name="han_toolbox_wallpaper_downloader">Wallpaper Downloader</Text>
-	<Text name="han_toolbox_wallpaper_downloader_info">Preview and download backgrounds (jpg)</Text>
-	<Text name="han_toolbox_nopsn_downloader">NoPSN Apps Downloader</Text>
-	<Text name="han_toolbox_nopsn_downloader_info">Download and install NoPSN HAN compatible Apps (pkg)</Text>
-	
-<!-- Toolbox Multi Lang / Resources / Update / About -->
+<!-- Main Items > Advanced Tools > Toolbox Settings -->
 
 	<Text name="han_toolbox_lang">Toolbox Multi Language</Text>
 	<Text name="han_toolbox_lang_info">Install/Uninstall the HAN Toolbox lang resources files</Text>
@@ -179,31 +178,19 @@
 	<Text name="han_toolbox_credits">By DeViL303, Pink1, esc0rtd3w, Berion, ShaolinAssassin, Demon Hades and lmn7
 	Massive thanks to the PS3Xploit Team for all the hacks</Text>	
 	
-<!-- Toolbox Multi Lang -->	
+<!-- Main Items > Advanced Tools > Toolbox Settings > Toolbox Multi Language -->
 
 	<Text name="han_toolbox_install_lang">Install Multi Language</Text>
 	<Text name="han_toolbox_install_lang_info">Download and install the lang resources and reboot after</Text>
 	<Text name="han_toolbox_uninstall_lang">Uninstall Multi Language</Text>
 	<Text name="han_toolbox_uninstall_lang_info">Restore English language of HAN Toolbox and reboot after</Text>
-	
-<!-- Check if lang res exists -->
-
 	<Text name="han_toolbox_check_lang_item">HAN Toolbox is translated in the following languages :</Text>
-	
-/// <Text name="han_toolbox_yes">Yes</Text>
-/// <Text name="han_toolbox_no">No</Text>
-
-<!-- Install Multi Language -->
-
 	<Text name="han_toolbox_download_lang_rco">Step 1: Download lang RCO file</Text>
 	<Text name="han_toolbox_download_lang_rco_info">Download explore_plugin_full.rco to HANTOOLBX/USRDIR/files/ ready for installation</Text>
 	<Text name="han_toolbox_inject_lang_rco">Step 2: Inject lang RCO file</Text>
 	<Text name="han_toolbox_inject_lang_rco_info">Copy downloaded explore_plugin_full.rco from HANTOOLBX/USRDIR/files to dev_flash/vsh/resource/*.rco</Text>
 	<Text name="han_toolbox_download_patch_file">Step 3: Download and install patch PKG file</Text>
 	<Text name="han_toolbox_download_patch_file_info">Download and install patch PKG file and reboot after</Text>
-	
-<!-- Uninstall Multi Language -->	
-
 	<Text name="han_toolbox_restore_toolbox">Step 1: Restore English HAN Toolbox</Text>
 	<Text name="han_toolbox_restore_toolbox_info">Download and install HAN Toolbox and reboot after</Text>
 	<Text name="han_toolbox_download_original_lang_rco">Step 2 (Optional): Download original lang RCO file</Text>
@@ -211,26 +198,75 @@
 	<Text name="han_toolbox_inject_original_lang_rco">Step 3 (Optional): Restore original lang RCO file</Text>
 	<Text name="han_toolbox_inject_original_lang_rco_info">Restore original downloaded explore_plugin_full.rco from HANTOOLBX/USRDIR/files to dev_flash/vsh/resource/*.rco</Text>
 
-<!-- Toolbox Resources Installer/Uninstaller -->
+<!-- Main Items > Advanced Tools > Toolbox Settings > Toolbox Resources -->
 	
 	<Text name="han_toolbox_install_resources">Install Toolbox Resources</Text>
 	<Text name="han_toolbox_install_resources_info">Install the HAN Toolbox resources package and reboot after</Text>
 	<Text name="han_toolbox_delete_resources">Uninstall Toolbox Resources</Text>
 	<Text name="han_toolbox_delete_resources_info">Uninstall the HAN Toolbox resources package and reboot after</Text>
-
-<!-- Toolbox Resources Installer -->
-
 	<Text name="han_toolbox_install_resources_pkg">Step 1: Download Toolbox Resources</Text>
 	<Text name="han_toolbox_install_resources_pkg_info">Download and install the HAN Toolbox resources package and reboot after</Text>
 	<Text name="han_toolbox_install_resources_lang">Step 2 (Optional): Download Toolbox Resources lang files</Text>
 	<Text name="han_toolbox_install_resources_lang_info">Download and install the HAN Toolbox resources lang files and reboot after</Text>
-
-<!-- Resources Uninstaller -->
-
 	<Text name="han_toolbox_delete_resources_icons_folders">Step 1: Delete Resources icons folders</Text>
 	<Text name="han_toolbox_delete_resources_icons_folders_info">Press  to access HAN Toolbox images folder and unlink (folder) demo_icons, nopsn_icons, theme_icons, wallpaper_icons folders</Text>
 	<Text name="han_toolbox_delete_resources_xmls">Step 2: Delete Resources XML files</Text>
 	<Text name="han_toolbox_delete_resources_xmls_info">Press  to access HAN Toolbox XML folder and unlink (folder) XMLS folder</Text>
+
+<!-- Main Items > External Content > No Resources Found -->
+
+	<Text name="han_toolbox_no_resources">No Resources Found</Text>
+	<Text name="han_toolbox_no_resources_info">Press  to download and install the resources package then reboot</Text>
+	
+<!-- Main Items > External Content > Demo Downloader -->
+
+	<Text name="han_toolbox_demos_eu">EU Demos</Text>
+	<Text name="han_toolbox_demos_hk">HK Demos</Text>
+	<Text name="han_toolbox_demos_jp">JP Demos</Text>
+	<Text name="han_toolbox_demos_us">US Demos</Text>
+	<Text name="han_toolbox_demos_alpha">Sorted alphabetically</Text>
+	<Text name="han_toolbox_demos_genre">Sorted by genre</Text>
+	<Text name="han_toolbox_demos_score">Sorted by metascore</Text>
+	<Text name="han_toolbox_demos_action">Action Adventure</Text>
+	<Text name="han_toolbox_demos_driving">Driving</Text>
+	<Text name="han_toolbox_demos_fighting">Fighting</Text>
+	<Text name="han_toolbox_demos_misc">Misc</Text>
+	<Text name="han_toolbox_demos_plateformer">Platformer</Text>
+	<Text name="han_toolbox_demos_puzzle">Puzzle</Text>
+	<Text name="han_toolbox_demos_rpg">RPG</Text>
+	<Text name="han_toolbox_demos_shooter">Shooter</Text>
+	<Text name="han_toolbox_demos_sports">Sports</Text>
+	<Text name="han_toolbox_demos_strategy">Strategy</Text>
+
+<!-- Main Items > External Content > NoPSN Downloader -->
+
+	<Text name="han_toolbox_nopsn_eu_ver">EU Versions</Text>
+	<Text name="han_toolbox_nopsn_hk_ver">HK Versions</Text>
+	<Text name="han_toolbox_nopsn_jp_ver">JP Versions</Text>
+	<Text name="han_toolbox_nopsn_us_ver">US Versions</Text>
+	<Text name="han_toolbox_nopsn_int_ver">Internal Versions</Text>
+	
+<!-- Main Items > External Content > Theme Downloader -->
+
+	<Text name="han_toolbox_themes_ac">Themes (A-C)</Text>
+	<Text name="han_toolbox_themes_dh">Themes (D-H)</Text>
+	<Text name="han_toolbox_themes_in">Themes (I-N)</Text>
+	<Text name="han_toolbox_themes_os">Themes (O-S)</Text>
+	<Text name="han_toolbox_themes_tz">Themes (T-Z)</Text>
+	
+<!-- Main Items > External Content > Wallpaper Downloader -->
+
+	<Text name="han_toolbox_abstract">Abstract</Text>
+	<Text name="han_toolbox_animals">Animals</Text>
+	<Text name="han_toolbox_cars">Cars</Text>
+	<Text name="han_toolbox_cityscapes">Cityscapes</Text>
+	<Text name="han_toolbox_games">Games</Text>
+	<Text name="han_toolbox_landscapes">Landscapes</Text>
+	<Text name="han_toolbox_love">Love</Text>
+	<Text name="han_toolbox_nature">Nature</Text>
+	<Text name="han_toolbox_plain">Plain</Text>
+	<Text name="han_toolbox_space">Space</Text>
+	<Text name="han_toolbox_unsorted">Unsorted</Text>
 
 <!-- server_setup.templet -->
 	
@@ -270,58 +306,3 @@
 	<Text name="han_toolbox_injector_info">Auto running injector Xploit useful for act.dat</Text>	
 	<Text name="han_toolbox_debug_enabler">Debug Package Enabler</Text>
 	<Text name="han_toolbox_debug_enabler_info">For modifed retail PS3 packages only</Text>	
-
-<!-- No Resources Found -->
-
-	<Text name="han_toolbox_no_resources">No Resources Found</Text>
-	<Text name="han_toolbox_no_resources_info">Press  to download and install the resources package then reboot</Text>
-	
-<!-- Themes Downloader -->
-
-	<Text name="han_toolbox_themes_ac">Themes (A-C)</Text>
-	<Text name="han_toolbox_themes_dh">Themes (D-H)</Text>
-	<Text name="han_toolbox_themes_in">Themes (I-N)</Text>
-	<Text name="han_toolbox_themes_os">Themes (O-S)</Text>
-	<Text name="han_toolbox_themes_tz">Themes (T-Z)</Text>
-
-<!-- Demos Downloader -->
-
-	<Text name="han_toolbox_demos_eu">EU Demos</Text>
-	<Text name="han_toolbox_demos_hk">HK Demos</Text>
-	<Text name="han_toolbox_demos_jp">JP Demos</Text>
-	<Text name="han_toolbox_demos_us">US Demos</Text>
-	<Text name="han_toolbox_demos_alpha">Sorted alphabetically</Text>
-	<Text name="han_toolbox_demos_genre">Sorted by genre</Text>
-	<Text name="han_toolbox_demos_score">Sorted by metascore</Text>
-	<Text name="han_toolbox_demos_action">Action Adventure</Text>
-	<Text name="han_toolbox_demos_driving">Driving</Text>
-	<Text name="han_toolbox_demos_fighting">Fighting</Text>
-	<Text name="han_toolbox_demos_misc">Misc</Text>
-	<Text name="han_toolbox_demos_plateformer">Platformer</Text>
-	<Text name="han_toolbox_demos_puzzle">Puzzle</Text>
-	<Text name="han_toolbox_demos_rpg">RPG</Text>
-	<Text name="han_toolbox_demos_shooter">Shooter</Text>
-	<Text name="han_toolbox_demos_sports">Sports</Text>
-	<Text name="han_toolbox_demos_strategy">Strategy</Text>
-
-<!-- Wallpapers Downloader -->
-
-	<Text name="han_toolbox_abstract">Abstract</Text>
-	<Text name="han_toolbox_animals">Animals</Text>
-	<Text name="han_toolbox_cars">Cars</Text>
-	<Text name="han_toolbox_cityscapes">Cityscapes</Text>
-	<Text name="han_toolbox_games">Games</Text>
-	<Text name="han_toolbox_landscapes">Landscapes</Text>
-	<Text name="han_toolbox_love">Love</Text>
-	<Text name="han_toolbox_nature">Nature</Text>
-	<Text name="han_toolbox_plain">Plain</Text>
-	<Text name="han_toolbox_space">Space</Text>
-	<Text name="han_toolbox_unsorted">Unsorted</Text>
-
-<!-- NoPSN Downloader -->
-
-	<Text name="han_toolbox_nopsn_eu_ver">EU Versions</Text>
-	<Text name="han_toolbox_nopsn_hk_ver">HK Versions</Text>
-	<Text name="han_toolbox_nopsn_jp_ver">JP Versions</Text>
-	<Text name="han_toolbox_nopsn_us_ver">US Versions</Text>
-	<Text name="han_toolbox_nopsn_int_ver">Internal Versions</Text>

@@ -1,6 +1,6 @@
 <XMBML version="1.0"> 
  
- 	<!-- C00 EU demos alpha sorted items -->
+<!-- Main Items > External Content > OFW Demo Downloader v3.0 > C00 EU demos alpha sorted items -->
  
 	<View id="C00_EU_alpha_items">
 		<Attributes>
@@ -1220,7 +1220,7 @@
 				<Pair key="info"><String>143 MB - Puzzle - TBD</String></Pair> 
 			</Table>
 		</Attributes>
-		<Items>
+			<Items>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
 				key="item_NPEB00080" 
@@ -2681,5 +2681,5 @@
 			/>
 		</Items>
 	</View>
-
+	
 </XMBML>

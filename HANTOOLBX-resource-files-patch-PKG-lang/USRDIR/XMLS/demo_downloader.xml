@@ -1,6 +1,6 @@
 <XMBML version="1.0">
 
-	<!-- OFW Demo Downloader v3.0 -->
+<!-- Main Items > External Content > OFW Demo Downloader v3.0 -->
 
 	<View id="demo_downloader_items">
 		<Attributes>
@@ -53,7 +53,7 @@
 		</Items>
 		</View>
 
-	<!-- C00 EU -->
+<!-- Main Items > External Content > C00 EU -->
 	
 		<View id="demo_downloader_C00_EU_sorted">
 		<Attributes>
@@ -95,7 +95,7 @@
 		</Items>
 		</View>	
 
-	<!-- C00 HK -->
+<!-- Main Items > External Content > C00 HK -->
 	
 		<View id="demo_downloader_C00_HK_sorted">
 		<Attributes>
@@ -137,7 +137,7 @@
 		</Items>
 		</View>	
 
-	<!-- C00 JP -->
+<!-- Main Items > External Content > C00 JP -->
 	
 		<View id="demo_downloader_C00_JP_sorted">
 		<Attributes>
@@ -179,7 +179,7 @@
 		</Items>
 		</View>	
 
-	<!-- C00 US -->
+<!-- Main Items > External Content > C00 US -->
 	
 		<View id="demo_downloader_C00_US_sorted">
 		<Attributes>
@@ -220,9 +220,8 @@
 				/>
 		</Items>
 		</View>	
-
 		
-	<!-- C00 EU by genre -->
+<!-- Main Items > External Content > C00 EU by genre -->
 	
 		<View id="demo_downloader_C00_EU_genre_main">
 		<Attributes>
@@ -341,7 +340,7 @@
 		</Items>
 		</View>
 		
-	<!-- C00 HK by genre -->
+<!-- Main Items > External Content > C00 HK by genre -->
 	
 		<View id="demo_downloader_C00_HK_genre_main">
 		<Attributes>
@@ -460,7 +459,7 @@
 		</Items>
 		</View>	
 		
-	<!-- C00 JP by genre -->
+<!-- Main Items > External Content > C00 JP by genre -->
 	
 		<View id="demo_downloader_C00_JP_genre_main">
 		<Attributes>
@@ -579,7 +578,7 @@
 		</Items>
 		</View>	
 		
-	<!-- C00 US by genre -->
+<!-- Main Items > External Content > C00 US by genre -->
 	
 		<View id="demo_downloader_C00_US_genre_main">
 		<Attributes>
