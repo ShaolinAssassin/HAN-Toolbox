@@ -1,3 +1,8 @@
+* v0.6.3 (2019/01/20) :
+New languages available:
+-Italian - translation by EdoMan
+-Portuguese (Portugal) - translation by FmTGamer & Naked_Snake1995, revised by Tkit
+
 * v0.6.2 (2019/01/03) :
 -File copier updated - by Imn7. Details here: http://www.psx-place.com/threads/update-han-toolbox-v0-6-released-by-shaolinassassin-3-new-versions-choices-other-new-features.21864/#post-150922
 New languages available:
