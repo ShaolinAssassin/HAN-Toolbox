@@ -1,0 +1,12 @@
+<XMBML version="1.0">
+
+<!-- Main Items > PKG Linker 2.0 Paths -->
+		
+		<View id="pkg_linker_items"> 
+			<Items>
+			<Query class="type:x-xmb/folder-pixmap" key="pkg_folder_root" attr="pkg_folder_root" src="xmb://localhost/dev_hdd0/game/PKGLINKER/USRDIR/pkg_folder_root.xml#pkg_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="pkg_folder_old" attr="pkg_folder_old" src="xmb://localhost/dev_hdd0/game/PKGLINKER/USRDIR/package_link.xml#pkg_items"/>
+			</Items>
+		</View>
+
+</XMBML>
