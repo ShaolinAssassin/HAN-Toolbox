@@ -1,0 +1,404 @@
+<XMBML version="1.0">
+
+<!-- Main Items > Advanced Tools -->
+		
+		<View id="han_advanced_menu_main"> 
+		<Attributes> 
+			<Table key="han_file_copier">
+				<Pair key="icon_rsc"><String>tex_album_icon</String></Pair>
+				<Pair key="title"><String>File Copier</String></Pair>
+				<Pair key="info"><String>Transfer files between your PS3 and USB flash drive</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>javascript:eval(atob("ZXZhbChmdW5jdGlvbihwLGEsYyxrLGUscil7ZT1mdW5jdGlvbihjKXtyZXR1cm4oYzxhPycnOmUocGFyc2VJbnQoYy9hKSkpKygoYz1jJWEpPjM1P1N0cmluZy5mcm9tQ2hhckNvZGUoYysyOSk6Yy50b1N0cmluZygzNikpfTtpZighJycucmVwbGFjZSgvXi8sU3RyaW5nKSl7d2hpbGUoYy0tKXJbZShjKV09a1tjXXx8ZShjKTtrPVtmdW5jdGlvbihlKXtyZXR1cm4gcltlXX1dO2U9ZnVuY3Rpb24oKXtyZXR1cm4nXFx3Kyd9O2M9MX07d2hpbGUoYy0tKWlmKGtbY10pcD1wLnJlcGxhY2UobmV3IFJlZ0V4cCgnXFxiJytlKGMpKydcXGInLCdnJyksa1tjXSk7cmV0dXJuIHB9KCdxIFQsMTUsMTcsMTgsMWosMTksMWEsMWIsMVE9ITEsMlc9IjRqIiwxcz1bXSxYPTAsST00aywxaz00bCxCPTIqMWMsMXQ9MCxZPTAsdz00bSwxbD0wLDJvPTIwLDFEPTAsMWQ9NG4sNG89NHAsbz00cSwxZT0wLDRyPTEsNHM9MiwxUj00LDFtPTgsMWM9NHQsMXU9NDAsMnA9NHUsNHY9NHcsNHg9NHksNHo9NEEsNEI9NEMsNEQ9NEUsNEY9MCwyWD00Ryw0SD00SSw0Sj00Syw0TD00TSw0Tj00Tyw0UD00USwyWT00UiwyWj00UywzMD00VCwycT00VSwzMT00ViwzMz00VywzND00WCwzNT00WSwzNj00WiwzNz01MSwycj01MywzOD01NCw1NT01Niwycz01NywxdT01OCwzOT01OSwzYT01YSwxRT01YiwxZj01YywydD01ZCwzYj01ZSwzYz01Ziwxbj01ZyxaPSI8Wj4iLDFTLDFULDJ1PVwnNWg6NWlcJywydj1cJzVqXCcsMnc9XCcvNWtcJywzZD01bCwzZT01bSwzZj01biwxdj0wLDFVPTAsMVY9MCwxVz0wLDFYPTAsMVk9MCwxWj0wLDIxPTAsMXc9MCwyMj0wLDIzPTAsMng9MCwzZz01byxaPSI8Wj4iLDEyPSI8MTI+IiwzaD1aKyI8VT48Yj41cCA1cSAzaSE8L1U+PC9iPiIsM2o9WisiPFU+PGI+NXIgMWcuLi4gIiwzaz1cJyU8L2I+PC9VPlwnO0MuNXMoXCc8M2w+PDNtPjJ5IC0gM24gMjUgM28gMnogM3A8LzNtPjxVPjJ5IC0gM24gMjUgM28gMnogM3AgQCA1dC01dS41djwvVT48M3E+NXcgNXggMnogNXkgMnk6IFcsIDV6LCA1QSwgNUI8LzNxPjxaPjwxMj48Yj4zciAzcyAzdDogPC9iPjwyNiBHPSIzdSI+PEogRz0iNUMiIDI3PSIyNyIgTj0iLzI4LyI+LzI4LzwvSj48SiBHPSI1RCIgTj0iLzI5LyI+LzI5LzwvSj48SiBHPSI1RSIgTj0iLzJhLyI+LzJhLzwvSj48SiBHPSI1RiIgTj0iLzN2LyI+LzN2LzwvSj48LzI2PjxiPiA8L2I+PDJiIDJjPSIzdyIgRz0iMkEiIDJCPSIyQSIgM3g9IjN5IiAzej0iNTAiIE49IjNyLjNBIj48MTI+PDEyPjxiPjNCIDNzIDN0OiA8L2I+PDI2IEc9IjNDIj48SiBHPSI1RyIgMjc9IjI3IiBOPSIvMmEvIj4vMmEvPC9KPjxKIEc9IjVIIiBOPSIvMjgvIj4vMjgvPC9KPjxKIEc9IjVJIiBOPSIvMjkvIj4vMjkvPC9KPjwvMjY+PGI+IDwvYj48MmIgMmM9IjN3IiBHPSIyQyIgMkI9IjJDIiAzeD0iM3kiIDN6PSI1MCIgTj0iM0IuM0EiPjwxMj48MTI+PDNEPjwyYiAyYz0iNUoiIEc9IjNFIiAyQj0iNUsiIDFGPSIxRiI+NUwtNU08LzNEPjwxMj48MTI+PDNGIDVOPSIiPjwyYiAyYz0iNU8iIE49IjVQIiA1UT0iMkQoTykiLz48LzNGPjwxeCBHPSIzRyI+PC8xeD48MXggRz0iMWciPjwvMXg+PDF4IEc9IjFHIj48LzF4PjwvNVI+PC8zbD5cJyk7ciAyRShhKXtxIGI9Qy41UygiNVQiKTsxSChxIHg9MDt4PGIueTt4Kyspe2JbeF0uNVU9YX19ciAzSChhLGIpezcoYSl7YS4zST1ifX1yIDJkKGEpezNIKEMuRihcJzNHXCcpLGEpOzcoYS41VigiNVciKSE9LTEpezJFKDJGKX19ciAzSihhLGIsYyl7cSBkPVQuUigxU1swXSwyKS4xSShPKTtxIGU9VC5SKDFUWzBdLDIpLjFJKE8pO3EgZjs3KChWKGQsMTYpIT09MCkmJihWKGQsMTYpPT09KFYoZSwxNikpKSl7cSBnPUMuRihcJzNLXCcpOzcoZyl7NyhnLjFGPT09TykzTC4zTSgpfWY9YX0xM3s3KGMpezcoKFYoZCwxNikhPT1WKGUsMTYpKXx8KFYoZCwxNik9PT0wKSliKz1jfWY9Yn0yZChmKX1yIDNOKGEpe3AgOSgxZikrdShQLG8pKzkodykrOShhKStLKEwsbykrOSgyWil9ciAzTyhhLGIsYyxkLGUsZil7cSBnPUMuRihcJzNFXCcpO3EgdD1bXCdcJyxcJ1wnLFwnXCcsXCdcJyxcJ1wnXTs3KGIpdFswXT0xbyhiK0QsYStBLDFuKTs3KGMpdFsxXT0xbyhjK0QsYStBLDFuKTs3KGQpdFsyXT0xbyhkK0QsYStBLDFuKTs3KGUpdFszXT0xbyhlK0QsYStBLDFuKTs3KGYpdFs0XT0xbyhmK0QsYStBLDFuKTs3KGcpezcoZy4xRj09PU8pcCB0WzBdK3RbMV0rdFsyXSt0WzNdK3RbNF0rM04oYSl9cFwnXCd9ciAyRyhhLGIsYyxkLGUsZixnLGgsaSxqKXs3KGo9PT1FKXtqPXd9cCA5KDFmKSt1KFAsbykrOSh3KSt1KEEsbykrOSgxRSkrdSgxSixvKStRKDFwLG8pK3YoYSkrdihpKSt2KGcpK3YoZikrdihlKSt2KGQpK3YoYykrUShELG8pK3YoaCkrdSgxSyxvKSs5KGIpK3UoQSxvKSs5KDJxKSt1KFAsbykrOShqKSs5KDFkKStLKEwsbyl9ciAySChhLGIsYyxkLGUsZixnLGgsaSxqKXs3KGo9PT1FKXtqPXd9cCA5KDFmKSt1KFAsbykrOSh3KSt1KEEsbykrOSgxRSkrdSgxSixvKStRKDFwLG8pK3YoYSkrdihpKSt2KGcpK3YoZikrdihlKStRKEQsbykrdihjKStRKEQsbykrdihoKSt1KEEsbykrOShkLUQpKzkodykrSyg1WCxvKSs5KDMxKSt1KDVZLG8pKzkoYikrdShBLG8pKzkoMnEpK3UoUCxvKSs5KGopKzkoMWQpK0soTCxvKX1yIDNQKGEsYixjLGQsZSxmLGcsaCxpLGope3AgMkkoaCsxdSxpLDFtKSsxeSgzYSxhLGgsMCwwLDAsMCwwLDApKzJJKGosaCsxdSwxUikrMXkoMnMsYSwyWSxjLDAsMCwwLDAsMCkrMkgoMzgsYyxlLGgrMXUsZiwwLDAsMCwwLDAsMCkrMkcoMnIsYywwLDAsMCwwLDAsMCwwLDAsMCkrMW8oZitELGIsMCkrMXkoMnMsYiwzNSxkLDM0LGksMCwwLDApKzJIKDMzLGQsZSxoKzF1LGcsMCwwLDAsMCwwLDApKzJHKDJyLGQsMCwwLDAsMCwwLDAsMCwwLDApfXIgM1EoYSxiLGMsZCxlLGYsZyl7NyhiPT09RSl7Yj13fTcoYz09PUUpe2M9d303KGQ9PT1FKXtkPXd9NyhlPT09RSl7ZT13fTcoZj09PUUpe2Y9d303KGc9PT1FKXtnPXd9cCA5KDJ0KSt1KFAsbykrOSh3KSs5KGEtTCkrOSh3KSt1KEEsbykrOSgzNykrdSgxSixvKStLKEwsbykrOShiKSs5KGMpKzkoZCkrOShlKSs5KGYpKzkoZykrOSgxZCkrSyhMLG8pfXIgMW8oYSxiLGMsZCxlLGYpezcoZD09PUUpe2Q9d303KGU9PT1FKXtlPXd9NyhmPT09RSl7Zj13fXAgM1EoYSx3LHcsdyx3LGIsdykrOSgzNikrdSgxTCwxZSkrSyhMLDFlKSs5KGMpK3UoQSwxZSkrOShkKSs5KGUpKzkoZikrOShjKStLKEwsbyl9ciAzUihhKXtwIDkoMWQpK0soTCxvKSsySigzZCwyLDAsMCwwLDAsMCwwLDAsMCw1WikrMXkoM2UsYSwwLDAsMCwwLDAsMCwwKX1yIDNTKGEpezcoYSl7cCBhLjYwfX1yIDNUKGEpezcoYSl7cCAzUyhhKX19ciAzVShhKXs3KGEpe3AgYS5OfX1yIDJLKGEpezcoYSl7cCAzVShhLjYxWzNUKGEpXSl9fXIgM1YoKXtwIDJLKEMuRihcJzN1XCcpKX1yIDJMKGEpe3AgM1YoKSthfXIgM1coKXtwIDJLKEMuRihcJzNDXCcpKX1yIDJNKGEpe3AgM1coKSthfXIgM1goYSxiLGMsZCxlKXs3KGE9PT1PKXsxRD0wOzF0PTA7WT0wfTcoWCE9PTApezNZKFgpO1g9MH0xcz1bXTsxUz1bXTsxVD1bXTsxaj0wOzE5PTA7MWE9MDsxYj0wO0k9M1oqNDE7MWs9YjtCPWM7MXQ9ZDtZPWU7MWwrK31yIDFoKGEpe3AgUy4yZShhKX1yIHYoYSl7cCBTLjJlKGE+PjE2KStTLjJlKGEpfXIgOShhKXtwIHYoMCkrdihhKX1TLjFxLjQyPXIoKXtwKFwnMk5cJytIKS5SKC00KX07Uy4xcS4xST1yKGEpe3EgYj1cJ1wnO3EgaT0wO00oaTxILnkpezcoYT09PU8pe2IrPUguMXooaSkuMmYoMTYpLjQyKCl9MTN7Yis9SC4xeihpKS4yZigxNil9aSs9MX1wIGJ9O1MuMXEuMUE9cihhKXs3KEgueTwxKXtwXCdcJ31xIGI9XCdcJztxIGM9XCdcJztxIGk9MDtxIGQ9W107NyhhPT09Tyl7Yj1IfTEze2I9SC4xSSgpfU0oKGIueSU0KSE9PTApe2IrPVwnMmdcJ303KGIuUihiLnktMywyKSE9PVwnMmdcJyl7Yis9XCcyTlwnfU0oaTxiLnkpe2M9Yi5SKGksNCk7ZC4yTyhTLjJlKFYoYywxNikpKTtpKz00fXAgZC4yUChcJ1wnKX07Uy4xcS4xQj1yKGEpezcoSC55PDEpe3AgMH1xIGI9XCdcJzs3KGE9PT1PKXtiPUh9MTN7Yj1ILjFJKCl9TSgoYi55JTQpIT09MCl7Yis9XCcyZ1wnfTcoYi5SKGIueS0zLDIpIT09XCcyZ1wnKXtiKz1cJzJOXCd9cCBiLnkvMn07Uy4xcS4xTT1yKGEsYil7cCBILlIoMCxhKStiK0guUihhK2IueSl9O1MuMXEuMmg9cihhKXtwIDQzIDQ0KGErMSkuMlAoSCl9OzQ1LjFxLjQ2PXIoKXtxIGE9UyhIKS42MigvWzYzXS8pOzcoYS55PT09MSl7cCBhWzBdfXEgej1cJ1wnLDQ3PUg8MD9cJy1cJzpcJ1wnLDJpPWFbMF0uNDgoXCcuXCcsXCdcJyksMU49NDUoYVsxXSkrMTs3KDFOPDApe3o9NDcrXCcwLlwnO00oMU4rKyl7eis9XCcwXCd9cCB6KzJpLjQ4KC9eXFwtLyxcJ1wnKX0xTi09MmkueTtNKDFOLS0pe3orPVwnMFwnfXAgMmkren07ciA0OShhLGIsYyl7cSBkPTA7cSBnPVtdO3EgaTtxIGo7cSBoOzFIKGk9YS55O2k7aS09MSl7aD1hW2ktMV07MUgoaj04O2o7ai09MSl7Zy4yTyhoJTI/MTowKTtoPWg+PjF9fWcuNjQoKTtxIGs9Zy4yUChcJ1wnKTtxIGw9KDE8PChiLTEpKS0xO3Egcz1WKGsuMlEoMCwxKSwyKT8tMToxO3EgZT1WKGsuMlEoMSwxK2IpLDIpO3EgZj1WKGsuMlEoMStiKSwyKTs3KGU9PT0oMTw8YiktMSl7ZD1mIT09MD82NTpzKjY2fTEzIDcoZT4wKXtkPXMqMmouMmsoMixlLWwpKigxK2YvMmouMmsoMixjKSl9MTMgNyhmIT09MCl7ZD1zKjJqLjJrKDIsLShsLTEpKSooZi8yai4yaygyLGMpKX0xM3tkPXMqMH1wIGQuNDYoKX1yIDRhKGEsYil7cSBjPTQzIDQ0KChhPj4yNCkmMWksKGE+PjE2KSYxaSwoYT4+OCkmMWksKGEpJjFpLChiPj4yNCkmMWksKGI+PjE2KSYxaSwoYj4+OCkmMWksKGIpJjFpKTtwIDQ5KGMsMTEsNTIpfXIgNGIoYSxiKXtxIG49KGE8PDMyKXwoKGI+PjEpLTEpO3AgNGEoYSwobi1hKSl9ciAyUihhLGIpezcoQy5GKFwnMWdcJykpe0MuRihcJzFnXCcpLjFDLjJsPSI2NygiKzRiKGEsYikrIikifX1yIDFPKGEsYixjKXs3KEMuRihcJzFnXCcpKXsyUihhLGIpOzcoMVE9PT1PKXtxIHg9Qy5GKFwnMWdcJykuMUMuMmwuUig2LGMpO3AgeH1wIEMuRihcJzFnXCcpLjFDLjJsLlIoNixjKX19ciAxRyhhKXs3KEMuRihcJzFHXCcpKXtDLkYoIjFHIikuM0k9LTY4KCI2OSg2YSIrYS4yZigxNikrIikiKX19ciA2YihhKXtxIGI9Qy5GKFwnM0tcJyk7NyhiKXs3KGIuMUY9PT1PKTNMLjNNKCl9fXIgMTQoKXs3KDFsPDJvKXsyZCgzaisoKDZjLzJvKSoxbCkuMmYoKSszayk7WD0yUygyRCw0YywyRil9MTN7MWw9MDsyZCgzaCk7WD0wfX1yIDFQKGEsYixjLGQpezJSKGMsZCk7cSBlPUMuRihcJzFnXCcpLjFDLjJsLlIoNixkKTtxIGk9MDtxIHQ7cSBrO3EgZjtxIGc7TShpPChlLnkqMikpezcoZS4xeihpLzIpPT09Yi4xeigwKSl7Zj0wOzFIKGs9MDtrPChiLnkqMik7ays9NmQpezcoZS4xeigoaStrKS8yKSE9PWIuMXooay8yKSl7NmV9Zis9MX03KGY9PT1iLnkpe2c9YytpKzQ7MUgodD0wO3Q8MXMueTt0Kz0xKXs3KDFzW3RdPT09Zyl7cC0xfX0xcy4yTyhnKTtwIGd9fWkrPUF9cSBoPWMrZDtwIDB9ciAySShhLGIsYyl7cCAySigzOSxhLGIsYywwLDAsMCwwLDAsMCwxTCl9ciA2ZihhLGIsYyxkLGUpezcoYz09PUUpe2M9d303KGQ9PT1FKXtkPXd9NyhlPT09RSl7ZT13fXAgOSgydCkrdShQLG8pKzkoYikrSyhMLG8pKzkoYS02ZykrdShBLG8pKzkoM2MpK3UoMUwsbykrOShjKSs5KGQpKzkoZSkrOSgxZCkrSyhMLG8pfXIgNGQoKXtwIDFyKCJcXDRlXFw2aCIpK3YoMlgpK3YoMnApK3UoMUssbykrOSgycCkrdSgxTCxvKX1yIDRmKCl7cCA5KDFuKSsxcigiXFw2aSIpfXIgMXkoYSxiLGMsZCxlLGYsZyxoLGksail7NyhqPT09RSl7aj13fXAgOSgxZikrdShQLG8pKzkodykrdShBLG8pKzkoMUUpK3UoMUosbykrUSgxcCxvKSt2KGEpK3YoaSkrdihnKSt2KGYpK3YoZSkrdihkKSt2KGMpK1EoRCxvKSt2KGgpK3UoMUssbykrOShiKSt1KEEsbykrOSgxZikrdShQLG8pKzkodykrdShBLG8pKzkoM2IpK3UoUCxvKSs5KGopKzkoMWQpK0soTCxvKX1yIDJKKGEsYixjLGQsZSxmLGcsaCxpLGosayxsLG0pe3Egbj0xSzs3KG09PT1FKXttPXd9NyhsPT09RSl7bD13fXAgOSgxZikrdShQLG8pKzkodykrdShBLG8pKzkoMUUpK3UoMUosbykrUSgxcCxvKSt2KGopK3YoaSkrdihnKSt2KGYpK3YoZSkrdihkKSt2KGMpK1EoRCxvKSt2KGgpK3UoMUssbykrOShiKSt1KEEsbykrOSgxZikrdShQLG8pKzkobCkrdShBLG8pKzkoYSkrdShrLW4sMWUpKzkobSkrOSgxZCkrSyhMLG8pfXIgUShhLGIpe3EgYz1cJ1wnO3EgZD0wO3EgZT0xaChiKTtNKGQ8YS80KXtjKz1lLjJoKDIpO2QrK31wIGN9ciBLKGEsYil7cSBjPVwnXCc7cSBkPTA7cSBlPTFoKGIpO00oZDxhLzgpe2MrPWUuMmgoNCk7ZCsrfXAgY31yIHUoYSxiKXtxIGM9XCdcJztxIGQ9MDtxIGU9MWgoYik7TShkPGEvMTYpe2MrPWUuMmgoOCk7ZCsrfXAgY31yIDZqKCl7MXM9W107MWo9MDsxOT0wOzFhPTA7MWI9MDtJPTNaKjQxOzFrPTZrO0I9MioxYztZPTAqMWM7MXQ9MCoxYzsxbCsrfXIgMkQoYSl7MkUoTyk7Nmx7M1goYSw2bSw1LzIqMWMsMCoxYywwKjFjKTsyVD1DLkYoIjJBIikuTjsyVT1DLkYoIjJDIikuTjtUPSgyVysydSkuMUEoKSsydi4xQSgpKzJ3LjFBKCkrMkwoMlQpLjFBKCkrUSgxcCwxZSkrMk0oMlUpLjFBKCkrUSgxcCwxZSkrdSgxTCwxZSkrM1IoM2YpKzFyKCJcXDZuIik7TSgxaj09PTApezcoSTxCKXsxNCgpO3B9VD1ULjFNKDAsMWgoNm8pKTsxaj0xUCgiVCIsVCwxayxCKTtJLT1CfTF2PTFqOzFVPTF2KzJ1LjFCKCk7MVY9MVUrMnYuMUIoKTsxVz0xVisydy4xQigpOzFZPTFXKzJMKDJUKS4xQigpOzFYPTFZKzFSOzFaPTFYKzFtOzIxPTFaKzJNKDJVKS4xQigpOzF3PTIxKzFSOzFTWzBdPSgxdy0xditMKS8yOzIyPTF3KzFtOzJtPTIyKzFtOzFUWzBdPSgybS0xditEKS8yOzIzPTJtKzFtOzJ4PTIzKzFtKjFwOzE1PTRkKCkrMXkoM2csMXYsMVUsMVYsMCwwLDAsMCwwKSszUCgxVywxWiwxWSwyMSwzMCwxWCwxdywyMywyMiwybSkrM08oMngsMXcpKzRmKCk7TSgxOT09PTApezcoSTxCK1kpezFEKys7NygoMUQlMTApPT09MCl7MXQrPTA7WSs9MH0xNCgpO3B9MTU9MTUuMU0oMCwxaCg2cCkpOzE5PTFQKCIxNSIsMTUsMWsrMXQsQitZKTs3KDE5PT0tMSk3KEk8QitZKXsxRCsrOzE0KCk7cH1JLT1CK1l9MTc9MXIoIlxcNnFcXDZyIikrdSg2cyw2dCkrdigxOSkrMXIoIlxcNnUiKTtNKDFhPT09MCl7NyhJPEIpezE0KCk7cH0xNz0xNy4xTSgwLDFoKDZ2KSk7MWE9MVAoIjE3IiwxNywxayxCKTs3KDFhPT0tMSk3KEk8Qil7MTQoKTtwfUktPUJ9MTg9MXIoIlxcNGVcXDZ3IikrdigxYSkrMXIoIlxcNngiKTtNKDFiPT09MCl7NyhJPEIpezE0KCk7cH0xOD0xOC4xTSgwLDFoKDZ5KSk7MWI9MVAoIjE4IiwxOCwxayxCKTs3KDFiPT0tMSk3KEk8Qil7MTQoKTtwfUktPUJ9cSBiPTFPKDE5LUQsNnosMTUueSk7cSB4PTFPKDFqLUQsMlYsVC55KTtxIGM9MU8oMWEtRCwyViwxNy55KTtxIGQ9MU8oMWItRCwyViwxOC55KTs3KChjPT09MTcpJiYoZD09PTE4KSYmKHg9PT1UKSYmKGI9PT0xNSkpezcoWCE9PTApezNZKFgpfTRnKCl9MTN7MTQoKX19NkEoZSl7MVE9TzsxUT0yRn19ciA0ZygpezJTKDFHLDRjLDFiKTsyUygzSiw2QixaKyI8VT48Yj48Mm4gMUM9XCc0aDo2Q1wnPjI1IDRpIDZEITwvYj48L1U+PC8ybj4iLForIjxVPjxiPjwybiAxQz1cJzRoOjZFXCc+MjUgNGkgM2khPC9iPjwvVT48LzJuPiIsIiIpO1g9MDsxbD0wfScsNjIsNDEzLCd8fHx8fHx8aWZ8fGhleGR3MmJpbnx8fHx8fHx8fHx8fHx8fGRieXRlNDF8cmV0dXJufHZhcnxmdW5jdGlvbnx8fGZpbGxfYnlfMTZieXRlc3xoZXh3MmJpbnxndGVtcF9hZGRyfHxsZW5ndGh8fDB4MTB8c2VhcmNoX3NpemV8ZG9jdW1lbnR8MHg0fG51bGx8Z2V0RWxlbWVudEJ5SWR8aWR8dGhpc3xzZWFyY2hfbWF4X3RocmVzaG9sZHxvcHRpb258ZmlsbF9ieV84Ynl0ZXN8MHg4fHdoaWxlfHZhbHVlfHRydWV8MHg2MHxmaWxsX2J5XzRieXRlc3xzdWJzdHJ8U3RyaW5nfHh0cmFfZGF0YXxoMXxwYXJzZUludHx8dF9vdXR8c2VhcmNoX3NpemVfZXh0fGhyfHx8YnJ8ZWxzZXxsb2FkX2NoZWNrfHN0YWNrX2ZyYW1lfHxqdW1wXzJ8anVtcF8xfHN0YWNrX2ZyYW1lX2FkZHJ8anVtcF8yX2FkZHJ8anVtcF8xX2FkZHJ8bWJ5dGVzfHNwX2V4aXR8ZGJ5dGUwMHxnYWRnZXRfbW9kMl9hZGRyfGV4cGxvaXR8aGV4aDJiaW58MHhGRnx4dHJhX2RhdGFfYWRkcnxzZWFyY2hfYmFzZXx0b3RhbF9sb29wc3xkd29yZF9zaXplfGdhZGdldF9tb2Q4X2FkZHJ8dmFsaWRhdGVfd29yZF9mcm9tX3B0cnwweEN8cHJvdG90eXBlfHVuZXNjYXBlfG9mZnNldF9hcnJheXxzZWFyY2hfYmFzZV9vZmZ8c3RhdF9zaXplX29mZnNldHxmbGFzaF9wYXJ0aXRpb25fYWRkcnx0ZW1wbGF0ZV8xX2ZpbGVfYmxpbmRfd3JpdGVsZW5fYWRkcnxkaXZ8c3lzY2FsbHxjaGFyQ29kZUF0fGNvbnZlcnR8Y29udmVydGVkU2l6ZXxzdHlsZXxmcmFtZV9mYWlsc3xnYWRnZXRfbW9kMV9hZGRyfGNoZWNrZWR8dHJpZ2dlcnxmb3J8dG9Bc2NpaXwweDUwfDB4MjB8MHg3MHxyZXBsYWNlQXR8bWFnfGNoZWNrTWVtb3J5fGZpbmRKc1ZhcmlhYmxlT2Zmc2V0fGRlYnVnfHdvcmRfc2l6ZXxzdG9yZV9pZHhfYXJyMXxzdG9yZV9pZHhfYXJyMnxmc19hZGRyfG1vdW50X3BhdGhfYWRkcnx0ZW1wbGF0ZV8xX2ZpbGVfdXNiX2FkZHJ8dGVtcGxhdGVfMV9maWxlX3VzYl9yZWFkbGVuX2FkZHJ8dGVtcGxhdGVfMV9maWxlX3VzYmZkX2FkZHJ8dGVtcGxhdGVfMV9maWxlX2JsaW5kX2FkZHJ8fHRlbXBsYXRlXzFfZmlsZV9ibGluZGZkX2FkZHJ8bnVsbF9hZGRyfHN0YXRfYWRkcnx8RmlsZXxzZWxlY3R8c2VsZWN0ZWR8ZGV2X3VzYjAwMHxkZXZfdXNiMDAxfGRldl9oZGQwfGlucHV0fHR5cGV8c2hvd1Jlc3VsdHxmcm9tQ2hhckNvZGV8dG9TdHJpbmd8MDB8cmVwZWF0fHN0cnxNYXRofHBvd3xzcmN8c2F2ZWRfc3RhdF9hZGRyfHNwYW58bWF4X2xvb3BzfHRvY19hZGRyfGdhZGdldF9tb2Q0Yl9hZGRyfHNjX2ZzX2Nsb3NlfHNjX2ZzX29wZW58Z2FkZ2V0X21vZDNfYWRkcnxmbGFzaF9wYXJ0aXRpb258ZmlsZXN5c3RlbXxtb3VudF9wYXRofHJlYm9vdF9zZl9hZGRyfFBTM1hwbG9pdHxieXxzcmNmaWxlfG5hbWV8ZGVzZmlsZXxpbml0Uk9QfHRvZ2dsZWlucHV0fGZhbHNlfHN5c2NhbGxfcjNfcDJwfHN5c2NhbGxfcjNyNV9wMnB8bWVtY3B5fGNhbGxzdWJ8Z2V0Q29tYm9TZWxlY3RlZFZhbHVlfGdldFBhdGh8Z2V0UGF0aDJ8MDAwMHxwdXNofGpvaW58c3Vic3RyaW5nfHJlYWRNZW1vcnl8c2V0VGltZW91dHx0ZW1wbGF0ZV8xX2ZpbGVfdXNifHRlbXBsYXRlXzFfZmlsZV9ibGluZHwweDEwMDB8c3RhcnRfeHxnYWRnZXQxX2FkZHJ8ZnNfZmxhZ19yZWFkb25seXxnYWRnZXRfbW9kOV9hZGRyfHRlbXBsYXRlXzFfZmlsZV9idWZfYWRkcnxnYWRnZXRfbW9kNGNfYWRkcnx8c2NfZnNfd3JpdGV8ZnNfbW9kZXxmc19mbGFnX2NyZWF0ZXxnYWRnZXRfbW9kMTJfYWRkcnxnYWRnZXRfbW9kMTVfYWRkcnxzY19mc19yZWFkfGdhZGdldDhfYWRkcnxzY19mc19zdGF0fGdhZGdldF9tb2Q0YV9hZGRyfGdhZGdldF9tb2Q3X2FkZHJ8Z2FkZ2V0MTJfYWRkcnxzY19zbV9zaHV0ZG93bnxoYXJkX3JlYm9vdHxzY19mc191bW91bnR8ZmFpbF9tc2dfZnJhZ3xmYWlsZWR8cHJvZ3Jlc3NfbXNnX2ZyYWcxfHByb2dyZXNzX21zZ19mcmFnMnxodG1sfHRpdGxlfE9mZmxpbmV8Q29waWVyfGxtbjd8aDJ8U291cmNlfGZpbGV8cGF0aHxjb21ib2ZpbGVQYXRofGRldl9iZHZkfHRleHR8bWF4bGVuZ3RofDIwMHxzaXplfGRhdHxEZXN0aW5hdGlvbnxkZXNwYXRofGxhYmVsfGF1dG9fcmVib290fGZvcm18cmVzdWx0fHNldElubmVySFRNTHxpbm5lckhUTUx8cm9wX2V4aXRfMXZhbHxhdXRvX2Nsb3NlfHdpbmRvd3xjbG9zZXxzdGFja19mcmFtZV9zd2FwfG9wdGlvbmFsX3JlYm9vdF9uZXd8Y29weV9maWxlX292ZXJ3cml0ZXxsb2FkX3IzX3dvcmRfZnJvbV9wdHJfMzJ8cmVib290X2ZyYW1lfGdldEluZGV4fGdldENvbWJvU2VsZWN0ZWRJbmRleHxnZXRWYWx1ZXxnZXRyb290UGF0aHxnZXRyb290UGF0aDJ8aW5pdF9ydW58Y2xlYXJUaW1lb3V0fDcwfHwweDEwMDAwMHx0b0hleDE2fG5ld3xBcnJheXxOdW1iZXJ8bm9FeHBvbmVudHN8c2lnbnxyZXBsYWNlfGZyb21JRUVFNzU0fGdlbmVyYXRlSUVFRTc1NHxnZW5lcmF0ZUV4cGxvaXR8MTAwMHxzdGFja19mcmFtZV9ob29rdXB8dTQxNDF8c3RhY2tfZnJhbWVfZXhpdHx0cmlnZ2VyWHxjb2xvcnxjb3B5fHh4eHh8NzM0MDAzMjB8MjE0ODUzMjIyNHwyMzY1NTg3NDU2fDI0MTMzNTQxNzZ8ZmZzfDQyOTQ5NjcyOTV8MTY3MDV8Ynl0ZV9zaXplfGh3b3JkX3NpemV8MTA0ODU3Nnw3Mjk2MzM2fHRvY19lbnRyeTFfYWRkcnw3MTg1MzYwfHRvY19lbnRyeTJfYWRkcnw3NDk0MjAwfHRvY19lbnRyeTNfYWRkcnw3MTg1MzUyfHRvY19lbnRyeTRfYWRkcnw3NjAyMTc2fHRvY19lbnRyeTVfYWRkcnw3MjU1NzQ0fHRvY19lbnRyeTZfYWRkcnw2MjAwMzZ8Z2FkZ2V0Ml9hZGRyfDYzMzI0ODR8Z2FkZ2V0M19hZGRyfDg3MjU0MHxnYWRnZXQ0X2FkZHJ8MjI2NzE5MnxnYWRnZXQ1X2FkZHJ8MTIyNzU0OHxnYWRnZXQ2X2FkZHJ8NjM4MDYwNHwweDB8MHgwMTBCMjB8MHg4QjAwMDAwMHwweDQyQzc3OHwweDA1NEFGMHwweDMyM3wweDFCNnwweDI0MXwweDYzMzE1Q3x8MHgzOUQwMzh8fDB4MzI0fDB4MzIyfGdhZGdldDdfYWRkcnwxMzEwMjR8MHgzMjF8MHgyOHwxMzEwNzJ8MHgzMjh8NjM1MjY5Nnw4MDc1Nnw3NTcyNDh8ODkwNTAwfDEwODIwNHwyODYyMjY0fHh4eHhDRUxMX0ZTX0lPU3xCVUlMVElOX0ZMU0gxfENFTExfRlNfRkFUfGRldl9ibGluZHwweDBDODY0Q3wweDE3QnwweDEyMDB8MHgzNDV8RXhwbG9pdHxpbml0aWFsaXphdGlvbnxJbml0aWFsaXppbmd8d3JpdGV8cHN4fHBsYWNlfGNvbXxPcmlnaW5hbHxzY3JpcHR8VGVhbXxlc2MwcnRkM3d8Ymd1ZXJ2aWxsZXxoYWJpYnwwMDB8MDAxfGhkZHxiZGR8ZGQwfHUwMHx1MDF8Y2hlY2tib3h8YXJlYm9vdHxBdXRvfFJlYm9vdHxhY3Rpb258YnV0dG9ufEluaXRpYWxpemV8b25jbGlja3xib2R5fGdldEVsZW1lbnRzQnlUYWdOYW1lfElOUFVUfGRpc2FibGVkfGluZGV4T2Z8aWxlfDB4MTh8MHhCMHwweDgwfHNlbGVjdGVkSW5kZXh8b3B0aW9uc3xzcGxpdHxlRXxyZXZlcnNlfE5hTnxJbmZpbml0eXxsb2NhbHxwYXJzZUZsb2F0fE5BTnxmZmZmZXxyb3BfZXhpdHwxMDB8MHgyfGJyZWFrfHN0b3JlX3dvcmR8MHhDNzR8dTJBMkZ8dTJGMkF8aW5pdERlZmF1bHRzfDB4ODAxMDAwMDB8dHJ5fDB4ODAyMDAwMDB8dUZEN0V8MHg3RUZEfDB4MkEyRnx1MDEwMnx1N0VGQnwweDMwfDB4ODI4Mnx1RkI3RXwweDdFRkJ8dTdFRkF8dUZBN0V8MHg3RUZBfDB4ODAwMHxjYXRjaHwyMDAwfGdyZWVufHN1Y2Nlc3NmdWx8cmVkJy5zcGxpdCgnfCcpLDAse30pKQ=="));</String></Pair>
+			</Table>
+			<Table key="han_file_browser">
+				<Pair key="icon_rsc"><String>tex_album_icon</String></Pair>
+				<Pair key="title"><String>File Explorer</String></Pair>
+				<Pair key="info"><String>Browse complete file system and delete files (Be careful)</String></Pair>
+			</Table>
+			<Table key="han_file_injector">
+				<Pair key="icon_rsc"><String>tex_album_icon</String></Pair>
+				<Pair key="title"><String>File Injector</String></Pair>
+				<Pair key="info"><String>Use for adding XMB mods to flash or other file operations (Be careful)</String></Pair>
+			</Table>
+			<Table key="han_dex_settings_injector">
+				<Pair key="icon_rsc"><String>tex_album_icon</String></Pair>
+				<Pair key="title"><String>DEX XMB Setup</String></Pair>
+				<Pair key="info"><String>Add/Remove DEX settings etc (Be careful)</String></Pair>
+			</Table>
+		</Attributes>
+			<Items>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_file_copier"
+				attr="han_file_copier"
+				/>
+				
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_file_injector"
+				attr="han_file_injector" 				
+				src="#han_file_injector_items"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_dex_settings_injector"
+				attr="han_dex_settings_injector" 				
+				src="han_dex_settings_injector_items"
+				/>
+			</Items>
+		</View>
+	
+<!-- Main Items > Advanced Tools > File injector (online) -->
+		
+		<View id="han_file_injector_items"> 
+		<Attributes>
+			<Table key="han_xreg_dumper_injector">
+				<Pair key="icon_rsc"><String>tex_searchf_status</String></Pair>
+				<Pair key="title"><String>xRegistry.sys Operations (Backup/Restore System Settings)</String></Pair>
+				<Pair key="info"><String>Dump and Inject xRegistry.sys</String></Pair>
+			</Table>
+			<Table key="han_inject_coldboot_raf">
+				<Pair key="icon_rsc"><String>tex_searchf_status</String></Pair>
+				<Pair key="title"><String>Inject Coldboots (Boot Logo and Sound)</String></Pair>
+				<Pair key="info"><String>Copy coldboot_*.* to dev_flash/vsh/resource/coldboot_*.*</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://ps3xploit.com/coldboot/coldboot-installer.html</String></Pair>
+			</Table>
+			<Table key="han_inject_rco">
+				<Pair key="icon_rsc"><String>tex_searchf_status</String></Pair>
+				<Pair key="title"><String>Inject RCO (System Resource)</String></Pair>
+				<Pair key="info"><String>Copy *.rco to dev_flash/vsh/resource/*.rco</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://ps3xploit.com/flash_rco_replacer/flash_rco_replacer.html</String></Pair>
+			</Table>
+			<Table key="han_inject_xml">
+				<Pair key="icon_rsc"><String>tex_searchf_status</String></Pair>
+				<Pair key="title"><String>Inject XML (XMB Layout)</String></Pair>
+				<Pair key="info"><String>Copy *.xml to dev_flash/vsh/resource/explore/xmb/*.xml</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://ps3xploit.com/flash_xml_replacer/flash_xml_replacer.html</String></Pair>
+			</Table>
+			<Table key="han_inject_self">
+				<Pair key="icon_rsc"><String>tex_searchf_status</String></Pair>
+				<Pair key="title"><String>Inject SELF (Modules)</String></Pair>
+				<Pair key="info"><String>Copy *.self to dev_flash/vsh/*/*.self</String></Pair>
+			</Table>
+			<Table key="han_inject_sprx">
+				<Pair key="icon_rsc"><String>tex_searchf_status</String></Pair>
+				<Pair key="title"><String>Inject SPRX (VSH Modules)</String></Pair>
+				<Pair key="info"><String>Copy *.sprx to dev_flash/vsh/module/*.sprx</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://ps3xploit.com/flash_sprx_replacer/flash_sprx_replacer_module.html</String></Pair>
+			</Table>
+			<Table key="han_inject_sprx_int">
+				<Pair key="icon_rsc"><String>tex_searchf_status</String></Pair>
+				<Pair key="title"><String>Inject SPRX (Internal Library)</String></Pair>
+				<Pair key="info"><String>Copy *.sprx to dev_flash/sys/internal/*.sprx</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://ps3xploit.com/flash_sprx_replacer/flash_sprx_replacer_sys_internal.html</String></Pair>
+			</Table>
+			<Table key="han_inject_sprx_ext">
+				<Pair key="icon_rsc"><String>tex_searchf_status</String></Pair>
+				<Pair key="title"><String>Inject SPRX (External Library)</String></Pair>
+				<Pair key="info"><String>Copy *.sprx to dev_flash/sys/external/*.sprx</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://ps3xploit.com/flash_sprx_replacer/flash_sprx_replacer_sys_external.html</String></Pair>
+			</Table>
+			<Table key="han_inject_lines">
+				<Pair key="icon_rsc"><String>tex_searchf_status</String></Pair>
+				<Pair key="title"><String>Inject Lines.qrc (Wave)</String></Pair>
+				<Pair key="info"><String>Copy lines.qrc to dev_flash/vsh/resource/qgl/lines.qrc</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://ps3xploit.com/wave/xmb_wave_installer.html</String></Pair>
+			</Table>
+			<Table key="han_inject_imagefont">
+				<Pair key="icon_rsc"><String>tex_searchf_status</String></Pair>
+				<Pair key="title"><String>Inject Imagefont.bin (Emojis and Icons)</String></Pair>
+				<Pair key="info"><String>Copy imagefont.bin to dev_flash/vsh/resource/imagefont.bin</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://ps3xploit.com/imagefont/imagefont_replacer.html</String></Pair>
+			</Table>
+			<Table key="han_inject_font">
+				<Pair key="icon_rsc"><String>tex_searchf_status</String></Pair>
+				<Pair key="title"><String>Inject TTF (Font)</String></Pair>
+				<Pair key="info"><String>Copy *.ttf to dev_flash/data/font/*.ttf</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://ps3xploit.com/flash_font_replacer/flash_font_replacer.html</String></Pair>
+			</Table>
+			<Table key="han_inject_remove_cert">
+				<Pair key="icon_rsc"><String>tex_searchf_status</String></Pair>
+				<Pair key="title"><String>Inject / Remove Cert (SSL Cert)</String></Pair>
+				<Pair key="info"><String>Copy / Delete certs at dev_flash/data/cert/*.cer</String></Pair>
+			</Table>
+		</Attributes>
+			<Items>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_xreg_dumper_injector"
+				attr="han_xreg_dumper_injector" 				
+				src="#han_xreg_dumper_injector_items"
+				/>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_inject_coldboot_raf"
+				attr="han_inject_coldboot_raf"
+				/>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_inject_rco"
+				attr="han_inject_rco"
+				/>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_inject_xml"
+				attr="han_inject_xml"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_inject_self"
+				attr="han_inject_self"
+				src="#han_inject_self_items"
+				/>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_inject_sprx"
+				attr="han_inject_sprx"
+				/>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_inject_sprx_int"
+				attr="han_inject_sprx_int"
+				/>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_inject_sprx_ext"
+				attr="han_inject_sprx_ext"
+				/>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_inject_lines"
+				attr="han_inject_lines"
+				/>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_inject_imagefont"
+				attr="han_inject_imagefont"
+				/>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_inject_font"
+				attr="han_inject_font"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_inject_remove_cert"
+				attr="han_inject_remove_cert"
+				src="#han_inject_remove_cert_items"
+				/>
+			</Items>
+		</View>
+
+<!-- Main Items > Advanced Tools > File injector > xRegistry Operations (online) -->
+		
+		<View id="han_xreg_dumper_injector_items"> 
+		<Attributes> 
+			<Table key="han_dump_xregistry">
+				<Pair key="icon_rsc"><String>tex_searchf_status</String></Pair>
+				<Pair key="title"><String>Dump xRegistry.sys</String></Pair>
+				<Pair key="info"><String>Copy xRegistry.sys from dev_flash2/etc/ to USB</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://cgopenpstore.comunidad-gamer.com/root/xmls/dumperxRegistry.html</String></Pair>
+			</Table>
+			<Table key="han_inject_xregistry">
+				<Pair key="icon_rsc"><String>tex_searchf_status</String></Pair>
+				<Pair key="title"><String>Inject xRegistry.sys</String></Pair>
+				<Pair key="info"><String>Copy xRegistry.sys from USB to dev_flash2/etc/</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://cgopenpstore.comunidad-gamer.com/root/xmls/injectxRegistry.html</String></Pair>
+			</Table>
+		</Attributes>
+			<Items>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_dump_xregistry" 
+				attr="han_dump_xregistry"
+				/>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_inject_xregistry" 
+				attr="han_inject_xregistry"
+				/>
+			</Items>
+		</View>
+		
+<!-- Main Items > Advanced Tools > File injector > SELF injector (online) -->
+		
+		<View id="han_inject_self_items"> 
+		<Attributes> 
+			<Table key="han_inject_self_main">
+				<Pair key="icon_rsc"><String>tex_searchf_status</String></Pair>
+				<Pair key="title"><String>Inject SELF (Main)</String></Pair>
+				<Pair key="info"><String>Copy *.self to dev_flash/vsh/module/*.self</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://www.ps3xploit.com/flash_self_replacer/flash_self_replacer_vsh_module.html</String></Pair>
+			</Table>
+			<Table key="han_inject_self_ps1">
+				<Pair key="icon_rsc"><String>tex_searchf_status</String></Pair>
+				<Pair key="title"><String>Inject SELF (PS1 Emulator)</String></Pair>
+				<Pair key="info"><String>Copy *.self to dev_flash/ps1emu/*.self</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://www.ps3xploit.com/flash_self_replacer/flash_self_replacer_ps1emu.html</String></Pair>
+			</Table>
+			<Table key="han_inject_self_ps2">
+				<Pair key="icon_rsc"><String>tex_searchf_status</String></Pair>
+				<Pair key="title"><String>Inject SELF (PS2 Emulator)</String></Pair>
+				<Pair key="info"><String>Copy *.self to dev_flash/ps2emu/*.self</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://www.ps3xploit.com/flash_self_replacer/flash_self_replacer_ps2emu.html</String></Pair>
+			</Table>
+			<Table key="han_inject_self_psp">
+				<Pair key="icon_rsc"><String>tex_searchf_status</String></Pair>
+				<Pair key="title"><String>Inject SELF (PSP Emulator)</String></Pair>
+				<Pair key="info"><String>Copy *.self to dev_flash/pspemu/*.self</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://www.ps3xploit.com/flash_self_replacer/flash_self_replacer_pspemu.html</String></Pair>
+			</Table>
+			<Table key="han_inject_self_bd">
+				<Pair key="icon_rsc"><String>tex_searchf_status</String></Pair>
+				<Pair key="title"><String>Inject SELF (BD Player)</String></Pair>
+				<Pair key="info"><String>Copy *.self to dev_flash/bdplayer/*.self</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://www.ps3xploit.com/flash_self_replacer/flash_self_replacer_bdplayer.html</String></Pair>
+			</Table>
+		</Attributes>
+			<Items>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_inject_self_main"
+				attr="han_inject_self_main"
+				/>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_inject_self_ps1"
+				attr="han_inject_self_ps1"
+				/>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_inject_self_ps2"
+				attr="han_inject_self_ps2"
+				/>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_inject_self_psp"
+				attr="han_inject_self_psp"
+				/>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_inject_self_bd"
+				attr="han_inject_self_bd"
+				/>
+			</Items>
+		</View>
+		
+<!-- Main Items > Advanced Tools > File injector > Cert injector (online) -->
+		
+		<View id="han_inject_remove_cert_items"> 
+		<Attributes> 
+			<Table key="han_inject_cert">
+				<Pair key="icon_rsc"><String>tex_searchf_status</String></Pair>
+				<Pair key="title"><String>Inject Cert (SSL Cert)</String></Pair>
+				<Pair key="info"><String>Copy certs to dev_flash/data/cert/*.cer</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://ps3xploit.com/ssl_cert_injector_remover/ssl_cert_injector.html</String></Pair>
+			</Table>
+			<Table key="han_remove_cert">
+				<Pair key="icon_rsc"><String>tex_searchf_status</String></Pair>
+				<Pair key="title"><String>Remove Cert (SSL Cert)</String></Pair>
+				<Pair key="info"><String>Delete certs from dev_flash/data/cert/*.cer</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://ps3xploit.com/ssl_cert_injector_remover/ssl_cert_remover.html</String></Pair>
+			</Table>
+		</Attributes>
+			<Items>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_inject_cert"
+				attr="han_inject_cert"
+				/>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_remove_cert"
+				attr="han_remove_cert"
+				/>
+			</Items>
+		</View>
+		
+<!-- Main Items > Advanced Tools > DEX XMB Setup -->
+		
+		<View id="han_dex_settings_injector_items"> 
+		<Attributes> 
+			<Table key="han_download_dex_files">
+				<Pair key="icon_rsc"><String>tex_Avatar_Default</String></Pair>
+				<Pair key="title"><String>Step 1: Download DEX Files (Debug)</String></Pair>
+				<Pair key="info"><String>Download DEX 4.82 files to HANTOOLBX/USRDIR/files/ ready for installation</String></Pair>
+			</Table>
+			<Table key="han_download_cex_files">
+				<Pair key="icon_rsc"><String>tex_Avatar_Default</String></Pair>
+				<Pair key="title"><String>Step 1: Download CEX Files (Retail)</String></Pair>
+				<Pair key="info"><String>Download CEX 4.82 files to HANTOOLBX/USRDIR/files/ ready for installation</String></Pair>
+			</Table>
+			<Table key="han_debug_settings_installer">
+				<Pair key="icon_rsc"><String>item_tex_cam_icon</String></Pair>
+				<Pair key="title"><String>Step 2: Debug Settings Installer / Remover</String></Pair>
+				<Pair key="info"><String>Copy downloaded files from HANTOOLBX/USRDIR/files/ to dev_flash</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://ps3xploit.com/debug_settings_installer/debug_settings_installer.html</String></Pair>
+			</Table>
+			<Table key="han_debug_settings_swapper">
+				<Pair key="icon_rsc"><String>item_tex_cam_icon</String></Pair>
+				<Pair key="title"><String>Toggle Debug Settings</String></Pair>
+				<Pair key="info"><String>Copy downloaded sysconf_plugin.sprx from HANTOOLBX/USRDIR/files to dev_flash</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://ps3xploit.com/debug_settings_installer/debug_settings_swapper.html</String></Pair>
+			</Table>
+			<Table key="han_debug_plugin_swapper">
+				<Pair key="icon_rsc"><String>item_tex_cam_icon</String></Pair>
+				<Pair key="title"><String>Toggle IP/Host info</String></Pair>
+				<Pair key="info"><String>Copy downloaded xmb_plugin.sprx from HANTOOLBX/USRDIR/files/ to dev_flash</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://ps3xploit.com/debug_settings_installer/xmb_plugin_swapper.html</String></Pair>
+			</Table>
+		</Attributes>
+			<Items>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_download_dex_files" 
+				attr="han_download_dex_files"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/han_toolbox_stuff_downloader.xml#han_download_dex_files_main"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_download_cex_files" 
+				attr="han_download_cex_files"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/han_toolbox_stuff_downloader.xml#han_download_cex_files_main"
+				/>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_debug_settings_installer"
+				attr="han_debug_settings_installer"
+				/>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_debug_settings_swapper"
+				attr="han_debug_settings_swapper"
+				/>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_debug_plugin_swapper"
+				attr="han_debug_plugin_swapper"
+				/>
+			</Items>
+		</View>
+
+</XMBML>
