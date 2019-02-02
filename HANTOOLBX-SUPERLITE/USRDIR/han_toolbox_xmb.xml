@@ -1,6 +1,6 @@
 <XMBML version="1.0">
 
-<!-- HAN Toolbox v0.6 Super Lite Version -->
+<!-- HAN Toolbox v0.7 -- Super Lite Version -->
 
 		<View id="han_toolbox_xmb_main"> 
 		<Attributes> 
@@ -16,6 +16,8 @@
 				class="type:x-xmb/folder-pixmap" key="han_main" attr="han_main" src="#han_main_items"/>
 			</Items>
 		</View>
+
+<!-- Main Items CEX -->
 		
 		<View id="han_main_items"> 
 		<Attributes> 
@@ -56,16 +58,11 @@
 			<Query class="type:x-xmb/module-action" key="han_enabler_auto_main_offline" attr="han_enabler_auto_main_offline"/>
 			<Query class="type:x-xmb/folder-pixmap" key="han_functions" attr="han_functions" src="#han_functions_main"/>
 			<Query class="type:x-xmb/folder-pixmap" key="pkg_linker" attr="pkg_linker" src="#pkg_linker_items"/>
-			<Query class="type:x-xmb/folder-pixmap" key="han_toolbox_upgrade" attr="han_toolbox_upgrade" src="#han_toolbox_upgrade_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="han_toolbox_upgrade" attr="han_toolbox_upgrade" src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/han_toolbox_stuff_downloader.xml#han_toolbox_upgrade_main"/>
 			</Items>
 		</View>
-		
-		<View id="pkg_linker_items"> 
-			<Items>
-			<Query class="type:x-xmb/folder-pixmap" key="pkg_folder_root" attr="pkg_folder_root" src="xmb://localhost/dev_hdd0/game/PKGLINKER/USRDIR/pkg_folder_root.xml#pkg_items"/>
-			<Query class="type:x-xmb/folder-pixmap" key="pkg_folder_old" attr="pkg_folder_old" src="xmb://localhost/dev_hdd0/game/PKGLINKER/USRDIR/package_link.xml#pkg_items"/>
-			</Items>
-		</View>
+
+<!-- Main Items > HAN functions Online CEX -->
 		
 		<View id="han_functions_main"> 
 		<Attributes> 
@@ -113,6 +110,17 @@
 			<Query class="type:x-xmb/module-action" key="han_debug_auto" attr="han_debug_auto"/>
 			</Items>
 		</View>
+
+<!-- Main Items > PKG Linker 2.0 Paths -->
+		
+		<View id="pkg_linker_items"> 
+			<Items>
+			<Query class="type:x-xmb/folder-pixmap" key="pkg_folder_root" attr="pkg_folder_root" src="xmb://localhost/dev_hdd0/game/PKGLINKER/USRDIR/pkg_folder_root.xml#pkg_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="pkg_folder_old" attr="pkg_folder_old" src="xmb://localhost/dev_hdd0/game/PKGLINKER/USRDIR/package_link.xml#pkg_items"/>
+			</Items>
+		</View>
+
+<!-- Main Items > Toolbox Upgrader -->
 		
 		<View id="han_toolbox_upgrade_main">
 		<Attributes>

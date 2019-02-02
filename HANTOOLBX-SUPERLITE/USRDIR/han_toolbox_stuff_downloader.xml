@@ -1,0 +1,23 @@
+<XMBML version="1.0">
+
+<!-- HAN Toolbox Stuff Downloader-- Super Lite Version -->
+		
+<!-- Main Items > Toolbox Upgrader -->
+		
+		<View id="han_toolbox_upgrade_main">
+		<Attributes>
+			<Table key="han_toolbox_upgrade_item">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://www.dropbox.com/s/ah5ar2ornvw5qw7/Latest_HAN_Toolbox_CEX.pkg?dl=1</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/ah5ar2ornvw5qw7/Latest_HAN_Toolbox_CEX.pkg?dl=1</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>TA9000-HANTOOLBX_00-GLORYOFBRUNESTUD</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/download.png</String></Pair>
+			</Table> 
+		</Attributes> 
+			<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="han_toolbox_upgrade_item" attr="han_toolbox_upgrade_item"/>
+			</Items> 
+		</View>
+		
+</XMBML>

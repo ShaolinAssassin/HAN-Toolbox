@@ -36,7 +36,7 @@
 		</Items> 
 		</View> 
 
-<!-- Main Items > Advanced Tools > Toolbox Settings > Toolbox Multi Language > Install Multi Language > Lang patch PKG file Downloader -->
+<!-- Main Items > Toolbox Settings > Toolbox Multi Language > Install Multi Language > Lang patch PKG file Downloader -->
 			
 		<View id="han_download_patch_file_main">
 		<Attributes>
@@ -54,7 +54,7 @@
 			</Items> 
 		</View>			
 
-<!-- Main Items > Advanced Tools > Toolbox Settings > Toolbox Multi Language > Install Multi Language > **EDITED** Lang RCO file Downloader -->
+<!-- Main Items > Toolbox Settings > Toolbox Multi Language > Install Multi Language > **EDITED** Lang RCO file Downloader -->
 		
 		<View id="han_download_lang_rco_main">
 		<Attributes>
@@ -72,7 +72,7 @@
 			</Items> 
 		</View>		
 		
-<!-- Main Items > Advanced Tools > Toolbox Settings > Toolbox Multi Language > Remove Multi Language > **ORIGINAL** Lang RCO file Downloader -->
+<!-- Main Items > Toolbox Settings > Toolbox Multi Language > Remove Multi Language > **ORIGINAL** Lang RCO file Downloader -->
 		
 		<View id="han_download_original_lang_rco_main">
 		<Attributes>
@@ -90,7 +90,7 @@
 			</Items> 
 		</View>
 		
-<!-- Main Items > Advanced Tools > Toolbox Settings > Toolbox Resources > Install Toolbox Resources > Resources PKG Downloader -->
+<!-- Main Items > Toolbox Settings > Toolbox Resources > Install Toolbox Resources > Resources PKG Downloader -->
 			
 		<View id="han_toolbox_install_resources_pkg_main">
 		<Attributes>
@@ -108,7 +108,7 @@
 			</Items> 
 		</View>		
 		
-<!-- Main Items > Advanced Tools > Toolbox Settings > Toolbox Resources > Install Toolbox Resources > Resources Lang Downloader -->
+<!-- Main Items > Toolbox Settings > Toolbox Resources > Install Toolbox Resources > Resources Lang Downloader -->
 
 		<View id="han_toolbox_install_resources_lang_main">
 		<Attributes>
@@ -126,7 +126,7 @@
 			</Items> 
 		</View>
 
-<!-- Main Items > Advanced Tools > Toolbox Settings > Toolbox Updater -->
+<!-- Main Items > Toolbox Settings > Toolbox Updater -->
 		
 		<View id="han_toolbox_update_main">
 		<Attributes>

@@ -1,6 +1,6 @@
 <XMBML version="1.0">
 
-<!-- HAN Toolbox v0.6.3 (here : v#) - patch PKG for multi language -->
+<!-- HAN Toolbox v0.7 (here : v#) -- patch PKG for multi language -->
 
 	<View id="han_toolbox_xmb_main"> 
 		<Attributes> 
@@ -81,10 +81,15 @@
 				<Pair key="info_rsc"><String>han_toolbox_external_content_info</String></Pair>
 			</Table>
 			<Table key="han_advanced_menu">
-				<Pair key="icon"><String>http://raw.githubusercontent.com/ShaolinAssassin/HAN-Toolbox/master/update_status/v0.6.3-setup.png</String></Pair>
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/setup.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_advanced_tools</String></Pair>
 				<Pair key="info_rsc"><String>han_toolbox_advanced_tools_info</String></Pair>
 			</Table>
+			<Table key="han_toolbox_setup">
+				<Pair key="icon"><String>http://raw.githubusercontent.com/ShaolinAssassin/HAN-Toolbox/master/update_status/v0.7-settings.png</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_settings</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_settings_info</String></Pair>
+			</Table>	
 		</Attributes>
 			<Items>
 			<Query 
@@ -126,6 +131,12 @@
 				attr="han_advanced_menu"
 				src="#han_advanced_menu_main"
 				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_toolbox_setup" 
+				attr="han_toolbox_setup"
+				src="#han_toolbox_setup_main"
+				/>
 			</Items>
 		</View>
 		
@@ -163,10 +174,15 @@
 				<Pair key="info_rsc"><String>han_toolbox_external_content_info</String></Pair>
 			</Table>
 			<Table key="han_advanced_menu">
-				<Pair key="icon"><String>http://raw.githubusercontent.com/ShaolinAssassin/HAN-Toolbox/master/update_status/v0.6.3-setup.png</String></Pair>
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/setup.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_advanced_tools</String></Pair>
 				<Pair key="info_rsc"><String>han_toolbox_advanced_tools_info</String></Pair>
 			</Table>
+			<Table key="han_toolbox_setup">
+				<Pair key="icon"><String>http://raw.githubusercontent.com/ShaolinAssassin/HAN-Toolbox/master/update_status/v0.7-settings.png</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_settings</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_settings_info</String></Pair>
+			</Table>	
 		</Attributes>
 			<Items>
 			<Query 
@@ -202,6 +218,12 @@
 				key="han_advanced_menu" 
 				attr="han_advanced_menu"
 				src="#han_advanced_menu_main"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_toolbox_setup" 
+				attr="han_toolbox_setup"
+				src="#han_toolbox_setup_main"
 				/>
 			</Items>
 		</View>
@@ -487,7 +509,7 @@
 			</Items>
 		</View>
 		
-<!-- Main Items > Advanced Tools (here : icon update notification) -->
+<!-- Main Items > Advanced Tools -->
 		
 		<View id="han_advanced_menu_main"> 
 		<Attributes>
@@ -513,11 +535,6 @@
 				<Pair key="title_rsc"><String>han_toolbox_dex_xmb_setup</String></Pair>
 				<Pair key="info_rsc"><String>han_toolbox_dex_xmb_setup_info</String></Pair>
 			</Table>
-			<Table key="han_toolbox_setup">
-				<Pair key="icon"><String>http://raw.githubusercontent.com/ShaolinAssassin/HAN-Toolbox/master/update_status/v0.6.3-setup.png</String></Pair>
-				<Pair key="title_rsc"><String>han_toolbox_settings</String></Pair>
-				<Pair key="info_rsc"><String>han_toolbox_settings_info</String></Pair>
-			</Table>
 		</Attributes>
 			<Items>
 			<Query 
@@ -542,12 +559,6 @@
 				key="han_dex_settings_injector"
 				attr="han_dex_settings_injector" 				
 				src="#han_dex_settings_injector_items"
-				/>
-			<Query 
-				class="type:x-xmb/folder-pixmap" 
-				key="han_toolbox_setup" 
-				attr="han_toolbox_setup"
-				src="#han_toolbox_setup_main"
 				/>
 			</Items>
 		</View>
@@ -919,13 +930,13 @@
 				<Pair key="info_rsc"><String>han_toolbox_resources_info</String></Pair>
 			</Table>
 			<Table key="han_toolbox_update">
-				<Pair key="icon"><String>http://raw.githubusercontent.com/ShaolinAssassin/HAN-Toolbox/master/update_status/v0.6.3-update.png</String></Pair>
+				<Pair key="icon"><String>http://raw.githubusercontent.com/ShaolinAssassin/HAN-Toolbox/master/update_status/v0.7-update.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_update</String></Pair>
 				<Pair key="info_rsc"><String>han_toolbox_update_info</String></Pair>
 			</Table>
 			<Table key="han_toolbox_about">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/list.png</String></Pair>
-				<Pair key="title"><String>Version: 0.6.3 (Full)</String></Pair>
+				<Pair key="title"><String>Version: 0.7 (Full)</String></Pair>
 				<Pair key="info_rsc"><String>han_toolbox_credits</String></Pair>				
 			</Table>
 		</Attributes>
@@ -957,7 +968,7 @@
 			</Items>
 		</View>
 		
-<!-- Main Items > Advanced Tools > Toolbox Settings > Toolbox Multi Language -->
+<!-- Main Items > Toolbox Settings > Toolbox Multi Language -->
 
 		<View id="han_toolbox_lang_main"> 
 		<Attributes>
@@ -988,14 +999,14 @@
 			</Items>
 		</View>
 
-<!-- Main Items > Advanced Tools > Toolbox Settings > Toolbox Multi Language > Install Multi Language (here : lang available, english hardcoded) -->
+<!-- Main Items > Toolbox Settings > Toolbox Multi Language > Install Multi Language (here : lang available, english hardcoded) -->
 		
 		<View id="han_toolbox_install_lang_main"> 
 		<Attributes>
 			<Table key="han_toolbox_check_lang_item">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/list.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_check_lang_item</String></Pair>
-				<Pair key="info"><String>Chinese (Simplified), French, Italian, Portuguese (Portugal), Portuguese (Brazil), Polish, Russian, Turkish</String></Pair>
+				<Pair key="info"><String>--- None ATM ---</String></Pair>
 			</Table>
 			<Table key="han_download_lang_rco">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_file.png</String></Pair>
@@ -1041,7 +1052,7 @@
 			</Items> 
 		</View>
 
-<!-- Main Items > Advanced Tools > Toolbox Settings > Toolbox Multi Language > Remove Multi Language -->
+<!-- Main Items > Toolbox Settings > Toolbox Multi Language > Remove Multi Language -->
 
 		<View id="han_toolbox_uninstall_lang_main"> 
 		<Attributes>
@@ -1084,7 +1095,7 @@
 			</Items> 
 		</View>
 
-<!-- Main Items > Advanced Tools > Toolbox Settings > Toolbox Resources -->
+<!-- Main Items > Toolbox Settings > Toolbox Resources -->
 
 		<View id="han_toolbox_resources_main"> 
 		<Attributes>
@@ -1115,7 +1126,7 @@
 			</Items>
 		</View>
 
-<!-- Main Items > Advanced Tools > Toolbox Settings > Toolbox Resources > Install Toolbox Resources -->
+<!-- Main Items > Toolbox Settings > Toolbox Resources > Install Toolbox Resources -->
 
 		<View id="han_toolbox_install_resources_main"> 
 		<Attributes>
@@ -1146,7 +1157,7 @@
 			</Items>
 		</View>
 				
-<!-- Main Items > Advanced Tools > Toolbox Settings > Toolbox Resources > Uninstall Toolbox Resources -->
+<!-- Main Items > Toolbox Settings > Toolbox Resources > Uninstall Toolbox Resources -->
 			
 		<View id="han_toolbox_delete_resources_main"> 
 		<Attributes>
@@ -1177,17 +1188,14 @@
 			</Items>
 		</View>
 
-<!-- Main Items > Advanced Tools > Toolbox Settings > Changelog - hardcoded in english (here) -->
+<!-- Main Items > Toolbox Settings > Changelog - hardcoded in english (here) -->
 			
 		<View id="han_toolbox_changelog"> 
 		<Attributes>
 			<Table key="han_toolbox_last_changes">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/list.png</String></Pair>
 				<Pair key="title"><String>HAN Toolbox Changelog</String></Pair>
-				<Pair key="info"><String>・ v0.6.3 (2019/01/20) :
-				New languages available:
-				-Italian
-				-Portuguese (Portugal)</String></Pair>
+				<Pair key="info"><String>・ v0.7 (2019/XX/XX) :
 			</Table>
 		</Attributes>
 			<Items>
