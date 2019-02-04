@@ -37,7 +37,7 @@
 				class="type:x-xmb/folder-pixmap" 
 				key="han_file_browser"
 				attr="han_file_browser" 				
-***				src="#han_file_browser_items"
+				src="#han_file_browser_items"
 				/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
@@ -54,7 +54,7 @@
 			</Items>
 		</View>
 
-***<!-- Main Items > Advanced Tools > File Browser -->
+<!-- Main Items > Advanced Tools > File Browser -->
 
 	<View id="han_file_browser_items">
 		<Attributes>
@@ -82,9 +82,10 @@
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/disc.png</String></Pair>
 				<Pair key="title"><String>Optical drive</String></Pair>
 				<Pair key="info"><String>Browse files on optical disc</String></Pair>
+				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
 			</Table>
 			<Table key="han_browse_downloaded_files">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg-file.png</String></Pair>
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_file.png</String></Pair>
 				<Pair key="title"><String>Downloaded files</String></Pair>
 				<Pair key="info"><String>Browse/detele files downloaded in HANTOOLBX/USRDIR/files/ folder</String></Pair>
 				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
@@ -130,24 +131,24 @@
 		</Items>
 	</View>
 
-***<!-- Main Items > Advanced Tools > File Browser > Internal Flash Memory -->
+<!-- Main Items > Advanced Tools > File Browser > Internal Flash Memory -->
 	
 	<View id="han_browse_dev_flash_items">
 		<Attributes>
 			<Table key="han_browse_dev_flash">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/flash.png</String></Pair>
-				<Pair key="title"><String>Internal flash, partition 0</String></Pair>
+				<Pair key="title"><String>Internal flash, partition n°1</String></Pair>
 				<Pair key="info"><String>Access dev_flash/ partition</String></Pair>
 			</Table>
 			<Table key="han_browse_dev_flash1">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/flash.png</String></Pair>
-				<Pair key="title"><String>Internal flash, partition 1</String></Pair>
-				<Pair key="info"><String>Access dev_flash1/ partition</String></Pair>
+				<Pair key="title"><String>Internal flash, partition n°2</String></Pair>
+				<Pair key="info"><String>Access dev_flash2/ partition</String></Pair>
 			</Table>
 			<Table key="han_browse_dev_flash2">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/flash.png</String></Pair>
-				<Pair key="title"><String>Internal flash, partition 2</String></Pair>
-				<Pair key="info"><String>Access dev_flash2/ partition</String></Pair>
+				<Pair key="title"><String>Internal flash, partition n°3</String></Pair>
+				<Pair key="info"><String>Access dev_flash3/ partition</String></Pair>
 			</Table>
 		</Attributes>
 		<Items>
@@ -159,20 +160,20 @@
 				/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
-				key="han_browse_dev_flash1"
-				attr="han_browse_dev_flash1" 			
-				src="host://localhost/dev_flash1"
-				/>
-			<Query 
-				class="type:x-xmb/folder-pixmap" 
 				key="han_browse_dev_flash2"
 				attr="han_browse_dev_flash2" 			
 				src="host://localhost/dev_flash2"
 				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_browse_dev_flash3"
+				attr="han_browse_dev_flash3" 			
+				src="host://localhost/dev_flash3"
+				/>
 		</Items>
 	</View>	
 	
-***<!-- Main Items > Advanced Tools > File Browser > USB Mass Storage Devices -->
+<!-- Main Items > Advanced Tools > File Browser > USB Mass Storage Devices -->
 	
 	<View id="han_browse_dev_usb_items">
 		<Attributes>
