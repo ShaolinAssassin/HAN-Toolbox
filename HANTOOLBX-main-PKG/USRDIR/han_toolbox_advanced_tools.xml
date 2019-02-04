@@ -140,12 +140,12 @@
 				<Pair key="title"><String>Internal flash, partition n°1</String></Pair>
 				<Pair key="info"><String>Access dev_flash/ partition</String></Pair>
 			</Table>
-			<Table key="han_browse_dev_flash1">
+			<Table key="han_browse_dev_flash2">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/flash.png</String></Pair>
 				<Pair key="title"><String>Internal flash, partition n°2</String></Pair>
 				<Pair key="info"><String>Access dev_flash2/ partition</String></Pair>
 			</Table>
-			<Table key="han_browse_dev_flash2">
+			<Table key="han_browse_dev_flash3">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/flash.png</String></Pair>
 				<Pair key="title"><String>Internal flash, partition n°3</String></Pair>
 				<Pair key="info"><String>Access dev_flash3/ partition</String></Pair>
@@ -180,13 +180,13 @@
 			<Table key="han_browse_dev_usb000">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/usb.png</String></Pair>
 				<Pair key="title"><String>Device n°0 (Right port)</String></Pair>
-				<Pair key="info"><String>dev_usb000/</String></Pair>
+				<Pair key="info"><String>Access dev_usb000/</String></Pair>
 				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
 			</Table>
 			<Table key="han_browse_dev_usb001">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/usb.png</String></Pair>
 				<Pair key="title"><String>Device n°1 (Left port)</String></Pair>
-				<Pair key="info"><String>dev_usb001/</String></Pair>
+				<Pair key="info"><String>Access dev_usb001/</String></Pair>
 				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
 			</Table>
 		</Attributes>

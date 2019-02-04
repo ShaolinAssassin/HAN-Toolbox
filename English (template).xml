@@ -1,4 +1,6 @@
-<!-- HAN Toolbox v0.6 English template - This is a WIP file !-->
+<!-- HAN Toolbox English template - This is a WIP file !-->
+
+---v0.6 strings : 
 
 	<Text name="han_toolbox_title"><![CDATA[★ HAN Toolbox]]></Text>
 	<Text name="han_toolbox_info_cex">The Xploit 3.0 Companion</Text>
@@ -203,3 +205,28 @@ Press  to see package list</Text>
 	<Text name="han_toolbox_nopsn_jp_ver">JP Versions</Text>
 	<Text name="han_toolbox_nopsn_us_ver">US Versions</Text>
 	<Text name="han_toolbox_nopsn_int_ver">Internal Versions</Text>
+	
+---v0.7 strings : 
+
+	<Text name="han_toolbox_browse_dev_all">All active devices</Text>
+	<Text name="han_toolbox_browse_dev_all_info">Browse/detele files on all active devices</Text>
+	<Text name="han_toolbox_browse_dev_hdd">Internal HDD</Text>
+	<Text name="han_toolbox_browse_dev_hdd_info">Browse/detele files on PS3 internal hard drive disk</Text>
+	<Text name="han_toolbox_browse_dev_flash">Internal flash memory</Text>
+	<Text name="han_toolbox_browse_dev_flash_info">Browse/detele files on flash memory</Text>
+	<Text name="han_toolbox_browse_dev_usb">USB mass storage devices</Text>
+	<Text name="han_toolbox_browse_dev_usb_info">Browse/detele files on USB devices</Text>
+	<Text name="han_toolbox_browse_dev_optical">Optical drive</Text>
+	<Text name="han_toolbox_browse_dev_optical_info">Browse files on optical disc</Text>
+	<Text name="han_toolbox_browse_downloaded_files">Downloaded files</Text>
+	<Text name="han_toolbox_browse_downloaded_files_info">Browse/detele files downloaded in HANTOOLBX/USRDIR/files/ folder</Text>
+	<Text name="han_toolbox_browse_dev_flash1">Internal flash, partition n°1</Text>
+	<Text name="han_toolbox_browse_dev_flash1_info">Access dev_flash/ partition</Text>
+	<Text name="han_toolbox_browse_dev_flash2">Internal flash, partition n°2</Text>
+	<Text name="han_toolbox_browse_dev_flash2_info">Access dev_flash2/ partition</Text>
+	<Text name="han_toolbox_browse_dev_flash3">Internal flash, partition n°3</Text>
+	<Text name="han_toolbox_browse_dev_flash3_info">Access dev_flash3/ partition</Text>
+	<Text name="han_toolbox_browse_dev_usb000">Device n°0 (Right port)</Text>
+	<Text name="han_toolbox_browse_dev_usb000_info">Access dev_usb000/</Text>
+	<Text name="han_toolbox_browse_dev_usb001">Device n°1 (Left port)</Text>
+	<Text name="han_toolbox_browse_dev_usb001_info">Access dev_usb0001</Text>

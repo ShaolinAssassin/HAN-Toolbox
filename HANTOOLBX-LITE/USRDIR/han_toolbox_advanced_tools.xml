@@ -33,7 +33,12 @@
 				key="han_file_copier"
 				attr="han_file_copier"
 				/>
-				
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_file_browser"
+				attr="han_file_browser" 				
+				src="#han_file_browser_items"
+				/>				
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
 				key="han_file_injector"
@@ -49,7 +54,159 @@
 			</Items>
 		</View>
 	
-<!-- Main Items > Advanced Tools > File injector (online) -->
+<!-- Main Items > Advanced Tools > File Browser -->
+
+	<View id="han_file_browser_items">
+		<Attributes>
+			<Table key="han_browse_dev_all">
+				<Pair key="icon_rsc"><String>tex_album_icon</String></Pair>
+				<Pair key="title"><String>All active devices</String></Pair>
+				<Pair key="info"><String>Browse/detele files on all active devices</String></Pair>
+			</Table>
+			<Table key="han_browse_dev_hdd">
+				<Pair key="icon_rsc"><String>tex_album_icon</String></Pair>
+				<Pair key="title"><String>Internal HDD</String></Pair>
+				<Pair key="info"><String>Browse/detele files on PS3 internal hard drive disk</String></Pair>
+			</Table>
+			<Table key="han_browse_dev_flash">
+				<Pair key="icon_rsc"><String>tex_album_icon</String></Pair>
+				<Pair key="title"><String>Internal flash memory</String></Pair>
+				<Pair key="info"><String>Browse/detele files on flash memory</String></Pair>
+			</Table>
+			<Table key="han_browse_dev_usb">
+				<Pair key="icon_rsc"><String>tex_album_icon</String></Pair>
+				<Pair key="title"><String>USB mass storage devices</String></Pair>
+				<Pair key="info"><String>Browse/detele files on USB devices</String></Pair>
+			</Table>
+			<Table key="han_browse_dev_optical">
+				<Pair key="icon_rsc"><String>tex_album_icon</String></Pair>
+				<Pair key="title"><String>Optical drive</String></Pair>
+				<Pair key="info"><String>Browse files on optical disc</String></Pair>
+				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
+			</Table>
+			<Table key="han_browse_downloaded_files">
+				<Pair key="icon_rsc"><String>tex_album_icon</String></Pair>
+				<Pair key="title"><String>Downloaded files</String></Pair>
+				<Pair key="info"><String>Browse/detele files downloaded in HANTOOLBX/USRDIR/files/ folder</String></Pair>
+				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_browse_dev_all" 
+				attr="han_browse_dev_all" 
+				src="host://localhost/"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_browse_dev_hdd" 
+				attr="han_browse_dev_hdd" 
+				src="host://localhost/dev_hdd0"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_browse_dev_flash" 
+				attr="han_browse_dev_flash" 
+				src="#han_browse_dev_flash_items"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_browse_dev_usb" 
+				attr="han_browse_dev_usb" 
+				src="#han_browse_dev_usb_items"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_browse_dev_optical" 
+				attr="han_browse_dev_optical" 
+				src="host://localhost/dev_bdvd"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_browse_downloaded_files" 
+				attr="han_browse_downloaded_files" 
+				src="host://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/files/"
+				/>
+		</Items>
+	</View>
+
+<!-- Main Items > Advanced Tools > File Browser > Internal Flash Memory -->
+	
+	<View id="han_browse_dev_flash_items">
+		<Attributes>
+			<Table key="han_browse_dev_flash">
+				<Pair key="icon_rsc"><String>tex_album_icon</String></Pair>
+				<Pair key="title"><String>Internal flash, partition n°1</String></Pair>
+				<Pair key="info"><String>Access dev_flash/ partition</String></Pair>
+			</Table>
+			<Table key="han_browse_dev_flash2">
+				<Pair key="icon_rsc"><String>tex_album_icon</String></Pair>
+				<Pair key="title"><String>Internal flash, partition n°2</String></Pair>
+				<Pair key="info"><String>Access dev_flash2/ partition</String></Pair>
+			</Table>
+			<Table key="han_browse_dev_flash3">
+				<Pair key="icon_rsc"><String>tex_album_icon</String></Pair>
+				<Pair key="title"><String>Internal flash, partition n°3</String></Pair>
+				<Pair key="info"><String>Access dev_flash3/ partition</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_browse_dev_flash"
+				attr="han_browse_dev_flash" 			
+				src="host://localhost/dev_flash"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_browse_dev_flash2"
+				attr="han_browse_dev_flash2" 			
+				src="host://localhost/dev_flash2"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_browse_dev_flash3"
+				attr="han_browse_dev_flash3" 			
+				src="host://localhost/dev_flash3"
+				/>
+		</Items>
+	</View>	
+	
+<!-- Main Items > Advanced Tools > File Browser > USB Mass Storage Devices -->
+	
+	<View id="han_browse_dev_usb_items">
+		<Attributes>
+			<Table key="han_browse_dev_usb000">
+				<Pair key="icon_rsc"><String>tex_album_icon</String></Pair>
+				<Pair key="title"><String>Device n°0 (Right port)</String></Pair>
+				<Pair key="info"><String>Access dev_usb000/</String></Pair>
+				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
+			</Table>
+			<Table key="han_browse_dev_usb001">
+				<Pair key="icon_rsc"><String>tex_album_icon</String></Pair>
+				<Pair key="title"><String>Device n°1 (Left port)</String></Pair>
+				<Pair key="info"><String>Access dev_usb001/</String></Pair>
+				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_browse_dev_usb000"
+				attr="han_browse_dev_usb000" 			
+				src="host://localhost/dev_usb000"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_browse_dev_usb001"
+				attr="han_browse_dev_usb001" 			
+				src="host://localhost/dev_usb001"
+				/>
+		</Items>
+	</View>	
+	
+	<!-- Main Items > Advanced Tools > File injector (online) -->
 		
 		<View id="han_file_injector_items"> 
 		<Attributes>

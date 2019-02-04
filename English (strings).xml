@@ -101,6 +101,37 @@
 	<Text name="han_toolbox_dex_xmb_setup_info">Add/Remove DEX settings etc (Be careful)</Text>
 	<Text name="han_toolbox_settings">Toolbox Settings</Text>
 	<Text name="han_toolbox_settings_info">Version info, Resources download, Updates, Languages</Text>	
+
+<!-- han_toolbox_advanced_tools.xml // Main Items > Advanced Tools > File Browser -->
+
+	<Text name="han_toolbox_browse_dev_all">All active devices</Text>
+	<Text name="han_toolbox_browse_dev_all_info">Browse/detele files on all active devices</Text>
+	<Text name="han_toolbox_browse_dev_hdd">Internal HDD</Text>
+	<Text name="han_toolbox_browse_dev_hdd_info">Browse/detele files on PS3 internal hard drive disk</Text>
+	<Text name="han_toolbox_browse_dev_flash">Internal flash memory</Text>
+	<Text name="han_toolbox_browse_dev_flash_info">Browse/detele files on flash memory</Text>
+	<Text name="han_toolbox_browse_dev_usb">USB mass storage devices</Text>
+	<Text name="han_toolbox_browse_dev_usb_info">Browse/detele files on USB devices</Text>
+	<Text name="han_toolbox_browse_dev_optical">Optical drive</Text>
+	<Text name="han_toolbox_browse_dev_optical_info">Browse files on optical disc</Text>
+	<Text name="han_toolbox_browse_downloaded_files">Downloaded files</Text>
+	<Text name="han_toolbox_browse_downloaded_files_info">Browse/detele files downloaded in HANTOOLBX/USRDIR/files/ folder</Text>
+
+<!-- han_toolbox_advanced_tools.xml // Main Items > Advanced Tools > File Browser > Internal Flash Memory -->
+
+	<Text name="han_toolbox_browse_dev_flash1">Internal flash, partition n°1</Text>
+	<Text name="han_toolbox_browse_dev_flash1_info">Access dev_flash/ partition</Text>
+	<Text name="han_toolbox_browse_dev_flash2">Internal flash, partition n°2</Text>
+	<Text name="han_toolbox_browse_dev_flash2_info">Access dev_flash2/ partition</Text>
+	<Text name="han_toolbox_browse_dev_flash3">Internal flash, partition n°3</Text>
+	<Text name="han_toolbox_browse_dev_flash3_info">Access dev_flash3/ partition</Text>
+
+<!-- han_toolbox_advanced_tools.xml // Main Items > Advanced Tools > File Browser > USB Mass Storage Devices -->
+
+	<Text name="han_toolbox_browse_dev_usb000">Device n°0 (Right port)</Text>
+	<Text name="han_toolbox_browse_dev_usb000_info">Access dev_usb000/</Text>
+	<Text name="han_toolbox_browse_dev_usb001">Device n°1 (Left port)</Text>
+	<Text name="han_toolbox_browse_dev_usb001_info">Access dev_usb0001</Text>
 	
 <!-- han_toolbox_advanced_tools.xml // Main Items > Advanced Tools > File injector (online) -->
 
