@@ -37,7 +37,7 @@
 				class="type:x-xmb/folder-pixmap" 
 				key="han_file_browser"
 				attr="han_file_browser" 				
-				src="host://localhost/"
+***				src="#han_file_browser_items"
 				/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
@@ -53,7 +53,158 @@
 				/>
 			</Items>
 		</View>
-		
+
+***<!-- Main Items > Advanced Tools > File Browser -->
+
+	<View id="han_file_browser_items">
+		<Attributes>
+			<Table key="han_browse_dev_all">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
+				<Pair key="title"><String>All active devices</String></Pair>
+				<Pair key="info"><String>Browse/detele files on all active devices</String></Pair>
+			</Table>
+			<Table key="han_browse_dev_hdd">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/hdd.png</String></Pair>
+				<Pair key="title"><String>Internal HDD</String></Pair>
+				<Pair key="info"><String>Browse/detele files on PS3 internal hard drive disk</String></Pair>
+			</Table>
+			<Table key="han_browse_dev_flash">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/flash.png</String></Pair>
+				<Pair key="title"><String>Internal flash memory</String></Pair>
+				<Pair key="info"><String>Browse/detele files on flash memory</String></Pair>
+			</Table>
+			<Table key="han_browse_dev_usb">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/usb.png</String></Pair>
+				<Pair key="title"><String>USB mass storage devices</String></Pair>
+				<Pair key="info"><String>Browse/detele files on USB devices</String></Pair>
+			</Table>
+			<Table key="han_browse_dev_optical">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/disc.png</String></Pair>
+				<Pair key="title"><String>Optical drive</String></Pair>
+				<Pair key="info"><String>Browse files on optical disc</String></Pair>
+			</Table>
+			<Table key="han_browse_downloaded_files">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg-file.png</String></Pair>
+				<Pair key="title"><String>Downloaded files</String></Pair>
+				<Pair key="info"><String>Browse/detele files downloaded in HANTOOLBX/USRDIR/files/ folder</String></Pair>
+				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_browse_dev_all" 
+				attr="han_browse_dev_all" 
+				src="host://localhost/"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_browse_dev_hdd" 
+				attr="han_browse_dev_hdd" 
+				src="host://localhost/dev_hdd0"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_browse_dev_flash" 
+				attr="han_browse_dev_flash" 
+				src="#han_browse_dev_flash_items"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_browse_dev_usb" 
+				attr="han_browse_dev_usb" 
+				src="#han_browse_dev_usb_items"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_browse_dev_optical" 
+				attr="han_browse_dev_optical" 
+				src="host://localhost/dev_bdvd"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_browse_downloaded_files" 
+				attr="han_browse_downloaded_files" 
+				src="host://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/files/"
+				/>
+		</Items>
+	</View>
+
+***<!-- Main Items > Advanced Tools > File Browser > Internal Flash Memory -->
+	
+	<View id="han_browse_dev_flash_items">
+		<Attributes>
+			<Table key="han_browse_dev_flash">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/flash.png</String></Pair>
+				<Pair key="title"><String>Internal flash, partition 0</String></Pair>
+				<Pair key="info"><String>Access dev_flash/ partition</String></Pair>
+			</Table>
+			<Table key="han_browse_dev_flash1">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/flash.png</String></Pair>
+				<Pair key="title"><String>Internal flash, partition 1</String></Pair>
+				<Pair key="info"><String>Access dev_flash1/ partition</String></Pair>
+			</Table>
+			<Table key="han_browse_dev_flash2">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/flash.png</String></Pair>
+				<Pair key="title"><String>Internal flash, partition 2</String></Pair>
+				<Pair key="info"><String>Access dev_flash2/ partition</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_browse_dev_flash"
+				attr="han_browse_dev_flash" 			
+				src="host://localhost/dev_flash"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_browse_dev_flash1"
+				attr="han_browse_dev_flash1" 			
+				src="host://localhost/dev_flash1"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_browse_dev_flash2"
+				attr="han_browse_dev_flash2" 			
+				src="host://localhost/dev_flash2"
+				/>
+		</Items>
+	</View>	
+	
+***<!-- Main Items > Advanced Tools > File Browser > USB Mass Storage Devices -->
+	
+	<View id="han_browse_dev_usb_items">
+		<Attributes>
+			<Table key="han_browse_dev_usb000">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/usb.png</String></Pair>
+				<Pair key="title"><String>Device n°0 (Right port)</String></Pair>
+				<Pair key="info"><String>dev_usb000/</String></Pair>
+				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
+			</Table>
+			<Table key="han_browse_dev_usb001">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/usb.png</String></Pair>
+				<Pair key="title"><String>Device n°1 (Left port)</String></Pair>
+				<Pair key="info"><String>dev_usb001/</String></Pair>
+				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_browse_dev_usb000"
+				attr="han_browse_dev_usb000" 			
+				src="host://localhost/dev_usb000"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_browse_dev_usb001"
+				attr="han_browse_dev_usb001" 			
+				src="host://localhost/dev_usb001"
+				/>
+		</Items>
+	</View>
+				
 <!-- Main Items > Advanced Tools > File injector (online) -->
 		
 		<View id="han_file_injector_items"> 
