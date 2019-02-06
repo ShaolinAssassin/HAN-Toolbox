@@ -229,4 +229,6 @@ Press  to see package list</Text>
 	<Text name="han_toolbox_browse_dev_usb000">Device n°0 (Right port)</Text>
 	<Text name="han_toolbox_browse_dev_usb000_info">Access dev_usb000/</Text>
 	<Text name="han_toolbox_browse_dev_usb001">Device n°1 (Left port)</Text>
-	<Text name="han_toolbox_browse_dev_usb001_info">Access dev_usb0001</Text>
+	<Text name="han_toolbox_browse_dev_usb001_info">Access dev_usb001/</Text>
+	<Text name="han_toolbox_inject_sprx">Inject SPRX</Text>
+	<Text name="han_toolbox_inject_sprx_info">Copy *.sprx to dev_flash/*/*/*.sprx</Text>

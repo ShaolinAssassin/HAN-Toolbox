@@ -186,7 +186,7 @@
 			<Table key="han_browse_dev_usb001">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/usb.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_browse_dev_usb001</String></Pair>
-				<Pair key="info_rsc"><String>han_toolbox_browse_dev_usb001</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_browse_dev_usb001_info</String></Pair>
 				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
 			</Table>
 		</Attributes>
@@ -243,24 +243,8 @@
 			</Table>
 			<Table key="han_inject_sprx">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/inj_executable.png</String></Pair>
-				<Pair key="title_rsc"><String>han_toolbox_inject_sprx_vsh</String></Pair>
-				<Pair key="info_rsc"><String>han_toolbox_inject_sprx_vsh_info</String></Pair>
-				<Pair key="module_name"><String>webrender_plugin</String></Pair>
-				<Pair key="module_action"><String>http://ps3xploit.com/flash_sprx_replacer/flash_sprx_replacer_module.html</String></Pair>
-			</Table>
-			<Table key="han_inject_sprx_int">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/inj_executable.png</String></Pair>
-				<Pair key="title_rsc"><String>han_toolbox_inject_sprx_int</String></Pair>
-				<Pair key="info_rsc"><String>han_toolbox_inject_sprx_int_info</String></Pair>
-				<Pair key="module_name"><String>webrender_plugin</String></Pair>
-				<Pair key="module_action"><String>http://ps3xploit.com/flash_sprx_replacer/flash_sprx_replacer_sys_internal.html</String></Pair>
-			</Table>
-			<Table key="han_inject_sprx_ext">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/inj_executable.png</String></Pair>
-				<Pair key="title_rsc"><String>han_toolbox_inject_sprx_ext</String></Pair>
-				<Pair key="info_rsc"><String>han_toolbox_inject_sprx_ext_info</String></Pair>
-				<Pair key="module_name"><String>webrender_plugin</String></Pair>
-				<Pair key="module_action"><String>http://ps3xploit.com/flash_sprx_replacer/flash_sprx_replacer_sys_external.html</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_inject_sprx</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_inject_sprx_info</String></Pair>
 			</Table>
 			<Table key="han_inject_lines">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/inj_wave.png</String></Pair>
@@ -321,16 +305,7 @@
 				class="type:x-xmb/module-action"
 				key="han_inject_sprx"
 				attr="han_inject_sprx"
-				/>
-			<Query 
-				class="type:x-xmb/module-action"
-				key="han_inject_sprx_int"
-				attr="han_inject_sprx_int"
-				/>
-			<Query 
-				class="type:x-xmb/module-action"
-				key="han_inject_sprx_ext"
-				attr="han_inject_sprx_ext"
+				src="#han_inject_sprx_items"
 				/>
 			<Query 
 				class="type:x-xmb/module-action"
@@ -389,6 +364,51 @@
 			</Items>
 		</View>
 
+<!-- Main Items > Advanced Tools > File injector > SPRX injector (online) -->
+		
+		<View id="han_inject_sprx_items"> 
+		<Attributes> 
+			<Table key="han_inject_sprx_vsh">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/inj_executable.png</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_inject_sprx_vsh</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_inject_sprx_vsh_info</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://ps3xploit.com/flash_sprx_replacer/flash_sprx_replacer_module.html</String></Pair>
+			</Table>
+			<Table key="han_inject_sprx_int">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/inj_executable.png</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_inject_sprx_int</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_inject_sprx_int_info</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://ps3xploit.com/flash_sprx_replacer/flash_sprx_replacer_sys_internal.html</String></Pair>
+			</Table>
+			<Table key="han_inject_sprx_ext">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/inj_executable.png</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_inject_sprx_ext</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_inject_sprx_ext_info</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://ps3xploit.com/flash_sprx_replacer/flash_sprx_replacer_sys_external.html</String></Pair>
+			</Table>
+		</Attributes>
+			<Items>		
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_inject_sprx_vsh"
+				attr="han_inject_sprx_vsh"
+				/>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_inject_sprx_int"
+				attr="han_inject_sprx_int"
+				/>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_inject_sprx_ext"
+				attr="han_inject_sprx_ext"
+				/>
+			</Items>
+		</View>
+		
 <!-- Main Items > Advanced Tools > File injector > SELF injector (online) -->
 		
 		<View id="han_inject_self_items"> 

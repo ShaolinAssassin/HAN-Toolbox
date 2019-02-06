@@ -145,12 +145,8 @@
 	<Text name="han_toolbox_inject_xml_info">Copy *.xml to dev_flash/vsh/resource/explore/xmb/*.xml</Text>
 	<Text name="han_toolbox_inject_self">Inject SELF (Modules)</Text>
 	<Text name="han_toolbox_inject_self_info">Copy *.self to dev_flash/vsh/*/*.self</Text>
-	<Text name="han_toolbox_inject_sprx_vsh">Inject SPRX (VSH Modules)</Text>
-	<Text name="han_toolbox_inject_sprx_vsh_info">Copy *.sprx to dev_flash/vsh/module/*.sprx</Text>
-	<Text name="han_toolbox_inject_sprx_int">Inject SPRX (Internal Library)</Text>
-	<Text name="han_toolbox_inject_sprx_int_info">Copy *.sprx to dev_flash/sys/internal/*.sprx</Text>
-	<Text name="han_toolbox_inject_sprx_ext">Inject SPRX (External Library)</Text>
-	<Text name="han_toolbox_inject_sprx_ext_info">Copy *.sprx to dev_flash/sys/external/*.sprx</Text>
+	<Text name="han_toolbox_inject_sprx">Inject SPRX</Text>
+	<Text name="han_toolbox_inject_sprx_info">Copy *.sprx to dev_flash/*/*/*.sprx</Text>		
 	<Text name="han_toolbox_inject_lines">Inject Lines.qrc (Wave)</Text>
 	<Text name="han_toolbox_inject_sprx_lines_info">Copy lines.qrc to dev_flash/vsh/resource/qgl/lines.qrc</Text>
 	<Text name="han_toolbox_inject_emoji">Inject Imagefont.bin (Emojis and Icons)</Text>
@@ -166,6 +162,15 @@
 	<Text name="han_toolbox_dump_xregistry_info">Copy xRegistry.sys from dev_flash2/etc/ to USB</Text>
 	<Text name="han_toolbox_inject_xregistry">Inject xRegistry.sys</Text>
 	<Text name="han_toolbox_inject_xregistry_info">Copy xRegistry.sys from USB to dev_flash2/etc/</Text>
+
+<!-- han_toolbox_advanced_tools.xml // Main Items > Advanced Tools > File injector > SPRX injector (online) -->
+
+	<Text name="han_toolbox_inject_sprx_vsh">Inject SPRX (VSH Modules)</Text>
+	<Text name="han_toolbox_inject_sprx_vsh_info">Copy *.sprx to dev_flash/vsh/module/*.sprx</Text>
+	<Text name="han_toolbox_inject_sprx_int">Inject SPRX (Internal Library)</Text>
+	<Text name="han_toolbox_inject_sprx_int_info">Copy *.sprx to dev_flash/sys/internal/*.sprx</Text>
+	<Text name="han_toolbox_inject_sprx_ext">Inject SPRX (External Library)</Text>
+	<Text name="han_toolbox_inject_sprx_ext_info">Copy *.sprx to dev_flash/sys/external/*.sprx</Text>	
 	
 <!-- han_toolbox_advanced_tools.xml // Main Items > Advanced Tools > File injector > SELF injector (online) -->
 	

@@ -243,25 +243,9 @@
 			</Table>
 			<Table key="han_inject_sprx">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/inj_executable.png</String></Pair>
-				<Pair key="title"><String>Inject SPRX (VSH Modules)</String></Pair>
-				<Pair key="info"><String>Copy *.sprx to dev_flash/vsh/module/*.sprx</String></Pair>
-				<Pair key="module_name"><String>webrender_plugin</String></Pair>
-				<Pair key="module_action"><String>http://ps3xploit.com/flash_sprx_replacer/flash_sprx_replacer_module.html</String></Pair>
-			</Table>
-			<Table key="han_inject_sprx_int">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/inj_executable.png</String></Pair>
-				<Pair key="title"><String>Inject SPRX (Internal Library)</String></Pair>
-				<Pair key="info"><String>Copy *.sprx to dev_flash/sys/internal/*.sprx</String></Pair>
-				<Pair key="module_name"><String>webrender_plugin</String></Pair>
-				<Pair key="module_action"><String>http://ps3xploit.com/flash_sprx_replacer/flash_sprx_replacer_sys_internal.html</String></Pair>
-			</Table>
-			<Table key="han_inject_sprx_ext">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/inj_executable.png</String></Pair>
-				<Pair key="title"><String>Inject SPRX (External Library)</String></Pair>
-				<Pair key="info"><String>Copy *.sprx to dev_flash/sys/external/*.sprx</String></Pair>
-				<Pair key="module_name"><String>webrender_plugin</String></Pair>
-				<Pair key="module_action"><String>http://ps3xploit.com/flash_sprx_replacer/flash_sprx_replacer_sys_external.html</String></Pair>
-			</Table>
+				<Pair key="title"><String>Inject SPRX</String></Pair>
+				<Pair key="info"><String>Copy *.sprx to dev_flash/*/*/*.sprx</String></Pair>
+			</Table>				
 			<Table key="han_inject_lines">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/inj_wave.png</String></Pair>
 				<Pair key="title"><String>Inject Lines.qrc (Wave)</String></Pair>
@@ -321,16 +305,7 @@
 				class="type:x-xmb/module-action"
 				key="han_inject_sprx"
 				attr="han_inject_sprx"
-				/>
-			<Query 
-				class="type:x-xmb/module-action"
-				key="han_inject_sprx_int"
-				attr="han_inject_sprx_int"
-				/>
-			<Query 
-				class="type:x-xmb/module-action"
-				key="han_inject_sprx_ext"
-				attr="han_inject_sprx_ext"
+				src="#han_inject_sprx_items"
 				/>
 			<Query 
 				class="type:x-xmb/module-action"
@@ -386,6 +361,51 @@
 				key="han_inject_xregistry" 
 				attr="han_inject_xregistry"
 				/>
+			</Items>
+		</View>
+		
+<!-- Main Items > Advanced Tools > File injector > SPRX injector (online) -->
+		
+		<View id="han_inject_sprx_items"> 
+		<Attributes> 
+			<Table key="han_inject_sprx_vsh">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/inj_executable.png</String></Pair>
+				<Pair key="title"><String>Inject SPRX (VSH Modules)</String></Pair>
+				<Pair key="info"><String>Copy *.sprx to dev_flash/vsh/module/*.sprx</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://ps3xploit.com/flash_sprx_replacer/flash_sprx_replacer_module.html</String></Pair>
+			</Table>
+			<Table key="han_inject_sprx_int">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/inj_executable.png</String></Pair>
+				<Pair key="title"><String>Inject SPRX (Internal Library)</String></Pair>
+				<Pair key="info"><String>Copy *.sprx to dev_flash/sys/internal/*.sprx</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://ps3xploit.com/flash_sprx_replacer/flash_sprx_replacer_sys_internal.html</String></Pair>
+			</Table>
+			<Table key="han_inject_sprx_ext">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/inj_executable.png</String></Pair>
+				<Pair key="title"><String>Inject SPRX (External Library)</String></Pair>
+				<Pair key="info"><String>Copy *.sprx to dev_flash/sys/external/*.sprx</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://ps3xploit.com/flash_sprx_replacer/flash_sprx_replacer_sys_external.html</String></Pair>
+			</Table>
+		</Attributes>
+			<Items>		
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_inject_sprx_vsh"
+				attr="han_inject_sprx_vsh"
+				/>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_inject_sprx_int"
+				attr="han_inject_sprx_int"
+				/>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_inject_sprx_ext"
+				attr="han_inject_sprx_ext"
+				/>		
 			</Items>
 		</View>
 		
