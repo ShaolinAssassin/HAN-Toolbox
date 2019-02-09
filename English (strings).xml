@@ -158,8 +158,8 @@
 	<Text name="han_toolbox_inject_sprx_lines_info">Copy lines.qrc to dev_flash/vsh/resource/qgl/lines.qrc</Text>
 	<Text name="han_toolbox_inject_emoji">Inject Imagefont.bin (Emojis and Icons)</Text>
 	<Text name="han_toolbox_inject_emoji_info">Copy imagefont.bin to dev_flash/vsh/resource/imagefont.bin</Text>
-	<Text name="han_toolbox_inject_font">Inject TTF (Font)</Text>
-	<Text name="han_toolbox_inject_font_info">Copy *.ttf to dev_flash/data/font/*.ttf</Text>
+	<Text name="han_toolbox_inject_font">Inject TTF/ttf (Font)</Text>
+	<Text name="han_toolbox_inject_font_info">Copy *.TTF/*.ttf to dev_flash/data/font/*</Text>
 	<Text name="han_toolbox_inject_remove_cert">Inject/Remove Cert (SSL Cert)</Text>
 	<Text name="han_toolbox_inject_remove_cert_info">Copy/Delete certs at dev_flash/data/cert/*.cer</Text>
 
@@ -191,6 +191,13 @@
 	<Text name="han_toolbox_inject_self_psp_info">Copy *.self to dev_flash/pspemu/*.self</Text>
 	<Text name="han_toolbox_inject_self_bd">Inject SELF (BD Player)</Text>
 	<Text name="han_toolbox_inject_self_bd_info">Copy *.self to dev_flash/bdplayer/*.self</Text>
+
+<!-- han_toolbox_advanced_tools.xml // Main Items > Advanced Tools > File injector > Font TTF injector (online) -->
+
+	<Text name="han_toolbox_inject_TTF_font">Inject TTF (Font)</Text>
+	<Text name="han_toolbox_inject_TTF_font_info">Copy *.TTF to dev_flash/data/font/*.TTF</Text>
+	<Text name="han_toolbox_inject_ttf_sony_cc_font">Inject ttf (Sony-CC Font)</Text>
+	<Text name="han_toolbox_inject_ttf_sony_cc_font_info">Copy *.ttf to dev_flash/data/font/SONY-CC/*.ttf</Text>
 	
 <!-- han_toolbox_advanced_tools.xml // Main Items > Advanced Tools > File injector > Cert injector (online) -->
 
