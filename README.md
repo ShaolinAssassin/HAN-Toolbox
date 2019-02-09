@@ -15,6 +15,7 @@
 
 | Feature | Superlite | Lite | Full |
 | ------- | --------- | ---- | ---- |
+| CEX/DEX support | CEX only | CEX/DEX | CEX/DEX |
 | Custom XMB icons (Metalification) | No | No | Yes |
 | Multi-language support | No | No | Yes |
 | Demo Downloader support | No | No | Yes |
@@ -23,6 +24,7 @@
 | Wallpaper Downloader support | No | No | Yes |
 | PS3Xploit tools | Basic only | Basic/Advanced | Basic/Advanced |
 | PKG Linker support | Basic | Advanced | Advanced |
+
 
 ## Multi-language support : 
 

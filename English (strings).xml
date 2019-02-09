@@ -132,6 +132,13 @@
 	<Text name="han_toolbox_browse_dev_usb000_info">Access dev_usb000/</Text>
 	<Text name="han_toolbox_browse_dev_usb001">Device n°1 (Left port)</Text>
 	<Text name="han_toolbox_browse_dev_usb001_info">Access dev_usb0001</Text>
+
+<!-- han_toolbox_advanced_tools.xml // Main Items > Advanced Tools > File Browser > Downloaded files -->
+
+	<Text name="han_toolbox_browse_downloaded_files_folder">HANTOOLBX/USRDIR/files/</Text>
+	<Text name="han_toolbox_browse_downloaded_files_folder_info">Access HANTOOLBX/USRDIR/files/</Text>
+	<Text name="han_toolbox_browse_downloaded_files_readme">Open readme.txt</Text>
+	<Text name="han_toolbox_browse_downloaded_files_readme_info">Read downloaded files description</Text>	
 	
 <!-- han_toolbox_advanced_tools.xml // Main Items > Advanced Tools > File injector (online) -->
 

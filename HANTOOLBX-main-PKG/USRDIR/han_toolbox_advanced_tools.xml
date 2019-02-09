@@ -126,7 +126,7 @@
 				class="type:x-xmb/folder-pixmap" 
 				key="han_browse_downloaded_files" 
 				attr="han_browse_downloaded_files" 
-				src="host://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/files/"
+				src="#han_browse_downloaded_files_items"
 				/>
 		</Items>
 	</View>
@@ -205,7 +205,41 @@
 				/>
 		</Items>
 	</View>
-				
+
+<!-- Main Items > Advanced Tools > File Browser > Downloaded files -->
+	
+	<View id="han_browse_downloaded_files_items">
+		<Attributes>
+			<Table key="han_browse_downloaded_files_folder">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_file.png</String></Pair>
+				<Pair key="title"><String>HANTOOLBX/USRDIR/files/</String></Pair>
+				<Pair key="info"><String>Access HANTOOLBX/USRDIR/files/</String></Pair>
+				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
+			</Table>
+			<Table key="han_browse_downloaded_files_readme">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/text.png</String></Pair>
+				<Pair key="title"><String>Open readme.txt</String></Pair>
+				<Pair key="info"><String>Read downloaded files description</String></Pair>
+				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/files/readme.txt</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_browse_downloaded_files_folder"
+				attr="han_browse_downloaded_files_folder" 			
+				src="host://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/files/"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_browse_downloaded_files_readme"
+				attr="han_browse_downloaded_files_readme" 			
+				/>
+		</Items>
+	</View>
+	
 <!-- Main Items > Advanced Tools > File injector (online) -->
 		
 		<View id="han_file_injector_items"> 
