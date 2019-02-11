@@ -218,13 +218,8 @@
 		<Attributes>
 			<Table key="han_toolbox_install_resources_pkg">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_file.png</String></Pair>
-				<Pair key="title"><String>Step 1: Download Toolbox Resources</String></Pair>
+				<Pair key="title"><String>Download Toolbox Resources</String></Pair>
 				<Pair key="info"><String>Download and install the HAN Toolbox resources package and reboot after</String></Pair>
-			</Table>
-			<Table key="han_toolbox_install_resources_lang">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_file.png</String></Pair>
-				<Pair key="title"><String>Step 2 (Optional): Download Toolbox Resources lang files</String></Pair>
-				<Pair key="info"><String>Download and install the HAN Toolbox resources lang files and reboot after</String></Pair>
 			</Table>
 		</Attributes>
 			<Items>
@@ -233,12 +228,6 @@
 				key="han_toolbox_install_resources_pkg" 
 				attr="han_toolbox_install_resources_pkg"
 				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/han_toolbox_stuff_downloader.xml#han_toolbox_install_resources_pkg_main"
-			/>
-			<Query 
-				class="type:x-xmb/folder-pixmap" 
-				key="han_toolbox_install_resources_lang" 
-				attr="han_toolbox_install_resources_lang"
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/han_toolbox_stuff_downloader.xml#han_toolbox_install_resources_lang_main"
 			/>
 			</Items>
 		</View>

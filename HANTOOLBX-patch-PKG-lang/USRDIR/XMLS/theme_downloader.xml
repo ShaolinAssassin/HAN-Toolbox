@@ -4,20 +4,81 @@
 
 	<View id="theme_downloader_items">
 		<Attributes>
-			<Table key="no_resources">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/about.png</String></Pair>
-				<Pair key="title_rsc"><String>han_toolbox_no_resources</String></Pair>
-				<Pair key="info_rsc"><String>han_toolbox_no_resources_info</String></Pair>
+			<Table key="Metalification">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/Metalification_v1.0.png</String></Pair>
+				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+				<Pair key="title"><String>Metalification v1.0</String></Pair>
+				<Pair key="info"><String>By Berion</String></Pair>
+				<Pair key="module_action"><String>http://xmbmods.co/XMBPD/Themes/files.php?file=Metalification_by_Berion_v1.0.p3t</String></Pair>
+			</Table>
+			<Table key="theme_downloader_ac">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/theme.png</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_themes_ac</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
+			</Table>
+			<Table key="theme_downloader_dh">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/theme.png</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_themes_dh</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
+			</Table>
+			<Table key="theme_downloader_in">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/theme.png</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_themes_in</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
+			</Table>
+			<Table key="theme_downloader_os">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/theme.png</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_themes_os</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
+			</Table>
+			<Table key="theme_downloader_tz">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/theme.png</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_themes_tz</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
 			</Table>
 		</Attributes>
 		<Items>
-			<Query 
-				class="type:x-xmb/folder-pixmap" 
-				key="no_resources" 
-				attr="no_resources"
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/han_toolbox_stuff_downloader.xml#han_toolbox_install_resources_pkg_main"
+			<Item 
+				class="type:x-xmb/module-action" 
+				key="Metalification" 
+				attr="Metalification"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="theme_downloader_ac"
+				attr="theme_downloader_ac"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/theme_downloader_ac.xml#theme_downloader_ac_items"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="theme_downloader_dh"
+				attr="theme_downloader_dh"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/theme_downloader_dh.xml#theme_downloader_dh_items"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="theme_downloader_in"
+				attr="theme_downloader_in"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/theme_downloader_in.xml#theme_downloader_in_items"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="theme_downloader_os"
+				attr="theme_downloader_os"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/theme_downloader_os.xml#theme_downloader_os_items"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="theme_downloader_tz"
+				attr="theme_downloader_tz"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/theme_downloader_tz.xml#theme_downloader_tz_items"
 				/>
 		</Items>
 	</View>
-		
+
 </XMBML>

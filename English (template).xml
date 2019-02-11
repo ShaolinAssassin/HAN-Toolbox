@@ -138,10 +138,7 @@ Translation in (language) by (your-name-here)</Text>
 	<Text name="han_toolbox_install_resources_info">Install the HAN Toolbox resources package and reboot after</Text>
 	<Text name="han_toolbox_delete_resources">Uninstall Toolbox Resources</Text>
 	<Text name="han_toolbox_delete_resources_info">Uninstall the HAN Toolbox resources package and reboot after</Text>
-	<Text name="han_toolbox_install_resources_pkg">Step 1: Download Toolbox Resources</Text>
 	<Text name="han_toolbox_install_resources_pkg_info">Download and install the HAN Toolbox resources package and reboot after</Text>
-	<Text name="han_toolbox_install_resources_lang">Step 2 (Optional): Download Toolbox Resources lang files</Text>
-	<Text name="han_toolbox_install_resources_lang_info">Download and install the HAN Toolbox resources lang files and reboot after</Text>
 	<Text name="han_toolbox_delete_resources_icons_folders">Step 1: Delete Resources icons folders</Text>
 	<Text name="han_toolbox_delete_resources_icons_folders_info">Press  to access HAN Toolbox images folder and unlink (folder) demo_icons, nopsn_icons, theme_icons, wallpaper_icons folders</Text>
 	<Text name="han_toolbox_delete_resources_xmls">Step 2: Delete Resources XML files</Text>
@@ -211,6 +208,7 @@ Press  to see package list</Text>
 	<Text name="han_toolbox_inject_sprx_info">Copy *.sprx to dev_flash/*/*/*.sprx</Text>
 	<Text name="han_toolbox_inject_font">Inject TTF (Font)</Text>
 	<Text name="han_toolbox_inject_font_info">Copy *.ttf to dev_flash/data/font/*.ttf</Text>
+	<Text name="han_toolbox_install_resources_pkg">Download Toolbox Resources</Text>
 -0.7 new strings : 
 	<Text name="han_toolbox_browse_dev_all">All active devices</Text>
 	<Text name="han_toolbox_browse_dev_all_info">Browse/detele files on all active devices</Text>

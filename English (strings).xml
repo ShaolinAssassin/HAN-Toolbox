@@ -256,10 +256,8 @@
 	<Text name="han_toolbox_install_resources_info">Install the HAN Toolbox resources package and reboot after</Text>
 	<Text name="han_toolbox_delete_resources">Uninstall Toolbox Resources</Text>
 	<Text name="han_toolbox_delete_resources_info">Uninstall the HAN Toolbox resources package and reboot after</Text>
-	<Text name="han_toolbox_install_resources_pkg">Step 1: Download Toolbox Resources</Text>
+	<Text name="han_toolbox_install_resources_pkg">Download Toolbox Resources</Text>
 	<Text name="han_toolbox_install_resources_pkg_info">Download and install the HAN Toolbox resources package and reboot after</Text>
-	<Text name="han_toolbox_install_resources_lang">Step 2 (Optional): Download Toolbox Resources lang files</Text>
-	<Text name="han_toolbox_install_resources_lang_info">Download and install the HAN Toolbox resources lang files and reboot after</Text>
 	<Text name="han_toolbox_delete_resources_icons_folders">Step 1: Delete Resources icons folders</Text>
 	<Text name="han_toolbox_delete_resources_icons_folders_info">Press  to access HAN Toolbox images folder and unlink (folder) demo_icons, nopsn_icons, theme_icons, wallpaper_icons folders</Text>
 	<Text name="han_toolbox_delete_resources_xmls">Step 2: Delete Resources XML files</Text>
