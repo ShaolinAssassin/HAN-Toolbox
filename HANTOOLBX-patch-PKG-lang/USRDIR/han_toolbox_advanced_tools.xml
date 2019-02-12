@@ -221,8 +221,6 @@
 				<Pair key="title_rsc"><String>Open readme.txt</String></Pair>
 				<Pair key="info_rsc"><String>Read downloaded files description</String></Pair>
 				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
-				<Pair key="module_name"><String>webrender_plugin</String></Pair>
-				<Pair key="module_action"><String>http://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/files/readme.txt</String></Pair>
 			</Table>
 		</Attributes>
 		<Items>
@@ -235,7 +233,8 @@
 			<Query 
 				class="type:x-xmb/module-action" 
 				key="han_browse_downloaded_files_readme"
-				attr="han_browse_downloaded_files_readme" 			
+				attr="han_browse_downloaded_files_readme"
+				src="host://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/files/readme.xml#readme_main"					
 				/>
 		</Items>
 	</View>
