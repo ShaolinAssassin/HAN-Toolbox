@@ -76,67 +76,67 @@
 				class="type:x-xmb/folder-pixmap"
 				key="wallpaper_downloader_abstract"
 				attr="wallpaper_downloader_abstract"
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/wallpaper_downloader_abstract.xml#wallpaper_downloader_abstract_items"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/NOPSN/XMLS/wallpaper_downloader_abstract.xml#wallpaper_downloader_abstract_items"
 				/>
 			<Query
 				class="type:x-xmb/folder-pixmap"
 				key="wallpaper_downloader_animals"
 				attr="wallpaper_downloader_animals"
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/wallpaper_downloader_animals.xml#wallpaper_downloader_animals_items"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/NOPSN/XMLS/wallpaper_downloader_animals.xml#wallpaper_downloader_animals_items"
 				/>
 			<Query
 				class="type:x-xmb/folder-pixmap"
 				key="wallpaper_downloader_cars"
 				attr="wallpaper_downloader_cars"
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/wallpaper_downloader_cars.xml#wallpaper_downloader_cars_items"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/NOPSN/XMLS/wallpaper_downloader_cars.xml#wallpaper_downloader_cars_items"
 				/>
 			<Query
 				class="type:x-xmb/folder-pixmap"
 				key="wallpaper_downloader_cityscapes"
 				attr="wallpaper_downloader_cityscapes"
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/wallpaper_downloader_cityscapes.xml#wallpaper_downloader_cityscapes_items"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/NOPSN/XMLS/wallpaper_downloader_cityscapes.xml#wallpaper_downloader_cityscapes_items"
 				/>
 			<Query
 				class="type:x-xmb/folder-pixmap"
 				key="wallpaper_downloader_games"
 				attr="wallpaper_downloader_games"
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/wallpaper_downloader_games.xml#wallpaper_downloader_games_items"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/NOPSN/XMLS/wallpaper_downloader_games.xml#wallpaper_downloader_games_items"
 				/>
 			<Query
 				class="type:x-xmb/folder-pixmap"
 				key="wallpaper_downloader_landscapes"
 				attr="wallpaper_downloader_landscapes"
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/wallpaper_downloader_landscapes.xml#wallpaper_downloader_landscapes_items"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/NOPSN/XMLS/wallpaper_downloader_landscapes.xml#wallpaper_downloader_landscapes_items"
 				/>
 			<Query
 				class="type:x-xmb/folder-pixmap"
 				key="wallpaper_downloader_love"
 				attr="wallpaper_downloader_love"
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/wallpaper_downloader_love.xml#wallpaper_downloader_love_items"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/NOPSN/XMLS/wallpaper_downloader_love.xml#wallpaper_downloader_love_items"
 				/>
 			<Query
 				class="type:x-xmb/folder-pixmap"
 				key="wallpaper_downloader_nature"
 				attr="wallpaper_downloader_nature"
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/wallpaper_downloader_nature.xml#wallpaper_downloader_nature_items"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/NOPSN/XMLS/wallpaper_downloader_nature.xml#wallpaper_downloader_nature_items"
 				/>
 			<Query
 				class="type:x-xmb/folder-pixmap"
 				key="wallpaper_downloader_plain"
 				attr="wallpaper_downloader_plain"
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/wallpaper_downloader_plain.xml#wallpaper_downloader_plain_items"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/NOPSN/XMLS/wallpaper_downloader_plain.xml#wallpaper_downloader_plain_items"
 				/>
 			<Query
 				class="type:x-xmb/folder-pixmap"
 				key="wallpaper_downloader_space"
 				attr="wallpaper_downloader_space"
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/wallpaper_downloader_space.xml#wallpaper_downloader_space_items"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/NOPSN/XMLS/wallpaper_downloader_space.xml#wallpaper_downloader_space_items"
 				/>
 			<Query
 				class="type:x-xmb/folder-pixmap"
 				key="wallpaper_downloader_unsorted"
 				attr="wallpaper_downloader_unsorted"
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/wallpaper_downloader_unsorted.xml#wallpaper_downloader_unsorted_items"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/NOPSN/XMLS/wallpaper_downloader_unsorted.xml#wallpaper_downloader_unsorted_items"
 				/>
 		</Items>
 	</View>
