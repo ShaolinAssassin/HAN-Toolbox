@@ -30,25 +30,25 @@
 				class="type:x-xmb/folder-pixmap" 
 				key="item_NPEB02307_v129" 
 				attr="item_NPEB02307_v129"
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/NOPSN/XMLS/nopsn_ALL_download_links.xml#item_NPEB02307_v129_main"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/NOPSN/XMLS/nopsn_ALL_download_links.xml#item_NPEB02307_v129_main"
 				/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
 				key="item_NPEB00874_v120" 
 				attr="item_NPEB00874_v120"
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/NOPSN/XMLS/nopsn_ALL_download_links.xml#item_NPEB00874_v120_main"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/NOPSN/XMLS/nopsn_ALL_download_links.xml#item_NPEB00874_v120_main"
 				/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
 				key="item_NPEB02359_v107" 
 				attr="item_NPEB02359_v107"
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/NOPSN/XMLS/nopsn_ALL_download_links.xml#item_NPEB02359_v107_main"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/NOPSN/XMLS/nopsn_ALL_download_links.xml#item_NPEB02359_v107_main"
 				/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
 				key="item_NPEB01229_v102v303_spoof" 
 				attr="item_NPEB01229_v102v303_spoof"
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/NOPSN/XMLS/nopsn_ALL_download_links.xml#item_NPEB01229_v102v303_spoof_main"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/NOPSN/XMLS/nopsn_ALL_download_links.xml#item_NPEB01229_v102v303_spoof_main"
 				/>
 		</Items>
 	</View>

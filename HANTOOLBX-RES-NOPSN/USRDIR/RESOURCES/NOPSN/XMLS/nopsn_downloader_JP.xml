@@ -15,7 +15,7 @@
 				class="type:x-xmb/folder-pixmap" 
 				key="item_NPJB00766_v108" 
 				attr="item_NPJB00766_v108"
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/NOPSN/XMLS/nopsn_ALL_download_links.xml#item_NPJB00766_v108_main"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/NOPSN/XMLS/nopsn_ALL_download_links.xml#item_NPJB00766_v108_main"
 				/>
 		</Items>
 	</View>

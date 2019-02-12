@@ -20,13 +20,13 @@
 				class="type:x-xmb/folder-pixmap" 
 				key="item_NPHA80252_v623" 
 				attr="item_NPHA80252_v623"
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/NOPSN/XMLS/nopsn_ALL_download_links.xml#item_NPHA80252_v623_main"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/NOPSN/XMLS/nopsn_ALL_download_links.xml#item_NPHA80252_v623_main"
 				/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
 				key="item_NPHB00730_v107" 
 				attr="item_NPHB00730_v107"
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/NOPSN/XMLS/nopsn_ALL_download_links.xml#item_NPHB00730_v107_main"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/NOPSN/XMLS/nopsn_ALL_download_links.xml#item_NPHB00730_v107_main"
 				/>
 		</Items>
 	</View>
