@@ -1,0 +1,286 @@
+<XMBML version="1.0">
+
+<!-- Main Items > Advanced Tools > Toolbox Settings (here : icon update notification + v#) -->
+		
+		<View id="han_toolbox_setup_main"> 
+		<Attributes>
+			<Table key="han_toolbox_lang">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_file.png</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_lang</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_lang_info</String></Pair>
+			</Table>
+			<Table key="han_toolbox_resources">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_file.png</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_resources</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_resources_info</String></Pair>
+			</Table>
+			<Table key="han_toolbox_update">
+				<Pair key="icon"><String>http://raw.githubusercontent.com/ShaolinAssassin/HAN-Toolbox/master/update_status/v0.7-update.png</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_update</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_update_info</String></Pair>
+			</Table>
+			<Table key="han_toolbox_about">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/list.png</String></Pair>
+				<Pair key="title"><String>Version: 0.7 (Full)</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_credits</String></Pair>
+				
+			</Table>
+		</Attributes>
+			<Items>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_toolbox_lang" 
+				attr="han_toolbox_lang"
+				src="#han_toolbox_lang_main"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_toolbox_resources" 
+				attr="han_toolbox_resources"
+				src="#han_toolbox_resources_main"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_toolbox_update" 
+				attr="han_toolbox_update"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_stuff_downloader.xml#han_download_patch_file_main"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap"
+				key="han_toolbox_about"
+				attr="han_toolbox_about"
+				src="#han_toolbox_changelog"
+				/>
+			</Items>
+		</View>
+		
+<!-- Main Items > Toolbox Settings > Toolbox Multi Language -->
+
+		<View id="han_toolbox_lang_main"> 
+		<Attributes>
+			<Table key="han_toolbox_install_lang">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_file.png</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_install_lang</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_install_lang_info</String></Pair>
+			</Table>
+			<Table key="han_toolbox_uninstall_lang">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/delete.png</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_uninstall_lang</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_uninstall_lang_info</String></Pair>
+			</Table>
+		</Attributes>
+			<Items>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_toolbox_install_lang" 
+				attr="han_toolbox_install_lang"
+				src="#han_toolbox_install_lang_main"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_toolbox_uninstall_lang" 
+				attr="han_toolbox_uninstall_lang"
+				src="#han_toolbox_uninstall_lang_main"
+			/>
+			</Items>
+		</View>
+
+<!-- Main Items > Toolbox Settings > Toolbox Multi Language > Install Multi Language (here : lang available, english hardcoded) -->
+		
+		<View id="han_toolbox_install_lang_main"> 
+		<Attributes>
+			<Table key="han_toolbox_check_lang_item">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/list.png</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_check_lang_item</String></Pair>
+				<Pair key="info"><String>--- None ATM ---</String></Pair>
+			</Table>
+			<Table key="han_download_lang_rco">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_file.png</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_download_lang_rco</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_download_lang_rco_info</String></Pair>
+			</Table>
+			<Table key="han_inject_lang_rco">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/inj_rco.png</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_inject_lang_rco</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_inject_lang_rco_info</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://ps3xploit.com/flash_rco_replacer/flash_rco_replacer.html</String></Pair>
+			</Table>
+			<Table key="han_download_patch_file">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_file.png</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_download_patch_file</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_download_patch_file_info</String></Pair>
+			</Table>
+		</Attributes>
+			<Items>
+			<Query 
+				class="type:x-xmb/module-action" 
+				key="han_toolbox_check_lang_item" 
+				attr="han_toolbox_check_lang_item"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_download_lang_rco" 
+				attr="han_download_lang_rco"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_stuff_downloader.xml#han_download_lang_rco_main"
+				/>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_inject_lang_rco"
+				attr="han_inject_lang_rco"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_download_patch_file" 
+				attr="han_download_patch_file"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_stuff_downloader.xml#han_download_patch_file_main"
+				/>
+			</Items> 
+		</View>
+
+<!-- Main Items > Toolbox Settings > Toolbox Multi Language > Remove Multi Language -->
+
+		<View id="han_toolbox_uninstall_lang_main"> 
+		<Attributes>
+			<Table key="han_restore_toolbox">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/update.png</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_restore_toolbox</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_restore_toolbox_info</String></Pair>
+			</Table>
+			<Table key="han_download_original_lang_rco">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_file.png</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_download_original_lang_rco</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_download_original_lang_rco_info</String></Pair>
+			</Table>
+			<Table key="han_inject_original_lang_rco">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/inj_rco.png</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_inject_original_lang_rco</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_inject_original_lang_rco_info</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://ps3xploit.com/flash_rco_replacer/flash_rco_replacer.html</String></Pair>
+			</Table>
+		</Attributes>
+			<Items>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_restore_toolbox" 
+				attr="han_restore_toolbox"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_stuff_downloader.xml#han_toolbox_update_main"
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_download_original_lang_rco" 
+				attr="han_download_original_lang_rco"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_stuff_downloader.xml#han_download_original_lang_rco_main"
+			/>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_inject_original_lang_rco"
+				attr="han_inject_original_lang_rco"
+			/>
+			</Items> 
+		</View>
+
+<!-- Main Items > Toolbox Settings > Toolbox Resources -->
+
+		<View id="han_toolbox_resources_main"> 
+		<Attributes>
+			<Table key="han_toolbox_install_resources">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_file.png</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_install_resources</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_install_resources_info</String></Pair>
+			</Table>
+			<Table key="han_toolbox_delete_resources">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/delete.png</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_delete_resources</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_delete_resources_info</String></Pair>
+			</Table>
+		</Attributes>
+			<Items>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_toolbox_install_resources" 
+				attr="han_toolbox_install_resources"
+				src="#han_toolbox_install_resources_main"
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_toolbox_delete_resources" 
+				attr="han_toolbox_delete_resources"
+				src="#han_toolbox_delete_resources_main"
+			/>
+			</Items>
+		</View>
+
+<!-- Main Items > Toolbox Settings > Toolbox Resources > Install Toolbox Resources -->
+
+		<View id="han_toolbox_install_resources_main"> 
+		<Attributes>
+			<Table key="han_toolbox_install_resources_pkg">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_file.png</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_install_resources_pkg</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_install_resources_pkg_info</String></Pair>
+			</Table>
+		</Attributes>
+			<Items>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_toolbox_install_resources_pkg" 
+				attr="han_toolbox_install_resources_pkg"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_stuff_downloader.xml#han_toolbox_install_resources_pkg_main"
+			/>
+			</Items>
+		</View>
+				
+<!-- Main Items > Toolbox Settings > Toolbox Resources > Uninstall Toolbox Resources -->
+			
+		<View id="han_toolbox_delete_resources_main"> 
+		<Attributes>
+			<Table key="han_toolbox_delete_resources_icons_folders">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/delete.png</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_delete_resources_icons_folders</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_delete_resources_icons_folders_info</String></Pair>
+			</Table>
+			<Table key="han_toolbox_delete_resources_xmls">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/delete.png</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_delete_resources_xmls</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_delete_resources_xmls_info</String></Pair>
+			</Table>
+		</Attributes>
+			<Items>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_toolbox_delete_resources_icons_folders" 
+				attr="han_toolbox_delete_resources_icons_folders"
+				src="host://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_toolbox_delete_resources_xmls" 
+				attr="han_toolbox_delete_resources_xmls"
+				src="host://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/"
+				/>
+			</Items>
+		</View>
+
+<!-- Main Items > Toolbox Settings > Changelog - hardcoded in english (here) -->
+			
+		<View id="han_toolbox_changelog"> 
+		<Attributes>
+			<Table key="han_toolbox_last_changes">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/list.png</String></Pair>
+				<Pair key="title"><String>HAN Toolbox Changelog</String></Pair>
+				<Pair key="info"><String>・ v0.7 (2019/XX/XX) :
+				</String></Pair>
+			</Table>
+		</Attributes>
+			<Items>
+			<Query 
+				class="type:x-xmb/module-action" 
+				key="han_toolbox_last_changes" 
+				attr="han_toolbox_last_changes"
+				/>
+			</Items>
+		</View>		
+		
+</XMBML>

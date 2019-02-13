@@ -17,7 +17,7 @@
 				class="type:x-xmb/folder-pixmap"
 				key="han_main"
 				attr="han_main"
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/han_toolbox_main_items.xml#han_main_items"/>
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_main_items.xml#han_main_items"/>
 			</Items>
 		</View>
 		
@@ -36,7 +36,7 @@
 				class="type:x-xmb/folder-pixmap"
 				key="han_main"
 				attr="han_main"
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/han_toolbox_main_items.xml#han_main_items_dex"/>
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_main_items.xml#han_main_items_dex"/>
 			</Items>
 		</View>	
 	
