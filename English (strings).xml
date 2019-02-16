@@ -253,21 +253,24 @@
 <!-- han_toolbox_settings.xml // Main Items > Toolbox Settings > Toolbox Resources -->
 	
 	<Text name="han_toolbox_install_resources">Install Toolbox Resources</Text>
-	<Text name="han_toolbox_install_resources_info">Install the HAN Toolbox resources package and reboot after</Text>
+	<Text name="han_toolbox_install_resources_info">Install the HAN Toolbox resources package and reboot after</Text> 
 	<Text name="han_toolbox_delete_resources">Uninstall Toolbox Resources</Text>
 	<Text name="han_toolbox_delete_resources_info">Uninstall the HAN Toolbox resources package and reboot after</Text>
 	<Text name="han_toolbox_install_resources_pkg">Download Toolbox Resources</Text>
-	<Text name="han_toolbox_install_resources_pkg_info">Download and install the HAN Toolbox resources package and reboot after</Text>
-	<Text name="han_toolbox_delete_resources_icons_folders">Step 1: Delete Resources icons folders</Text>
-	<Text name="han_toolbox_delete_resources_icons_folders_info">Press  to access HAN Toolbox images folder and unlink (folder) demo_icons, nopsn_icons, theme_icons, wallpaper_icons folders</Text>
-	<Text name="han_toolbox_delete_resources_xmls">Step 2: Delete Resources XML files</Text>
-	<Text name="han_toolbox_delete_resources_xmls_info">Press  to access HAN Toolbox XML folder and unlink (folder) XMLS folder</Text>
+	<Text name="han_toolbox_install_resources_pkg_info">Download and install the full HAN Toolbox resources package and reboot after</Text>
+	<Text name="han_toolbox_install_demos_resources_pkg">Download Demo Downloader Resources</Text>
+	<Text name="han_toolbox_install_demos_resources_pkg_info">Download and install the Demo Downloader resources package and reboot after</Text>	
+	<Text name="han_toolbox_install_nopsn_resources_pkg">Download NoPSN Apps Downloader Resources</Text>
+	<Text name="han_toolbox_install_nopsn_resources_pkg_info">Download and install the NoPSN Apps Downloader resources package and reboot after</Text>	
+	<Text name="han_toolbox_install_themes_resources_pkg">Download Theme Downloader Resources</Text>
+	<Text name="han_toolbox_install_themes_resources_pkg_info">Download and install the Theme Downloader resources package and reboot after</Text>	
+	<Text name="han_toolbox_install_wallpapers_resources_pkg">Download Wallpaper Downloader Resources</Text>
+	<Text name="han_toolbox_install_wallpapers_resources_pkg_info">Download and install the Wallpaper Downloader resources package and reboot after</Text>	
+	<Text name="han_toolbox_delete_resources_pkg">Delete all Toolbox Resources</Text>
+	<Text name="han_toolbox_delete_resources_pkg_info">Press  to access HAN Toolbox folder and unlink RESOURCES folder</Text>
+	<Text name="han_toolbox_delete_downloader_resources_pkg">Delete Downloader Resources</Text>
+	<Text name="han_toolbox_delete_downloader_resources_pkg_info">Press  to access HAN Toolbox RESOURCES folder and unlink any of the downloader folders</Text>
 
-<!-- han_toolbox_external_content.xml // Main Items > External Content > No Resources Found -->
-
-	<Text name="han_toolbox_no_resources">No Resources Found</Text>
-	<Text name="han_toolbox_no_resources_info">Press  to download and install the resources package then reboot</Text>
-	
 <!-- demo_downloader.xml // Main Items > External Content > Demo Downloader -->
 
 	<Text name="han_toolbox_demos_eu">EU Demos</Text>

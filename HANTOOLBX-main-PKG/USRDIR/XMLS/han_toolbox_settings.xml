@@ -219,7 +219,27 @@
 			<Table key="han_toolbox_install_resources_pkg">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_file.png</String></Pair>
 				<Pair key="title"><String>Download Toolbox Resources</String></Pair>
-				<Pair key="info"><String>Download and install the HAN Toolbox resources package and reboot after</String></Pair>
+				<Pair key="info"><String>Download and install the full HAN Toolbox resources package and reboot after</String></Pair>
+			</Table>
+			<Table key="han_toolbox_install_demos_resources_pkg">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/downloader.png</String></Pair>
+				<Pair key="title"><String>Download Demo Downloader Resources</String></Pair>
+				<Pair key="info"><String>Download and install the Demo Downloader resources package and reboot after</String></Pair>
+			</Table>
+			<Table key="han_toolbox_install_nopsn_resources_pkg">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/nopsn.png</String></Pair>
+				<Pair key="title"><String>Download NoPSN Apps Downloader Resources</String></Pair>
+				<Pair key="info"><String>Download and install the NoPSN Apps Downloader resources package and reboot after</String></Pair>
+			</Table>
+			<Table key="han_toolbox_install_themes_resources_pkg">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/theme.png</String></Pair>
+				<Pair key="title"><String>Download Theme Downloader Resources</String></Pair>
+				<Pair key="info"><String>Download and install the Theme Downloader resources package and reboot after</String></Pair>
+			</Table>
+			<Table key="han_toolbox_install_wallpapers_resources_pkg">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/wallpaper.png</String></Pair>
+				<Pair key="title"><String>Download Wallpaper Downloader Resources</String></Pair>
+				<Pair key="info"><String>Download and install the Wallpaper Downloader resources package and reboot after</String></Pair>
 			</Table>
 		</Attributes>
 			<Items>
@@ -229,6 +249,30 @@
 				attr="han_toolbox_install_resources_pkg"
 				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_stuff_downloader.xml#han_toolbox_install_resources_pkg_main"
 			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_toolbox_install_demos_resources_pkg" 
+				attr="han_toolbox_install_demos_resources_pkg"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_stuff_downloader.xml#han_toolbox_install_demos_resources_pkg_main"
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_toolbox_install_nopsn_resources_pkg" 
+				attr="han_toolbox_install_nopsn_resources_pkg"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_stuff_downloader.xml#han_toolbox_install_nopsn_resources_pkg_main"
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_toolbox_install_themes_resources_pkg" 
+				attr="han_toolbox_install_themes_resources_pkg"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_stuff_downloader.xml#han_toolbox_install_themes_resources_pkg_main"
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_toolbox_install_wallpapers_resources_pkg" 
+				attr="han_toolbox_install_wallpapers_resources_pkg"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_stuff_downloader.xml#han_toolbox_install_wallpapers_resources_pkg_main"
+			/>
 			</Items>
 		</View>
 
@@ -236,29 +280,29 @@
 			
 		<View id="han_toolbox_delete_resources_main"> 
 		<Attributes>
-			<Table key="han_toolbox_delete_resources_icons_folders">
+			<Table key="han_toolbox_delete_resources_pkg">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/delete.png</String></Pair>
-				<Pair key="title"><String>Step 1: Delete Resources icons folders</String></Pair>
-				<Pair key="info"><String>Press  to access HAN Toolbox images folder and unlink (folder) demo_icons, nopsn_icons, theme_icons, wallpaper_icons folders</String></Pair>
+				<Pair key="title"><String>Delete all Toolbox Resources</String></Pair>
+				<Pair key="info"><String>Press  to access HAN Toolbox folder and unlink RESOURCES folder</String></Pair>
 			</Table>
-			<Table key="han_toolbox_delete_resources_xmls">
+			<Table key="han_toolbox_delete_downloader_resources_pkg">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/delete.png</String></Pair>
-				<Pair key="title"><String>Step 2: Delete Resources XML files</String></Pair>
-				<Pair key="info"><String>Press  to access HAN Toolbox XML folder and unlink (folder) XMLS folder</String></Pair>
+				<Pair key="title"><String>Delete Downloader Resources</String></Pair>
+				<Pair key="info"><String>Press  to access HAN Toolbox RESOURCES folder and unlink any of the downloader folders</String></Pair>
 			</Table>
 		</Attributes>
 			<Items>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
-				key="han_toolbox_delete_resources_icons_folders" 
-				attr="han_toolbox_delete_resources_icons_folders"
-				src="host://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/"
+				key="han_toolbox_delete_resources_pkg" 
+				attr="han_toolbox_delete_resources_pkg"
+				src="host://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/"
 				/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
-				key="han_toolbox_delete_resources_xmls" 
-				attr="han_toolbox_delete_resources_xmls"
-				src="host://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/"
+				key="han_toolbox_delete_downloader_resources_pkg" 
+				attr="han_toolbox_delete_downloader_resources_pkg"
+				src="host://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/"
 				/>
 			</Items>
 		</View>

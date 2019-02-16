@@ -1,6 +1,9 @@
 <!-- HAN Toolbox English template - This is a WIP file !-->
 
----v0.6 strings : 
+Legend:
+[-] : string removed, do not translate it
+[*] : string updated, translate/update it
+[+] : new string, translate it
 
 	<Text name="han_toolbox_title"><![CDATA[★ HAN Toolbox]]></Text>
 	<Text name="han_toolbox_info_cex">The Xploit 3.0 Companion</Text>
@@ -68,6 +71,8 @@
 	<Text name="han_toolbox_inject_sprx_lines_info">Copy lines.qrc to dev_flash/vsh/resource/qgl/lines.qrc</Text>
 	<Text name="han_toolbox_inject_emoji">Inject Imagefont.bin (Emojis and Icons)</Text>
 	<Text name="han_toolbox_inject_emoji_info">Copy imagefont.bin to dev_flash/vsh/resource/imagefont.bin</Text>
+[*]	<Text name="han_toolbox_inject_font">Inject TTF/ttf (Font)</Text>
+[*]	<Text name="han_toolbox_inject_font_info">Copy *.TTF/*.ttf to dev_flash/data/font/*</Text>
 	<Text name="han_toolbox_inject_remove_cert">Inject/Remove Cert (SSL Cert)</Text>
 	<Text name="han_toolbox_inject_remove_cert_info">Copy/Delete certs at dev_flash/data/cert/*.cer</Text>
 	<Text name="han_toolbox_inject_self_main">Inject SELF (Main)</Text>
@@ -115,8 +120,8 @@
 	<Text name="han_toolbox_update">Update Toolbox</Text>
 	<Text name="han_toolbox_update_info">Download and install the latest Toolbox package and reboot after</Text>
 	<Text name="han_toolbox_credits">By DeViL303, Pink1, esc0rtd3w, Berion, ShaolinAssassin, Demon Hades and lmn7
-Massive thanks to the PS3Xploit Team for all the hacks
-Translation in (language) by (your-name-here)</Text>
+	Massive thanks to the PS3Xploit Team for all the hacks</Text>
+	Translation in (language) by (your-name-here)</Text>
 	<Text name="han_toolbox_install_lang">Install Multi Language</Text>
 	<Text name="han_toolbox_install_lang_info">Download and install the lang resources and reboot after</Text>
 	<Text name="han_toolbox_uninstall_lang">Uninstall Multi Language</Text>
@@ -138,11 +143,14 @@ Translation in (language) by (your-name-here)</Text>
 	<Text name="han_toolbox_install_resources_info">Install the HAN Toolbox resources package and reboot after</Text>
 	<Text name="han_toolbox_delete_resources">Uninstall Toolbox Resources</Text>
 	<Text name="han_toolbox_delete_resources_info">Uninstall the HAN Toolbox resources package and reboot after</Text>
+[*]	<Text name="han_toolbox_install_resources_pkg">Download Toolbox Resources</Text>
 	<Text name="han_toolbox_install_resources_pkg_info">Download and install the HAN Toolbox resources package and reboot after</Text>
-	<Text name="han_toolbox_delete_resources_icons_folders">Step 1: Delete Resources icons folders</Text>
-	<Text name="han_toolbox_delete_resources_icons_folders_info">Press  to access HAN Toolbox images folder and unlink (folder) demo_icons, nopsn_icons, theme_icons, wallpaper_icons folders</Text>
-	<Text name="han_toolbox_delete_resources_xmls">Step 2: Delete Resources XML files</Text>
-	<Text name="han_toolbox_delete_resources_xmls_info">Press  to access HAN Toolbox XML folder and unlink (folder) XMLS folder</Text>
+[-]	<Text name="han_toolbox_install_resources_lang">Step 2 (Optional): Download Toolbox Resources lang files</Text>
+[-]	<Text name="han_toolbox_install_resources_lang_info">Download and install the HAN Toolbox resources lang files and reboot after</Text>
+[-]	<Text name="han_toolbox_delete_resources_icons_folders">Step 1: Delete Resources icons folders</Text>
+[-]	<Text name="han_toolbox_delete_resources_icons_folders_info">Press  to access HAN Toolbox images folder and unlink (folder) demo_icons, nopsn_icons, theme_icons, wallpaper_icons folders</Text>
+[-]	<Text name="han_toolbox_delete_resources_xmls">Step 2: Delete Resources XML files</Text>
+[-]	<Text name="han_toolbox_delete_resources_xmls_info">Press  to access HAN Toolbox XML folder and unlink (folder) XMLS folder</Text>
 	<Text name="han_toolbox_server_setup">Server Setup</Text>
 	<Text name="han_toolbox_server_setup_info">Update List, Rescan and Other Server Controls</Text>
 	<Text name="han_toolbox_server_refresh">Refresh Package List</Text>
@@ -157,11 +165,11 @@ Translation in (language) by (your-name-here)</Text>
 	<Text name="han_toolbox_server_close_info">Shutdown webserver and close PKG Linker</Text>
 	<Text name="han_toolbox_server_info">Server Info</Text>
 	<Text name="han_toolbox_server_info_info">PC IP: xxx.xxx.xxx.xxx
-Port: xxxx
-Folder: xxxxxxxxxxxxx
-Press  to see package list</Text>
-	<Text name="han_toolbox_no_resources">No Resources Found</Text>
-	<Text name="han_toolbox_no_resources_info">Press  to download and install the resources package then reboot</Text>
+	Port: xxxx
+	Folder: xxxxxxxxxxxxx
+	Press  to see package list</Text>
+[-]	<Text name="han_toolbox_no_resources">No Resources Found</Text>
+[-]	<Text name="han_toolbox_no_resources_info">Press  to download and install the resources package then reboot</Text>
 	<Text name="han_toolbox_themes_ac">Themes (A-C)</Text>
 	<Text name="han_toolbox_themes_dh">Themes (D-H)</Text>
 	<Text name="han_toolbox_themes_in">Themes (I-N)</Text>
@@ -200,44 +208,47 @@ Press  to see package list</Text>
 	<Text name="han_toolbox_nopsn_jp_ver">JP Versions</Text>
 	<Text name="han_toolbox_nopsn_us_ver">US Versions</Text>
 	<Text name="han_toolbox_nopsn_int_ver">Internal Versions</Text>
-	
----v0.7 strings : 
-
--0.6 updated :
-	<Text name="han_toolbox_inject_sprx">Inject SPRX</Text>
-	<Text name="han_toolbox_inject_sprx_info">Copy *.sprx to dev_flash/*/*/*.sprx</Text>
-	<Text name="han_toolbox_inject_font">Inject TTF (Font)</Text>
-	<Text name="han_toolbox_inject_font_info">Copy *.ttf to dev_flash/data/font/*.ttf</Text>
-	<Text name="han_toolbox_install_resources_pkg">Download Toolbox Resources</Text>
--0.7 new strings : 
-	<Text name="han_toolbox_browse_dev_all">All active devices</Text>
-	<Text name="han_toolbox_browse_dev_all_info">Browse/detele files on all active devices</Text>
-	<Text name="han_toolbox_browse_dev_hdd">Internal HDD</Text>
-	<Text name="han_toolbox_browse_dev_hdd_info">Browse/detele files on PS3 internal hard drive disk</Text>
-	<Text name="han_toolbox_browse_dev_flash">Internal flash memory</Text>
-	<Text name="han_toolbox_browse_dev_flash_info">Browse/detele files on flash memory</Text>
-	<Text name="han_toolbox_browse_dev_usb">USB mass storage devices</Text>
-	<Text name="han_toolbox_browse_dev_usb_info">Browse/detele files on USB devices</Text>
-	<Text name="han_toolbox_browse_dev_optical">Optical drive</Text>
-	<Text name="han_toolbox_browse_dev_optical_info">Browse files on optical disc</Text>
-	<Text name="han_toolbox_browse_downloaded_files">Downloaded files</Text>
-	<Text name="han_toolbox_browse_downloaded_files_info">Browse/detele files downloaded in HANTOOLBX/USRDIR/files/ folder</Text>
-	<Text name="han_toolbox_browse_dev_flash1">Internal flash, partition n°1</Text>
-	<Text name="han_toolbox_browse_dev_flash1_info">Access dev_flash/ partition</Text>
-	<Text name="han_toolbox_browse_dev_flash2">Internal flash, partition n°2</Text>
-	<Text name="han_toolbox_browse_dev_flash2_info">Access dev_flash2/ partition</Text>
-	<Text name="han_toolbox_browse_dev_flash3">Internal flash, partition n°3</Text>
-	<Text name="han_toolbox_browse_dev_flash3_info">Access dev_flash3/ partition</Text>
-	<Text name="han_toolbox_browse_dev_usb000">Device n°0 (Right port)</Text>
-	<Text name="han_toolbox_browse_dev_usb000_info">Access dev_usb000/</Text>
-	<Text name="han_toolbox_browse_dev_usb001">Device n°1 (Left port)</Text>
-	<Text name="han_toolbox_browse_dev_usb001_info">Access dev_usb001/</Text>
-	<Text name="han_toolbox_browse_downloaded_files_folder">HANTOOLBX/USRDIR/files/</Text>
-	<Text name="han_toolbox_browse_downloaded_files_folder_info">Access HANTOOLBX/USRDIR/files/</Text>
-	<Text name="han_toolbox_browse_downloaded_files_readme">Open readme.txt</Text>
-	<Text name="han_toolbox_browse_downloaded_files_readme_info">Read downloaded files description</Text>
-	<Text name="han_toolbox_inject_TTF_font">Inject TTF (Font)</Text>
-	<Text name="han_toolbox_inject_TTF_font_info">Copy *.TTF to dev_flash/data/font/*.TTF</Text>
-	<Text name="han_toolbox_inject_ttf_sony_cc_font">Inject ttf (Sony-CC Font)</Text>
-	<Text name="han_toolbox_inject_ttf_sony_cc_font_info">Copy *.ttf to dev_flash/data/font/SONY-CC/*.ttf</Text>
-
+[+]	<Text name="han_toolbox_inject_sprx">Inject SPRX</Text>
+[+]	<Text name="han_toolbox_inject_sprx_info">Copy *.sprx to dev_flash/*/*/*.sprx</Text>
+[+]	<Text name="han_toolbox_browse_dev_all">All active devices</Text>
+[+]	<Text name="han_toolbox_browse_dev_all_info">Browse/detele files on all active devices</Text>
+[+]	<Text name="han_toolbox_browse_dev_hdd">Internal HDD</Text>
+[+]	<Text name="han_toolbox_browse_dev_hdd_info">Browse/detele files on PS3 internal hard drive disk</Text>
+[+]	<Text name="han_toolbox_browse_dev_flash">Internal flash memory</Text>
+[+]	<Text name="han_toolbox_browse_dev_flash_info">Browse/detele files on flash memory</Text>
+[+]	<Text name="han_toolbox_browse_dev_usb">USB mass storage devices</Text>
+[+]	<Text name="han_toolbox_browse_dev_usb_info">Browse/detele files on USB devices</Text>
+[+]	<Text name="han_toolbox_browse_dev_optical">Optical drive</Text>
+[+]	<Text name="han_toolbox_browse_dev_optical_info">Browse files on optical disc</Text>
+[+]	<Text name="han_toolbox_browse_downloaded_files">Downloaded files</Text>
+[+]	<Text name="han_toolbox_browse_downloaded_files_info">Browse/detele files downloaded in HANTOOLBX/USRDIR/files/ folder</Text>
+[+]	<Text name="han_toolbox_browse_dev_flash1">Internal flash, partition n°1</Text>
+[+]	<Text name="han_toolbox_browse_dev_flash1_info">Access dev_flash/ partition</Text>
+[+]	<Text name="han_toolbox_browse_dev_flash2">Internal flash, partition n°2</Text>
+[+]	<Text name="han_toolbox_browse_dev_flash2_info">Access dev_flash2/ partition</Text>
+[+]	<Text name="han_toolbox_browse_dev_flash3">Internal flash, partition n°3</Text>
+[+]	<Text name="han_toolbox_browse_dev_flash3_info">Access dev_flash3/ partition</Text>
+[+]	<Text name="han_toolbox_browse_dev_usb000">Device n°0 (Right port)</Text>
+[+]	<Text name="han_toolbox_browse_dev_usb000_info">Access dev_usb000/</Text>
+[+]	<Text name="han_toolbox_browse_dev_usb001">Device n°1 (Left port)</Text>
+[+]	<Text name="han_toolbox_browse_dev_usb001_info">Access dev_usb001/</Text>
+[+]	<Text name="han_toolbox_browse_downloaded_files_folder">HANTOOLBX/USRDIR/files/</Text>
+[+]	<Text name="han_toolbox_browse_downloaded_files_folder_info">Access HANTOOLBX/USRDIR/files/</Text>
+[+]	<Text name="han_toolbox_browse_downloaded_files_readme">Open readme.txt</Text>
+[+]	<Text name="han_toolbox_browse_downloaded_files_readme_info">Read downloaded files description</Text>
+[+]	<Text name="han_toolbox_inject_TTF_font">Inject TTF (Font)</Text>
+[+]	<Text name="han_toolbox_inject_TTF_font_info">Copy *.TTF to dev_flash/data/font/*.TTF</Text>
+[+]	<Text name="han_toolbox_inject_ttf_sony_cc_font">Inject ttf (Sony-CC Font)</Text>
+[+]	<Text name="han_toolbox_inject_ttf_sony_cc_font_info">Copy *.ttf to dev_flash/data/font/SONY-CC/*.ttf</Text>
+[+]	<Text name="han_toolbox_install_demos_resources_pkg">Download Demo Downloader Resources</Text>
+[+]	<Text name="han_toolbox_install_demos_resources_pkg_info">Download and install the Demo Downloader resources package and reboot after</Text>
+[+]	<Text name="han_toolbox_install_nopsn_resources_pkg">Download NoPSN Apps Downloader Resources</Text>
+[+]	<Text name="han_toolbox_install_nopsn_resources_pkg_info">Download and install the NoPSN Apps Downloader resources package and reboot after</Text>
+[+]	<Text name="han_toolbox_install_themes_resources_pkg">Download Theme Downloader Resources</Text>
+[+]	<Text name="han_toolbox_install_themes_resources_pkg_info">Download and install the Theme Downloader resources package and reboot after</Text>
+[+]	<Text name="han_toolbox_install_wallpapers_resources_pkg">Download Wallpaper Downloader Resources</Text>
+[+]	<Text name="han_toolbox_install_wallpapers_resources_pkg_info">Download and install the Wallpaper Downloader resources package and reboot after</Text>
+[+]	<Text name="han_toolbox_delete_resources_pkg">Delete all Toolbox Resources</Text>
+[+]	<Text name="han_toolbox_delete_resources_pkg_info">Press  to access HAN Toolbox folder and unlink RESOURCES folder</Text>
+[+]	<Text name="han_toolbox_delete_downloader_resources_pkg">Delete Downloader Resources</Text>
+[+]	<Text name="han_toolbox_delete_downloader_resources_pkg_info">Press  to access HAN Toolbox RESOURCES folder and unlink any of the downloader folders</Text>
