@@ -9,11 +9,11 @@
 <!-- han_toolbox_main_items.xml // Main Items CEX -->
 	
 	<Text name="han_toolbox_reboot_soft_offline">Offline Soft Rebooter</Text>
-	<Text name="han_toolbox_reboot_info_482_cex">Restart console (4.82 CEX)</Text>
+	<Text name="han_toolbox_reboot_info_482_cex">Restart console (4.82)</Text>
 	<Text name="han_toolbox_enabler_offline">Offline HAN Enabler</Text>	
-	<Text name="han_toolbox_enabler_info_482_cex">Enable custom signed packages and licenses (4.82 CEX)</Text>	
+	<Text name="han_toolbox_enabler_info_482_cex">Enable custom signed packages and licenses (4.82)</Text>	
 	<Text name="han_toolbox_debug_enabler_offline">Offline Debug Package Enabler</Text>
-	<Text name="han_toolbox_debug_enabler_info_482_cex">Enable modified retail packages (4.82 CEX)</Text>
+	<Text name="han_toolbox_debug_enabler_info_482_cex">Enable modified retail packages (4.82)</Text>
 	<Text name="han_toolbox_functions">HAN Functions</Text>
 	<Text name="han_toolbox_functions_info">Autorun HAN functions (Official site)</Text>	
 	<Text name="han_toolbox_functions_local">Locally Hosted HAN Functions</Text>
