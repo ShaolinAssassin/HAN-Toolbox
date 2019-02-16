@@ -1,0 +1,52 @@
+<XMBML version="1.0">
+
+<!-- Main Items > HAN functions Online CEX -->
+		
+		<View id="han_functions_main"> 
+		<Attributes> 
+			<Table key="han_reboot_hard_auto">
+				<Pair key="icon_rsc"><String>tex_repeat_status</String></Pair>
+				<Pair key="title"><String>Hard Reboot</String></Pair>
+				<Pair key="info"><String>Restart console</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://www.ps3xploit.com/autoxml/pett/syscalls/power/hard_reboot.html</String></Pair>
+			</Table>
+			<Table key="han_shutdown_auto">
+				<Pair key="icon_rsc"><String>tex_stop_status</String></Pair>
+				<Pair key="title"><String>Shutdown</String></Pair>
+				<Pair key="info"><String>Turn off console</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://www.ps3xploit.com/autoxml/pett/syscalls/power/power_down.html </String></Pair>
+			</Table>
+			<Table key="han_installer_auto">
+				<Pair key="icon_rsc"><String>item_tex_cam_icon</String></Pair>
+				<Pair key="title"><String>HAN Installer</String></Pair>
+				<Pair key="info"><String>Enable package manager</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://ps3xploit.com/autoxml/han/han_installer_auto.html</String></Pair>
+			</Table>
+			<Table key="han_license_dumper_auto">
+				<Pair key="icon_rsc"><String>item_tex_cam_icon</String></Pair>
+				<Pair key="title"><String>License Dumper</String></Pair>
+				<Pair key="info"><String>Dump activation data (act.dat+idps)</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://ps3xploit.com/autoxml/han/actidps_dumper_auto.html</String></Pair>
+			</Table>
+			<Table key="han_debug_auto">
+				<Pair key="icon_rsc"><String>item_tex_cam_icon</String></Pair>
+				<Pair key="title"><String>Debug Package Enabler</String></Pair>
+				<Pair key="info"><String>For modifed retail PS3 packages only</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://ps3xploit.com/autoxml/han/dbgpkg_enabler_auto.html</String></Pair>
+			</Table>
+		</Attributes>
+			<Items>
+			<Query class="type:x-xmb/module-action" key="han_reboot_hard_auto" attr="han_reboot_hard_auto"/>
+			<Query class="type:x-xmb/module-action" key="han_shutdown_auto" attr="han_shutdown_auto"/>
+			<Query class="type:x-xmb/module-action" key="han_installer_auto" attr="han_installer_auto"/>
+			<Query class="type:x-xmb/module-action" key="han_license_dumper_auto" attr="han_license_dumper_auto"/>
+			<Query class="type:x-xmb/module-action" key="han_debug_auto" attr="han_debug_auto"/>
+			</Items>
+		</View>
+
+</XMBML>

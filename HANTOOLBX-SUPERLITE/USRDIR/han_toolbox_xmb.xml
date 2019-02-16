@@ -1,6 +1,6 @@
 <XMBML version="1.0">
 
-<!-- HAN Toolbox v0.7 -- Super Lite Version -->
+<!-- HAN Toolbox -- Super Lite Version -->
 
 		<View id="han_toolbox_xmb_main"> 
 		<Attributes> 
@@ -13,7 +13,7 @@
 		</Attributes>
 			<Items>
 			<Query 
-				class="type:x-xmb/folder-pixmap" key="han_main" attr="han_main" src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/han_toolbox_main_items.xml#han_main_items"/>
+				class="type:x-xmb/folder-pixmap" key="han_main" attr="han_main" src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_main_items.xml#han_main_items"/>
 			</Items>
 		</View>
 		

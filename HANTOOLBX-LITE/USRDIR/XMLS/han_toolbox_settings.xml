@@ -1,0 +1,34 @@
+<XMBML version="1.0">
+
+<!-- Main Items > Toolbox Settings -->
+		
+		<View id="han_toolbox_setup_main"> 
+		<Attributes> 
+			<Table key="han_toolbox_upgrade">
+				<Pair key="icon_rsc"><String>item_tex_cam_icon</String></Pair>
+				<Pair key="title"><String>Upgrade Toolbox</String></Pair>
+				<Pair key="info"><String>Download and install the latest FULL Toolbox package and reboot after</String></Pair>
+			</Table>
+			<Table key="han_toolbox_about">
+				<Pair key="icon_rsc"><String>friend_tex_load</String></Pair>
+				<Pair key="title"><String>Version: 0.7 (Lite)</String></Pair>
+				<Pair key="info"><String>By DeViL303, Pink1, esc0rtd3w, Berion, ShaolinAssassin, Demon Hades and lmn7
+				Massive thanks to the PS3Xploit Team for all the hacks</String></Pair>
+			</Table>
+		</Attributes>
+			<Items>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_toolbox_upgrade" 
+				attr="han_toolbox_upgrade"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_stuff_downloader.xml#han_toolbox_upgrade_main"
+				/>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_toolbox_about"
+				attr="han_toolbox_about"
+				/>
+			</Items>
+		</View>
+
+</XMBML>
