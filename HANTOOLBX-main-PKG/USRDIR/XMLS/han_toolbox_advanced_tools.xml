@@ -218,7 +218,7 @@
 			</Table>
 			<Table key="han_browse_downloaded_files_readme">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/text.png</String></Pair>
-				<Pair key="title"><String>Open readme.txt</String></Pair>
+				<Pair key="title"><String>Open readme</String></Pair>
 				<Pair key="info"><String>Read downloaded files description</String></Pair>
 				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
 			</Table>
