@@ -231,7 +231,7 @@
 				src="host://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/files/"
 				/>
 			<Query 
-				class="type:x-xmb/module-action" 
+				class="type:x-xmb/folder-pixmap" 
 				key="han_browse_downloaded_files_readme"
 				attr="han_browse_downloaded_files_readme"
 				src="host://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/files/readme.xml#readme_main"				

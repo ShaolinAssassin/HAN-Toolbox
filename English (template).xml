@@ -116,7 +116,7 @@ Legend:
 	<Text name="han_toolbox_lang">Toolbox Multi Language</Text>
 	<Text name="han_toolbox_lang_info">Install/Uninstall the HAN Toolbox lang resources files</Text>
 	<Text name="han_toolbox_resources">Toolbox Resources</Text>
-	<Text name="han_toolbox_resources_info">Install/Uninstall the HAN Toolbox resources package</Text>
+[*]	<Text name="han_toolbox_resources_info">Install/Uninstall the HAN Toolbox resources packages</Text>
 	<Text name="han_toolbox_update">Update Toolbox</Text>
 	<Text name="han_toolbox_update_info">Download and install the latest Toolbox package and reboot after</Text>
 	<Text name="han_toolbox_credits">By DeViL303, Pink1, esc0rtd3w, Berion, ShaolinAssassin, Demon Hades and lmn7
@@ -140,9 +140,9 @@ Legend:
 	<Text name="han_toolbox_inject_original_lang_rco">Step 3 (Optional): Restore original lang RCO file</Text>
 	<Text name="han_toolbox_inject_original_lang_rco_info">Restore original downloaded explore_plugin_full.rco from HANTOOLBX/USRDIR/files to dev_flash/vsh/resource/*.rco</Text>
 	<Text name="han_toolbox_install_resources">Install Toolbox Resources</Text>
-	<Text name="han_toolbox_install_resources_info">Install the HAN Toolbox resources package and reboot after</Text>
+[*]	<Text name="han_toolbox_install_resources_info">Install the HAN Toolbox resources packages and reboot after</Text>
 	<Text name="han_toolbox_delete_resources">Uninstall Toolbox Resources</Text>
-	<Text name="han_toolbox_delete_resources_info">Uninstall the HAN Toolbox resources package and reboot after</Text>
+[*]	<Text name="han_toolbox_delete_resources_info">Uninstall the HAN Toolbox resources packages and reboot after</Text>
 [*]	<Text name="han_toolbox_install_resources_pkg">Download Toolbox Resources</Text>
 	<Text name="han_toolbox_install_resources_pkg_info">Download and install the HAN Toolbox resources package and reboot after</Text>
 [-]	<Text name="han_toolbox_install_resources_lang">Step 2 (Optional): Download Toolbox Resources lang files</Text>

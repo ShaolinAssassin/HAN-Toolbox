@@ -12,7 +12,7 @@
 			<Table key="han_toolbox_resources">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_file.png</String></Pair>
 				<Pair key="title"><String>Toolbox Resources</String></Pair>
-				<Pair key="info"><String>Install/Uninstall the HAN Toolbox resources package</String></Pair>
+				<Pair key="info"><String>Install/Uninstall the HAN Toolbox resources packages</String></Pair>
 			</Table>
 			<Table key="han_toolbox_update">
 				<Pair key="icon"><String>http://raw.githubusercontent.com/ShaolinAssassin/HAN-Toolbox/master/update_status/v0.7-update.png</String></Pair>
@@ -188,12 +188,12 @@
 			<Table key="han_toolbox_install_resources">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_file.png</String></Pair>
 				<Pair key="title"><String>Install Toolbox Resources</String></Pair>
-				<Pair key="info"><String>Install the HAN Toolbox resources package and reboot after</String></Pair>
+				<Pair key="info"><String>Install the HAN Toolbox resources packages and reboot after</String></Pair>
 			</Table>
 			<Table key="han_toolbox_delete_resources">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/delete.png</String></Pair>
 				<Pair key="title"><String>Uninstall Toolbox Resources</String></Pair>
-				<Pair key="info"><String>Uninstall the HAN Toolbox resources package and reboot after</String></Pair>
+				<Pair key="info"><String>Uninstall the HAN Toolbox resources packages and reboot after</String></Pair>
 			</Table>
 		</Attributes>
 			<Items>
