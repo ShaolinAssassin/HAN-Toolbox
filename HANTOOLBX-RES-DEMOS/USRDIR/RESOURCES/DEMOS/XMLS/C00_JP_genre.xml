@@ -338,7 +338,7 @@
 		</Items>
 		</View>
 		
-	<View id="C00_JP_genre_plateformer_items">
+	<View id="C00_JP_genre_platformer_items">
 		<Attributes>
 			<Table key="item_NPJB00154"> 
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/IMAGES/Black_Knight_Sword.png</String></Pair> 

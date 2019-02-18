@@ -1130,7 +1130,7 @@
 		</Items>
 		</View>
 		
-	<View id="C00_EU_genre_plateformer_items">
+	<View id="C00_EU_genre_platformer_items">
 		<Attributes>
 			<Table key="item_NPEB01022"> 
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/IMAGES/Alien_Spidy.png</String></Pair> 

@@ -263,7 +263,7 @@
 	<Text name="han_toolbox_delete_downloader_resources_pkg">Delete Downloader Resources</Text>
 	<Text name="han_toolbox_delete_downloader_resources_pkg_info">Press  to access HAN Toolbox RESOURCES folder and unlink any of the downloader folders</Text>
 
-<!-- demo_downloader.xml // Main Items > External Content > Demo Downloader -->
+<!-- han_toolbox_demo_downloader.xml // Main Items > External Content > Demo Downloader -->
 
 	<Text name="han_toolbox_demos_eu">EU Demos</Text>
 	<Text name="han_toolbox_demos_hk">HK Demos</Text>
@@ -283,7 +283,7 @@
 	<Text name="han_toolbox_demos_sports">Sports</Text>
 	<Text name="han_toolbox_demos_strategy">Strategy</Text>
 
-<!-- nopsn_downloader.xml // Main Items > External Content > NoPSN Downloader -->
+<!-- han_toolbox_nopsn_downloader.xml // Main Items > External Content > NoPSN Downloader -->
 
 	<Text name="han_toolbox_nopsn_eu_ver">EU Versions</Text>
 	<Text name="han_toolbox_nopsn_hk_ver">HK Versions</Text>
@@ -291,7 +291,7 @@
 	<Text name="han_toolbox_nopsn_us_ver">US Versions</Text>
 	<Text name="han_toolbox_nopsn_int_ver">Internal Versions</Text>
 	
-<!-- theme_downloader.xml // Main Items > External Content > Theme Downloader -->
+<!-- han_toolbox_theme_downloader.xml // Main Items > External Content > Theme Downloader -->
 
 	<Text name="han_toolbox_themes_ac">Themes (A-C)</Text>
 	<Text name="han_toolbox_themes_dh">Themes (D-H)</Text>
@@ -299,7 +299,7 @@
 	<Text name="han_toolbox_themes_os">Themes (O-S)</Text>
 	<Text name="han_toolbox_themes_tz">Themes (T-Z)</Text>
 	
-<!-- wallpaper_downloader.xml // Main Items > External Content > Wallpaper Downloader -->
+<!-- han_toolbox_wallpaper_downloader.xml // Main Items > External Content > Wallpaper Downloader -->
 
 	<Text name="han_toolbox_abstract">Abstract</Text>
 	<Text name="han_toolbox_animals">Animals</Text>

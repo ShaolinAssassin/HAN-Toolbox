@@ -257,9 +257,9 @@
 				<Pair key="info_rsc"><String></String></Pair>
 				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
 			</Table>
-			<Table key="demo_downloader_C00_EU_genre_plateformer">
+			<Table key="demo_downloader_C00_EU_genre_platformer">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
-				<Pair key="title_rsc"><String>han_toolbox_demos_plateformer</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_demos_platformer</String></Pair>
 				<Pair key="info_rsc"><String></String></Pair>
 				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
 			</Table>
@@ -321,9 +321,9 @@
 				/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
-				key="demo_downloader_C00_EU_genre_plateformer" 
-				attr="demo_downloader_C00_EU_genre_plateformer"
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/XMLS/C00_EU_genre.xml#C00_EU_genre_plateformer_items"
+				key="demo_downloader_C00_EU_genre_platformer" 
+				attr="demo_downloader_C00_EU_genre_platformer"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/XMLS/C00_EU_genre.xml#C00_EU_genre_platformer_items"
 				/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
@@ -386,9 +386,9 @@
 				<Pair key="info_rsc"><String></String></Pair>
 				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
 			</Table>
-			<Table key="demo_downloader_C00_HK_genre_plateformer">
+			<Table key="demo_downloader_C00_HK_genre_platformer">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
-				<Pair key="title_rsc"><String>han_toolbox_demos_plateformer</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_demos_platformer</String></Pair>
 				<Pair key="info_rsc"><String></String></Pair>
 				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
 			</Table>
@@ -444,9 +444,9 @@
 				/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
-				key="demo_downloader_C00_HK_genre_plateformer" 
-				attr="demo_downloader_C00_HK_genre_plateformer"
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/XMLS/C00_HK_genre.xml#C00_HK_genre_plateformer_items"
+				key="demo_downloader_C00_HK_genre_platformer" 
+				attr="demo_downloader_C00_HK_genre_platformer"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/XMLS/C00_HK_genre.xml#C00_HK_genre_platformer_items"
 				/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
@@ -503,9 +503,9 @@
 				<Pair key="info_rsc"><String></String></Pair>
 				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
 			</Table>
-			<Table key="demo_downloader_C00_JP_genre_plateformer">
+			<Table key="demo_downloader_C00_JP_genre_platformer">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
-				<Pair key="title_rsc"><String>han_toolbox_demos_plateformer</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_demos_platformer</String></Pair>
 				<Pair key="info_rsc"><String></String></Pair>
 				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
 			</Table>
@@ -567,9 +567,9 @@
 				/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
-				key="demo_downloader_C00_JP_genre_plateformer" 
-				attr="demo_downloader_C00_JP_genre_plateformer"
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/XMLS/C00_JP_genre.xml#C00_JP_genre_plateformer_items"
+				key="demo_downloader_C00_JP_genre_platformer" 
+				attr="demo_downloader_C00_JP_genre_platformer"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/XMLS/C00_JP_genre.xml#C00_JP_genre_platformer_items"
 				/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
@@ -632,9 +632,9 @@
 				<Pair key="info_rsc"><String></String></Pair>
 				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
 			</Table>
-			<Table key="demo_downloader_C00_US_genre_plateformer">
+			<Table key="demo_downloader_C00_US_genre_platformer">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
-				<Pair key="title_rsc"><String>han_toolbox_demos_plateformer</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_demos_platformer</String></Pair>
 				<Pair key="info_rsc"><String></String></Pair>
 				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
 			</Table>
@@ -696,9 +696,9 @@
 				/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
-				key="demo_downloader_C00_US_genre_plateformer" 
-				attr="demo_downloader_C00_US_genre_plateformer"
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/XMLS/C00_US_genre.xml#C00_US_genre_plateformer_items"
+				key="demo_downloader_C00_US_genre_platformer" 
+				attr="demo_downloader_C00_US_genre_platformer"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/XMLS/C00_US_genre.xml#C00_US_genre_platformer_items"
 				/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
