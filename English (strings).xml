@@ -237,18 +237,10 @@
 	<Text name="han_toolbox_uninstall_lang">Uninstall Multi Language</Text>
 	<Text name="han_toolbox_uninstall_lang_info">Restore English language of HAN Toolbox and reboot after</Text>
 	<Text name="han_toolbox_check_lang_item">HAN Toolbox is translated in the following languages :</Text>
-	<Text name="han_toolbox_download_lang_rco">Step 1: Download lang RCO file</Text>
-	<Text name="han_toolbox_download_lang_rco_info">Download explore_plugin_full.rco to HANTOOLBX/USRDIR/files/ ready for installation</Text>
+	<Text name="han_toolbox_download_multi_lang_pkg">Step 1: Download Toolbox Multi Lang PKG</Text>
+	<Text name="han_toolbox_download_multi_lang_pkg_info">Download and install Toolbox Multi Lang PKG (do NOT reboot)</Text>
 	<Text name="han_toolbox_inject_lang_rco">Step 2: Inject lang RCO file</Text>
 	<Text name="han_toolbox_inject_lang_rco_info">Copy downloaded explore_plugin_full.rco from HANTOOLBX/USRDIR/files to dev_flash/vsh/resource/*.rco</Text>
-	<Text name="han_toolbox_download_patch_file">Step 3: Download and install patch PKG file</Text>
-	<Text name="han_toolbox_download_patch_file_info">Download and install patch PKG file and reboot after</Text>
-	<Text name="han_toolbox_restore_toolbox">Step 1: Restore English HAN Toolbox</Text>
-	<Text name="han_toolbox_restore_toolbox_info">Download and install HAN Toolbox and reboot after</Text>
-	<Text name="han_toolbox_download_original_lang_rco">Step 2 (Optional): Download original lang RCO file</Text>
-	<Text name="han_toolbox_download_original_lang_rco_info">Download explore_plugin_full.rco to HANTOOLBX/USRDIR/files/ ready for installation</Text>
-	<Text name="han_toolbox_inject_original_lang_rco">Step 3 (Optional): Restore original lang RCO file</Text>
-	<Text name="han_toolbox_inject_original_lang_rco_info">Restore original downloaded explore_plugin_full.rco from HANTOOLBX/USRDIR/files to dev_flash/vsh/resource/*.rco</Text>
 
 <!-- han_toolbox_settings.xml // Main Items > Toolbox Settings > Toolbox Resources -->
 	

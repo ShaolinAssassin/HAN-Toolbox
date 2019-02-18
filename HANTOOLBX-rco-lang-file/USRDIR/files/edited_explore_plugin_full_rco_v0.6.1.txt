@@ -1,2 +1,0 @@
-Lang RCO for HAN Toolbox v0.6.1 : 
-- Spanish

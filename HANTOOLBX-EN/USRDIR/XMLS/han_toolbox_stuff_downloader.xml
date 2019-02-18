@@ -34,60 +34,24 @@
 		</Items> 
 		</View> 
 
-<!-- Main Items > Toolbox Settings > Toolbox Multi Language > Install Multi Language > Lang patch PKG file Downloader -->
+<!-- Main Items > Toolbox Settings > Toolbox Multi Language > Install Multi Language > Toolbox Multi Lang patch PKG Downloader -->
 			
-		<View id="han_download_patch_file_main">
+		<View id="han_download_multi_lang_pkg_main">
 		<Attributes>
-			<Table key="han_download_patch_file_item">
+			<Table key="han_download_multi_lang_pkg_item">
 				<Pair key="info"><String>net_package_install</String></Pair>
-				<Pair key="pkg_src"><String>https://www.dropbox.com/s/mma7r4us93vzke3/Latest_HAN_Toolbox_CEX-lang_patch.pkg?dl=1</String></Pair>
-				<Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/mma7r4us93vzke3/Latest_HAN_Toolbox_CEX-lang_patch.pkg?dl=1</String></Pair>
+				<Pair key="pkg_src"><String>https://www.dropbox.com/s/mma7r4us93vzke3/Latest_HAN_Toolbox_CEX-MULTI.pkg?dl=1</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/mma7r4us93vzke3/Latest_HAN_Toolbox_CEX-MULTI.pkg?dl=1</String></Pair>
 				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
 				<Pair key="content_id"><String>TA9000-HANTOOLBX_00-GLORYOFBRUNESTUD</String></Pair>
 				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/download.png</String></Pair>
  			</Table> 
 		</Attributes> 
 			<Items>
-			<Item class="type:x-xmb/xmlnpsignup" key="han_download_patch_file_item" attr="han_download_patch_file_item"/>
+			<Item class="type:x-xmb/xmlnpsignup" key="han_download_multi_lang_pkg_item" attr="han_download_multi_lang_pkg_item"/>
 			</Items> 
 		</View>			
 
-<!-- Main Items > Toolbox Settings > Toolbox Multi Language > Install Multi Language > **EDITED** Lang RCO file Downloader -->
-		
-		<View id="han_download_lang_rco_main">
-		<Attributes>
-			<Table key="han_download_lang_rco_item">
-				<Pair key="info"><String>net_package_install</String></Pair>
-				<Pair key="pkg_src"><String>https://www.dropbox.com/s/xvr2qh3lgbr89pf/HAN_Toolbox-lang_edited_rco.pkg?dl=1</String></Pair>
-				<Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/xvr2qh3lgbr89pf/HAN_Toolbox-lang_edited_rco.pkg?dl=1</String></Pair>
-				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
-				<Pair key="content_id"><String>TA9000-HANTOOLBX_00-GLORYOFBRUNESTUD</String></Pair>
-				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/download.png</String></Pair>
- 			</Table> 
-		</Attributes> 
-			<Items>
-			<Item class="type:x-xmb/xmlnpsignup" key="han_download_lang_rco_item" attr="han_download_lang_rco_item"/>
-			</Items> 
-		</View>		
-		
-<!-- Main Items > Toolbox Settings > Toolbox Multi Language > Remove Multi Language > **ORIGINAL** Lang RCO file Downloader -->
-		
-		<View id="han_download_original_lang_rco_main">
-		<Attributes>
-			<Table key="han_download_original_lang_rco_item">
-				<Pair key="info"><String>net_package_install</String></Pair>
-				<Pair key="pkg_src"><String>https://www.dropbox.com/s/wzzvrbs1ebqqxo9/HAN_Toolbox-lang_original_rco.pkg?dl=1</String></Pair>
-				<Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/wzzvrbs1ebqqxo9/HAN_Toolbox-lang_original_rco.pkg?dl=1</String></Pair>
-				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
-				<Pair key="content_id"><String>TA9000-HANTOOLBX_00-GLORYOFBRUNESTUD</String></Pair>
-				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/download.png</String></Pair>
- 			</Table> 
-		</Attributes> 
-			<Items>
-			<Item class="type:x-xmb/xmlnpsignup" key="han_download_original_lang_rco_item" attr="han_download_original_lang_rco_item"/>
-			</Items> 
-		</View>
-		
 <!-- Main Items > Toolbox Settings > Toolbox Resources > Install Toolbox Resources > Resources PKG Downloader -->
 			
 		<View id="han_toolbox_install_resources_pkg_main">
@@ -112,8 +76,8 @@
 		<Attributes>
 			<Table key="han_toolbox_update_item">
 				<Pair key="info"><String>net_package_install</String></Pair>
-				<Pair key="pkg_src"><String>https://www.dropbox.com/s/ah5ar2ornvw5qw7/Latest_HAN_Toolbox_CEX.pkg?dl=1</String></Pair>
-				<Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/ah5ar2ornvw5qw7/Latest_HAN_Toolbox_CEX.pkg?dl=1</String></Pair>
+				<Pair key="pkg_src"><String>https://www.dropbox.com/s/ah5ar2ornvw5qw7/Latest_HAN_Toolbox_CEX-EN.pkg?dl=1</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/ah5ar2ornvw5qw7/Latest_HAN_Toolbox_CEX-EN.pkg?dl=1</String></Pair>
 				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
 				<Pair key="content_id"><String>TA9000-HANTOOLBX_00-GLORYOFBRUNESTUD</String></Pair>
 				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/download.png</String></Pair>
