@@ -606,17 +606,20 @@
 			<Query 
 				class="type:x-xmb/folder-pixmap"
 				key="han_debug_settings_installer"
-				attr="han_debug_settings_installer_items"
+				attr="han_debug_settings_installer"
+				src="#han_debug_settings_installer_items"
 				/>
 			<Query 
 				class="type:x-xmb/folder-pixmap"
 				key="han_debug_settings_swapper"
-				attr="han_debug_settings_swapper_items"
+				attr="han_debug_settings_swapper"
+				src="#han_debug_settings_swapper_items"
 				/>
 			<Query 
 				class="type:x-xmb/folder-pixmap"
 				key="han_debug_plugin_swapper"
-				attr="han_debug_plugin_swapper_items"
+				attr="han_debug_plugin_swapper"
+				src="#han_debug_plugin_swapper_items"
 				/>
 			</Items>
 		</View>
