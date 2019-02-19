@@ -686,25 +686,25 @@
 				class="type:x-xmb/folder-pixmap" 
 				key="han_download_debug_settings_481_dex_files" 
 				attr="han_download_debug_settings_481_dex_files"
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_debug_settings_stuff_downloader.xml#han_download_debug_settings_481_dex_files_main"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_stuff_downloader.xml#han_download_debug_settings_481_dex_files_main"
 				/>
 			<Query 
 				class="type:x-xmb/folder-pixmap"
 				key="han_download_debug_settings_482_dex_files"
 				attr="han_download_debug_settings_482_dex_files"
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_debug_settings_stuff_downloader.xml#han_download_debug_settings_482_dex_files_main"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_stuff_downloader.xml#han_download_debug_settings_482_dex_files_main"
 				/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
 				key="han_download_debug_settings_481_cex_files" 
 				attr="han_download_debug_settings_481_cex_files"
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_debug_settings_stuff_downloader.xml#han_download_debug_settings_481_cex_files_main"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_stuff_downloader.xml#han_download_debug_settings_481_cex_files_main"
 				/>
 			<Query 
 				class="type:x-xmb/folder-pixmap"
 				key="han_download_debug_settings_482_cex_files"
 				attr="han_download_debug_settings_482_cex_files"
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_debug_settings_stuff_downloader.xml#han_download_debug_settings_482_cex_files_main"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_stuff_downloader.xml#han_download_debug_settings_482_cex_files_main"
 				/>
 			</Items>
 		</View>
@@ -771,25 +771,25 @@
 				class="type:x-xmb/folder-pixmap" 
 				key="han_download_sysconf_plugin_481_dex_file" 
 				attr="han_download_sysconf_plugin_481_dex_file"
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_debug_settings_stuff_downloader.xml#han_download_sysconf_plugin_481_dex_file_main"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_stuff_downloader.xml#han_download_sysconf_plugin_481_dex_file_main"
 				/>
 			<Query 
 				class="type:x-xmb/folder-pixmap"
 				key="han_download_sysconf_plugin_482_dex_file"
 				attr="han_download_sysconf_plugin_482_dex_file"
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_debug_settings_stuff_downloader.xml#han_download_sysconf_plugin_482_dex_file_main"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_stuff_downloader.xml#han_download_sysconf_plugin_482_dex_file_main"
 				/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
 				key="han_download_sysconf_plugin_481_cex_file" 
 				attr="han_download_sysconf_plugin_481_cex_file"
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_debug_settings_stuff_downloader.xml#han_download_sysconf_plugin_481_cex_file_main"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_stuff_downloader.xml#han_download_sysconf_plugin_481_cex_file_main"
 				/>
 			<Query 
 				class="type:x-xmb/folder-pixmap"
 				key="han_download_sysconf_plugin_482_cex_file"
 				attr="han_download_sysconf_plugin_482_cex_file"
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_debug_settings_stuff_downloader.xml#han_download_sysconf_plugin_482_cex_file_main"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_stuff_downloader.xml#han_download_sysconf_plugin_482_cex_file_main"
 				/>
 			</Items>
 		</View>
@@ -856,25 +856,25 @@
 				class="type:x-xmb/folder-pixmap" 
 				key="han_download_xmb_plugin_481_dex_file" 
 				attr="han_download_xmb_plugin_481_dex_file"
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_debug_settings_stuff_downloader.xml#han_download_xmb_plugin_481_dex_file_main"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_stuff_downloader.xml#han_download_xmb_plugin_481_dex_file_main"
 				/>
 			<Query 
 				class="type:x-xmb/folder-pixmap"
 				key="han_download_xmb_plugin_482_dex_file"
 				attr="han_download_xmb_plugin_482_dex_file"
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_debug_settings_stuff_downloader.xml#han_download_xmb_plugin_482_dex_file_main"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_stuff_downloader.xml#han_download_xmb_plugin_482_dex_file_main"
 				/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
 				key="han_download_xmb_plugin_481_cex_file" 
 				attr="han_download_xmb_plugin_481_cex_file"
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_debug_settings_stuff_downloader.xml#han_download_xmb_plugin_481_cex_file_main"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_stuff_downloader.xml#han_download_xmb_plugin_481_cex_file_main"
 				/>
 			<Query 
 				class="type:x-xmb/folder-pixmap"
 				key="han_download_xmb_plugin_482_cex_file"
 				attr="han_download_xmb_plugin_482_cex_file"
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_debug_settings_stuff_downloader.xml#han_download_xmb_plugin_482_cex_file_main"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_stuff_downloader.xml#han_download_xmb_plugin_482_cex_file_main"
 				/>
 			</Items>
 		</View>
