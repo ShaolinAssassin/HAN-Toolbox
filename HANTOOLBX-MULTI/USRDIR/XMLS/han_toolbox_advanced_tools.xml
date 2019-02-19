@@ -212,14 +212,14 @@
 		<Attributes>
 			<Table key="han_browse_downloaded_files_folder">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_file.png</String></Pair>
-				<Pair key="title_rsc"><String>HANTOOLBX/USRDIR/files/</String></Pair>
-				<Pair key="info_rsc"><String>Access HANTOOLBX/USRDIR/files/</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_browse_downloaded_files_folder</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_browse_downloaded_files_folder_info</String></Pair>
 				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
 			</Table>
 			<Table key="han_browse_downloaded_files_readme">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/text.png</String></Pair>
-				<Pair key="title_rsc"><String>Open readme.txt</String></Pair>
-				<Pair key="info_rsc"><String>Read downloaded files description</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_browse_downloaded_files_readme</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_browse_downloaded_files_readme_info</String></Pair>
 				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
 			</Table>
 		</Attributes>
@@ -580,16 +580,6 @@
 		
 		<View id="han_dex_settings_injector_items"> 
 		<Attributes> 
-			<Table key="han_download_dex_files">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_file.png</String></Pair>
-				<Pair key="title_rsc"><String>han_toolbox_download_dex_files</String></Pair>
-				<Pair key="info_rsc"><String>han_toolbox_download_dex_files_info</String></Pair>
-			</Table>
-			<Table key="han_download_cex_files">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_file.png</String></Pair>
-				<Pair key="title_rsc"><String>han_toolbox_download_cex_files</String></Pair>
-				<Pair key="info_rsc"><String>han_toolbox_download_cex_files_info</String></Pair>
-			</Table>
 			<Table key="han_debug_settings_installer">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/inj_debug.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_debug_settings</String></Pair>
@@ -614,26 +604,216 @@
 		</Attributes>
 			<Items>
 			<Query 
-				class="type:x-xmb/folder-pixmap" 
-				key="han_download_dex_files" 
-				attr="han_download_dex_files"
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_stuff_downloader.xml#han_download_dex_files_main"
+				class="type:x-xmb/folder-pixmap"
+				key="han_debug_settings_installer"
+				attr="han_debug_settings_installer_items"
 				/>
 			<Query 
+				class="type:x-xmb/folder-pixmap"
+				key="han_debug_settings_swapper"
+				attr="han_debug_settings_swapper_items"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap"
+				key="han_debug_plugin_swapper"
+				attr="han_debug_plugin_swapper_items"
+				/>
+			</Items>
+		</View>
+		
+<!-- Main Items > Advanced Tools > DEX XMB Setup > Debug Settings Installer/Remover Steps -->
+		
+		<View id="han_debug_settings_installer_items"> 
+		<Attributes> 
+			<Table key="han_download_debug_settings_files">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_file.png</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_download_files</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_download_files_info</String></Pair>
+			</Table>
+			<Table key="han_debug_settings_installer">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/inj_debug.png</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_debug_settings_installer</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_debug_settings_installer_info</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://ps3xploit.com/debug_settings_installer/debug_settings_installer.html</String></Pair>
+			</Table>
+		</Attributes>
+			<Items>
+			<Query 
 				class="type:x-xmb/folder-pixmap" 
-				key="han_download_cex_files" 
-				attr="han_download_cex_files"
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_stuff_downloader.xml#han_download_cex_files_main"
+				key="han_download_debug_settings_files" 
+				attr="han_download_debug_settings_files"
+				src="#han_download_debug_settings_files_items"
 				/>
 			<Query 
 				class="type:x-xmb/module-action"
 				key="han_debug_settings_installer"
 				attr="han_debug_settings_installer"
 				/>
+			</Items>
+		</View>
+		
+<!-- Main Items > Advanced Tools > DEX XMB Setup > Debug Settings Installer/Remover Steps > Download CEX/DEX 4.81/4.82 Files -->
+		
+		<View id="han_download_debug_settings_files_items"> 
+		<Attributes>
+			<Table key="han_download_debug_settings_481_dex_files">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_file.png</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_download_dex_481_files</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_download_dex_481_files_info</String></Pair>
+			</Table>
+			<Table key="han_download_debug_settings_482_dex_files">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_file.png</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_download_dex_482_files</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_download_dex_482_files_info</String></Pair>
+			</Table>
+			<Table key="han_download_debug_settings_481_cex_files">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_file.png</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_download_cex_481_files</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_download_cex_481_files_info</String></Pair>
+			</Table>
+			<Table key="han_download_debug_settings_482_cex_files">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_file.png</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_download_cex_482_files</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_download_dex_482_files_info</String></Pair>
+			</Table>
+		</Attributes>
+			<Items>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_download_debug_settings_481_dex_files" 
+				attr="han_download_debug_settings_481_dex_files"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_debug_settings_stuff_downloader.xml#han_download_debug_settings_481_dex_files_main"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap"
+				key="han_download_debug_settings_482_dex_files"
+				attr="han_download_debug_settings_482_dex_files"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_debug_settings_stuff_downloader.xml#han_download_debug_settings_482_dex_files_main"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_download_debug_settings_481_cex_files" 
+				attr="han_download_debug_settings_481_cex_files"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_debug_settings_stuff_downloader.xml#han_download_debug_settings_481_cex_files_main"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap"
+				key="han_download_debug_settings_482_cex_files"
+				attr="han_download_debug_settings_482_cex_files"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_debug_settings_stuff_downloader.xml#han_download_debug_settings_482_cex_files_main"
+				/>
+			</Items>
+		</View>
+		
+<!-- Main Items > Advanced Tools > DEX XMB Setup > Toggle Debug Settings -->
+		
+		<View id="han_debug_settings_swapper_items"> 
+		<Attributes> 
+			<Table key="han_download_sysconf_plugin_file">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_file.png</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_download_file</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_download_file_info</String></Pair>
+			</Table>
+			<Table key="han_debug_settings_swapper">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/toggle.png</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_debug_settings_swapper</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_debug_settings_swapper_info</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://ps3xploit.com/debug_settings_installer/xmb_plugin_swapper.html</String></Pair>
+			</Table>
+		</Attributes>
+			<Items>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_download_sysconf_plugin_file" 
+				attr="han_download_sysconf_plugin_file"
+				src="#han_download_sysconf_plugin_file_items"
+				/>
 			<Query 
 				class="type:x-xmb/module-action"
 				key="han_debug_settings_swapper"
 				attr="han_debug_settings_swapper"
+				/>
+			</Items>
+		</View>
+		
+<!-- Main Items > Advanced Tools > DEX XMB Setup > Toggle Debug Settings > Download CEX/DEX 4.81/4.82 File -->
+		
+		<View id="han_download_sysconf_plugin_file_items"> 
+		<Attributes>
+			<Table key="han_download_sysconf_plugin_481_dex_file">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_file.png</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_download_dex_481_file</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_download_dex_481_file_info</String></Pair>
+			</Table>
+			<Table key="han_download_sysconf_plugin_482_dex_file">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_file.png</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_download_dex_482_file</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_download_dex_482_file</String></Pair>
+			</Table>
+			<Table key="han_download_sysconf_plugin_481_cex_file">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_file.png</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_download_cex_482_file</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_download_cex_482_file</String></Pair>
+			</Table>
+			<Table key="han_download_sysconf_plugin_482_cex_file">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_file.png</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_download_cex_482_file</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_download_cex_482_file</String></Pair>
+			</Table>
+		</Attributes>
+			<Items>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_download_sysconf_plugin_481_dex_file" 
+				attr="han_download_sysconf_plugin_481_dex_file"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_debug_settings_stuff_downloader.xml#han_download_sysconf_plugin_481_dex_file_main"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap"
+				key="han_download_sysconf_plugin_482_dex_file"
+				attr="han_download_sysconf_plugin_482_dex_file"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_debug_settings_stuff_downloader.xml#han_download_sysconf_plugin_482_dex_file_main"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_download_sysconf_plugin_481_cex_file" 
+				attr="han_download_sysconf_plugin_481_cex_file"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_debug_settings_stuff_downloader.xml#han_download_sysconf_plugin_481_cex_file_main"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap"
+				key="han_download_sysconf_plugin_482_cex_file"
+				attr="han_download_sysconf_plugin_482_cex_file"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_debug_settings_stuff_downloader.xml#han_download_sysconf_plugin_482_cex_file_main"
+				/>
+			</Items>
+		</View>
+		
+<!-- Main Items > Advanced Tools > DEX XMB Setup > Toggle IP/Host info -->
+		
+		<View id="han_debug_plugin_swapper_items"> 
+		<Attributes> 
+			<Table key="han_download_xmb_plugin_file">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_file.png</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_download_file</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_download_file_info</String></Pair>
+			</Table>
+			<Table key="han_debug_plugin_swapper">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/toggle.png</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_debug_settings_swapper</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_debug_settings_swapper_info</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://ps3xploit.com/debug_settings_installer/xmb_plugin_swapper.html</String></Pair>
+			</Table>
+		</Attributes>
+			<Items>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_download_xmb_plugin_file" 
+				attr="han_download_xmb_plugin_file"
+				src="#han_download_xmb_plugin_file_items"
 				/>
 			<Query 
 				class="type:x-xmb/module-action"
@@ -641,6 +821,59 @@
 				attr="han_debug_plugin_swapper"
 				/>
 			</Items>
-		</View>	
+		</View>
 		
+<!-- Main Items > Advanced Tools > DEX XMB Setup > Toggle IP/Host info > Download CEX/DEX 4.81/4.82 File -->
+		
+		<View id="han_download_xmb_plugin_file_items"> 
+		<Attributes>
+			<Table key="han_download_xmb_plugin_481_dex_file">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_file.png</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_download_dex_481_file</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_download_dex_481_file_info</String></Pair>
+			</Table>
+			<Table key="han_download_xmb_plugin_482_dex_file">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_file.png</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_download_dex_482_file</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_download_dex_482_file</String></Pair>
+			</Table>
+			<Table key="han_download_xmb_plugin_481_cex_file">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_file.png</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_download_cex_482_file</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_download_cex_482_file</String></Pair>
+			</Table>
+			<Table key="han_download_xmb_plugin_482_cex_file">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_file.png</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_download_cex_482_file</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_download_cex_482_file</String></Pair>
+			</Table>
+		</Attributes>
+			<Items>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_download_xmb_plugin_481_dex_file" 
+				attr="han_download_xmb_plugin_481_dex_file"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_debug_settings_stuff_downloader.xml#han_download_xmb_plugin_481_dex_file_main"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap"
+				key="han_download_xmb_plugin_482_dex_file"
+				attr="han_download_xmb_plugin_482_dex_file"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_debug_settings_stuff_downloader.xml#han_download_xmb_plugin_482_dex_file_main"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_download_xmb_plugin_481_cex_file" 
+				attr="han_download_xmb_plugin_481_cex_file"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_debug_settings_stuff_downloader.xml#han_download_xmb_plugin_481_cex_file_main"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap"
+				key="han_download_xmb_plugin_482_cex_file"
+				attr="han_download_xmb_plugin_482_cex_file"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_debug_settings_stuff_downloader.xml#han_download_xmb_plugin_482_cex_file_main"
+				/>
+			</Items>
+		</View>
+
 </XMBML>
