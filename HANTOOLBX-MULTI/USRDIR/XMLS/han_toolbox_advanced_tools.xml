@@ -703,22 +703,16 @@
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/inj_debug.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_debug_settings</String></Pair>
 				<Pair key="info_rsc"><String>han_toolbox_debug_settings_info</String></Pair>
-				<Pair key="module_name"><String>webrender_plugin</String></Pair>
-				<Pair key="module_action"><String>http://ps3xploit.com/debug_settings_installer/debug_settings_installer.html</String></Pair>
 			</Table>
 			<Table key="han_debug_settings_swapper">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/toggle.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_debug_settings_toggler</String></Pair>
 				<Pair key="info_rsc"><String>han_toolbox_debug_settings_toggler_info</String></Pair>
-				<Pair key="module_name"><String>webrender_plugin</String></Pair>
-				<Pair key="module_action"><String>http://ps3xploit.com/debug_settings_installer/debug_settings_swapper.html</String></Pair>
 			</Table>
 			<Table key="han_debug_plugin_swapper">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/toggle.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_toggle_ip</String></Pair>
 				<Pair key="info_rsc"><String>han_toolbox_toggle_ip_info</String></Pair>
-				<Pair key="module_name"><String>webrender_plugin</String></Pair>
-				<Pair key="module_action"><String>http://ps3xploit.com/debug_settings_installer/xmb_plugin_swapper.html</String></Pair>
 			</Table>
 		</Attributes>
 			<Items>
