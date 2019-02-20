@@ -293,7 +293,7 @@
 			<Table key="han_inject_lines">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/inj_wave.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_inject_lines</String></Pair>
-				<Pair key="info_rsc"><String>han_toolbox_inject_sprx_lines_info</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_inject_lines_info</String></Pair>
 				<Pair key="module_name"><String>webrender_plugin</String></Pair>
 				<Pair key="module_action"><String>http://ps3xploit.com/wave/xmb_wave_installer.html</String></Pair>
 			</Table>
