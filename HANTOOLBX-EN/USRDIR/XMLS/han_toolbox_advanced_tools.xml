@@ -21,6 +21,11 @@
 				<Pair key="title"><String>File Injector</String></Pair>
 				<Pair key="info"><String>Use for adding XMB mods to flash or other file operations (Be careful)</String></Pair>
 			</Table>
+			<Table key="han_file_restorer">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/inj_file.png</String></Pair>
+				<Pair key="title"><String>File Restorer</String></Pair>
+				<Pair key="info"><String>Download stock files for restoration purpose</String></Pair>
+			</Table>
 			<Table key="han_dex_settings_injector">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/inj_debug.png</String></Pair>
 				<Pair key="title"><String>DEX XMB Setup</String></Pair>
@@ -44,6 +49,12 @@
 				key="han_file_injector"
 				attr="han_file_injector" 				
 				src="#han_file_injector_items"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_file_restorer"
+				attr="han_file_restorer" 				
+				src="#han_file_restorer_items"
 				/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
@@ -575,6 +586,114 @@
 				/>
 			</Items>
 		</View>
+
+<!-- Main Items > Advanced Tools > File Restorer -->
+		
+		<View id="han_file_restorer_items"> 
+		<Attributes> 
+			<Table key="han_restore_coldboot_raf">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_file.png</String></Pair>
+				<Pair key="title"><String>Stock Coldboots (Boot Logo and Sound)</String></Pair>
+				<Pair key="info"><String>Download coldboot_*.* to HANTOOLBX/USRDIR/files/ ready for installation</String></Pair>
+			</Table>
+			<Table key="han_restore_rco">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_file.png</String></Pair>
+				<Pair key="title"><String>Stock RCO (System Resource)</String></Pair>
+				<Pair key="info"><String>Download *.rco to HANTOOLBX/USRDIR/files/ ready for installation</String></Pair>
+			</Table>
+			<Table key="han_restore_xml">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_file.png</String></Pair>
+				<Pair key="title"><String>Stock XML (XMB Layout)</String></Pair>
+				<Pair key="info"><String>Download *.xml to HANTOOLBX/USRDIR/files/ ready for installation</String></Pair>
+			</Table>				
+			<Table key="han_restore_lines">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_file.png</String></Pair>
+				<Pair key="title"><String>Stock Lines.qrc (Wave)</String></Pair>
+				<Pair key="info"><String>Download lines.qrc to HANTOOLBX/USRDIR/files/ ready for installation</String></Pair>
+			</Table>
+			<Table key="han_restore_imagefont">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_file.png</String></Pair>
+				<Pair key="title"><String>Stock Imagefont.bin (Emojis and Icons)</String></Pair>
+				<Pair key="info"><String>Download imagefont.bin to HANTOOLBX/USRDIR/files/ ready for installation</String></Pair>
+			</Table>
+			<Table key="han_restore_TTF_font">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_file.png</String></Pair>
+				<Pair key="title"><String>Stock TTF (Fonts)</String></Pair>
+				<Pair key="info"><String>Download *.TTF to HANTOOLBX/USRDIR/files/ ready for installation</String></Pair>
+			</Table>
+			<Table key="han_restore_ttf_sony_cc_font">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_file.png</String></Pair>
+				<Pair key="title"><String>Stock ttf (Sony-CC Fonts)</String></Pair>
+				<Pair key="info"><String>Download *.ttf to HANTOOLBX/USRDIR/files/ ready for installation</String></Pair>
+			</Table>
+			<Table key="han_restore_cert">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_file.png</String></Pair>
+				<Pair key="title"><String>Stock Certs (SSL Cert)</String></Pair>
+				<Pair key="info"><String>Download *.cert to HANTOOLBX/USRDIR/files/ ready for installation</String></Pair>
+			</Table>
+			<Table key="han_restore_han_support_files">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_file.png</String></Pair>
+				<Pair key="title"><String>HAN support files</String></Pair>
+				<Pair key="info"><String>Download HAN support files to HANTOOLBX/USRDIR/files/ ready for installation</String></Pair>
+			</Table>
+		</Attributes>
+			<Items>
+			<Query 
+				class="type:x-xmb/folder-pixmap"
+				key="han_restore_coldboot_raf"
+				attr="han_restore_coldboot_raf"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_stuff_downloader.xml#han_download_stock_coldboot_raf_main"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap"
+				key="han_restore_rco"
+				attr="han_restore_rco"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_stuff_downloader.xml#han_download_stock_rco_main"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap"
+				key="han_restore_xml"
+				attr="han_restore_xml"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_stuff_downloader.xml#han_download_stock_xml_main"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap"
+				key="han_restore_lines"
+				attr="han_restore_lines"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_stuff_downloader.xml#han_download_stock_lines_main"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap"
+				key="han_restore_imagefont"
+				attr="han_restore_imagefont"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_stuff_downloader.xml#han_download_stock_imagefont_main"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap"
+				key="han_restore_TTF_font" 
+				attr="han_restore_TTF_font"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_stuff_downloader.xml#han_download_stock_TTF_font_main"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap"
+				key="han_restore_ttf_sony_cc_font" 
+				attr="han_restore_ttf_sony_cc_font"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_stuff_downloader.xml#han_download_stock_ttf_sony_cc_font_main"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_restore_cert"
+				attr="han_restore_cert"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_stuff_downloader.xml#han_download_stock_cert_main"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_restore_han_support_files"
+				attr="han_restore_han_support_files"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_stuff_downloader.xml#han_download_han_support_files_main"
+				/>
+			</Items>
+		</View>		
 		
 <!-- Main Items > Advanced Tools > DEX XMB Setup -->
 		

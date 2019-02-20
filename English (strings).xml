@@ -97,6 +97,8 @@
 	<Text name="han_toolbox_file_explorer_info">Browse complete file system and delete files (Be careful)</Text>
 	<Text name="han_toolbox_file_injector">File Injector</Text>
 	<Text name="han_toolbox_file_injector_info">Use for adding XMB mods to flash or other file operations (Be careful)</Text>
+	<Text name="han_toolbox_file_restorer">File Restorer</Text>
+	<Text name="han_toolbox_file_restorer_info">Download stock files for restoration purpose</Text>
 	<Text name="han_toolbox_dex_xmb_setup">DEX XMB Setup</Text>
 	<Text name="han_toolbox_dex_xmb_setup_info">Add/Remove DEX settings etc (Be careful)</Text>
 	<Text name="han_toolbox_settings">Toolbox Settings</Text>
@@ -155,7 +157,7 @@
 	<Text name="han_toolbox_inject_sprx">Inject SPRX</Text>
 	<Text name="han_toolbox_inject_sprx_info">Copy *.sprx to dev_flash/*/*/*.sprx</Text>		
 	<Text name="han_toolbox_inject_lines">Inject Lines.qrc (Wave)</Text>
-	<Text name="han_toolbox_inject_sprx_lines_info">Copy lines.qrc to dev_flash/vsh/resource/qgl/lines.qrc</Text>
+	<Text name="han_toolbox_inject_lines_info">Copy lines.qrc to dev_flash/vsh/resource/qgl/lines.qrc</Text>
 	<Text name="han_toolbox_inject_emoji">Inject Imagefont.bin (Emojis and Icons)</Text>
 	<Text name="han_toolbox_inject_emoji_info">Copy imagefont.bin to dev_flash/vsh/resource/imagefont.bin</Text>
 	<Text name="han_toolbox_inject_font">Inject TTF/ttf (Font)</Text>
@@ -206,6 +208,27 @@
 	<Text name="han_toolbox_remove_cert">Remove Cert (SSL Cert)</Text>
 	<Text name="han_toolbox_remove_cert_info">Delete certs from dev_flash/data/cert/*.cer</Text>
 
+<!-- han_toolbox_advanced_tools.xml // Main Items > Advanced Tools > File Restorer -->
+
+	<Text name="han_toolbox_restore_coldboot">Stock Coldboot (Boot Logo and Sound)</Text>
+	<Text name="han_toolbox_restore_coldboot_info">Download coldboot_*.* to HANTOOLBX/USRDIR/files/ ready for installation</Text>
+	<Text name="han_toolbox_restore_rco">Stock RCO (System Resource)</Text>
+	<Text name="han_toolbox_restore_rco_info">Download *.rco to HANTOOLBX/USRDIR/files/ ready for installation</Text>
+	<Text name="han_toolbox_restore_xml">Stock XML (XMB Layout)</Text>
+	<Text name="han_toolbox_restore_xml_info">Download *.xml to HANTOOLBX/USRDIR/files/ ready for installation</Text>
+	<Text name="han_toolbox_restore_lines">Stock Lines.qrc (Wave)</Text>
+	<Text name="han_toolbox_restore_lines_info">Download lines.qrc to HANTOOLBX/USRDIR/files/ ready for installation</Text>
+	<Text name="han_toolbox_restore_emoji">Stock Imagefont.bin (Emojis and Icons)</Text>
+	<Text name="han_toolbox_restore_emoji_info">Download imagefont.bin to HANTOOLBX/USRDIR/files/ ready for installation</Text>
+	<Text name="han_toolbox_restore_TTF_font">Stock TTF (Fonts)</Text>
+	<Text name="han_toolbox_restore_TTF_font_info">Download *.TTF to HANTOOLBX/USRDIR/files/ ready for installation</Text>
+	<Text name="han_toolbox_restore_ttf_sony_cc_font">Stock ttf (Sony-CC Fonts)</Text>
+	<Text name="han_toolbox_restore_ttf_sony_cc_font_info">Download *.ttf to HANTOOLBX/USRDIR/files/ ready for installation</Text>
+	<Text name="han_toolbox_restore_cert">Stock Cert (SSL Cert)</Text>
+	<Text name="han_toolbox_restore_cert_info">Download certs to HANTOOLBX/USRDIR/files/ ready for installation</Text>
+	<Text name="han_toolbox_restore_han_support_files">HAN support files</Text>
+	<Text name="han_toolbox_restore_han_support_files_info">Download HAN support files to HANTOOLBX/USRDIR/files/ ready for installation</Text>
+	
 <!-- han_toolbox_advanced_tools.xml // Main Items > Advanced Tools > DEX XMB Setup -->
 
 	<Text name="han_toolbox_debug_settings">Debug Settings Installer/Remover</Text>
