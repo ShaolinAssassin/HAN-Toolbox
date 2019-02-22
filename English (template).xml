@@ -316,3 +316,5 @@ Legend:
 [+]	<Text name="han_toolbox_psn_downloader_info">Download and install PSN Apps (pkg)</Text>
 [+]	<Text name="han_toolbox_wave_downloader">Wave Downloader</Text>
 [+]	<Text name="han_toolbox_wave_downloader_info">Download and install waves (lines.qrc)</Text>
+[+]	<Text name="han_toolbox_temperature_reader">Temperature Reader</Text>
+[+]	<Text name="han_toolbox_temperature_reader_info">Display CELL and RSX temperature values (4.82 CEX)</Text>	
