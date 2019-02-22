@@ -240,14 +240,22 @@ Legend:
 [+]	<Text name="han_toolbox_inject_TTF_font_info">Copy *.TTF to dev_flash/data/font/*.TTF</Text>
 [+]	<Text name="han_toolbox_inject_ttf_sony_cc_font">Inject ttf (Sony-CC Font)</Text>
 [+]	<Text name="han_toolbox_inject_ttf_sony_cc_font_info">Copy *.ttf to dev_flash/data/font/SONY-CC/*.ttf</Text>
+[+]	<Text name="han_toolbox_install_coldboots_resources_pkg">Download Coldboot Downloader Resources</Text>
+[+]	<Text name="han_toolbox_install_coldboots_resources_pkg_info">Download and install the Coldboot Downloader resources package and reboot after</Text>
 [+]	<Text name="han_toolbox_install_demos_resources_pkg">Download Demo Downloader Resources</Text>
 [+]	<Text name="han_toolbox_install_demos_resources_pkg_info">Download and install the Demo Downloader resources package and reboot after</Text>
+[+]	<Text name="han_toolbox_install_fonts_resources_pkg">Download Font Downloader Resources</Text>
+[+]	<Text name="han_toolbox_install_fonts_resources_pkg_info">Download and install the Font Downloader resources package and reboot after</Text>
 [+]	<Text name="han_toolbox_install_nopsn_resources_pkg">Download NoPSN Apps Downloader Resources</Text>
 [+]	<Text name="han_toolbox_install_nopsn_resources_pkg_info">Download and install the NoPSN Apps Downloader resources package and reboot after</Text>
+[+]	<Text name="han_toolbox_install_psn_resources_pkg">Download PSN Apps Downloader Resources</Text>
+[+]	<Text name="han_toolbox_install_psn_resources_pkg_info">Download and install the PSN Apps Downloader resources package and reboot after</Text>
 [+]	<Text name="han_toolbox_install_themes_resources_pkg">Download Theme Downloader Resources</Text>
 [+]	<Text name="han_toolbox_install_themes_resources_pkg_info">Download and install the Theme Downloader resources package and reboot after</Text>
 [+]	<Text name="han_toolbox_install_wallpapers_resources_pkg">Download Wallpaper Downloader Resources</Text>
 [+]	<Text name="han_toolbox_install_wallpapers_resources_pkg_info">Download and install the Wallpaper Downloader resources package and reboot after</Text>
+[+]	<Text name="han_toolbox_install_waves_resources_pkg">Download Wave Downloader Resources</Text>
+[+]	<Text name="han_toolbox_install_waves_resources_pkg_info">Download and install the Wave Downloader resources package and reboot after</Text>	
 [+]	<Text name="han_toolbox_delete_resources_pkg">Delete all Toolbox Resources</Text>
 [+]	<Text name="han_toolbox_delete_resources_pkg_info">Press  to access HAN Toolbox folder and unlink RESOURCES folder</Text>
 [+]	<Text name="han_toolbox_delete_downloader_resources_pkg">Delete Downloader Resources</Text>
@@ -300,4 +308,11 @@ Legend:
 [+]	<Text name="han_toolbox_restore_cert_info">Download certs to HANTOOLBX/USRDIR/files/ ready for installation</Text>
 [+]	<Text name="han_toolbox_restore_han_support_files">HAN support files</Text>
 [+]	<Text name="han_toolbox_restore_han_support_files_info">Download HAN support files to HANTOOLBX/USRDIR/files/ ready for installation</Text>
-
+[+]	<Text name="han_toolbox_coldboot_downloader">Coldboot Downloader</Text>
+[+]	<Text name="han_toolbox_coldboot_downloader_info">Download and install coldboots (Boot Logo and Sound)</Text>
+[+]	<Text name="han_toolbox_font_downloader">Font Downloader</Text>
+[+]	<Text name="han_toolbox_font_downloader_info">Download and install fonts (TTF/ttf)</Text>
+[+]	<Text name="han_toolbox_psn_downloader">PSN Apps Downloader</Text>
+[+]	<Text name="han_toolbox_psn_downloader_info">Download and install PSN Apps (pkg)</Text>
+[+]	<Text name="han_toolbox_wave_downloader">Wave Downloader</Text>
+[+]	<Text name="han_toolbox_wave_downloader_info">Download and install waves (lines.qrc)</Text>

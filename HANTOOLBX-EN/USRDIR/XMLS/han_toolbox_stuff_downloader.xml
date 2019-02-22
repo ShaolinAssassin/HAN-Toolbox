@@ -380,6 +380,15 @@
 			<Item class="type:x-xmb/xmlnpsignup" key="han_toolbox_install_resources_pkg_item" attr="han_toolbox_install_resources_pkg_item"/>
 			</Items> 
 		</View>		
+
+>	han_toolbox_install_coldboots_resources_pkg_main
+>	han_toolbox_install_demos_resources_pkg_main
+>	han_toolbox_install_fonts_resources_pkg_main
+>	han_toolbox_install_nopsn_resources_pkg_main
+>	han_toolbox_install_psn_resources_pkg_main
+>	han_toolbox_install_themes_resources_pkg_main
+>	han_toolbox_install_wallpapers_resources_pkg_main
+>	han_toolbox_install_waves_resources_pkg_main
 		
 <!-- Main Items > Toolbox Settings > Toolbox Updater -->
 		
