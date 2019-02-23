@@ -1,0 +1,397 @@
+<XMBML version="1.0"> 
+ 
+<!-- Main Items > External Content > Coldboot Downloader Items -->
+ 
+	<View id="coldboot_downloader_items">
+		<Attributes>
+			<Table key="item_D111"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/IMAGES/D111.png</String></Pair> 
+				<Pair key="title"><String>Adidas</String></Pair> 
+				<Pair key="info"><String>Logo only</String></Pair> 
+			</Table>
+			<Table key="item_D113"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/IMAGES/D113.png</String></Pair> 
+				<Pair key="title"><String>Batman v1</String></Pair> 
+				<Pair key="info"><String>Logo only</String></Pair> 
+			</Table>
+			<Table key="item_D112"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/IMAGES/D112.png</String></Pair> 
+				<Pair key="title"><String>Batman v2</String></Pair> 
+				<Pair key="info"><String>Logo only</String></Pair> 
+			</Table>
+			<Table key="item_D122"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/IMAGES/D122.png</String></Pair> 
+				<Pair key="title"><String>DC Shoes v1</String></Pair> 
+				<Pair key="info"><String>Logo only</String></Pair> 
+			</Table>
+			<Table key="item_D123"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/IMAGES/D123.png</String></Pair> 
+				<Pair key="title"><String>DC Shoes v2</String></Pair> 
+				<Pair key="info"><String>Logo only</String></Pair> 
+			</Table>
+			<Table key="item_D114"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/IMAGES/D114.png</String></Pair> 
+				<Pair key="title"><String>Devil</String></Pair> 
+				<Pair key="info"><String>Logo only</String></Pair> 
+			</Table>
+			<Table key="item_D127"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/IMAGES/D127.png</String></Pair> 
+				<Pair key="title"><String>Devil Inside</String></Pair> 
+				<Pair key="info"><String>Logo only</String></Pair> 
+			</Table>
+			<Table key="item_D100"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/IMAGES/D100.png</String></Pair> 
+				<Pair key="title"><String>Flammable</String></Pair> 
+				<Pair key="info"><String>Logo only</String></Pair> 
+			</Table>
+			<Table key="item_D109"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/IMAGES/D109.png</String></Pair> 
+				<Pair key="title"><String>Hacker Inside</String></Pair> 
+				<Pair key="info"><String>Logo only</String></Pair> 
+			</Table>
+			<Table key="item_D001"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/IMAGES/D001.png</String></Pair> 
+				<Pair key="title"><String>HAN v1 New  </String></Pair> 
+				<Pair key="info"><String>Logo (by StarMelter) & sound (by d1mtr7)</String></Pair> 
+			</Table>
+			<Table key="item_D002"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/IMAGES/D002.png</String></Pair> 
+				<Pair key="title"><String>HAN v1 New Alt</String></Pair> 
+				<Pair key="info"><String>Logo (by StarMelter) & sound (by d1mtr7)</String></Pair> 
+			</Table>
+			<Table key="item_D000"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/IMAGES/D000.png</String></Pair> 
+				<Pair key="title"><String>HAN v1 Original Default</String></Pair> 
+				<Pair key="info"><String>Logo (by StarMelter) & sound (by d1mtr7)</String></Pair> 
+			</Table>
+			<Table key="item_D003"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/IMAGES/D003.png</String></Pair> 
+				<Pair key="title"><String>HAN v2 Alt</String></Pair> 
+				<Pair key="info"><String>Logo (by StarMelter) & sound (by d1mtr7)</String></Pair> 
+			</Table>
+			<Table key="item_D124"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/IMAGES/D124.png</String></Pair> 
+				<Pair key="title"><String>Monster</String></Pair> 
+				<Pair key="info"><String>Logo only</String></Pair> 
+			</Table>
+			<Table key="item_D115"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/IMAGES/D115.png</String></Pair> 
+				<Pair key="title"><String>Nike</String></Pair> 
+				<Pair key="info"><String>Logo only</String></Pair> 
+			</Table>
+			<Table key="item_D116"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/IMAGES/D116.png</String></Pair> 
+				<Pair key="title"><String>Nintendo</String></Pair> 
+				<Pair key="info"><String>Logo only</String></Pair> 
+			</Table>
+			<Table key="item_D117"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/IMAGES/D117.png</String></Pair> 
+				<Pair key="title"><String>Nvidia</String></Pair> 
+				<Pair key="info"><String>Logo only</String></Pair> 
+			</Table>
+			<Table key="item_D118"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/IMAGES/D118.png</String></Pair> 
+				<Pair key="title"><String>PlayStation</String></Pair> 
+				<Pair key="info"><String>Logo only</String></Pair> 
+			</Table>
+			<Table key="item_D104"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/IMAGES/D104.png</String></Pair> 
+				<Pair key="title"><String>PSN Blue</String></Pair> 
+				<Pair key="info"><String>Logo only</String></Pair> 
+			</Table>
+			<Table key="item_D105"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/IMAGES/D105.png</String></Pair> 
+				<Pair key="title"><String>PSN Red</String></Pair> 
+				<Pair key="info"><String>Logo only</String></Pair> 
+			</Table>
+			<Table key="item_D011"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/IMAGES/D011.png</String></Pair> 
+				<Pair key="title"><String>PSX-Place (Center)</String></Pair> 
+				<Pair key="info"><String>Logo only (by kozarovv)</String></Pair> 
+			</Table>
+			<Table key="item_D010"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/IMAGES/D010.png</String></Pair> 
+				<Pair key="title"><String>PSX-Place (Standard)</String></Pair> 
+				<Pair key="info"><String>Logo only (by kozarovv)</String></Pair> 
+			</Table>
+			<Table key="item_D199"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/IMAGES/D199.png</String></Pair> 
+				<Pair key="title"><String>REBUG</String></Pair> 
+				<Pair key="info"><String>Logo only</String></Pair> 
+			</Table>
+			<Table key="item_D107"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/IMAGES/D107.png</String></Pair> 
+				<Pair key="title"><String>REBUG Scorpio</String></Pair> 
+				<Pair key="info"><String>Logo only</String></Pair> 
+			</Table>
+			<Table key="item_D125"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/IMAGES/D125.png</String></Pair> 
+				<Pair key="title"><String>RedBull</String></Pair> 
+				<Pair key="info"><String>Logo only</String></Pair> 
+			</Table>
+			<Table key="item_D102"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/IMAGES/D102.png</String></Pair> 
+				<Pair key="title"><String>Retro Skull</String></Pair> 
+				<Pair key="info"><String>Logo only</String></Pair> 
+			</Table>
+			<Table key="item_D103"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/IMAGES/D103.png</String></Pair> 
+				<Pair key="title"><String>Skull & Bones</String></Pair> 
+				<Pair key="info"><String>Logo only</String></Pair> 
+			</Table>
+			<Table key="item_D110"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/IMAGES/D110.png</String></Pair> 
+				<Pair key="title"><String>Space Invaders</String></Pair> 
+				<Pair key="info"><String>Logo only</String></Pair> 
+			</Table>
+			<Table key="item_D101"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/IMAGES/D101.png</String></Pair> 
+				<Pair key="title"><String>Spray</String></Pair> 
+				<Pair key="info"><String>Logo only</String></Pair> 
+			</Table>
+			<Table key="item_D126"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/IMAGES/D126.png</String></Pair> 
+				<Pair key="title"><String>Star Wars</String></Pair> 
+				<Pair key="info"><String>Logo only</String></Pair> 
+			</Table>
+			<Table key="item_D119"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/IMAGES/D119.png</String></Pair> 
+				<Pair key="title"><String>Superman</String></Pair> 
+				<Pair key="info"><String>Logo only</String></Pair> 
+			</Table>
+			<Table key="item_D108"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/IMAGES/D108.png</String></Pair> 
+				<Pair key="title"><String>Transparent</String></Pair> 
+				<Pair key="info"><String>Logo only</String></Pair> 
+			</Table>
+			<Table key="item_D120"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/IMAGES/D120.png</String></Pair> 
+				<Pair key="title"><String>Ubuntu</String></Pair> 
+				<Pair key="info"><String>Logo only</String></Pair> 
+			</Table>
+			<Table key="item_D106"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/IMAGES/D106.png</String></Pair> 
+				<Pair key="title"><String>V for Vendetta</String></Pair> 
+				<Pair key="info"><String>Logo only</String></Pair> 
+			</Table>
+			<Table key="item_D121"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/IMAGES/D121.png</String></Pair> 
+				<Pair key="title"><String>Vans</String></Pair> 
+				<Pair key="info"><String>Logo only</String></Pair> 
+			</Table>
+		</Attributes>
+		<Items>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_D111" 
+				attr="item_D111" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/XMLS/coldboots_ALL_download_links.xml#item_D111_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_D113" 
+				attr="item_D113" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/XMLS/coldboots_ALL_download_links.xml#item_D113_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_D112" 
+				attr="item_D112" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/XMLS/coldboots_ALL_download_links.xml#item_D112_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_D122" 
+				attr="item_D122" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/XMLS/coldboots_ALL_download_links.xml#item_D122_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_D123" 
+				attr="item_D123" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/XMLS/coldboots_ALL_download_links.xml#item_D123_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_D114" 
+				attr="item_D114" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/XMLS/coldboots_ALL_download_links.xml#item_D114_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_D127" 
+				attr="item_D127" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/XMLS/coldboots_ALL_download_links.xml#item_D127_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_D100" 
+				attr="item_D100" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/XMLS/coldboots_ALL_download_links.xml#item_D100_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_D109" 
+				attr="item_D109" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/XMLS/coldboots_ALL_download_links.xml#item_D109_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_D001" 
+				attr="item_D001" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/XMLS/coldboots_ALL_download_links.xml#item_D001_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_D002" 
+				attr="item_D002" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/XMLS/coldboots_ALL_download_links.xml#item_D002_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_D000" 
+				attr="item_D000" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/XMLS/coldboots_ALL_download_links.xml#item_D000_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_D003" 
+				attr="item_D003" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/XMLS/coldboots_ALL_download_links.xml#item_D003_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_D124" 
+				attr="item_D124" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/XMLS/coldboots_ALL_download_links.xml#item_D124_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_D115" 
+				attr="item_D115" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/XMLS/coldboots_ALL_download_links.xml#item_D115_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_D116" 
+				attr="item_D116" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/XMLS/coldboots_ALL_download_links.xml#item_D116_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_D117" 
+				attr="item_D117" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/XMLS/coldboots_ALL_download_links.xml#item_D117_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_D118" 
+				attr="item_D118" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/XMLS/coldboots_ALL_download_links.xml#item_D118_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_D104" 
+				attr="item_D104" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/XMLS/coldboots_ALL_download_links.xml#item_D104_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_D105" 
+				attr="item_D105" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/XMLS/coldboots_ALL_download_links.xml#item_D105_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_D011" 
+				attr="item_D011" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/XMLS/coldboots_ALL_download_links.xml#item_D011_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_D010" 
+				attr="item_D010" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/XMLS/coldboots_ALL_download_links.xml#item_D010_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_D199" 
+				attr="item_D199" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/XMLS/coldboots_ALL_download_links.xml#item_D199_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_D107" 
+				attr="item_D107" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/XMLS/coldboots_ALL_download_links.xml#item_D107_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_D125" 
+				attr="item_D125" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/XMLS/coldboots_ALL_download_links.xml#item_D125_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_D102" 
+				attr="item_D102" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/XMLS/coldboots_ALL_download_links.xml#item_D102_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_D103" 
+				attr="item_D103" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/XMLS/coldboots_ALL_download_links.xml#item_D103_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_D110" 
+				attr="item_D110" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/XMLS/coldboots_ALL_download_links.xml#item_D110_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_D101" 
+				attr="item_D101" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/XMLS/coldboots_ALL_download_links.xml#item_D101_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_D126" 
+				attr="item_D126" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/XMLS/coldboots_ALL_download_links.xml#item_D126_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_D119" 
+				attr="item_D119" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/XMLS/coldboots_ALL_download_links.xml#item_D119_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_D108" 
+				attr="item_D108" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/XMLS/coldboots_ALL_download_links.xml#item_D108_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_D120" 
+				attr="item_D120" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/XMLS/coldboots_ALL_download_links.xml#item_D120_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_D106" 
+				attr="item_D106" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/XMLS/coldboots_ALL_download_links.xml#item_D106_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_D121" 
+				attr="item_D121" 
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/XMLS/coldboots_ALL_download_links.xml#item_D121_main" 
+			/>
+		</Items>
+	</View>
+
+</XMBML>
