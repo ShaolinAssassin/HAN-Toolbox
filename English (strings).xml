@@ -320,11 +320,21 @@
 	<Text name="han_toolbox_uninstall_lang">Uninstall Multi Language</Text>
 	<Text name="han_toolbox_uninstall_lang_info">Restore English language of HAN Toolbox and reboot after</Text>
 	<Text name="han_toolbox_check_lang_item">HAN Toolbox is translated in the following languages :</Text>
+	<Text name="han_toolbox_check_lang_item_info">Press  to see the list</Text>
 	<Text name="han_toolbox_download_multi_lang_pkg">Step 1: Download Toolbox Multi Lang PKG</Text>
 	<Text name="han_toolbox_download_multi_lang_pkg_info">Download and install Toolbox Multi Lang PKG (do NOT reboot)</Text>
 	<Text name="han_toolbox_inject_lang_rco">Step 2: Inject lang RCO file</Text>
 	<Text name="han_toolbox_inject_lang_rco_info">Copy downloaded explore_plugin_full.rco from HANTOOLBX/USRDIR/files to dev_flash/vsh/resource/*.rco</Text>
 
+<!-- han_toolbox_settings.xml // Main Items > Toolbox Settings > Toolbox Multi Language > Lang Available -->
+
+	<Text name="msg_lang_english-UK">English (United Kingdom)</Text>
+	<Text name="msg_lang_english_US">English (United States)</Text>
+	<Text name="msg_lang_portuguese-BR">Portuguese (Brazil)</Text>
+	<Text name="msg_lang_portuguese-PT">Portuguese (Portugal)</Text>	
+	<Text name="han_toolbox_lang_available_info_yes">Available: Yes</Text>
+	<Text name="han_toolbox_lang_available_info_no">Available: No</Text>
+	
 <!-- han_toolbox_settings.xml // Main Items > Toolbox Settings > Toolbox Resources -->
 	
 	<Text name="han_toolbox_install_resources">Install Toolbox Resources</Text>

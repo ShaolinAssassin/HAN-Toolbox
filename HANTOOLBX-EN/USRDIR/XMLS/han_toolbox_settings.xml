@@ -85,14 +85,14 @@
 			</Items>
 		</View>
 		
-<!-- Main Items > Toolbox Settings > Toolbox Multi Language > Install Multi Language (here : lang available, english hardcoded) -->
+<!-- Main Items > Toolbox Settings > Toolbox Multi Language > Install Multi Language -->
 		
 		<View id="han_toolbox_install_lang_main"> 
 		<Attributes>
 			<Table key="han_toolbox_check_lang_item">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/list.png</String></Pair>
 				<Pair key="title"><String>HAN Toolbox is translated in the following languages :</String></Pair>
-				<Pair key="info"><String>--- None ATM ---</String></Pair>
+				<Pair key="info"><String>Press  to see the list</String></Pair>
 			</Table>
 			<Table key="han_download_multi_lang_pkg">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_file.png</String></Pair>
@@ -109,9 +109,10 @@
 		</Attributes>
 			<Items>
 			<Query 
-				class="type:x-xmb/module-action" 
+				class="type:x-xmb/folder-pixmap" 
 				key="han_toolbox_check_lang_item" 
 				attr="han_toolbox_check_lang_item"
+				src="#han_toolbox_lang_available"				
 				/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
@@ -127,6 +128,215 @@
 			</Items> 
 		</View>
 
+<!-- Main Items > Toolbox Settings > Toolbox Multi Language > Install Multi Language > Lang available (here) -->
+
+		<View id="han_toolbox_lang_available"> 
+		<Attributes>
+			<Table key="han_toolbox_lang_chinese_s">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/lang/ch-zh.png</String></Pair>
+				<Pair key="title"><String>Chinese (Simplified)</String></Pair>
+				<Pair key="info"><String>Available: No</String></Pair>
+			</Table>
+			<Table key="han_toolbox_lang_chinese_t">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/lang/ch-zh.png</String></Pair>
+				<Pair key="title"><String>Chinese (Traditional)</String></Pair>
+				<Pair key="info"><String>Available: No</String></Pair>
+			</Table>
+			<Table key="han_toolbox_lang_danish">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/lang/da.png</String></Pair>
+				<Pair key="title"><String>Danish</String></Pair>
+				<Pair key="info"><String>Available: No</String></Pair>
+			</Table>
+			<Table key="han_toolbox_lang_dutch">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/lang/nl.png</String></Pair>
+				<Pair key="title"><String>Dutch</String></Pair>
+				<Pair key="info"><String>Available: No</String></Pair>
+			</Table>
+			<Table key="han_toolbox_lang_english-UK">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/lang/en-UK.png</String></Pair>
+				<Pair key="title"><String>English (United Kingdom)</String></Pair>
+				<Pair key="info"><String>Available: Yes</String></Pair>
+			</Table>
+			<Table key="han_toolbox_lang_english-US">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/lang/en-US.png</String></Pair>
+				<Pair key="title"><String>English (United States)</String></Pair>
+				<Pair key="info"><String>Available: Yes</String></Pair>
+			</Table>
+			<Table key="han_toolbox_lang_finnish">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/lang/fi.png</String></Pair>
+				<Pair key="title"><String>Finnish</String></Pair>
+				<Pair key="info"><String>Available: No</String></Pair>
+			</Table>
+			<Table key="han_toolbox_lang_french">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/lang/fr.png</String></Pair>
+				<Pair key="title"><String>French</String></Pair>
+				<Pair key="info"><String>Available: No</String></Pair>
+			</Table>
+			<Table key="han_toolbox_lang_german">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/lang/de.png</String></Pair>
+				<Pair key="title"><String>German</String></Pair>
+				<Pair key="info"><String>Available: No</String></Pair>
+			</Table>
+			<Table key="han_toolbox_lang_italian">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/lang/it.png</String></Pair>
+				<Pair key="title"><String>Italian</String></Pair>
+				<Pair key="info"><String>Available: No</String></Pair>
+			</Table>
+			<Table key="han_toolbox_lang_japan">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/lang/ja.png</String></Pair>
+				<Pair key="title"><String>Japanese</String></Pair>
+				<Pair key="info"><String>Available: No</String></Pair>
+			</Table>
+			<Table key="han_toolbox_lang_korean">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/lang/ko.png</String></Pair>
+				<Pair key="title"><String>Korean</String></Pair>
+				<Pair key="info"><String>Available: No</String></Pair>
+			</Table>
+			<Table key="han_toolbox_lang_norwegian">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/lang/no.png</String></Pair>
+				<Pair key="title"><String>Norwegian</String></Pair>
+				<Pair key="info"><String>Available: No</String></Pair>
+			</Table>
+			<Table key="han_toolbox_lang_polish">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/lang/pl.png</String></Pair>
+				<Pair key="title"><String>Polish</String></Pair>
+				<Pair key="info"><String>Available: No</String></Pair>
+			</Table>
+			<Table key="han_toolbox_lang_portuguese-BR">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/lang/pt-BR.png</String></Pair>
+				<Pair key="title"><String>Portuguese (Brazil)</String></Pair>
+				<Pair key="info"><String>Available: No</String></Pair>
+			</Table>
+			<Table key="han_toolbox_lang_portuguese-PT">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/lang/pt-PT.png</String></Pair>
+				<Pair key="title"><String>Portuguese (Portugal)</String></Pair>
+				<Pair key="info"><String>Available: No</String></Pair>
+			</Table>
+			<Table key="han_toolbox_lang_russian">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/lang/ru.png</String></Pair>
+				<Pair key="title"><String>Russian</String></Pair>
+				<Pair key="info"><String>Available: No</String></Pair>
+			</Table>
+			<Table key="han_toolbox_lang_spanish">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/lang/es.png</String></Pair>
+				<Pair key="title"><String>Spanish</String></Pair>
+				<Pair key="info"><String>Available: No</String></Pair>
+			</Table>
+			<Table key="han_toolbox_lang_swedish">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/lang/sv.png</String></Pair>
+				<Pair key="title"><String>Swedish</String></Pair>
+				<Pair key="info"><String>Available: No</String></Pair>
+			</Table>
+			<Table key="han_toolbox_lang_turkish">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/lang/tr.png</String></Pair>
+				<Pair key="title"><String>Turkish</String></Pair>
+				<Pair key="info"><String>Available: No</String></Pair>
+			</Table>
+		</Attributes>
+			<Items>
+			<Query 
+				class="type:x-xmb/module-action" 
+				key="han_toolbox_lang_chinese_s" 
+				attr="han_toolbox_lang_chinese_s"
+				/>
+			<Query 
+				class="type:x-xmb/module-action" 
+				key="han_toolbox_lang_chinese_t" 
+				attr="han_toolbox_lang_chinese_t"
+				/>
+			<Query 
+				class="type:x-xmb/module-action" 
+				key="han_toolbox_lang_danish" 
+				attr="han_toolbox_lang_danish"
+				/>
+			<Query 
+				class="type:x-xmb/module-action" 
+				key="han_toolbox_lang_dutch" 
+				attr="han_toolbox_lang_dutch"
+				/>
+			<Query 
+				class="type:x-xmb/module-action" 
+				key="han_toolbox_lang_english-UK" 
+				attr="han_toolbox_lang_english-UK"
+				/>
+			<Query 
+				class="type:x-xmb/module-action" 
+				key="han_toolbox_lang_english-US" 
+				attr="han_toolbox_lang_english-US"
+				/>
+			<Query 
+				class="type:x-xmb/module-action" 
+				key="han_toolbox_lang_finnish" 
+				attr="han_toolbox_lang_finnish"
+				/>
+			<Query 
+				class="type:x-xmb/module-action" 
+				key="han_toolbox_lang_french" 
+				attr="han_toolbox_lang_french"
+				/>
+			<Query 
+				class="type:x-xmb/module-action" 
+				key="han_toolbox_lang_german" 
+				attr="han_toolbox_lang_german"
+				/>
+			<Query 
+				class="type:x-xmb/module-action" 
+				key="han_toolbox_lang_italian" 
+				attr="han_toolbox_lang_italian"
+				/>
+			<Query 
+				class="type:x-xmb/module-action" 
+				key="han_toolbox_lang_japan" 
+				attr="han_toolbox_lang_japan"
+				/>
+			<Query 
+				class="type:x-xmb/module-action" 
+				key="han_toolbox_lang_korean" 
+				attr="han_toolbox_lang_korean"
+				/>
+			<Query 
+				class="type:x-xmb/module-action" 
+				key="han_toolbox_lang_norwegian" 
+				attr="han_toolbox_lang_norwegian"
+				/>
+			<Query 
+				class="type:x-xmb/module-action" 
+				key="han_toolbox_lang_polish" 
+				attr="han_toolbox_lang_polish"
+				/>
+			<Query 
+				class="type:x-xmb/module-action" 
+				key="han_toolbox_lang_portuguese-BR" 
+				attr="han_toolbox_lang_portuguese-BR"
+				/>
+			<Query 
+				class="type:x-xmb/module-action" 
+				key="han_toolbox_lang_portuguese-PT" 
+				attr="han_toolbox_lang_portuguese-PT"
+				/>
+			<Query 
+				class="type:x-xmb/module-action" 
+				key="han_toolbox_lang_russian" 
+				attr="han_toolbox_lang_russian"
+				/>
+			<Query 
+				class="type:x-xmb/module-action" 
+				key="han_toolbox_lang_spanish" 
+				attr="han_toolbox_lang_spanish"
+				/>
+			<Query 
+				class="type:x-xmb/module-action" 
+				key="han_toolbox_lang_swedish" 
+				attr="han_toolbox_lang_swedish"
+				/>
+			<Query 
+				class="type:x-xmb/module-action" 
+				key="han_toolbox_lang_turkish" 
+				attr="han_toolbox_lang_turkish"
+				/>
+			</Items> 
+		</View>		
+		
 <!-- Main Items > Toolbox Settings > Toolbox Resources -->
 
 		<View id="han_toolbox_resources_main"> 

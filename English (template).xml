@@ -318,3 +318,10 @@ Legend:
 [+]	<Text name="han_toolbox_wave_downloader_info">Download and install waves (lines.qrc)</Text>
 [+]	<Text name="han_toolbox_temperature_reader">Temperature Reader</Text>
 [+]	<Text name="han_toolbox_temperature_reader_info">Display CELL and RSX temperature values (4.82 CEX)</Text>	
+[+]	<Text name="han_toolbox_check_lang_item_info">Press  to see the list</Text>
+[+]	<Text name="msg_lang_english-UK">English (United Kingdom)</Text>
+[+]	<Text name="msg_lang_english_US">English (United States)</Text>
+[+]	<Text name="msg_lang_portuguese-BR">Portuguese (Brazil)</Text>
+[+]	<Text name="msg_lang_portuguese-PT">Portuguese (Portugal)</Text>	
+[+]	<Text name="han_toolbox_lang_available_info_yes">Available: Yes</Text>
+[+]	<Text name="han_toolbox_lang_available_info_no">Available: No</Text>	
