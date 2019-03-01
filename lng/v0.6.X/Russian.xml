@@ -1270,7 +1270,8 @@ RESUME GAMEPLAY ONLY ON APPROVAL OF YOUR PHYSICIAN.
 	<Text name="han_toolbox_update">Обновить Toolbox</Text>
 	<Text name="han_toolbox_update_info">Скачать и установить последний Toolbox (нужен перезапуск или смена пользователя)</Text>
 	<Text name="han_toolbox_credits">By DeViL303, Pink1, esc0rtd3w, Berion, ShaolinAssassin, Demon Hades and lmn7
-Massive thanks to the PS3Xploit Team for all the hacks</Text>
+Massive thanks to the PS3Xploit Team for all the hacks
+Russian Translation by in1975</Text>
 	<Text name="han_toolbox_install_lang">Установить Языки</Text>
 	<Text name="han_toolbox_install_lang_info">Скачать и установить языки (нужен перезапуск или смена пользователя)</Text>
 	<Text name="han_toolbox_uninstall_lang">Удалить Языки</Text>

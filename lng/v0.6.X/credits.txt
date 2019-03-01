@@ -7,18 +7,18 @@ Code	Name							State				Team							Notes
 02		French							Updated (v0.6)		ShaolinAssassin					Included in v0.6.2
 03		Spanish (neutral)				Updated (v0.6)		mr_ota							Included in v0.6.1
 04		German							Missing				Nobody	
-05		Italian							Updated (v0.6)		EdoMan	
+05		Italian							Updated (v0.6)		EdoMan							Included in v0.6.3
 06		Dutch							Missing				Nobody	
-07		Portuguese (Portugal)			Updated (v0.6)		FmTGamer, Naked_Snake1995, Tkit	
+07		Portuguese (Portugal)			Updated (v0.6)		FmTGamer, Naked_Snake1995, Tkit	Included in v0.6.3
 08		Russian							Updated (v0.6)		in1975							Included in v0.6.2	
 09		Korean							Missing				Nobody	
 10		Chinese (Traditional)			Missing				Nobody	
 11		Chinese (Simplified)			Updated (v0.6)		Ding xiansheng					Included in v0.6.2	
-12		Finnish							Missing				Nobody	
-13		Swedish							Missing				Nobody	
+12		Finnish							Updated (v0.6)		sestain							Included in v0.6.4
+13		Swedish							Updated (v0.6)		ISAK.M							Included in v0.6.4
 14		Danish							Missing				Nobody	
 15		Norwegian						Missing				Nobody	
-16		Polish							Updated (v0.6)		NiHuShu							Almost ready. Included in v0.6.2
+16		Polish							Updated (v0.6)		NiHuShu							Included in v0.6.2
 17		Portuguese (Brazil)				Updated (v0.6)		Niander466/Caio99BR	
 18		English (United Kingdom)		Updated (v0.6)		DeViL303/ShaolinAssassin		By now using same file as English US
 19		Turkish							Updated (v0.6)		KEMAL SANLI @kemalsanli			Included in v0.6.2	

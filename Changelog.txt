@@ -1,3 +1,8 @@
+* v0.6.4 (2019/03/01) :
+New languages available:
+-Finnish - translation by sestain
+-Swedish - translation by ISAK.M
+
 * v0.6.3 (2019/01/20) :
 New languages available:
 -Italian - translation by EdoMan
