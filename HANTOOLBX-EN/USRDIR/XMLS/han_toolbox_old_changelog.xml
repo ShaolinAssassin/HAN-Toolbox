@@ -1,0 +1,353 @@
+<XMBML version="1.0">
+
+<!-- Main Items > Toolbox Settings > Changelog > Old Changelogs - hardcoded in english (here) -->
+
+		<View id="han_toolbox_old_changelog_items"> 
+		<Attributes>
+			<Table key="han_toolbox_v064">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/list.png</String></Pair>
+				<Pair key="title"><String>v0.6.4 Changelog</String></Pair>
+				<Pair key="info"><String></String></Pair>
+			</Table>
+			<Table key="han_toolbox_v063">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/list.png</String></Pair>
+				<Pair key="title"><String>v0.6.3 Changelog</String></Pair>
+				<Pair key="info"><String></String></Pair>
+			</Table>
+			<Table key="han_toolbox_v062">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/list.png</String></Pair>
+				<Pair key="title"><String>v0.6.2 Changelog</String></Pair>
+				<Pair key="info"><String></String></Pair>
+			</Table>
+			<Table key="han_toolbox_v061">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/list.png</String></Pair>
+				<Pair key="title"><String>v0.6.1 Changelog</String></Pair>
+				<Pair key="info"><String></String></Pair>
+			</Table>
+			<Table key="han_toolbox_v06">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/list.png</String></Pair>
+				<Pair key="title"><String>v0.6 Changelog</String></Pair>
+				<Pair key="info"><String></String></Pair>
+			</Table>
+			<Table key="han_toolbox_v05">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/list.png</String></Pair>
+				<Pair key="title"><String>v0.5 Changelog</String></Pair>
+				<Pair key="info"><String></String></Pair>
+			</Table>
+			<Table key="han_toolbox_v04">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/list.png</String></Pair>
+				<Pair key="title"><String>v0.4 Changelog</String></Pair>
+				<Pair key="info"><String></String></Pair>
+			</Table>
+			<Table key="han_toolbox_v03">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/list.png</String></Pair>
+				<Pair key="title"><String>v0.3 Changelog</String></Pair>
+				<Pair key="info"><String></String></Pair>
+			</Table>
+			<Table key="han_toolbox_v02">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/list.png</String></Pair>
+				<Pair key="title"><String>v0.2 Changelog</String></Pair>
+				<Pair key="info"><String></String></Pair>
+			</Table>
+			<Table key="han_toolbox_v01">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/list.png</String></Pair>
+				<Pair key="title"><String>v0.1 Changelog</String></Pair>
+				<Pair key="info"><String></String></Pair>
+			</Table>
+		</Attributes>
+			<Items>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_toolbox_v064" 
+				attr="han_toolbox_v064"
+				src="#han_toolbox_v064_changelog"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_toolbox_v063" 
+				attr="han_toolbox_v063"
+				src="#han_toolbox_v063_changelog"
+				/>	
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_toolbox_v062" 
+				attr="han_toolbox_v062"
+				src="#han_toolbox_v062_changelog"
+				/>	
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_toolbox_v061" 
+				attr="han_toolbox_v061"
+				src="#han_toolbox_v061_changelog"
+				/>	
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_toolbox_v06" 
+				attr="han_toolbox_v06"
+				src="#han_toolbox_v06_changelog"
+				/>	
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_toolbox_v05" 
+				attr="han_toolbox_v05"
+				src="#han_toolbox_v05_changelog"
+				/>	
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_toolbox_v04" 
+				attr="han_toolbox_v04"
+				src="#han_toolbox_v04_changelog"
+				/>	
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_toolbox_v03" 
+				attr="han_toolbox_v03"
+				src="#han_toolbox_v03_changelog"
+				/>	
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_toolbox_v02" 
+				attr="han_toolbox_v02"
+				src="#han_toolbox_v02_changelog"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_toolbox_v01" 
+				attr="han_toolbox_v01"
+				src="#han_toolbox_v01_changelog"
+				/>				
+			</Items>
+		</View>			
+			
+		<View id="han_toolbox_v064_changelog"> 
+		<Attributes>
+			<Table key="han_toolbox_v064_item">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/list.png</String></Pair>
+				<Pair key="title"><String>v0.6.4 (2019/03/01)</String></Pair>
+				<Pair key="info"><String>
+				New languages available:
+				・Finnish
+				・Swedish</String></Pair>
+			</Table>
+		</Attributes>
+			<Items>
+			<Query 
+				class="type:x-xmb/module-action" 
+				key="han_toolbox_v064_item" 
+				attr="han_toolbox_v064_item"
+				/>
+			</Items>
+		</View>
+		
+		<View id="han_toolbox_v063_changelog"> 
+		<Attributes>
+			<Table key="han_toolbox_v063_item">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/list.png</String></Pair>
+				<Pair key="title"><String>v0.6.3 (2019/01/20)</String></Pair>
+				<Pair key="info"><String>
+				New languages available:
+				・Italian
+				・Portuguese (Portugal)</String></Pair>
+			</Table>
+		</Attributes>
+			<Items>
+			<Query 
+				class="type:x-xmb/module-action" 
+				key="han_toolbox_v063_item" 
+				attr="han_toolbox_v063_item"
+				/>
+			</Items>
+		</View>	
+		
+		<View id="han_toolbox_v062_changelog"> 
+		<Attributes>
+			<Table key="han_toolbox_v062_item">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/list.png</String></Pair>
+				<Pair key="title"><String>v0.6.2 (2019/01/03)</String></Pair>
+				<Pair key="info"><String>
+				・File copier updated
+				New languages available:
+				・Chinese (Simplified)
+				・French
+				・Portuguese (Brazil)
+				・Polish
+				・Russian
+				・Turkish
+				NoPSN Apps :
+				・DirecTV NFL (Retail) (US) added
+				・Funinmation (Retail) (US) added
+				・Netflix (Retail) (EU + JP + US) added
+				・MLB. TV (v2.95 with adds) (US) added
+				・NBA Game Time (Retail) (US) added
+				・PlayStation Store (all versions) removed
+				・Popcornflix (all versions) installation fixed</String></Pair>
+			</Table>
+		</Attributes>
+			<Items>
+			<Query 
+				class="type:x-xmb/module-action" 
+				key="han_toolbox_v062_item" 
+				attr="han_toolbox_v062_item"
+				/>
+			</Items>
+		</View>	
+		
+		<View id="han_toolbox_v061_changelog"> 
+		<Attributes>
+			<Table key="han_toolbox_v061_item">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/list.png</String></Pair>
+				<Pair key="title"><String>v0.6.1 (2018/12/28)</String></Pair>
+				<Pair key="info"><String>
+				・Multi-language support enabled
+				・Added Spanish Translation</String></Pair>
+			</Table>
+		</Attributes>
+			<Items>
+			<Query 
+				class="type:x-xmb/module-action" 
+				key="han_toolbox_v061_item" 
+				attr="han_toolbox_v061_item"
+				/>
+			</Items>
+		</View>
+		
+		<View id="han_toolbox_v06_changelog"> 
+		<Attributes>
+			<Table key="han_toolbox_v06_item">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/list.png</String></Pair>
+				<Pair key="title"><String>v0.6 (2018/12/23)</String></Pair>
+				<Pair key="info"><String>
+				・HAN Enabler, Soft Reboot and Debug Packages Enabler Offline codes added (4.82 CEX only) 
+				・New File copier (PS3 to USB & vice-versa) (4.82 CEX only) 
+				・New xRegistry.sys Operations (Backup/Restore System Settings) added
+				・Demo Downloader updated (3 ways of sorting demos : alpha + by genre + by metascore)
+				・NoPSN Apps Downloader added
+				・Multi-language support added, waiting for translations @psx-place
+				・Icon notification when update is available</String></Pair>
+			</Table>
+		</Attributes>
+			<Items>
+			<Query 
+				class="type:x-xmb/module-action" 
+				key="han_toolbox_v06_item" 
+				attr="han_toolbox_v06_item"
+				/>
+			</Items>
+		</View>	
+		
+		<View id="han_toolbox_v05_changelog"> 
+		<Attributes>
+			<Table key="han_toolbox_v05_item">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/list.png</String></Pair>
+				<Pair key="title"><String>v0.5 (2018/04/18)</String></Pair>
+				<Pair key="info"><String>
+				・Self injector added
+				・Cert remover added
+				・Demo Downloader updated with demos from all regions
+				・Theme Downloader added
+				・Wallpaper Downloader added
+				・Menus rearranged
+				・Debug Settings Toggler added
+				・DEX Xploit links added (Auto switching)
+				・New icons</String></Pair>
+			</Table>
+		</Attributes>
+			<Items>
+			<Query 
+				class="type:x-xmb/module-action" 
+				key="han_toolbox_v05_item" 
+				attr="han_toolbox_v05_item"
+				/>
+			</Items>
+		</View>	
+		
+		<View id="han_toolbox_v04_changelog"> 
+		<Attributes>
+			<Table key="han_toolbox_v04_item">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/list.png</String></Pair>
+				<Pair key="title"><String>v0.4 (2018/04/02)</String></Pair>
+				<Pair key="info"><String>
+				・New File Injector hacks added
+				・Demo Downloader added
+				・Local Xploits added (PKG Linker 2.0 Required for the local xploits)
+				</String></Pair>
+			</Table>
+		</Attributes>
+			<Items>
+			<Query 
+				class="type:x-xmb/module-action" 
+				key="han_toolbox_v04_item" 
+				attr="han_toolbox_v04_item"
+				/>
+			</Items>
+		</View>	
+		
+		<View id="han_toolbox_v03_changelog"> 
+		<Attributes>
+			<Table key="han_toolbox_v03_item">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/list.png</String></Pair>
+				<Pair key="title"><String>v0.3 (2018/03/19)</String></Pair>
+				<Pair key="info"><String>
+				・Soft Reboot added
+				・Hard Reboot added
+				・Shutdown Added
+				・File Explorer Added (browse and delete files)
+				・New auto running links for all Xploit options (no buttons to push)
+				・Moved all Xploits except "HAN Enabler" into sub categories
+				・Submenu added for DEX Firmware Xploits (NOT for Normal HAN users)
+				・Original manual start Xploits still available under legacy menu
+				・Built in Toolbox Updater (Update from the XMB in future)</String></Pair>
+			</Table>
+		</Attributes>
+			<Items>
+			<Query 
+				class="type:x-xmb/module-action" 
+				key="han_toolbox_v03_item" 
+				attr="han_toolbox_v03_item"
+				/>
+			</Items>
+		</View>	
+		
+		<View id="han_toolbox_v02_changelog"> 
+		<Attributes>
+			<Table key="han_toolbox_v02_item">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/list.png</String></Pair>
+				<Pair key="title"><String>v0.2 (2018/03/14)</String></Pair>
+				<Pair key="info"><String>
+				・Link fixed
+				・Added support for webserver pkgs (feature not fully enabled yet though)</String></Pair>
+			</Table>
+		</Attributes>
+			<Items>
+			<Query 
+				class="type:x-xmb/module-action" 
+				key="han_toolbox_v02_item" 
+				attr="han_toolbox_v02_item"
+				/>
+			</Items>
+		</View>	
+		
+		<View id="han_toolbox_v01_changelog"> 
+		<Attributes>
+			<Table key="han_toolbox_v01_item">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/list.png</String></Pair>
+				<Pair key="title"><String>v0.1 (2018/03/14)</String></Pair>
+				<Pair key="info"><String>
+				・HAN Installer
+				・HAN Enabler
+				・License Dumper
+				・License Injector
+				・Debug Package Enabler
+				・Support Forum</String></Pair>
+			</Table>
+		</Attributes>
+			<Items>
+			<Query 
+				class="type:x-xmb/module-action" 
+				key="han_toolbox_v01_item" 
+				attr="han_toolbox_v01_item"
+				/>
+			</Items>
+		</View>	
+
+</XMBML>

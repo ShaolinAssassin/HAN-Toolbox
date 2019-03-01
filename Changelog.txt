@@ -69,11 +69,14 @@ More info here : http://www.psx-place.com/threads/han-toolbox-v0-4-released-the-
 -Built in Toolbox Updater (Update from the XMB in future)
 More info here : http://www.psx-place.com/threads/han-toolbox-the-xploit-3-0-companion.16682/#post-109515
 
-* v0.2 (2018/03/14) : Initial release.
+* v0.2 (2018/03/14) :
+-Link fixed
+-Added support for webserver pkgs (feature not fully enabled yet though)
+
+* v0.1 (2018/03/14) : Initial release.
 -HAN Installer
 -HAN Enabler
 -License Dumper
 -License Injector
 -Debug Package Enabler
 -Support Forum
--Install Packages From Webserver (PKG Linker Required)

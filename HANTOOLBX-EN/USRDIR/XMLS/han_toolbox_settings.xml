@@ -525,6 +525,7 @@
 				class="type:x-xmb/module-action" 
 				key="han_toolbox_last_changes" 
 				attr="han_toolbox_last_changes"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/old_changelog.xml#old_changelog_items"
 				/>
 			</Items>
 		</View>			
