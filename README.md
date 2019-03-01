@@ -40,8 +40,8 @@
 | Korean | No |
 | Chinese (Traditional) | No |
 | Chinese (Simplified) | Yes |
-| Finnish | No |
-| Swedish | No |
+| Finnish | Yes |
+| Swedish | Yes |
 | Danish | No |
 | Norwegian | No |
 | Polish | Yes |

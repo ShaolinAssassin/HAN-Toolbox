@@ -1,6 +1,6 @@
 <XMBML version="1.0">
 
-<!-- HAN Toolbox v0.6.3 (here : v#) - patch PKG for multi language -->
+<!-- HAN Toolbox v0.6.4 (here : v#) - patch PKG for multi language -->
 
 	<View id="han_toolbox_xmb_main"> 
 		<Attributes> 
@@ -81,7 +81,7 @@
 				<Pair key="info_rsc"><String>han_toolbox_external_content_info</String></Pair>
 			</Table>
 			<Table key="han_advanced_menu">
-				<Pair key="icon"><String>http://raw.githubusercontent.com/ShaolinAssassin/HAN-Toolbox/master/update_status/v0.6.3-setup.png</String></Pair>
+				<Pair key="icon"><String>http://raw.githubusercontent.com/ShaolinAssassin/HAN-Toolbox/master/update_status/v0.6.4-setup.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_advanced_tools</String></Pair>
 				<Pair key="info_rsc"><String>han_toolbox_advanced_tools_info</String></Pair>
 			</Table>
@@ -163,7 +163,7 @@
 				<Pair key="info_rsc"><String>han_toolbox_external_content_info</String></Pair>
 			</Table>
 			<Table key="han_advanced_menu">
-				<Pair key="icon"><String>http://raw.githubusercontent.com/ShaolinAssassin/HAN-Toolbox/master/update_status/v0.6.3-setup.png</String></Pair>
+				<Pair key="icon"><String>http://raw.githubusercontent.com/ShaolinAssassin/HAN-Toolbox/master/update_status/v0.6.4-setup.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_advanced_tools</String></Pair>
 				<Pair key="info_rsc"><String>han_toolbox_advanced_tools_info</String></Pair>
 			</Table>
@@ -514,7 +514,7 @@
 				<Pair key="info_rsc"><String>han_toolbox_dex_xmb_setup_info</String></Pair>
 			</Table>
 			<Table key="han_toolbox_setup">
-				<Pair key="icon"><String>http://raw.githubusercontent.com/ShaolinAssassin/HAN-Toolbox/master/update_status/v0.6.3-setup.png</String></Pair>
+				<Pair key="icon"><String>http://raw.githubusercontent.com/ShaolinAssassin/HAN-Toolbox/master/update_status/v0.6.4-setup.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_settings</String></Pair>
 				<Pair key="info_rsc"><String>han_toolbox_settings_info</String></Pair>
 			</Table>
@@ -919,13 +919,13 @@
 				<Pair key="info_rsc"><String>han_toolbox_resources_info</String></Pair>
 			</Table>
 			<Table key="han_toolbox_update">
-				<Pair key="icon"><String>http://raw.githubusercontent.com/ShaolinAssassin/HAN-Toolbox/master/update_status/v0.6.3-update.png</String></Pair>
+				<Pair key="icon"><String>http://raw.githubusercontent.com/ShaolinAssassin/HAN-Toolbox/master/update_status/v0.6.4-update.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_update</String></Pair>
 				<Pair key="info_rsc"><String>han_toolbox_update_info</String></Pair>
 			</Table>
 			<Table key="han_toolbox_about">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/list.png</String></Pair>
-				<Pair key="title"><String>Version: 0.6.3 (Full)</String></Pair>
+				<Pair key="title"><String>Version: 0.6.4 (Full)</String></Pair>
 				<Pair key="info_rsc"><String>han_toolbox_credits</String></Pair>				
 			</Table>
 		</Attributes>
@@ -995,7 +995,7 @@
 			<Table key="han_toolbox_check_lang_item">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/list.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_check_lang_item</String></Pair>
-				<Pair key="info"><String>Chinese (Simplified), French, Italian, Portuguese (Portugal), Portuguese (Brazil), Polish, Russian, Turkish</String></Pair>
+				<Pair key="info"><String>Chinese (Simplified), French, Finnish, Italian, Portuguese (Portugal), Portuguese (Brazil), Polish, Russian, Swedish, Turkish</String></Pair>
 			</Table>
 			<Table key="han_download_lang_rco">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_file.png</String></Pair>
@@ -1184,10 +1184,10 @@
 			<Table key="han_toolbox_last_changes">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/list.png</String></Pair>
 				<Pair key="title"><String>HAN Toolbox Changelog</String></Pair>
-				<Pair key="info"><String>・ v0.6.3 (2019/01/20) :
+				<Pair key="info"><String>・ v0.6.4 (2019/03/01) :
 				New languages available:
-				-Italian
-				-Portuguese (Portugal)</String></Pair>
+				-Finnish
+				-Swedish</String></Pair>
 			</Table>
 		</Attributes>
 			<Items>

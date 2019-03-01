@@ -1,6 +1,6 @@
 <XMBML version="1.0">
 
-<!-- HAN Toolbox v0.6.3 (here : v#) -->
+<!-- HAN Toolbox v0.6.4 (here : v#) -->
 
 	<View id="han_toolbox_xmb_main"> 
 		<Attributes> 
@@ -81,7 +81,7 @@
 				<Pair key="info"><String>Download and install content from remote servers</String></Pair>
 			</Table>
 			<Table key="han_advanced_menu">
-				<Pair key="icon"><String>http://raw.githubusercontent.com/ShaolinAssassin/HAN-Toolbox/master/update_status/v0.6.3-setup.png</String></Pair>
+				<Pair key="icon"><String>http://raw.githubusercontent.com/ShaolinAssassin/HAN-Toolbox/master/update_status/v0.6.4-setup.png</String></Pair>
 				<Pair key="title"><String>Advanced Tools</String></Pair>
 				<Pair key="info"><String>Be careful with items in here</String></Pair>
 			</Table>
@@ -163,7 +163,7 @@
 				<Pair key="info"><String>Download and install content from remote servers</String></Pair>
 			</Table>
 			<Table key="han_advanced_menu">
-				<Pair key="icon"><String>http://raw.githubusercontent.com/ShaolinAssassin/HAN-Toolbox/master/update_status/v0.6.3-setup.png</String></Pair>
+				<Pair key="icon"><String>http://raw.githubusercontent.com/ShaolinAssassin/HAN-Toolbox/master/update_status/v0.6.4-setup.png</String></Pair>
 				<Pair key="title"><String>Advanced Tools</String></Pair>
 				<Pair key="info"><String>Be careful with items in here</String></Pair>
 			</Table>
@@ -514,7 +514,7 @@
 				<Pair key="info"><String>Add/Remove DEX settings etc (Be careful)</String></Pair>
 			</Table>
 			<Table key="han_toolbox_setup">
-				<Pair key="icon"><String>http://raw.githubusercontent.com/ShaolinAssassin/HAN-Toolbox/master/update_status/v0.6.3-setup.png</String></Pair>
+				<Pair key="icon"><String>http://raw.githubusercontent.com/ShaolinAssassin/HAN-Toolbox/master/update_status/v0.6.4-setup.png</String></Pair>
 				<Pair key="title"><String>Toolbox Settings</String></Pair>
 				<Pair key="info"><String>Version info, Resources download, Updates, Languages</String></Pair>
 			</Table>
@@ -919,13 +919,13 @@
 				<Pair key="info"><String>Install/Uninstall the HAN Toolbox resources package</String></Pair>
 			</Table>
 			<Table key="han_toolbox_update">
-				<Pair key="icon"><String>http://raw.githubusercontent.com/ShaolinAssassin/HAN-Toolbox/master/update_status/v0.6.3-update.png</String></Pair>
+				<Pair key="icon"><String>http://raw.githubusercontent.com/ShaolinAssassin/HAN-Toolbox/master/update_status/v0.6.4-update.png</String></Pair>
 				<Pair key="title"><String>Update Toolbox</String></Pair>
 				<Pair key="info"><String>Download and install the latest Toolbox package and reboot after</String></Pair>
 			</Table>
 			<Table key="han_toolbox_about">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/list.png</String></Pair>
-				<Pair key="title"><String>Version 0.6.3 (Full)</String></Pair>
+				<Pair key="title"><String>Version 0.6.4 (Full)</String></Pair>
 				<Pair key="info"><String>By DeViL303, Pink1, esc0rtd3w, Berion, ShaolinAssassin, Demon Hades and lmn7
 				Massive thanks to the PS3Xploit Team for all the hacks</String></Pair>
 			</Table>
@@ -996,7 +996,7 @@
 			<Table key="han_toolbox_check_lang_item">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/list.png</String></Pair>
 				<Pair key="title"><String>HAN Toolbox is translated in the following languages :</String></Pair>
-				<Pair key="info"><String>Chinese (Simplified), French, Italian, Portuguese (Portugal), Portuguese (Brazil), Polish, Russian, Turkish</String></Pair>
+				<Pair key="info"><String>Chinese (Simplified), French, Finnish, Italian, Portuguese (Portugal), Portuguese (Brazil), Polish, Russian, Swedish, Turkish</String></Pair>
 			</Table>
 			<Table key="han_download_lang_rco">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_file.png</String></Pair>
@@ -1185,10 +1185,10 @@
 			<Table key="han_toolbox_last_changes">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/list.png</String></Pair>
 				<Pair key="title"><String>HAN Toolbox Changelog</String></Pair>
-				<Pair key="info"><String>・ v0.6.3 (2019/01/20) :
+				<Pair key="info"><String>・ v0.6.4 (2019/03/01) :
 				New languages available:
-				-Italian
-				-Portuguese (Portugal)</String></Pair>
+				-Finnish
+				-Swedish</String></Pair>
 			</Table>
 		</Attributes>
 			<Items>
