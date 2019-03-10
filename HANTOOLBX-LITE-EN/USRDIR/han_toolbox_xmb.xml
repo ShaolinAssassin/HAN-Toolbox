@@ -1,0 +1,44 @@
+<XMBML version="1.0">
+
+<!-- HAN Toolbox -- Lite Version -->
+
+	<View id="han_toolbox_xmb_main"> 
+		<Attributes> 
+			<Table key="han_main">
+				<Pair key="icon_rsc"><String>tex_album_icon</String></Pair>
+				<Pair key="icon_notation"><String>WNT_XmbItemAlbum</String></Pair>
+				<Pair key="title"><String>★ HAN Toolbox</String></Pair>
+				<Pair key="info"><String>The Xploit 3.0 Companion (Lite Edition)</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+			</Table>
+		</Attributes>
+			<Items>
+			<Query 
+				class="type:x-xmb/folder-pixmap"
+				key="han_main"
+				attr="han_main"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_main_items.xml#han_main_items"/>
+			</Items>
+		</View>
+		
+	<View id="han_toolbox_xmb_main_dex"> 
+		<Attributes> 
+			<Table key="han_main">
+				<Pair key="icon_rsc"><String>tex_album_icon</String></Pair>
+				<Pair key="icon_notation"><String>WNT_XmbItemAlbum</String></Pair>
+				<Pair key="title"><String>★ HAN Toolbox</String></Pair>
+				<Pair key="info"><String>The Xploit 3.0 Companion (Lite Edition) (DEX)</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+			</Table>
+		</Attributes>
+			<Items>
+			<Query 
+				class="type:x-xmb/folder-pixmap"
+				key="han_main"
+				attr="han_main"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_main_items.xml#han_main_items_dex"/>
+			</Items>
+		</View>
+				
+</XMBML>
+		
