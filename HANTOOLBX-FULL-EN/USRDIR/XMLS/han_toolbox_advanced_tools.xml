@@ -2,7 +2,7 @@
 
 <!-- Main Items > Advanced Tools -->
 		
-		<View id="han_advanced_menu_main"> 
+	<View id="han_advanced_menu_main">
 		<Attributes>
 			<Table key="han_file_copier">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/inj_file.png</String></Pair>
@@ -39,7 +39,7 @@
 				<Pair key="info"><String>Add/Remove DEX settings etc (Be careful)</String></Pair>
 			</Table>
 		</Attributes>
-			<Items>
+		<Items>
 			<Query 
 				class="type:x-xmb/module-action"
 				key="han_file_copier"
@@ -74,8 +74,8 @@
 				attr="han_dex_settings_injector" 				
 				src="#han_dex_settings_injector_items"
 				/>
-			</Items>
-		</View>
+		</Items>
+	</View>
 
 <!-- Main Items > Advanced Tools > File Browser -->
 
@@ -264,8 +264,8 @@
 	
 <!-- Main Items > Advanced Tools > File injector (online) -->
 		
-		<View id="han_file_injector_items"> 
-		<Attributes> 
+	<View id="han_file_injector_items">
+		<Attributes>
 			<Table key="han_xreg_dumper_injector">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/inj_debug.png</String></Pair>
 				<Pair key="title"><String>xRegistry.sys Operations (Backup/Restore System Settings)</String></Pair>
@@ -327,7 +327,7 @@
 				<Pair key="info"><String>Copy/Delete certs at dev_flash/data/cert/*.cer</String></Pair>
 			</Table>
 		</Attributes>
-			<Items>
+		<Items>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
 				key="han_xreg_dumper_injector"
@@ -383,13 +383,13 @@
 				attr="han_inject_remove_cert"
 				src="#han_inject_remove_cert_items"
 				/>
-			</Items>
-		</View>
+		</Items>
+	</View>
 
 <!-- Main Items > Advanced Tools > File injector > xRegistry Operations (online) -->
 		
-		<View id="han_xreg_dumper_injector_items"> 
-		<Attributes> 
+	<View id="han_xreg_dumper_injector_items">
+		<Attributes>
 			<Table key="han_dump_xregistry">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/download.png</String></Pair>
 				<Pair key="title"><String>Dump xRegistry.sys</String></Pair>
@@ -405,7 +405,7 @@
 				<Pair key="module_action"><String>http://cgopenpstore.comunidad-gamer.com/root/xmls/injectxRegistry.html</String></Pair>
 			</Table>
 		</Attributes>
-			<Items>
+		<Items>
 			<Query 
 				class="type:x-xmb/module-action"
 				key="han_dump_xregistry" 
@@ -416,13 +416,13 @@
 				key="han_inject_xregistry" 
 				attr="han_inject_xregistry"
 				/>
-			</Items>
-		</View>
+		</Items>
+	</View>
 		
 <!-- Main Items > Advanced Tools > File injector > SPRX injector (online) -->
 		
-		<View id="han_inject_sprx_items"> 
-		<Attributes> 
+	<View id="han_inject_sprx_items">
+		<Attributes>
 			<Table key="han_inject_sprx_vsh">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/inj_executable.png</String></Pair>
 				<Pair key="title"><String>Inject SPRX (VSH Modules)</String></Pair>
@@ -445,7 +445,7 @@
 				<Pair key="module_action"><String>http://ps3xploit.com/flash_sprx_replacer/flash_sprx_replacer_sys_external.html</String></Pair>
 			</Table>
 		</Attributes>
-			<Items>		
+		<Items>		
 			<Query 
 				class="type:x-xmb/module-action"
 				key="han_inject_sprx_vsh"
@@ -461,13 +461,13 @@
 				key="han_inject_sprx_ext"
 				attr="han_inject_sprx_ext"
 				/>		
-			</Items>
-		</View>
+		</Items>
+	</View>
 		
 <!-- Main Items > Advanced Tools > File injector > SELF injector (online) -->
 		
-		<View id="han_inject_self_items"> 
-		<Attributes> 
+	<View id="han_inject_self_items">
+		<Attributes>
 			<Table key="han_inject_self_main">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/inj_executable.png</String></Pair>
 				<Pair key="title"><String>Inject SELF (Main)</String></Pair>
@@ -504,7 +504,7 @@
 				<Pair key="module_action"><String>http://www.ps3xploit.com/flash_self_replacer/flash_self_replacer_bdplayer.html</String></Pair>
 			</Table>
 		</Attributes>
-			<Items>
+		<Items>
 			<Query 
 				class="type:x-xmb/module-action"
 				key="han_inject_self_main"
@@ -530,13 +530,13 @@
 				key="han_inject_self_bd"
 				attr="han_inject_self_bd"
 				/>
-			</Items>
-		</View>
+		</Items>
+	</View>
 
 <!-- Main Items > Advanced Tools > File injector > Font TTF injector (online) -->
 		
-		<View id="han_inject_font_items"> 
-		<Attributes> 
+	<View id="han_inject_font_items">
+		<Attributes>
 			<Table key="han_inject_TTF_font">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/inj_font.png</String></Pair>
 				<Pair key="title"><String>Inject TTF (Font)</String></Pair>
@@ -552,7 +552,7 @@
 				<Pair key="module_action"><String>http://ps3xploit.com/flash_font_replacer/flash_font_replacer_sony_cc.html</String></Pair>
 			</Table>
 		</Attributes>
-			<Items>
+		<Items>
 			<Query 
 				class="type:x-xmb/module-action"
 				key="han_inject_TTF_font" 
@@ -563,13 +563,13 @@
 				key="han_inject_ttf_sony_cc_font" 
 				attr="han_inject_ttf_sony_cc_font"
 				/>
-			</Items>
-		</View>
+		</Items>
+	</View>
 		
 <!-- Main Items > Advanced Tools > File injector > Cert injector (online) -->
 		
-		<View id="han_inject_remove_cert_items"> 
-		<Attributes> 
+	<View id="han_inject_remove_cert_items">
+		<Attributes>
 			<Table key="han_inject_cert">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/inj_cert.png</String></Pair>
 				<Pair key="title"><String>Inject Cert (SSL Cert)</String></Pair>
@@ -585,7 +585,7 @@
 				<Pair key="module_action"><String>http://ps3xploit.com/ssl_cert_injector_remover/ssl_cert_remover.html</String></Pair>
 			</Table>
 		</Attributes>
-			<Items>
+		<Items>
 			<Query 
 				class="type:x-xmb/module-action"
 				key="han_inject_cert"
@@ -596,13 +596,13 @@
 				key="han_remove_cert"
 				attr="han_remove_cert"
 				/>
-			</Items>
-		</View>
+		</Items>
+	</View>
 
 <!-- Main Items > Advanced Tools > File Restorer -->
 		
-		<View id="han_file_restorer_items"> 
-		<Attributes> 
+	<View id="han_file_restorer_items">
+		<Attributes>
 			<Table key="han_restore_coldboot_raf">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_file.png</String></Pair>
 				<Pair key="title"><String>Stock Coldboots (Boot Logo and Sound)</String></Pair>
@@ -649,7 +649,7 @@
 				<Pair key="info"><String>Download HAN support files to HANTOOLBX/USRDIR/files/ ready for installation</String></Pair>
 			</Table>
 		</Attributes>
-			<Items>
+		<Items>
 			<Query 
 				class="type:x-xmb/folder-pixmap"
 				key="han_restore_coldboot_raf"
@@ -704,13 +704,13 @@
 				attr="han_restore_han_support_files"
 				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_stuff_downloader.xml#han_download_han_support_files_main"
 				/>
-			</Items>
-		</View>		
+		</Items>
+	</View>		
 		
 <!-- Main Items > Advanced Tools > DEX XMB Setup -->
 		
-		<View id="han_dex_settings_injector_items"> 
-		<Attributes> 
+	<View id="han_dex_settings_injector_items">
+		<Attributes>
 			<Table key="han_debug_settings_installer">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/inj_debug.png</String></Pair>
 				<Pair key="title"><String>Debug Settings Installer/Remover</String></Pair>
@@ -727,7 +727,7 @@
 				<Pair key="info"><String>Show/Hide IP/Host info on the XMB</String></Pair>
 			</Table>
 		</Attributes>
-			<Items>
+		<Items>
 			<Query 
 				class="type:x-xmb/folder-pixmap"
 				key="han_debug_settings_installer"
@@ -746,13 +746,13 @@
 				attr="han_debug_plugin_swapper"
 				src="#han_debug_plugin_swapper_items"
 				/>
-			</Items>
-		</View>
+		</Items>
+	</View>
 		
 <!-- Main Items > Advanced Tools > DEX XMB Setup > Debug Settings Installer/Remover Steps -->
 		
-		<View id="han_debug_settings_installer_items"> 
-		<Attributes> 
+	<View id="han_debug_settings_installer_items">
+		<Attributes>
 			<Table key="han_download_debug_settings_files">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_file.png</String></Pair>
 				<Pair key="title"><String>Step 1: Download Files</String></Pair>
@@ -766,7 +766,7 @@
 				<Pair key="module_action"><String>http://ps3xploit.com/debug_settings_installer/debug_settings_installer.html</String></Pair>
 			</Table>
 		</Attributes>
-			<Items>
+		<Items>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
 				key="han_download_debug_settings_files" 
@@ -778,12 +778,12 @@
 				key="han_debug_settings_installer"
 				attr="han_debug_settings_installer"
 				/>
-			</Items>
-		</View>
+		</Items>
+	</View>
 		
 <!-- Main Items > Advanced Tools > DEX XMB Setup > Debug Settings Installer/Remover Steps > Download CEX/DEX 4.81/4.82 Files -->
 		
-		<View id="han_download_debug_settings_files_items"> 
+	<View id="han_download_debug_settings_files_items">
 		<Attributes>
 			<Table key="han_download_debug_settings_481_dex_files">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_file.png</String></Pair>
@@ -806,7 +806,7 @@
 				<Pair key="info"><String>Download CEX 4.82 files to HANTOOLBX/USRDIR/files/ ready for installation</String></Pair>
 			</Table>
 		</Attributes>
-			<Items>
+		<Items>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
 				key="han_download_debug_settings_481_dex_files" 
@@ -831,13 +831,13 @@
 				attr="han_download_debug_settings_482_cex_files"
 				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_stuff_downloader.xml#han_download_debug_settings_482_cex_files_main"
 				/>
-			</Items>
-		</View>
+		</Items>
+	</View>
 		
 <!-- Main Items > Advanced Tools > DEX XMB Setup > Toggle Debug Settings -->
 		
-		<View id="han_debug_settings_swapper_items"> 
-		<Attributes> 
+	<View id="han_debug_settings_swapper_items">
+		<Attributes>
 			<Table key="han_download_sysconf_plugin_file">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_file.png</String></Pair>
 				<Pair key="title"><String>Step 1: Download Files</String></Pair>
@@ -851,7 +851,7 @@
 				<Pair key="module_action"><String>http://ps3xploit.com/debug_settings_installer/xmb_plugin_swapper.html</String></Pair>
 			</Table>
 		</Attributes>
-			<Items>
+		<Items>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
 				key="han_download_sysconf_plugin_file" 
@@ -863,12 +863,12 @@
 				key="han_debug_settings_swapper"
 				attr="han_debug_settings_swapper"
 				/>
-			</Items>
-		</View>
+		</Items>
+	</View>
 		
 <!-- Main Items > Advanced Tools > DEX XMB Setup > Toggle Debug Settings > Download CEX/DEX 4.81/4.82 File -->
 		
-		<View id="han_download_sysconf_plugin_file_items"> 
+	<View id="han_download_sysconf_plugin_file_items">
 		<Attributes>
 			<Table key="han_download_sysconf_plugin_481_dex_file">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_file.png</String></Pair>
@@ -891,7 +891,7 @@
 				<Pair key="info"><String>Download CEX 4.82 file to HANTOOLBX/USRDIR/files/ ready for installation</String></Pair>
 			</Table>
 		</Attributes>
-			<Items>
+		<Items>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
 				key="han_download_sysconf_plugin_481_dex_file" 
@@ -916,13 +916,13 @@
 				attr="han_download_sysconf_plugin_482_cex_file"
 				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_stuff_downloader.xml#han_download_sysconf_plugin_482_cex_file_main"
 				/>
-			</Items>
-		</View>
+		</Items>
+	</View>
 		
 <!-- Main Items > Advanced Tools > DEX XMB Setup > Toggle IP/Host info -->
 		
-		<View id="han_debug_plugin_swapper_items"> 
-		<Attributes> 
+	<View id="han_debug_plugin_swapper_items">
+		<Attributes>
 			<Table key="han_download_xmb_plugin_file">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_file.png</String></Pair>
 				<Pair key="title"><String>Step 1: Download Files</String></Pair>
@@ -936,7 +936,7 @@
 				<Pair key="module_action"><String>http://ps3xploit.com/debug_settings_installer/xmb_plugin_swapper.html</String></Pair>
 			</Table>
 		</Attributes>
-			<Items>
+		<Items>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
 				key="han_download_xmb_plugin_file" 
@@ -948,12 +948,12 @@
 				key="han_debug_plugin_swapper"
 				attr="han_debug_plugin_swapper"
 				/>
-			</Items>
-		</View>
+		</Items>
+	</View>
 		
 <!-- Main Items > Advanced Tools > DEX XMB Setup > Toggle IP/Host info > Download CEX/DEX 4.81/4.82 File -->
 		
-		<View id="han_download_xmb_plugin_file_items"> 
+	<View id="han_download_xmb_plugin_file_items">
 		<Attributes>
 			<Table key="han_download_xmb_plugin_481_dex_file">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_file.png</String></Pair>
@@ -976,7 +976,7 @@
 				<Pair key="info"><String>Download CEX 4.82 file to HANTOOLBX/USRDIR/files/ ready for installation</String></Pair>
 			</Table>
 		</Attributes>
-			<Items>
+		<Items>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
 				key="han_download_xmb_plugin_481_dex_file" 
@@ -1001,7 +1001,7 @@
 				attr="han_download_xmb_plugin_482_cex_file"
 				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_stuff_downloader.xml#han_download_xmb_plugin_482_cex_file_main"
 				/>
-			</Items>
-		</View>
+		</Items>
+	</View>
 
 </XMBML>

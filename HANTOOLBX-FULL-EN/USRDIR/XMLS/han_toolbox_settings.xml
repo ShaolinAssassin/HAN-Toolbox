@@ -2,7 +2,7 @@
 
 <!-- Main Items > Toolbox Settings (here : icon update notification + v#) -->
 		
-		<View id="han_toolbox_setup_main"> 
+	<View id="han_toolbox_setup_main">
 		<Attributes>
 			<Table key="han_toolbox_lang">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_file.png</String></Pair>
@@ -26,7 +26,7 @@
 				Massive thanks to the PS3Xploit Team for all the hacks</String></Pair>
 			</Table>
 		</Attributes>
-			<Items>
+		<Items>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
 				key="han_toolbox_lang" 
@@ -51,12 +51,12 @@
 				attr="han_toolbox_about"
 				src="#han_toolbox_changelog"
 				/>
-			</Items>
-		</View>
+		</Items>
+	</View>
 
 <!-- Main Items > Toolbox Settings > Toolbox Multi Language -->
 
-		<View id="han_toolbox_lang_main"> 
+	<View id="han_toolbox_lang_main">
 		<Attributes>
 			<Table key="han_toolbox_install_lang">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_file.png</String></Pair>
@@ -69,7 +69,7 @@
 				<Pair key="info"><String>Restore English language of HAN Toolbox and reboot after</String></Pair>
 			</Table>
 		</Attributes>
-			<Items>
+		<Items>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
 				key="han_toolbox_install_lang" 
@@ -82,12 +82,12 @@
 				attr="han_toolbox_uninstall_lang"
 				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_stuff_downloader.xml#han_toolbox_update_main"
 			/>
-			</Items>
-		</View>
+		</Items>
+	</View>
 		
 <!-- Main Items > Toolbox Settings > Toolbox Multi Language > Install Multi Language -->
 		
-		<View id="han_toolbox_install_lang_main"> 
+	<View id="han_toolbox_install_lang_main">
 		<Attributes>
 			<Table key="han_toolbox_check_lang_item">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/list.png</String></Pair>
@@ -107,7 +107,7 @@
 				<Pair key="module_action"><String>http://ps3xploit.com/flash_rco_replacer/flash_rco_replacer.html</String></Pair>
 			</Table>
 		</Attributes>
-			<Items>
+		<Items>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
 				key="han_toolbox_check_lang_item" 
@@ -125,12 +125,12 @@
 				key="han_inject_lang_rco"
 				attr="han_inject_lang_rco"
 				/>
-			</Items> 
-		</View>
+		</Items>
+	</View>
 
 <!-- Main Items > Toolbox Settings > Toolbox Multi Language > Install Multi Language > Lang available (here) -->
 
-		<View id="han_toolbox_lang_available"> 
+	<View id="han_toolbox_lang_available">
 		<Attributes>
 			<Table key="han_toolbox_lang_chinese_s">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/lang/ch-zh.png</String></Pair>
@@ -233,7 +233,7 @@
 				<Pair key="info"><String>Available: No</String></Pair>
 			</Table>
 		</Attributes>
-			<Items>
+		<Items>
 			<Query 
 				class="type:x-xmb/module-action" 
 				key="han_toolbox_lang_chinese_s" 
@@ -334,12 +334,12 @@
 				key="han_toolbox_lang_turkish" 
 				attr="han_toolbox_lang_turkish"
 				/>
-			</Items> 
-		</View>		
+		</Items>
+	</View>		
 		
 <!-- Main Items > Toolbox Settings > Toolbox Resources -->
 
-		<View id="han_toolbox_resources_main"> 
+	<View id="han_toolbox_resources_main">
 		<Attributes>
 			<Table key="han_toolbox_install_resources">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_file.png</String></Pair>
@@ -352,7 +352,7 @@
 				<Pair key="info"><String>Uninstall the HAN Toolbox resources packages and reboot after</String></Pair>
 			</Table>
 		</Attributes>
-			<Items>
+		<Items>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
 				key="han_toolbox_install_resources" 
@@ -365,12 +365,12 @@
 				attr="han_toolbox_delete_resources"
 				src="#han_toolbox_delete_resources_main"
 			/>
-			</Items>
-		</View>
+		</Items>
+	</View>
 		
 <!-- Main Items > Toolbox Settings > Toolbox Resources > Install Toolbox Resources -->
 
-		<View id="han_toolbox_install_resources_main"> 
+	<View id="han_toolbox_install_resources_main">
 		<Attributes>
 			<Table key="han_toolbox_install_resources_pkg">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_file.png</String></Pair>
@@ -418,7 +418,7 @@
 				<Pair key="info"><String>Download and install the Wave Downloader resources package and reboot after</String></Pair>
 			</Table>
 		</Attributes>
-			<Items>
+		<Items>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
 				key="han_toolbox_install_resources_pkg" 
@@ -473,12 +473,12 @@
 				attr="han_toolbox_install_waves_resources_pkg"
 				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_stuff_downloader.xml#han_toolbox_install_waves_resources_pkg_main"
 			/>
-			</Items>
-		</View>
+		</Items>
+	</View>
 
 <!-- Main Items > Toolbox Settings > Toolbox Resources > Uninstall Toolbox Resources -->
 			
-		<View id="han_toolbox_delete_resources_main"> 
+	<View id="han_toolbox_delete_resources_main">
 		<Attributes>
 			<Table key="han_toolbox_delete_resources_pkg">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/delete.png</String></Pair>
@@ -493,7 +493,7 @@
 				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
 			</Table>
 		</Attributes>
-			<Items>
+		<Items>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
 				key="han_toolbox_delete_resources_pkg" 
@@ -506,12 +506,12 @@
 				attr="han_toolbox_delete_downloader_resources_pkg"
 				src="host://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/"
 				/>
-			</Items>
-		</View>
+		</Items>
+	</View>
 
 <!-- Main Items > Toolbox Settings > Changelog - hardcoded in english (here) -->
 			
-		<View id="han_toolbox_changelog"> 
+	<View id="han_toolbox_changelog">
 		<Attributes>
 			<Table key="han_toolbox_last_changes">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/list.png</String></Pair>
@@ -520,14 +520,14 @@
 				</String></Pair>
 			</Table>
 		</Attributes>
-			<Items>
+		<Items>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
 				key="han_toolbox_last_changes" 
 				attr="han_toolbox_last_changes"
 				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/old_changelog.xml#old_changelog_items"
 				/>
-			</Items>
-		</View>			
+		</Items>
+	</View>			
 
 </XMBML>

@@ -2,8 +2,8 @@
 
 <!-- Main Items > HAN functions Online CEX -->
 		
-		<View id="han_functions_main"> 
-		<Attributes> 
+	<View id="han_functions_main">
+		<Attributes>
 			<Table key="han_reboot_soft_auto">
 				<Pair key="icon_rsc"><String>tex_repeat_status</String></Pair>
 				<Pair key="title"><String>Soft Reboot</String></Pair>
@@ -61,7 +61,7 @@
 				<Pair key="module_action"><String>http://ps3xploit.com/autoxml/han/dbgpkg_enabler_auto.html</String></Pair>
 			</Table>
 		</Attributes>
-			<Items>
+		<Items>
 			<Query 
 				class="type:x-xmb/module-action"
 				key="han_reboot_soft_auto"
@@ -102,13 +102,13 @@
 				key="han_debug_auto"
 				attr="han_debug_auto"
 				/>
-			</Items>
-		</View>
+		</Items>
+	</View>
 		
 <!-- Main Items > HAN functions Online DEX -->
 		
-		<View id="han_functions_dex_main"> 
-		<Attributes> 
+	<View id="han_functions_dex_main">
+		<Attributes>
 			<Table key="han_reboot_soft_auto_dex">
 				<Pair key="icon_rsc"><String>tex_repeat_status</String></Pair>
 				<Pair key="title"><String>Soft Reboot</String></Pair>
@@ -152,7 +152,7 @@
 				<Pair key="module_action"><String>http://ps3xploit.com/autoxml/han/actrif_copier_auto_dex.html</String></Pair>
 			</Table>
 		</Attributes>
-			<Items>
+		<Items>
 			<Query 
 				class="type:x-xmb/module-action"
 				key="han_reboot_soft_auto_dex"
@@ -183,7 +183,7 @@
 				key="han_injector_auto_dex"
 				attr="han_injector_auto_dex"
 				/>
-			</Items>
-		</View>
+		</Items>
+	</View>
 
 </XMBML>

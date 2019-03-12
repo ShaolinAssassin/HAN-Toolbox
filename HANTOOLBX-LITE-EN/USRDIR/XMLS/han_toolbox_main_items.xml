@@ -2,8 +2,8 @@
 
 <!-- Main Items CEX -->
 		
-		<View id="han_main_items"> 
-		<Attributes> 
+	<View id="han_main_items">
+		<Attributes>
 			<Table key="han_reboot_soft_offline">
 				<Pair key="icon_rsc"><String>tex_repeat_status</String></Pair>
 				<Pair key="title"><String>Offline Soft Rebooter</String></Pair>
@@ -53,7 +53,7 @@
 				<Pair key="info"><String>Version info, Resources download, Updates, Languages</String></Pair>
 			</Table>
 		</Attributes>
-			<Items>
+		<Items>
 			<Query 
 				class="type:x-xmb/module-action"
 				key="han_reboot_soft_offline"
@@ -99,13 +99,13 @@
 				attr="han_toolbox_setup"
 				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_settings.xml#han_toolbox_setup_main"
 				/>
-			</Items>
-		</View>
+		</Items>
+	</View>
 		
 <!-- Main Items DEX -->
 		
-		<View id="han_main_items_dex"> 
-		<Attributes> 
+	<View id="han_main_items_dex">
+		<Attributes>
 			<Table key="han_reboot_soft_dex">
 				<Pair key="icon_rsc"><String>tex_repeat_status</String></Pair>
 				<Pair key="title"><String>Soft Reboot</String></Pair>
@@ -148,7 +148,7 @@
 				<Pair key="info"><String>Version info, Resources download, Updates, Languages</String></Pair>
 			</Table>
 		</Attributes>
-			<Items>
+		<Items>
 			<Query 
 				class="type:x-xmb/module-action"
 				key="han_reboot_soft_dex"
@@ -189,7 +189,7 @@
 				attr="han_toolbox_setup"
 				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_settings.xml#han_toolbox_setup_main"
 				/>
-			</Items>
-		</View>
+		</Items>
+	</View>
 
 </XMBML>

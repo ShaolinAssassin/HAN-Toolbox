@@ -2,7 +2,7 @@
 
 <!-- Main Items > Toolbox Settings > Changelog > Old Changelogs - hardcoded in english (here) -->
 
-		<View id="han_toolbox_old_changelog_items"> 
+	<View id="han_toolbox_old_changelog_items">
 		<Attributes>
 			<Table key="han_toolbox_v064">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/list.png</String></Pair>
@@ -55,7 +55,7 @@
 				<Pair key="info"><String></String></Pair>
 			</Table>
 		</Attributes>
-			<Items>
+		<Items>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
 				key="han_toolbox_v064" 
@@ -116,10 +116,10 @@
 				attr="han_toolbox_v01"
 				src="#han_toolbox_v01_changelog"
 				/>				
-			</Items>
-		</View>			
+		</Items>
+	</View>			
 			
-		<View id="han_toolbox_v064_changelog"> 
+	<View id="han_toolbox_v064_changelog">
 		<Attributes>
 			<Table key="han_toolbox_v064_item">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/list.png</String></Pair>
@@ -130,16 +130,16 @@
 				・Swedish</String></Pair>
 			</Table>
 		</Attributes>
-			<Items>
+		<Items>
 			<Query 
 				class="type:x-xmb/module-action" 
 				key="han_toolbox_v064_item" 
 				attr="han_toolbox_v064_item"
 				/>
-			</Items>
-		</View>
+		</Items>
+	</View>
 		
-		<View id="han_toolbox_v063_changelog"> 
+	<View id="han_toolbox_v063_changelog">
 		<Attributes>
 			<Table key="han_toolbox_v063_item">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/list.png</String></Pair>
@@ -150,16 +150,16 @@
 				・Portuguese (Portugal)</String></Pair>
 			</Table>
 		</Attributes>
-			<Items>
+		<Items>
 			<Query 
 				class="type:x-xmb/module-action" 
 				key="han_toolbox_v063_item" 
 				attr="han_toolbox_v063_item"
 				/>
-			</Items>
-		</View>	
+		</Items>
+	</View>	
 		
-		<View id="han_toolbox_v062_changelog"> 
+	<View id="han_toolbox_v062_changelog">
 		<Attributes>
 			<Table key="han_toolbox_v062_item">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/list.png</String></Pair>
@@ -183,16 +183,16 @@
 				・Popcornflix (all versions) installation fixed</String></Pair>
 			</Table>
 		</Attributes>
-			<Items>
+		<Items>
 			<Query 
 				class="type:x-xmb/module-action" 
 				key="han_toolbox_v062_item" 
 				attr="han_toolbox_v062_item"
 				/>
-			</Items>
-		</View>	
+		</Items>
+	</View>	
 		
-		<View id="han_toolbox_v061_changelog"> 
+	<View id="han_toolbox_v061_changelog">
 		<Attributes>
 			<Table key="han_toolbox_v061_item">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/list.png</String></Pair>
@@ -202,16 +202,16 @@
 				・Added Spanish Translation</String></Pair>
 			</Table>
 		</Attributes>
-			<Items>
+		<Items>
 			<Query 
 				class="type:x-xmb/module-action" 
 				key="han_toolbox_v061_item" 
 				attr="han_toolbox_v061_item"
 				/>
-			</Items>
-		</View>
+		</Items>
+	</View>
 		
-		<View id="han_toolbox_v06_changelog"> 
+	<View id="han_toolbox_v06_changelog">
 		<Attributes>
 			<Table key="han_toolbox_v06_item">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/list.png</String></Pair>
@@ -226,16 +226,16 @@
 				・Icon notification when update is available</String></Pair>
 			</Table>
 		</Attributes>
-			<Items>
+		<Items>
 			<Query 
 				class="type:x-xmb/module-action" 
 				key="han_toolbox_v06_item" 
 				attr="han_toolbox_v06_item"
 				/>
-			</Items>
-		</View>	
+		</Items>
+	</View>	
 		
-		<View id="han_toolbox_v05_changelog"> 
+	<View id="han_toolbox_v05_changelog">
 		<Attributes>
 			<Table key="han_toolbox_v05_item">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/list.png</String></Pair>
@@ -252,16 +252,16 @@
 				・New icons</String></Pair>
 			</Table>
 		</Attributes>
-			<Items>
+		<Items>
 			<Query 
 				class="type:x-xmb/module-action" 
 				key="han_toolbox_v05_item" 
 				attr="han_toolbox_v05_item"
 				/>
-			</Items>
-		</View>	
+		</Items>
+	</View>	
 		
-		<View id="han_toolbox_v04_changelog"> 
+	<View id="han_toolbox_v04_changelog">
 		<Attributes>
 			<Table key="han_toolbox_v04_item">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/list.png</String></Pair>
@@ -273,16 +273,16 @@
 				</String></Pair>
 			</Table>
 		</Attributes>
-			<Items>
+		<Items>
 			<Query 
 				class="type:x-xmb/module-action" 
 				key="han_toolbox_v04_item" 
 				attr="han_toolbox_v04_item"
 				/>
-			</Items>
-		</View>	
+		</Items>
+	</View>	
 		
-		<View id="han_toolbox_v03_changelog"> 
+	<View id="han_toolbox_v03_changelog">
 		<Attributes>
 			<Table key="han_toolbox_v03_item">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/list.png</String></Pair>
@@ -299,16 +299,16 @@
 				・Built in Toolbox Updater (Update from the XMB in future)</String></Pair>
 			</Table>
 		</Attributes>
-			<Items>
+		<Items>
 			<Query 
 				class="type:x-xmb/module-action" 
 				key="han_toolbox_v03_item" 
 				attr="han_toolbox_v03_item"
 				/>
-			</Items>
-		</View>	
+		</Items>
+	</View>	
 		
-		<View id="han_toolbox_v02_changelog"> 
+	<View id="han_toolbox_v02_changelog">
 		<Attributes>
 			<Table key="han_toolbox_v02_item">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/list.png</String></Pair>
@@ -318,16 +318,16 @@
 				・Added support for webserver pkgs (feature not fully enabled yet though)</String></Pair>
 			</Table>
 		</Attributes>
-			<Items>
+		<Items>
 			<Query 
 				class="type:x-xmb/module-action" 
 				key="han_toolbox_v02_item" 
 				attr="han_toolbox_v02_item"
 				/>
-			</Items>
-		</View>	
+		</Items>
+	</View>	
 		
-		<View id="han_toolbox_v01_changelog"> 
+	<View id="han_toolbox_v01_changelog">
 		<Attributes>
 			<Table key="han_toolbox_v01_item">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/list.png</String></Pair>
@@ -341,13 +341,13 @@
 				・Support Forum</String></Pair>
 			</Table>
 		</Attributes>
-			<Items>
+		<Items>
 			<Query 
 				class="type:x-xmb/module-action" 
 				key="han_toolbox_v01_item" 
 				attr="han_toolbox_v01_item"
 				/>
-			</Items>
-		</View>	
+		</Items>
+	</View>	
 
 </XMBML>

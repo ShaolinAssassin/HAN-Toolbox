@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <XMBML version="1.0">
-<View id="han_functions_local_items"> 
-		<Attributes> 
+<View id="han_functions_local_items">
+		<Attributes>
 			<Table key="han_reboot_soft_auto_local">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/reboot.png</String></Pair>
 				<Pair key="title"><String>Soft Reboot</String></Pair>
@@ -67,7 +67,7 @@
 				<Pair key="module_action"><String>http://192.168.0.10:8486/bin/PS3Xploit_files/pett/syscalls/mount_usb000_as_bdvd.html</String></Pair>
 			</Table>
 		</Attributes>
-			<Items>
+		<Items>
 			<Query 
 				class="type:x-xmb/module-action"
 				key="han_reboot_soft_auto_local"
@@ -113,8 +113,8 @@
 				key="han_mount_usb_as_bd_local"
 				attr="han_mount_usb_as_bd_local"
 				/> -->
-			</Items>
-		</View>
+		</Items>
+	</View>
 		
 		</XMBML>
 		

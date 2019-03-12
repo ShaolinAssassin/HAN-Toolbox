@@ -2,8 +2,8 @@
 
 <!-- HAN Toolbox -- Super Lite Version -->
 
-		<View id="han_toolbox_xmb_main"> 
-		<Attributes> 
+	<View id="han_toolbox_xmb_main">
+		<Attributes>
 			<Table key="han_main">
 				<Pair key="icon_rsc"><String>tex_album_icon</String></Pair>
 				<Pair key="icon_notation"><String>WNT_XmbItemAlbum</String></Pair>
@@ -11,10 +11,10 @@
 				<Pair key="info"><String>The Xploit 3.0 Companion (Super Lite Edition)</String></Pair>
 			</Table>
 		</Attributes>
-			<Items>
+		<Items>
 			<Query 
 				class="type:x-xmb/folder-pixmap" key="han_main" attr="han_main" src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_main_items.xml#han_main_items"/>
-			</Items>
-		</View>
+		</Items>
+	</View>
 		
 </XMBML>

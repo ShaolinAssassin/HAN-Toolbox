@@ -51,11 +51,11 @@
 				src="#demo_downloader_C00_US_sorted"
 				/>
 		</Items>
-		</View>
+	</View>
 
 <!-- Main Items > External Content > C00 EU -->
 	
-		<View id="demo_downloader_C00_EU_sorted">
+	<View id="demo_downloader_C00_EU_sorted">
 		<Attributes>
 			<Table key="demo_downloader_C00_EU_alpha">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
@@ -95,11 +95,11 @@
 				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/XMLS/C00_EU_score.xml#C00_EU_score_items"
 				/>
 		</Items>
-		</View>	
+	</View>	
 
 <!-- Main Items > External Content > C00 HK -->
 	
-		<View id="demo_downloader_C00_HK_sorted">
+	<View id="demo_downloader_C00_HK_sorted">
 		<Attributes>
 			<Table key="demo_downloader_C00_HK_alpha">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
@@ -139,11 +139,11 @@
 				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/XMLS/C00_HK_score.xml#C00_HK_score_items"
 				/>
 		</Items>
-		</View>	
+	</View>	
 
 <!-- Main Items > External Content > C00 JP -->
 	
-		<View id="demo_downloader_C00_JP_sorted">
+	<View id="demo_downloader_C00_JP_sorted">
 		<Attributes>
 			<Table key="demo_downloader_C00_JP_alpha">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
@@ -183,11 +183,11 @@
 				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/XMLS/C00_JP_score.xml#C00_JP_score_items"
 				/>
 		</Items>
-		</View>	
+	</View>	
 
 <!-- Main Items > External Content > C00 US -->
 	
-		<View id="demo_downloader_C00_US_sorted">
+	<View id="demo_downloader_C00_US_sorted">
 		<Attributes>
 			<Table key="demo_downloader_C00_US_alpha">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
@@ -227,11 +227,11 @@
 				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/XMLS/C00_US_score.xml#C00_US_score_items"
 				/>
 		</Items>
-		</View>	
+	</View>	
 		
 <!-- Main Items > External Content > C00 EU by genre -->
 	
-		<View id="demo_downloader_C00_EU_genre_main">
+	<View id="demo_downloader_C00_EU_genre_main">
 		<Attributes>
 			<Table key="demo_downloader_C00_EU_genre_action">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
@@ -356,11 +356,11 @@
 				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/XMLS/C00_EU_genre.xml#C00_EU_genre_strategy_items"
 				/>
 		</Items>
-		</View>
+	</View>
 		
 <!-- Main Items > External Content > C00 HK by genre -->
 	
-		<View id="demo_downloader_C00_HK_genre_main">
+	<View id="demo_downloader_C00_HK_genre_main">
 		<Attributes>
 			<Table key="demo_downloader_C00_HK_genre_action">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
@@ -473,11 +473,11 @@
 				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/XMLS/C00_HK_genre.xml#C00_HK_genre_strategy_items"
 				/>
 		</Items>
-		</View>	
+	</View>	
 		
 <!-- Main Items > External Content > C00 JP by genre -->
 	
-		<View id="demo_downloader_C00_JP_genre_main">
+	<View id="demo_downloader_C00_JP_genre_main">
 		<Attributes>
 			<Table key="demo_downloader_C00_JP_genre_action">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
@@ -602,11 +602,11 @@
 				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/XMLS/C00_JP_genre.xml#C00_JP_genre_strategy_items"
 				/>
 		</Items>
-		</View>	
+	</View>	
 		
 <!-- Main Items > External Content > C00 US by genre -->
 	
-		<View id="demo_downloader_C00_US_genre_main">
+	<View id="demo_downloader_C00_US_genre_main">
 		<Attributes>
 			<Table key="demo_downloader_C00_US_genre_action">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
@@ -731,6 +731,6 @@
 				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/XMLS/C00_US_genre.xml#C00_US_genre_strategy_items"
 				/>
 		</Items>
-		</View>			
+	</View>			
 		
 </XMBML>

@@ -1,565 +1,565 @@
-<XMBML version="1.0"> 
+<XMBML version="1.0">
  
 <!-- Main Items > External Content > Coldboot Downloader Items > Coldboots Download Links -->
 
-	<View id="item_D111_main"> 
-		<Attributes> 
-			<Table key="item_D111_link"> 
-				<Pair key="info"><String>net_package_install</String></Pair> 
-				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155889/COLDBOOT-D111.pkg?force_download=1</String></Pair> 
-				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155889/COLDBOOT-D111.pkg?force_download=1</String></Pair> 
-				<Pair key="content_name"><String>pkg_install_pc</String></Pair> 
-				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair> 
-				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/IMAGES/D111.png</String></Pair> 
-			</Table> 
-		</Attributes> 
-		<Items> 
-			<Item class="type:x-xmb/xmlnpsignup" key="item_D111_link" attr="item_D111_link"/> 
-		</Items> 
-	</View> 
+	<View id="item_D111_main">
+		<Attributes>
+			<Table key="item_D111_link">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155889/COLDBOOT-D111.pkg?force_download=1</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155889/COLDBOOT-D111.pkg?force_download=1</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/IMAGES/D111.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="item_D111_link" attr="item_D111_link"/>
+		</Items>
+	</View>
 
-	<View id="item_D113_main"> 
-		<Attributes> 
-			<Table key="item_D113_link"> 
-				<Pair key="info"><String>net_package_install</String></Pair> 
-				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155658/COLDBOOT-D113.pkg?force_download=1</String></Pair> 
-				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155658/COLDBOOT-D113.pkg?force_download=1</String></Pair> 
-				<Pair key="content_name"><String>pkg_install_pc</String></Pair> 
-				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair> 
-				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/IMAGES/D113.png</String></Pair> 
-			</Table> 
-		</Attributes> 
-		<Items> 
-			<Item class="type:x-xmb/xmlnpsignup" key="item_D113_link" attr="item_D113_link"/> 
-		</Items> 
-	</View> 
+	<View id="item_D113_main">
+		<Attributes>
+			<Table key="item_D113_link">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155658/COLDBOOT-D113.pkg?force_download=1</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155658/COLDBOOT-D113.pkg?force_download=1</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/IMAGES/D113.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="item_D113_link" attr="item_D113_link"/>
+		</Items>
+	</View>
 
-	<View id="item_D112_main"> 
-		<Attributes> 
-			<Table key="item_D112_link"> 
-				<Pair key="info"><String>net_package_install</String></Pair> 
-				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155655/COLDBOOT-D112.pkg?force_download=1</String></Pair> 
-				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155655/COLDBOOT-D112.pkg?force_download=1</String></Pair> 
-				<Pair key="content_name"><String>pkg_install_pc</String></Pair> 
-				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair> 
-				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/IMAGES/D112.png</String></Pair> 
-			</Table> 
-		</Attributes> 
-		<Items> 
-			<Item class="type:x-xmb/xmlnpsignup" key="item_D112_link" attr="item_D112_link"/> 
-		</Items> 
-	</View> 
+	<View id="item_D112_main">
+		<Attributes>
+			<Table key="item_D112_link">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155655/COLDBOOT-D112.pkg?force_download=1</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155655/COLDBOOT-D112.pkg?force_download=1</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/IMAGES/D112.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="item_D112_link" attr="item_D112_link"/>
+		</Items>
+	</View>
 
-	<View id="item_D122_main"> 
-		<Attributes> 
-			<Table key="item_D122_link"> 
-				<Pair key="info"><String>net_package_install</String></Pair> 
-				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155976/COLDBOOT-D122.pkg?force_download=1</String></Pair> 
-				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155976/COLDBOOT-D122.pkg?force_download=1</String></Pair> 
-				<Pair key="content_name"><String>pkg_install_pc</String></Pair> 
-				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair> 
-				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/IMAGES/D122.png</String></Pair> 
-			</Table> 
-		</Attributes> 
-		<Items> 
-			<Item class="type:x-xmb/xmlnpsignup" key="item_D122_link" attr="item_D122_link"/> 
-		</Items> 
-	</View> 
+	<View id="item_D122_main">
+		<Attributes>
+			<Table key="item_D122_link">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155976/COLDBOOT-D122.pkg?force_download=1</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155976/COLDBOOT-D122.pkg?force_download=1</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/IMAGES/D122.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="item_D122_link" attr="item_D122_link"/>
+		</Items>
+	</View>
 
-	<View id="item_D123_main"> 
-		<Attributes> 
-			<Table key="item_D123_link"> 
-				<Pair key="info"><String>net_package_install</String></Pair> 
-				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155982/COLDBOOT-D123.pkg?force_download=1</String></Pair> 
-				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155982/COLDBOOT-D123.pkg?force_download=1</String></Pair> 
-				<Pair key="content_name"><String>pkg_install_pc</String></Pair> 
-				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair> 
-				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/IMAGES/D123.png</String></Pair> 
-			</Table> 
-		</Attributes> 
-		<Items> 
-			<Item class="type:x-xmb/xmlnpsignup" key="item_D123_link" attr="item_D123_link"/> 
-		</Items> 
-	</View> 
+	<View id="item_D123_main">
+		<Attributes>
+			<Table key="item_D123_link">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155982/COLDBOOT-D123.pkg?force_download=1</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155982/COLDBOOT-D123.pkg?force_download=1</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/IMAGES/D123.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="item_D123_link" attr="item_D123_link"/>
+		</Items>
+	</View>
 
-	<View id="item_D114_main"> 
-		<Attributes> 
-			<Table key="item_D114_link"> 
-				<Pair key="info"><String>net_package_install</String></Pair> 
-				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155664/COLDBOOT-D114.pkg?force_download=1</String></Pair> 
-				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155664/COLDBOOT-D114.pkg?force_download=1</String></Pair> 
-				<Pair key="content_name"><String>pkg_install_pc</String></Pair> 
-				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair> 
-				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/IMAGES/D114.png</String></Pair> 
-			</Table> 
-		</Attributes> 
-		<Items> 
-			<Item class="type:x-xmb/xmlnpsignup" key="item_D114_link" attr="item_D114_link"/> 
-		</Items> 
-	</View> 
+	<View id="item_D114_main">
+		<Attributes>
+			<Table key="item_D114_link">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155664/COLDBOOT-D114.pkg?force_download=1</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155664/COLDBOOT-D114.pkg?force_download=1</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/IMAGES/D114.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="item_D114_link" attr="item_D114_link"/>
+		</Items>
+	</View>
 
-	<View id="item_D127_main"> 
-		<Attributes> 
-			<Table key="item_D127_link"> 
-				<Pair key="info"><String>net_package_install</String></Pair> 
-				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132156009/COLDBOOT-D127.pkg?force_download=1</String></Pair> 
-				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132156009/COLDBOOT-D127.pkg?force_download=1</String></Pair> 
-				<Pair key="content_name"><String>pkg_install_pc</String></Pair> 
-				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair> 
-				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/IMAGES/D127.png</String></Pair> 
-			</Table> 
-		</Attributes> 
-		<Items> 
-			<Item class="type:x-xmb/xmlnpsignup" key="item_D127_link" attr="item_D127_link"/> 
-		</Items> 
-	</View> 
+	<View id="item_D127_main">
+		<Attributes>
+			<Table key="item_D127_link">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132156009/COLDBOOT-D127.pkg?force_download=1</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132156009/COLDBOOT-D127.pkg?force_download=1</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/IMAGES/D127.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="item_D127_link" attr="item_D127_link"/>
+		</Items>
+	</View>
 
-	<View id="item_D100_main"> 
-		<Attributes> 
-			<Table key="item_D100_link"> 
-				<Pair key="info"><String>net_package_install</String></Pair> 
-				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155847/COLDBOOT-D100.pkg?force_download=1</String></Pair> 
-				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155847/COLDBOOT-D100.pkg?force_download=1</String></Pair> 
-				<Pair key="content_name"><String>pkg_install_pc</String></Pair> 
-				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair> 
-				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/IMAGES/D100.png</String></Pair> 
-			</Table> 
-		</Attributes> 
-		<Items> 
-			<Item class="type:x-xmb/xmlnpsignup" key="item_D100_link" attr="item_D100_link"/> 
-		</Items> 
-	</View> 
+	<View id="item_D100_main">
+		<Attributes>
+			<Table key="item_D100_link">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155847/COLDBOOT-D100.pkg?force_download=1</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155847/COLDBOOT-D100.pkg?force_download=1</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/IMAGES/D100.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="item_D100_link" attr="item_D100_link"/>
+		</Items>
+	</View>
 
-	<View id="item_D109_main"> 
-		<Attributes> 
-			<Table key="item_D109_link"> 
-				<Pair key="info"><String>net_package_install</String></Pair> 
-				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155874/COLDBOOT-D109.pkg?force_download=1</String></Pair> 
-				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155874/COLDBOOT-D109.pkg?force_download=1</String></Pair> 
-				<Pair key="content_name"><String>pkg_install_pc</String></Pair> 
-				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair> 
-				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/IMAGES/D109.png</String></Pair> 
-			</Table> 
-		</Attributes> 
-		<Items> 
-			<Item class="type:x-xmb/xmlnpsignup" key="item_D109_link" attr="item_D109_link"/> 
-		</Items> 
-	</View> 
+	<View id="item_D109_main">
+		<Attributes>
+			<Table key="item_D109_link">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155874/COLDBOOT-D109.pkg?force_download=1</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155874/COLDBOOT-D109.pkg?force_download=1</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/IMAGES/D109.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="item_D109_link" attr="item_D109_link"/>
+		</Items>
+	</View>
 
-	<View id="item_D001_main"> 
-		<Attributes> 
-			<Table key="item_D001_link"> 
-				<Pair key="info"><String>net_package_install</String></Pair> 
-				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155808/COLDBOOT-D001.pkg?force_download=1</String></Pair> 
-				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155808/COLDBOOT-D001.pkg?force_download=1</String></Pair> 
-				<Pair key="content_name"><String>pkg_install_pc</String></Pair> 
-				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair> 
-				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/IMAGES/D001.png</String></Pair> 
-			</Table> 
-		</Attributes> 
-		<Items> 
-			<Item class="type:x-xmb/xmlnpsignup" key="item_D001_link" attr="item_D001_link"/> 
-		</Items> 
-	</View> 
+	<View id="item_D001_main">
+		<Attributes>
+			<Table key="item_D001_link">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155808/COLDBOOT-D001.pkg?force_download=1</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155808/COLDBOOT-D001.pkg?force_download=1</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/IMAGES/D001.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="item_D001_link" attr="item_D001_link"/>
+		</Items>
+	</View>
 
-	<View id="item_D002_main"> 
-		<Attributes> 
-			<Table key="item_D002_link"> 
-				<Pair key="info"><String>net_package_install</String></Pair> 
-				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155811/COLDBOOT-D002.pkg?force_download=1</String></Pair> 
-				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155811/COLDBOOT-D002.pkg?force_download=1</String></Pair> 
-				<Pair key="content_name"><String>pkg_install_pc</String></Pair> 
-				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair> 
-				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/IMAGES/D002.png</String></Pair> 
-			</Table> 
-		</Attributes> 
-		<Items> 
-			<Item class="type:x-xmb/xmlnpsignup" key="item_D002_link" attr="item_D002_link"/> 
-		</Items> 
-	</View> 
+	<View id="item_D002_main">
+		<Attributes>
+			<Table key="item_D002_link">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155811/COLDBOOT-D002.pkg?force_download=1</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155811/COLDBOOT-D002.pkg?force_download=1</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/IMAGES/D002.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="item_D002_link" attr="item_D002_link"/>
+		</Items>
+	</View>
 
-	<View id="item_D000_main"> 
-		<Attributes> 
-			<Table key="item_D000_link"> 
-				<Pair key="info"><String>net_package_install</String></Pair> 
-				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155817/COLDBOOT-D000.pkg?force_download=1</String></Pair> 
-				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155817/COLDBOOT-D000.pkg?force_download=1</String></Pair> 
-				<Pair key="content_name"><String>pkg_install_pc</String></Pair> 
-				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair> 
-				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/IMAGES/D000.png</String></Pair> 
-			</Table> 
-		</Attributes> 
-		<Items> 
-			<Item class="type:x-xmb/xmlnpsignup" key="item_D000_link" attr="item_D000_link"/> 
-		</Items> 
-	</View> 
+	<View id="item_D000_main">
+		<Attributes>
+			<Table key="item_D000_link">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155817/COLDBOOT-D000.pkg?force_download=1</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155817/COLDBOOT-D000.pkg?force_download=1</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/IMAGES/D000.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="item_D000_link" attr="item_D000_link"/>
+		</Items>
+	</View>
 
-	<View id="item_D003_main"> 
-		<Attributes> 
-			<Table key="item_D003_link"> 
-				<Pair key="info"><String>net_package_install</String></Pair> 
-				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155829/COLDBOOT-D003.pkg?force_download=1</String></Pair> 
-				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155829/COLDBOOT-D003.pkg?force_download=1</String></Pair> 
-				<Pair key="content_name"><String>pkg_install_pc</String></Pair> 
-				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair> 
-				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/IMAGES/D003.png</String></Pair> 
-			</Table> 
-		</Attributes> 
-		<Items> 
-			<Item class="type:x-xmb/xmlnpsignup" key="item_D003_link" attr="item_D003_link"/> 
-		</Items> 
-	</View> 
+	<View id="item_D003_main">
+		<Attributes>
+			<Table key="item_D003_link">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155829/COLDBOOT-D003.pkg?force_download=1</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155829/COLDBOOT-D003.pkg?force_download=1</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/IMAGES/D003.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="item_D003_link" attr="item_D003_link"/>
+		</Items>
+	</View>
 
-	<View id="item_D124_main"> 
-		<Attributes> 
-			<Table key="item_D124_link"> 
-				<Pair key="info"><String>net_package_install</String></Pair> 
-				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155985/COLDBOOT-D124.pkg?force_download=1</String></Pair> 
-				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155985/COLDBOOT-D124.pkg?force_download=1</String></Pair> 
-				<Pair key="content_name"><String>pkg_install_pc</String></Pair> 
-				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair> 
-				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/IMAGES/D124.png</String></Pair> 
-			</Table> 
-		</Attributes> 
-		<Items> 
-			<Item class="type:x-xmb/xmlnpsignup" key="item_D124_link" attr="item_D124_link"/> 
-		</Items> 
-	</View> 
+	<View id="item_D124_main">
+		<Attributes>
+			<Table key="item_D124_link">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155985/COLDBOOT-D124.pkg?force_download=1</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155985/COLDBOOT-D124.pkg?force_download=1</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/IMAGES/D124.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="item_D124_link" attr="item_D124_link"/>
+		</Items>
+	</View>
 
-	<View id="item_D115_main"> 
-		<Attributes> 
-			<Table key="item_D115_link"> 
-				<Pair key="info"><String>net_package_install</String></Pair> 
-				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155670/COLDBOOT-D115.pkg?force_download=1</String></Pair> 
-				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155670/COLDBOOT-D115.pkg?force_download=1</String></Pair> 
-				<Pair key="content_name"><String>pkg_install_pc</String></Pair> 
-				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair> 
-				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/IMAGES/D115.png</String></Pair> 
-			</Table> 
-		</Attributes> 
-		<Items> 
-			<Item class="type:x-xmb/xmlnpsignup" key="item_D115_link" attr="item_D115_link"/> 
-		</Items> 
-	</View> 
+	<View id="item_D115_main">
+		<Attributes>
+			<Table key="item_D115_link">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155670/COLDBOOT-D115.pkg?force_download=1</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155670/COLDBOOT-D115.pkg?force_download=1</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/IMAGES/D115.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="item_D115_link" attr="item_D115_link"/>
+		</Items>
+	</View>
 
-	<View id="item_D116_main"> 
-		<Attributes> 
-			<Table key="item_D116_link"> 
-				<Pair key="info"><String>net_package_install</String></Pair> 
-				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132156033/COLDBOOT-D116.pkg?force_download=1</String></Pair> 
-				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132156033/COLDBOOT-D116.pkg?force_download=1</String></Pair> 
-				<Pair key="content_name"><String>pkg_install_pc</String></Pair> 
-				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair> 
-				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/IMAGES/D116.png</String></Pair> 
-			</Table> 
-		</Attributes> 
-		<Items> 
-			<Item class="type:x-xmb/xmlnpsignup" key="item_D116_link" attr="item_D116_link"/> 
-		</Items> 
-	</View> 
+	<View id="item_D116_main">
+		<Attributes>
+			<Table key="item_D116_link">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132156033/COLDBOOT-D116.pkg?force_download=1</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132156033/COLDBOOT-D116.pkg?force_download=1</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/IMAGES/D116.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="item_D116_link" attr="item_D116_link"/>
+		</Items>
+	</View>
 
-	<View id="item_D117_main"> 
-		<Attributes> 
-			<Table key="item_D117_link"> 
-				<Pair key="info"><String>net_package_install</String></Pair> 
-				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132156024/COLDBOOT-D117.pkg?force_download=1</String></Pair> 
-				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132156024/COLDBOOT-D117.pkg?force_download=1</String></Pair> 
-				<Pair key="content_name"><String>pkg_install_pc</String></Pair> 
-				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair> 
-				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/IMAGES/D117.png</String></Pair> 
-			</Table> 
-		</Attributes> 
-		<Items> 
-			<Item class="type:x-xmb/xmlnpsignup" key="item_D117_link" attr="item_D117_link"/> 
-		</Items> 
-	</View> 
+	<View id="item_D117_main">
+		<Attributes>
+			<Table key="item_D117_link">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132156024/COLDBOOT-D117.pkg?force_download=1</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132156024/COLDBOOT-D117.pkg?force_download=1</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/IMAGES/D117.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="item_D117_link" attr="item_D117_link"/>
+		</Items>
+	</View>
 
-	<View id="item_D118_main"> 
-		<Attributes> 
-			<Table key="item_D118_link"> 
-				<Pair key="info"><String>net_package_install</String></Pair> 
-				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132156030/COLDBOOT-D118.pkg?force_download=1</String></Pair> 
-				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132156030/COLDBOOT-D118.pkg?force_download=1</String></Pair> 
-				<Pair key="content_name"><String>pkg_install_pc</String></Pair> 
-				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair> 
-				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/IMAGES/D118.png</String></Pair> 
-			</Table> 
-		</Attributes> 
-		<Items> 
-			<Item class="type:x-xmb/xmlnpsignup" key="item_D118_link" attr="item_D118_link"/> 
-		</Items> 
-	</View> 
+	<View id="item_D118_main">
+		<Attributes>
+			<Table key="item_D118_link">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132156030/COLDBOOT-D118.pkg?force_download=1</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132156030/COLDBOOT-D118.pkg?force_download=1</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/IMAGES/D118.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="item_D118_link" attr="item_D118_link"/>
+		</Items>
+	</View>
 
-	<View id="item_D104_main"> 
-		<Attributes> 
-			<Table key="item_D104_link"> 
-				<Pair key="info"><String>net_package_install</String></Pair> 
-				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155895/COLDBOOT-D104.pkg?force_download=1</String></Pair> 
-				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155895/COLDBOOT-D104.pkg?force_download=1</String></Pair> 
-				<Pair key="content_name"><String>pkg_install_pc</String></Pair> 
-				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair> 
-				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/IMAGES/D104.png</String></Pair> 
-			</Table> 
-		</Attributes> 
-		<Items> 
-			<Item class="type:x-xmb/xmlnpsignup" key="item_D104_link" attr="item_D104_link"/> 
-		</Items> 
-	</View> 
+	<View id="item_D104_main">
+		<Attributes>
+			<Table key="item_D104_link">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155895/COLDBOOT-D104.pkg?force_download=1</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155895/COLDBOOT-D104.pkg?force_download=1</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/IMAGES/D104.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="item_D104_link" attr="item_D104_link"/>
+		</Items>
+	</View>
 
-	<View id="item_D105_main"> 
-		<Attributes> 
-			<Table key="item_D105_link"> 
-				<Pair key="info"><String>net_package_install</String></Pair> 
-				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155907/COLDBOOT-D105.pkg?force_download=1</String></Pair> 
-				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155907/COLDBOOT-D105.pkg?force_download=1</String></Pair> 
-				<Pair key="content_name"><String>pkg_install_pc</String></Pair> 
-				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair> 
-				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/IMAGES/D105.png</String></Pair> 
-			</Table> 
-		</Attributes> 
-		<Items> 
-			<Item class="type:x-xmb/xmlnpsignup" key="item_D105_link" attr="item_D105_link"/> 
-		</Items> 
-	</View> 
+	<View id="item_D105_main">
+		<Attributes>
+			<Table key="item_D105_link">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155907/COLDBOOT-D105.pkg?force_download=1</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155907/COLDBOOT-D105.pkg?force_download=1</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/IMAGES/D105.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="item_D105_link" attr="item_D105_link"/>
+		</Items>
+	</View>
 
-	<View id="item_D011_main"> 
-		<Attributes> 
-			<Table key="item_D011_link"> 
-				<Pair key="info"><String>net_package_install</String></Pair> 
-				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155835/COLDBOOT-D011.pkg?force_download=1</String></Pair> 
-				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155835/COLDBOOT-D011.pkg?force_download=1</String></Pair> 
-				<Pair key="content_name"><String>pkg_install_pc</String></Pair> 
-				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair> 
-				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/IMAGES/D011.png</String></Pair> 
-			</Table> 
-		</Attributes> 
-		<Items> 
-			<Item class="type:x-xmb/xmlnpsignup" key="item_D011_link" attr="item_D011_link"/> 
-		</Items> 
-	</View> 
+	<View id="item_D011_main">
+		<Attributes>
+			<Table key="item_D011_link">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155835/COLDBOOT-D011.pkg?force_download=1</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155835/COLDBOOT-D011.pkg?force_download=1</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/IMAGES/D011.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="item_D011_link" attr="item_D011_link"/>
+		</Items>
+	</View>
 
-	<View id="item_D010_main"> 
-		<Attributes> 
-			<Table key="item_D010_link"> 
-				<Pair key="info"><String>net_package_install</String></Pair> 
-				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155832/COLDBOOT-D010.pkg?force_download=1</String></Pair> 
-				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155832/COLDBOOT-D010.pkg?force_download=1</String></Pair> 
-				<Pair key="content_name"><String>pkg_install_pc</String></Pair> 
-				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair> 
-				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/IMAGES/D010.png</String></Pair> 
-			</Table> 
-		</Attributes> 
-		<Items> 
-			<Item class="type:x-xmb/xmlnpsignup" key="item_D010_link" attr="item_D010_link"/> 
-		</Items> 
-	</View> 
+	<View id="item_D010_main">
+		<Attributes>
+			<Table key="item_D010_link">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155832/COLDBOOT-D010.pkg?force_download=1</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155832/COLDBOOT-D010.pkg?force_download=1</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/IMAGES/D010.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="item_D010_link" attr="item_D010_link"/>
+		</Items>
+	</View>
 
-	<View id="item_D199_main"> 
-		<Attributes> 
-			<Table key="item_D199_link"> 
-				<Pair key="info"><String>net_package_install</String></Pair> 
-				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132156006/COLDBOOT-D199.pkg?force_download=1</String></Pair> 
-				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132156006/COLDBOOT-D199.pkg?force_download=1</String></Pair> 
-				<Pair key="content_name"><String>pkg_install_pc</String></Pair> 
-				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair> 
-				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/IMAGES/D199.png</String></Pair> 
-			</Table> 
-		</Attributes> 
-		<Items> 
-			<Item class="type:x-xmb/xmlnpsignup" key="item_D199_link" attr="item_D199_link"/> 
-		</Items> 
-	</View> 
+	<View id="item_D199_main">
+		<Attributes>
+			<Table key="item_D199_link">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132156006/COLDBOOT-D199.pkg?force_download=1</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132156006/COLDBOOT-D199.pkg?force_download=1</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/IMAGES/D199.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="item_D199_link" attr="item_D199_link"/>
+		</Items>
+	</View>
 
-	<View id="item_D107_main"> 
-		<Attributes> 
-			<Table key="item_D107_link"> 
-				<Pair key="info"><String>net_package_install</String></Pair> 
-				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155862/COLDBOOT-D107.pkg?force_download=1</String></Pair> 
-				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155862/COLDBOOT-D107.pkg?force_download=1</String></Pair> 
-				<Pair key="content_name"><String>pkg_install_pc</String></Pair> 
-				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair> 
-				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/IMAGES/D107.png</String></Pair> 
-			</Table> 
-		</Attributes> 
-		<Items> 
-			<Item class="type:x-xmb/xmlnpsignup" key="item_D107_link" attr="item_D107_link"/> 
-		</Items> 
-	</View> 
+	<View id="item_D107_main">
+		<Attributes>
+			<Table key="item_D107_link">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155862/COLDBOOT-D107.pkg?force_download=1</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155862/COLDBOOT-D107.pkg?force_download=1</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/IMAGES/D107.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="item_D107_link" attr="item_D107_link"/>
+		</Items>
+	</View>
 
-	<View id="item_D125_main"> 
-		<Attributes> 
-			<Table key="item_D125_link"> 
-				<Pair key="info"><String>net_package_install</String></Pair> 
-				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155997/COLDBOOT-D125.pkg?force_download=1</String></Pair> 
-				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155997/COLDBOOT-D125.pkg?force_download=1</String></Pair> 
-				<Pair key="content_name"><String>pkg_install_pc</String></Pair> 
-				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair> 
-				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/IMAGES/D125.png</String></Pair> 
-			</Table> 
-		</Attributes> 
-		<Items> 
-			<Item class="type:x-xmb/xmlnpsignup" key="item_D125_link" attr="item_D125_link"/> 
-		</Items> 
-	</View> 
+	<View id="item_D125_main">
+		<Attributes>
+			<Table key="item_D125_link">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155997/COLDBOOT-D125.pkg?force_download=1</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155997/COLDBOOT-D125.pkg?force_download=1</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/IMAGES/D125.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="item_D125_link" attr="item_D125_link"/>
+		</Items>
+	</View>
 
-	<View id="item_D102_main"> 
-		<Attributes> 
-			<Table key="item_D102_link"> 
-				<Pair key="info"><String>net_package_install</String></Pair> 
-				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155856/COLDBOOT-D102.pkg?force_download=1</String></Pair> 
-				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155856/COLDBOOT-D102.pkg?force_download=1</String></Pair> 
-				<Pair key="content_name"><String>pkg_install_pc</String></Pair> 
-				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair> 
-				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/IMAGES/D102.png</String></Pair> 
-			</Table> 
-		</Attributes> 
-		<Items> 
-			<Item class="type:x-xmb/xmlnpsignup" key="item_D102_link" attr="item_D102_link"/> 
-		</Items> 
-	</View> 
+	<View id="item_D102_main">
+		<Attributes>
+			<Table key="item_D102_link">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155856/COLDBOOT-D102.pkg?force_download=1</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155856/COLDBOOT-D102.pkg?force_download=1</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/IMAGES/D102.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="item_D102_link" attr="item_D102_link"/>
+		</Items>
+	</View>
 
-	<View id="item_D103_main"> 
-		<Attributes> 
-			<Table key="item_D103_link"> 
-				<Pair key="info"><String>net_package_install</String></Pair> 
-				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155892/COLDBOOT-D103.pkg?force_download=1</String></Pair> 
-				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155892/COLDBOOT-D103.pkg?force_download=1</String></Pair> 
-				<Pair key="content_name"><String>pkg_install_pc</String></Pair> 
-				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair> 
-				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/IMAGES/D103.png</String></Pair> 
-			</Table> 
-		</Attributes> 
-		<Items> 
-			<Item class="type:x-xmb/xmlnpsignup" key="item_D103_link" attr="item_D103_link"/> 
-		</Items> 
-	</View> 
+	<View id="item_D103_main">
+		<Attributes>
+			<Table key="item_D103_link">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155892/COLDBOOT-D103.pkg?force_download=1</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155892/COLDBOOT-D103.pkg?force_download=1</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/IMAGES/D103.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="item_D103_link" attr="item_D103_link"/>
+		</Items>
+	</View>
 
-	<View id="item_D110_main"> 
-		<Attributes> 
-			<Table key="item_D110_link"> 
-				<Pair key="info"><String>net_package_install</String></Pair> 
-				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155880/COLDBOOT-D110.pkg?force_download=1</String></Pair> 
-				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155880/COLDBOOT-D110.pkg?force_download=1</String></Pair> 
-				<Pair key="content_name"><String>pkg_install_pc</String></Pair> 
-				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair> 
-				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/IMAGES/D110.png</String></Pair> 
-			</Table> 
-		</Attributes> 
-		<Items> 
-			<Item class="type:x-xmb/xmlnpsignup" key="item_D110_link" attr="item_D110_link"/> 
-		</Items> 
-	</View> 
+	<View id="item_D110_main">
+		<Attributes>
+			<Table key="item_D110_link">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155880/COLDBOOT-D110.pkg?force_download=1</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155880/COLDBOOT-D110.pkg?force_download=1</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/IMAGES/D110.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="item_D110_link" attr="item_D110_link"/>
+		</Items>
+	</View>
 
-	<View id="item_D101_main"> 
-		<Attributes> 
-			<Table key="item_D101_link"> 
-				<Pair key="info"><String>net_package_install</String></Pair> 
-				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155850/COLDBOOT-D101.pkg?force_download=1</String></Pair> 
-				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155850/COLDBOOT-D101.pkg?force_download=1</String></Pair> 
-				<Pair key="content_name"><String>pkg_install_pc</String></Pair> 
-				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair> 
-				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/IMAGES/D101.png</String></Pair> 
-			</Table> 
-		</Attributes> 
-		<Items> 
-			<Item class="type:x-xmb/xmlnpsignup" key="item_D101_link" attr="item_D101_link"/> 
-		</Items> 
-	</View> 
+	<View id="item_D101_main">
+		<Attributes>
+			<Table key="item_D101_link">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155850/COLDBOOT-D101.pkg?force_download=1</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155850/COLDBOOT-D101.pkg?force_download=1</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/IMAGES/D101.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="item_D101_link" attr="item_D101_link"/>
+		</Items>
+	</View>
 
-	<View id="item_D126_main"> 
-		<Attributes> 
-			<Table key="item_D126_link"> 
-				<Pair key="info"><String>net_package_install</String></Pair> 
-				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132156003/COLDBOOT-D126.pkg?force_download=1</String></Pair> 
-				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132156003/COLDBOOT-D126.pkg?force_download=1</String></Pair> 
-				<Pair key="content_name"><String>pkg_install_pc</String></Pair> 
-				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair> 
-				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/IMAGES/D126.png</String></Pair> 
-			</Table> 
-		</Attributes> 
-		<Items> 
-			<Item class="type:x-xmb/xmlnpsignup" key="item_D126_link" attr="item_D126_link"/> 
-		</Items> 
-	</View> 
+	<View id="item_D126_main">
+		<Attributes>
+			<Table key="item_D126_link">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132156003/COLDBOOT-D126.pkg?force_download=1</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132156003/COLDBOOT-D126.pkg?force_download=1</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/IMAGES/D126.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="item_D126_link" attr="item_D126_link"/>
+		</Items>
+	</View>
 
-	<View id="item_D119_main"> 
-		<Attributes> 
-			<Table key="item_D119_link"> 
-				<Pair key="info"><String>net_package_install</String></Pair> 
-				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155955/COLDBOOT-D119.pkg?force_download=1</String></Pair> 
-				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155955/COLDBOOT-D119.pkg?force_download=1</String></Pair> 
-				<Pair key="content_name"><String>pkg_install_pc</String></Pair> 
-				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair> 
-				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/IMAGES/D119.png</String></Pair> 
-			</Table> 
-		</Attributes> 
-		<Items> 
-			<Item class="type:x-xmb/xmlnpsignup" key="item_D119_link" attr="item_D119_link"/> 
-		</Items> 
-	</View> 
+	<View id="item_D119_main">
+		<Attributes>
+			<Table key="item_D119_link">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155955/COLDBOOT-D119.pkg?force_download=1</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155955/COLDBOOT-D119.pkg?force_download=1</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/IMAGES/D119.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="item_D119_link" attr="item_D119_link"/>
+		</Items>
+	</View>
 
-	<View id="item_D108_main"> 
-		<Attributes> 
-			<Table key="item_D108_link"> 
-				<Pair key="info"><String>net_package_install</String></Pair> 
-				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155865/COLDBOOT-D108.pkg?force_download=1</String></Pair> 
-				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155865/COLDBOOT-D108.pkg?force_download=1</String></Pair> 
-				<Pair key="content_name"><String>pkg_install_pc</String></Pair> 
-				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair> 
-				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/IMAGES/D108.png</String></Pair> 
-			</Table> 
-		</Attributes> 
-		<Items> 
-			<Item class="type:x-xmb/xmlnpsignup" key="item_D108_link" attr="item_D108_link"/> 
-		</Items> 
-	</View> 
+	<View id="item_D108_main">
+		<Attributes>
+			<Table key="item_D108_link">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155865/COLDBOOT-D108.pkg?force_download=1</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155865/COLDBOOT-D108.pkg?force_download=1</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/IMAGES/D108.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="item_D108_link" attr="item_D108_link"/>
+		</Items>
+	</View>
 
-	<View id="item_D120_main"> 
-		<Attributes> 
-			<Table key="item_D120_link"> 
-				<Pair key="info"><String>net_package_install</String></Pair> 
-				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155961/COLDBOOT-D120.pkg?force_download=1</String></Pair> 
-				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155961/COLDBOOT-D120.pkg?force_download=1</String></Pair> 
-				<Pair key="content_name"><String>pkg_install_pc</String></Pair> 
-				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair> 
-				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/IMAGES/D120.png</String></Pair> 
-			</Table> 
-		</Attributes> 
-		<Items> 
-			<Item class="type:x-xmb/xmlnpsignup" key="item_D120_link" attr="item_D120_link"/> 
-		</Items> 
-	</View> 
+	<View id="item_D120_main">
+		<Attributes>
+			<Table key="item_D120_link">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155961/COLDBOOT-D120.pkg?force_download=1</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155961/COLDBOOT-D120.pkg?force_download=1</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/IMAGES/D120.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="item_D120_link" attr="item_D120_link"/>
+		</Items>
+	</View>
 
-	<View id="item_D106_main"> 
-		<Attributes> 
-			<Table key="item_D106_link"> 
-				<Pair key="info"><String>net_package_install</String></Pair> 
-				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155925/COLDBOOT-D106.pkg?force_download=1</String></Pair> 
-				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155925/COLDBOOT-D106.pkg?force_download=1</String></Pair> 
-				<Pair key="content_name"><String>pkg_install_pc</String></Pair> 
-				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair> 
-				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/IMAGES/D106.png</String></Pair> 
-			</Table> 
-		</Attributes> 
-		<Items> 
-			<Item class="type:x-xmb/xmlnpsignup" key="item_D106_link" attr="item_D106_link"/> 
-		</Items> 
-	</View> 
+	<View id="item_D106_main">
+		<Attributes>
+			<Table key="item_D106_link">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155925/COLDBOOT-D106.pkg?force_download=1</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155925/COLDBOOT-D106.pkg?force_download=1</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/IMAGES/D106.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="item_D106_link" attr="item_D106_link"/>
+		</Items>
+	</View>
 
-	<View id="item_D121_main"> 
-		<Attributes> 
-			<Table key="item_D121_link"> 
-				<Pair key="info"><String>net_package_install</String></Pair> 
-				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155970/COLDBOOT-D121.pkg?force_download=1</String></Pair> 
-				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155970/COLDBOOT-D121.pkg?force_download=1</String></Pair> 
-				<Pair key="content_name"><String>pkg_install_pc</String></Pair> 
-				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair> 
-				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/IMAGES/D121.png</String></Pair> 
-			</Table> 
-		</Attributes> 
-		<Items> 
-			<Item class="type:x-xmb/xmlnpsignup" key="item_D121_link" attr="item_D121_link"/> 
-		</Items> 
-	</View> 
+	<View id="item_D121_main">
+		<Attributes>
+			<Table key="item_D121_link">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155970/COLDBOOT-D121.pkg?force_download=1</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132155970/COLDBOOT-D121.pkg?force_download=1</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/IMAGES/D121.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="item_D121_link" attr="item_D121_link"/>
+		</Items>
+	</View>
 
 </XMBML>

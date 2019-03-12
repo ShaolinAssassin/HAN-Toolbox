@@ -2,8 +2,8 @@
 
 <!-- Main Items CEX -->
 		
-		<View id="han_main_items"> 
-		<Attributes> 
+	<View id="han_main_items">
+		<Attributes>
 			<Table key="han_reboot_soft_offline">
 				<Pair key="icon_rsc"><String>tex_repeat_status</String></Pair>
 				<Pair key="title"><String>Offline Soft Rebooter</String></Pair>
@@ -36,13 +36,13 @@
 				<Pair key="info"><String>Download and install the latest FULL Toolbox package (Reboot after)</String></Pair>
 			</Table>
 		</Attributes>
-			<Items>
+		<Items>
 			<Query class="type:x-xmb/module-action" key="han_reboot_soft_offline" attr="han_reboot_soft_offline"/>
 			<Query class="type:x-xmb/module-action" key="han_enabler_auto_main_offline" attr="han_enabler_auto_main_offline"/>
 			<Query class="type:x-xmb/folder-pixmap" key="han_functions" attr="han_functions" src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_han_functions.xml#han_functions_main"/>
 			<Query class="type:x-xmb/folder-pixmap" key="pkg_linker" attr="pkg_linker" src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_pkg_linker.xml#pkg_linker_items"/>
 			<Query class="type:x-xmb/folder-pixmap" key="han_toolbox_upgrade" attr="han_toolbox_upgrade" src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_stuff_downloader.xml#han_toolbox_upgrade_main"/>
-			</Items>
-		</View>
+		</Items>
+	</View>
 
 </XMBML>

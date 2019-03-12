@@ -1,258 +1,258 @@
-<XMBML version="1.0"> 
+<XMBML version="1.0">
  
 <!-- Main Items > External Content > OFW Demo Downloader v3.0 > C00 HK demos alpha sorted items -->
  
 	<View id="C00_HK_alpha_items">
 		<Attributes>
-			<Table key="item_NPHB00282"> 
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/IMAGES/Alien_Breed_-_Impact.png</String></Pair> 
-				<Pair key="title"><String>Alien Breed: Impact</String></Pair> 
-				<Pair key="info"><String>1182 MB - Shooter (TPS) - 71/100</String></Pair> 
+			<Table key="item_NPHB00282">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/IMAGES/Alien_Breed_-_Impact.png</String></Pair>
+				<Pair key="title"><String>Alien Breed: Impact</String></Pair>
+				<Pair key="info"><String>1182 MB - Shooter (TPS) - 71/100</String></Pair>
 			</Table>
-			<Table key="item_NPHB00412"> 
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/IMAGES/Apples_to_Apples.png</String></Pair> 
-				<Pair key="title"><String>Apples to Apples</String></Pair> 
-				<Pair key="info"><String>98 MB - Misc - TBD</String></Pair> 
+			<Table key="item_NPHB00412">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/IMAGES/Apples_to_Apples.png</String></Pair>
+				<Pair key="title"><String>Apples to Apples</String></Pair>
+				<Pair key="info"><String>98 MB - Misc - TBD</String></Pair>
 			</Table>
-			<Table key="item_NPHB00098"> 
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/IMAGES/Battlefield_1943.png</String></Pair> 
-				<Pair key="title"><String>Battlefield 1943</String></Pair> 
-				<Pair key="info"><String>565 MB - Shooter (FPS) - 84/100</String></Pair> 
+			<Table key="item_NPHB00098">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/IMAGES/Battlefield_1943.png</String></Pair>
+				<Pair key="title"><String>Battlefield 1943</String></Pair>
+				<Pair key="info"><String>565 MB - Shooter (FPS) - 84/100</String></Pair>
 			</Table>
-			<Table key="item_NPHB00125"> 
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/IMAGES/Bejeweled_2.png</String></Pair> 
-				<Pair key="title"><String>Bejeweled 2</String></Pair> 
-				<Pair key="info"><String>22 MB - Puzzle - 74/100</String></Pair> 
+			<Table key="item_NPHB00125">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/IMAGES/Bejeweled_2.png</String></Pair>
+				<Pair key="title"><String>Bejeweled 2</String></Pair>
+				<Pair key="info"><String>22 MB - Puzzle - 74/100</String></Pair>
 			</Table>
-			<Table key="item_NPHB00288"> 
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/IMAGES/Blokus.png</String></Pair> 
-				<Pair key="title"><String>Blokus</String></Pair> 
-				<Pair key="info"><String>257 MB - Misc (Card game) - 76/100</String></Pair> 
+			<Table key="item_NPHB00288">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/IMAGES/Blokus.png</String></Pair>
+				<Pair key="title"><String>Blokus</String></Pair>
+				<Pair key="info"><String>257 MB - Misc (Card game) - 76/100</String></Pair>
 			</Table>
-			<Table key="item_NPHB00356"> 
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/IMAGES/Burnout_CRASH.png</String></Pair> 
-				<Pair key="title"><String>Burnout Crash!</String></Pair> 
-				<Pair key="info"><String>1057 MB - Driving (Arcade) - 69/100</String></Pair> 
+			<Table key="item_NPHB00356">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/IMAGES/Burnout_CRASH.png</String></Pair>
+				<Pair key="title"><String>Burnout Crash!</String></Pair>
+				<Pair key="info"><String>1057 MB - Driving (Arcade) - 69/100</String></Pair>
 			</Table>
-			<Table key="item_NPHB00207"> 
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/IMAGES/Castle_Crashers.png</String></Pair> 
-				<Pair key="title"><String>Castle Crashers</String></Pair> 
-				<Pair key="info"><String>154 MB - Fighting (Beat'-Em-Up) - 85/100</String></Pair> 
+			<Table key="item_NPHB00207">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/IMAGES/Castle_Crashers.png</String></Pair>
+				<Pair key="title"><String>Castle Crashers</String></Pair>
+				<Pair key="info"><String>154 MB - Fighting (Beat'-Em-Up) - 85/100</String></Pair>
 			</Table>
-			<Table key="item_NPHB00289"> 
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/IMAGES/Dead_Space_Ignition.png</String></Pair> 
-				<Pair key="title"><String>Dead Space: Ignition</String></Pair> 
-				<Pair key="info"><String>1616 MB - Shooter (FPS) - 36/100</String></Pair> 
+			<Table key="item_NPHB00289">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/IMAGES/Dead_Space_Ignition.png</String></Pair>
+				<Pair key="title"><String>Dead Space: Ignition</String></Pair>
+				<Pair key="info"><String>1616 MB - Shooter (FPS) - 36/100</String></Pair>
 			</Table>
-			<Table key="item_NPHB00277"> 
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/IMAGES/DeathSpank_-_Thongs_of_Virtue.png</String></Pair> 
-				<Pair key="title"><String>DeathSpank: Thongs Of Virtue</String></Pair> 
-				<Pair key="info"><String>1295 MB - RPG - 79/100</String></Pair> 
+			<Table key="item_NPHB00277">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/IMAGES/DeathSpank_-_Thongs_of_Virtue.png</String></Pair>
+				<Pair key="title"><String>DeathSpank: Thongs Of Virtue</String></Pair>
+				<Pair key="info"><String>1295 MB - RPG - 79/100</String></Pair>
 			</Table>
-			<Table key="item_NPHB00285"> 
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/IMAGES/Dungeon_Hunter_Alliance.png</String></Pair> 
-				<Pair key="title"><String>Dungeon Hunter: Alliance</String></Pair> 
-				<Pair key="info"><String>1029 MB - RPG - 67/100</String></Pair> 
+			<Table key="item_NPHB00285">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/IMAGES/Dungeon_Hunter_Alliance.png</String></Pair>
+				<Pair key="title"><String>Dungeon Hunter: Alliance</String></Pair>
+				<Pair key="info"><String>1029 MB - RPG - 67/100</String></Pair>
 			</Table>
-			<Table key="item_NPHB00234"> 
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/IMAGES/Earthworm_Jim_HD.png</String></Pair> 
-				<Pair key="title"><String>Earthworm Jim HD</String></Pair> 
-				<Pair key="info"><String>230 MB - Plateformer (2D) - 70/100</String></Pair> 
+			<Table key="item_NPHB00234">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/IMAGES/Earthworm_Jim_HD.png</String></Pair>
+				<Pair key="title"><String>Earthworm Jim HD</String></Pair>
+				<Pair key="info"><String>230 MB - Plateformer (2D) - 70/100</String></Pair>
 			</Table>
-			<Table key="item_NPHB00300"> 
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/IMAGES/Explodemon.png</String></Pair> 
-				<Pair key="title"><String>Explodemon</String></Pair> 
-				<Pair key="info"><String>1264 MB - Plateformer (2D) - 65/100</String></Pair> 
+			<Table key="item_NPHB00300">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/IMAGES/Explodemon.png</String></Pair>
+				<Pair key="title"><String>Explodemon</String></Pair>
+				<Pair key="info"><String>1264 MB - Plateformer (2D) - 65/100</String></Pair>
 			</Table>
-			<Table key="item_NPHB00343"> 
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/IMAGES/Faery_Legends_of_Avalon.png</String></Pair> 
-				<Pair key="title"><String>Faery: Legends Of Avalon</String></Pair> 
-				<Pair key="info"><String>580 MB - RPG - 57/100</String></Pair> 
+			<Table key="item_NPHB00343">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/IMAGES/Faery_Legends_of_Avalon.png</String></Pair>
+				<Pair key="title"><String>Faery: Legends Of Avalon</String></Pair>
+				<Pair key="info"><String>580 MB - RPG - 57/100</String></Pair>
 			</Table>
-			<Table key="item_NPHB00073"> 
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/IMAGES/Flock.png</String></Pair> 
-				<Pair key="title"><String>Flock!</String></Pair> 
-				<Pair key="info"><String>91 MB - Puzzle - 71/100</String></Pair> 
+			<Table key="item_NPHB00073">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/IMAGES/Flock.png</String></Pair>
+				<Pair key="title"><String>Flock!</String></Pair>
+				<Pair key="info"><String>91 MB - Puzzle - 71/100</String></Pair>
 			</Table>
-			<Table key="item_NPHB00261"> 
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/IMAGES/Galaga_Legions_DX.png</String></Pair> 
-				<Pair key="title"><String>Galaga Legions DX</String></Pair> 
-				<Pair key="info"><String>134 MB - Shooter (Shoot-'Em-Up) - TBD</String></Pair> 
+			<Table key="item_NPHB00261">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/IMAGES/Galaga_Legions_DX.png</String></Pair>
+				<Pair key="title"><String>Galaga Legions DX</String></Pair>
+				<Pair key="info"><String>134 MB - Shooter (Shoot-'Em-Up) - TBD</String></Pair>
 			</Table>
-			<Table key="item_NPHB00419"> 
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/IMAGES/Gatling_Gears.png</String></Pair> 
-				<Pair key="title"><String>Gatling Gears</String></Pair> 
-				<Pair key="info"><String>1443 MB - Shooter (Shoot-'Em-Up) - 76/100</String></Pair> 
+			<Table key="item_NPHB00419">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/IMAGES/Gatling_Gears.png</String></Pair>
+				<Pair key="title"><String>Gatling Gears</String></Pair>
+				<Pair key="info"><String>1443 MB - Shooter (Shoot-'Em-Up) - 76/100</String></Pair>
 			</Table>
-			<Table key="item_NPHA80076"> 
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/IMAGES/Gravity_Crash.png</String></Pair> 
-				<Pair key="title"><String>Gravity Crash</String></Pair> 
-				<Pair key="info"><String>177 MB - Shooter (Shoot-'Em-Up) - 73/100</String></Pair> 
+			<Table key="item_NPHA80076">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/IMAGES/Gravity_Crash.png</String></Pair>
+				<Pair key="title"><String>Gravity Crash</String></Pair>
+				<Pair key="info"><String>177 MB - Shooter (Shoot-'Em-Up) - 73/100</String></Pair>
 			</Table>
-			<Table key="item_NPHB00499"> 
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/IMAGES/Invincible_Knight.png</String></Pair> 
-				<Pair key="title"><String>Invincible Knight</String></Pair> 
-				<Pair key="info"><String>490 MB - Action-Adventure - TBD</String></Pair> 
+			<Table key="item_NPHB00499">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/IMAGES/Invincible_Knight.png</String></Pair>
+				<Pair key="title"><String>Invincible Knight</String></Pair>
+				<Pair key="info"><String>490 MB - Action-Adventure - TBD</String></Pair>
 			</Table>
-			<Table key="item_NPHB00374"> 
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/IMAGES/Limbo.png</String></Pair> 
-				<Pair key="title"><String>LIMBO</String></Pair> 
-				<Pair key="info"><String>94 MB - Plateformer (2D) - 90/100</String></Pair> 
+			<Table key="item_NPHB00374">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/IMAGES/Limbo.png</String></Pair>
+				<Pair key="title"><String>LIMBO</String></Pair>
+				<Pair key="info"><String>94 MB - Plateformer (2D) - 90/100</String></Pair>
 			</Table>
-			<Table key="item_NPHA80128"> 
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/IMAGES/MAG.png</String></Pair> 
-				<Pair key="title"><String>MAG</String></Pair> 
-				<Pair key="info"><String>4773 MB - Shooter (FPS) - 76/100</String></Pair> 
+			<Table key="item_NPHA80128">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/IMAGES/MAG.png</String></Pair>
+				<Pair key="title"><String>MAG</String></Pair>
+				<Pair key="info"><String>4773 MB - Shooter (FPS) - 76/100</String></Pair>
 			</Table>
-			<Table key="item_NPHB00455"> 
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/IMAGES/Marvel_VS_Capcom_Origins.png</String></Pair> 
-				<Pair key="title"><String>Marvel vs. Capcom Origins</String></Pair> 
-				<Pair key="info"><String>232 MB - Fighting (2D) - 72/100</String></Pair> 
+			<Table key="item_NPHB00455">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/IMAGES/Marvel_VS_Capcom_Origins.png</String></Pair>
+				<Pair key="title"><String>Marvel vs. Capcom Origins</String></Pair>
+				<Pair key="info"><String>232 MB - Fighting (2D) - 72/100</String></Pair>
 			</Table>
-			<Table key="item_NPHB00272"> 
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/IMAGES/MicroBot.png</String></Pair> 
-				<Pair key="title"><String>MicroBot</String></Pair> 
-				<Pair key="info"><String>147 MB - Shooter (Shoot-'Em-Up) - 62/100</String></Pair> 
+			<Table key="item_NPHB00272">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/IMAGES/MicroBot.png</String></Pair>
+				<Pair key="title"><String>MicroBot</String></Pair>
+				<Pair key="info"><String>147 MB - Shooter (Shoot-'Em-Up) - 62/100</String></Pair>
 			</Table>
-			<Table key="item_NPHB00286"> 
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/IMAGES/Modern_Combat_Domination.png</String></Pair> 
-				<Pair key="title"><String>Modern Combat: Domination</String></Pair> 
-				<Pair key="info"><String>696 MB - Shooter (FPS) - 67/100</String></Pair> 
+			<Table key="item_NPHB00286">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/IMAGES/Modern_Combat_Domination.png</String></Pair>
+				<Pair key="title"><String>Modern Combat: Domination</String></Pair>
+				<Pair key="info"><String>696 MB - Shooter (FPS) - 67/100</String></Pair>
 			</Table>
-			<Table key="item_NPHB00237"> 
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/IMAGES/PAC-MAN_Championship_Edition_DX.png</String></Pair> 
-				<Pair key="title"><String>Pac-Man Championship Edition DX</String></Pair> 
-				<Pair key="info"><String>248 MB - Misc - 91/100</String></Pair> 
+			<Table key="item_NPHB00237">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/IMAGES/PAC-MAN_Championship_Edition_DX.png</String></Pair>
+				<Pair key="title"><String>Pac-Man Championship Edition DX</String></Pair>
+				<Pair key="info"><String>248 MB - Misc - 91/100</String></Pair>
 			</Table>
-			<Table key="item_NPHB00479"> 
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/IMAGES/PixelJunk_4AM.png</String></Pair> 
-				<Pair key="title"><String>PixelJunk 4am</String></Pair> 
-				<Pair key="info"><String>275 MB - Misc - 63/100</String></Pair> 
+			<Table key="item_NPHB00479">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/IMAGES/PixelJunk_4AM.png</String></Pair>
+				<Pair key="title"><String>PixelJunk 4am</String></Pair>
+				<Pair key="info"><String>275 MB - Misc - 63/100</String></Pair>
 			</Table>
-			<Table key="item_NPHB00307"> 
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/IMAGES/Plants_VS_Zombies.png</String></Pair> 
-				<Pair key="title"><String>Plants vs. Zombies</String></Pair> 
-				<Pair key="info"><String>91 MB - Strategy - 85/100</String></Pair> 
+			<Table key="item_NPHB00307">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/IMAGES/Plants_VS_Zombies.png</String></Pair>
+				<Pair key="title"><String>Plants vs. Zombies</String></Pair>
+				<Pair key="info"><String>91 MB - Strategy - 85/100</String></Pair>
 			</Table>
-			<Table key="item_NPHB00410"> 
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/IMAGES/Rochard.png</String></Pair> 
-				<Pair key="title"><String>Rochard</String></Pair> 
-				<Pair key="info"><String>1293 MB - Plateformer (2D) - 79/100</String></Pair> 
+			<Table key="item_NPHB00410">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/IMAGES/Rochard.png</String></Pair>
+				<Pair key="title"><String>Rochard</String></Pair>
+				<Pair key="info"><String>1293 MB - Plateformer (2D) - 79/100</String></Pair>
 			</Table>
-			<Table key="item_NPHB00415"> 
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/IMAGES/Rocketbirds_-_Hard_Boiled_Chicken.png</String></Pair> 
-				<Pair key="title"><String>Rocketbirds: Hardboiled Chicken</String></Pair> 
-				<Pair key="info"><String>433 MB - Plateformer (2D) - 74/100</String></Pair> 
+			<Table key="item_NPHB00415">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/IMAGES/Rocketbirds_-_Hard_Boiled_Chicken.png</String></Pair>
+				<Pair key="title"><String>Rocketbirds: Hardboiled Chicken</String></Pair>
+				<Pair key="info"><String>433 MB - Plateformer (2D) - 74/100</String></Pair>
 			</Table>
-			<Table key="item_NPHB00360"> 
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/IMAGES/Rush_N_Attack_-_Ex-Patriot.png</String></Pair> 
-				<Pair key="title"><String>Rush'N Attack Ex-Patriot</String></Pair> 
-				<Pair key="info"><String>708 MB - Plateformer (2D) - 47/100</String></Pair> 
+			<Table key="item_NPHB00360">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/IMAGES/Rush_N_Attack_-_Ex-Patriot.png</String></Pair>
+				<Pair key="title"><String>Rush'N Attack Ex-Patriot</String></Pair>
+				<Pair key="info"><String>708 MB - Plateformer (2D) - 47/100</String></Pair>
 			</Table>
-			<Table key="item_NPHB00242"> 
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/IMAGES/Shank.png</String></Pair> 
-				<Pair key="title"><String>Shank</String></Pair> 
-				<Pair key="info"><String>2012 MB - Fighting (Beat'-Em-Up) - 75/100</String></Pair> 
+			<Table key="item_NPHB00242">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/IMAGES/Shank.png</String></Pair>
+				<Pair key="title"><String>Shank</String></Pair>
+				<Pair key="info"><String>2012 MB - Fighting (Beat'-Em-Up) - 75/100</String></Pair>
 			</Table>
-			<Table key="item_NPHB00309"> 
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/IMAGES/Slam_Bolt_Scrappers.png</String></Pair> 
-				<Pair key="title"><String>Slam Bolt Scrappers</String></Pair> 
-				<Pair key="info"><String>489 MB - Action-Adventure - 66/100</String></Pair> 
+			<Table key="item_NPHB00309">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/IMAGES/Slam_Bolt_Scrappers.png</String></Pair>
+				<Pair key="title"><String>Slam Bolt Scrappers</String></Pair>
+				<Pair key="info"><String>489 MB - Action-Adventure - 66/100</String></Pair>
 			</Table>
-			<Table key="item_NPHB00467"> 
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/IMAGES/Sonic_Adventure_2.png</String></Pair> 
-				<Pair key="title"><String>Sonic Adventure 2</String></Pair> 
-				<Pair key="info"><String>3132 MB - Plateformer (3D) - 65/100</String></Pair> 
+			<Table key="item_NPHB00467">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/IMAGES/Sonic_Adventure_2.png</String></Pair>
+				<Pair key="title"><String>Sonic Adventure 2</String></Pair>
+				<Pair key="info"><String>3132 MB - Plateformer (3D) - 65/100</String></Pair>
 			</Table>
-			<Table key="item_NPHB00187"> 
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/IMAGES/Sonic_The_Hedgehog_4_Episode_1.png</String></Pair> 
-				<Pair key="title"><String>Sonic The Hedgehog 4: Episode I</String></Pair> 
-				<Pair key="info"><String>199 MB - Plateformer (2D) - 74/100</String></Pair> 
+			<Table key="item_NPHB00187">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/IMAGES/Sonic_The_Hedgehog_4_Episode_1.png</String></Pair>
+				<Pair key="title"><String>Sonic The Hedgehog 4: Episode I</String></Pair>
+				<Pair key="info"><String>199 MB - Plateformer (2D) - 74/100</String></Pair>
 			</Table>
-			<Table key="item_NPHB00459"> 
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/IMAGES/Sonic_The_Hedgehog_4_Episode_2.png</String></Pair> 
-				<Pair key="title"><String>Sonic The Hedgehog 4: Episode II</String></Pair> 
-				<Pair key="info"><String>422 MB - Plateformer (2D) - 63/100</String></Pair> 
+			<Table key="item_NPHB00459">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/IMAGES/Sonic_The_Hedgehog_4_Episode_2.png</String></Pair>
+				<Pair key="title"><String>Sonic The Hedgehog 4: Episode II</String></Pair>
+				<Pair key="info"><String>422 MB - Plateformer (2D) - 63/100</String></Pair>
 			</Table>
-			<Table key="item_NPHB00312"> 
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/IMAGES/Stacking.png</String></Pair> 
-				<Pair key="title"><String>Stacking</String></Pair> 
-				<Pair key="info"><String>1000 MB - Puzzle - 83/100</String></Pair> 
+			<Table key="item_NPHB00312">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/IMAGES/Stacking.png</String></Pair>
+				<Pair key="title"><String>Stacking</String></Pair>
+				<Pair key="info"><String>1000 MB - Puzzle - 83/100</String></Pair>
 			</Table>
-			<Table key="item_NPHB00140"> 
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/IMAGES/Star_Trek_-_D_A_C.png</String></Pair> 
-				<Pair key="title"><String>Star Trek: D-A-C</String></Pair> 
-				<Pair key="info"><String>133 MB - Action-Adventure - 62/100</String></Pair> 
+			<Table key="item_NPHB00140">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/IMAGES/Star_Trek_-_D_A_C.png</String></Pair>
+				<Pair key="title"><String>Star Trek: D-A-C</String></Pair>
+				<Pair key="info"><String>133 MB - Action-Adventure - 62/100</String></Pair>
 			</Table>
-			<Table key="item_NPHB00338"> 
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/IMAGES/Street_Fighter_III_3rd_Strike_Online_Edition.png</String></Pair> 
-				<Pair key="title"><String>Street Fighter III: Third Strike Online Edition</String></Pair> 
-				<Pair key="info"><String>618 MB - Fighting (2D) - 86/100</String></Pair> 
+			<Table key="item_NPHB00338">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/IMAGES/Street_Fighter_III_3rd_Strike_Online_Edition.png</String></Pair>
+				<Pair key="title"><String>Street Fighter III: Third Strike Online Edition</String></Pair>
+				<Pair key="info"><String>618 MB - Fighting (2D) - 86/100</String></Pair>
 			</Table>
-			<Table key="item_NPHB00366"> 
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/IMAGES/Swarm.png</String></Pair> 
-				<Pair key="title"><String>Swarm</String></Pair> 
-				<Pair key="info"><String>456 MB - Misc - 71/100</String></Pair> 
+			<Table key="item_NPHB00366">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/IMAGES/Swarm.png</String></Pair>
+				<Pair key="title"><String>Swarm</String></Pair>
+				<Pair key="info"><String>456 MB - Misc - 71/100</String></Pair>
 			</Table>
-			<Table key="item_NPHB00256"> 
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/IMAGES/Swords_and_Soldiers.png</String></Pair> 
-				<Pair key="title"><String>Swords & Soldiers</String></Pair> 
-				<Pair key="info"><String>247 MB - Strategy - 81/100</String></Pair> 
+			<Table key="item_NPHB00256">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/IMAGES/Swords_and_Soldiers.png</String></Pair>
+				<Pair key="title"><String>Swords & Soldiers</String></Pair>
+				<Pair key="info"><String>247 MB - Strategy - 81/100</String></Pair>
 			</Table>
-			<Table key="item_NPHB00334"> 
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/IMAGES/Tales_from_Space_-_About_a_Blob.png</String></Pair> 
-				<Pair key="title"><String>Tales From Space: About a Blob</String></Pair> 
-				<Pair key="info"><String>283 MB - Plateformer (2D) - 76/100</String></Pair> 
+			<Table key="item_NPHB00334">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/IMAGES/Tales_from_Space_-_About_a_Blob.png</String></Pair>
+				<Pair key="title"><String>Tales From Space: About a Blob</String></Pair>
+				<Pair key="info"><String>283 MB - Plateformer (2D) - 76/100</String></Pair>
 			</Table>
-			<Table key="item_NPHB00179"> 
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/IMAGES/Tank_Battles.png</String></Pair> 
-				<Pair key="title"><String>Tank Battles</String></Pair> 
-				<Pair key="info"><String>102 MB - Action-Adventure - TBD</String></Pair> 
+			<Table key="item_NPHB00179">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/IMAGES/Tank_Battles.png</String></Pair>
+				<Pair key="title"><String>Tank Battles</String></Pair>
+				<Pair key="info"><String>102 MB - Action-Adventure - TBD</String></Pair>
 			</Table>
-			<Table key="item_NPHB00134"> 
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/IMAGES/TMNT_-_Turtles_in_Time_ReShelled.png</String></Pair> 
-				<Pair key="title"><String>Teenage Mutant Ninja Turtles: Turtles in Time Re-Shelled</String></Pair> 
-				<Pair key="info"><String>369 MB - Fighting (Beat'-Em-Up) - 55/100</String></Pair> 
+			<Table key="item_NPHB00134">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/IMAGES/TMNT_-_Turtles_in_Time_ReShelled.png</String></Pair>
+				<Pair key="title"><String>Teenage Mutant Ninja Turtles: Turtles in Time Re-Shelled</String></Pair>
+				<Pair key="info"><String>369 MB - Fighting (Beat'-Em-Up) - 55/100</String></Pair>
 			</Table>
-			<Table key="item_NPHB00325"> 
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/IMAGES/Tetris.png</String></Pair> 
-				<Pair key="title"><String>Tetris</String></Pair> 
-				<Pair key="info"><String>73 MB - Puzzle - 80/100</String></Pair> 
+			<Table key="item_NPHB00325">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/IMAGES/Tetris.png</String></Pair>
+				<Pair key="title"><String>Tetris</String></Pair>
+				<Pair key="info"><String>73 MB - Puzzle - 80/100</String></Pair>
 			</Table>
-			<Table key="item_NPHB00305"> 
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/IMAGES/The_Fancy_Pants_Adventures.png</String></Pair> 
-				<Pair key="title"><String>The Fancy Pants Adventures</String></Pair> 
-				<Pair key="info"><String>330 MB - Plateformer (2D) - 71/100</String></Pair> 
+			<Table key="item_NPHB00305">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/IMAGES/The_Fancy_Pants_Adventures.png</String></Pair>
+				<Pair key="title"><String>The Fancy Pants Adventures</String></Pair>
+				<Pair key="info"><String>330 MB - Plateformer (2D) - 71/100</String></Pair>
 			</Table>
-			<Table key="item_NPHB00433"> 
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/IMAGES/Voltron_-_Defender_of_the_Universe.png</String></Pair> 
-				<Pair key="title"><String>Voltron: Defender of the Universe</String></Pair> 
-				<Pair key="info"><String>973 MB - Shooter (Shoot-'Em-Up) - 52/100</String></Pair> 
+			<Table key="item_NPHB00433">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/IMAGES/Voltron_-_Defender_of_the_Universe.png</String></Pair>
+				<Pair key="title"><String>Voltron: Defender of the Universe</String></Pair>
+				<Pair key="info"><String>973 MB - Shooter (Shoot-'Em-Up) - 52/100</String></Pair>
 			</Table>
-			<Table key="item_NPHB00097"> 
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/IMAGES/Watchmen_-_The_End_is_nigh_EP1.png</String></Pair> 
-				<Pair key="title"><String>Watchmen: The End Is Nigh</String></Pair> 
-				<Pair key="info"><String>1262 MB - Fighting (Beat'-Em-Up) - 54/100</String></Pair> 
+			<Table key="item_NPHB00097">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/IMAGES/Watchmen_-_The_End_is_nigh_EP1.png</String></Pair>
+				<Pair key="title"><String>Watchmen: The End Is Nigh</String></Pair>
+				<Pair key="info"><String>1262 MB - Fighting (Beat'-Em-Up) - 54/100</String></Pair>
 			</Table>
-			<Table key="item_NPHB00099"> 
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/IMAGES/Watchmen_-_The_End_is_nigh_EP2.png</String></Pair> 
-				<Pair key="title"><String>Watchmen: The End Is Nigh Part 2</String></Pair> 
-				<Pair key="info"><String>806 MB - Fighting (Beat'-Em-Up) - 46/100</String></Pair> 
+			<Table key="item_NPHB00099">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/IMAGES/Watchmen_-_The_End_is_nigh_EP2.png</String></Pair>
+				<Pair key="title"><String>Watchmen: The End Is Nigh Part 2</String></Pair>
+				<Pair key="info"><String>806 MB - Fighting (Beat'-Em-Up) - 46/100</String></Pair>
 			</Table>
-			<Table key="item_NPHA80240"> 
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/IMAGES/When_Vikings_Attack.png</String></Pair> 
-				<Pair key="title"><String>When Vikings Attack!</String></Pair> 
-				<Pair key="info"><String>675 MB - Action-Adventure - 73/100</String></Pair> 
+			<Table key="item_NPHA80240">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/IMAGES/When_Vikings_Attack.png</String></Pair>
+				<Pair key="title"><String>When Vikings Attack!</String></Pair>
+				<Pair key="info"><String>675 MB - Action-Adventure - 73/100</String></Pair>
 			</Table>
-			<Table key="item_NPHB00296"> 
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/IMAGES/Worms_2_Armageddon.png</String></Pair> 
-				<Pair key="title"><String>Worms 2: Armageddon</String></Pair> 
-				<Pair key="info"><String>270 MB - Strategy - 76/100</String></Pair> 
+			<Table key="item_NPHB00296">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/IMAGES/Worms_2_Armageddon.png</String></Pair>
+				<Pair key="title"><String>Worms 2: Armageddon</String></Pair>
+				<Pair key="info"><String>270 MB - Strategy - 76/100</String></Pair>
 			</Table>
-			<Table key="item_NPHB00126"> 
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/IMAGES/Zuma.png</String></Pair> 
-				<Pair key="title"><String>Zuma</String></Pair> 
-				<Pair key="info"><String>19 MB - Puzzle - 78/100</String></Pair> 
+			<Table key="item_NPHB00126">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/DEMOS/IMAGES/Zuma.png</String></Pair>
+				<Pair key="title"><String>Zuma</String></Pair>
+				<Pair key="info"><String>19 MB - Puzzle - 78/100</String></Pair>
 			</Table>
 		</Attributes>
 		<Items>

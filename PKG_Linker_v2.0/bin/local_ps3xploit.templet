@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <XMBML version="1.0">
-<View id="han_functions_local_items"> 
-		<Attributes> 
+<View id="han_functions_local_items">
+		<Attributes>
 			<Table key="han_reboot_soft_auto_local">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/reboot.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_soft_reboot</String></Pair>
@@ -60,7 +60,7 @@
 				<Pair key="module_action"><String>http://patch_ip/bin/PS3Xploit_files/han/dbgpkg_enabler_auto.html</String></Pair>
 			</Table>
 		</Attributes>
-			<Items>
+		<Items>
 			<Query 
 				class="type:x-xmb/module-action"
 				key="han_reboot_soft_auto_local"
@@ -101,8 +101,8 @@
 				key="han_debug_auto_local"
 				attr="han_debug_auto_local"
 				/>
-			</Items>
-		</View>
+		</Items>
+	</View>
 		
 		</XMBML>
 		

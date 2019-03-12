@@ -2,8 +2,8 @@
 
 <!-- Main Items > HAN functions Online CEX -->
 		
-		<View id="han_functions_main"> 
-		<Attributes> 
+	<View id="han_functions_main">
+		<Attributes>
 			<Table key="han_reboot_hard_auto">
 				<Pair key="icon_rsc"><String>tex_repeat_status</String></Pair>
 				<Pair key="title"><String>Hard Reboot</String></Pair>
@@ -40,13 +40,13 @@
 				<Pair key="module_action"><String>http://ps3xploit.com/autoxml/han/dbgpkg_enabler_auto.html</String></Pair>
 			</Table>
 		</Attributes>
-			<Items>
+		<Items>
 			<Query class="type:x-xmb/module-action" key="han_reboot_hard_auto" attr="han_reboot_hard_auto"/>
 			<Query class="type:x-xmb/module-action" key="han_shutdown_auto" attr="han_shutdown_auto"/>
 			<Query class="type:x-xmb/module-action" key="han_installer_auto" attr="han_installer_auto"/>
 			<Query class="type:x-xmb/module-action" key="han_license_dumper_auto" attr="han_license_dumper_auto"/>
 			<Query class="type:x-xmb/module-action" key="han_debug_auto" attr="han_debug_auto"/>
-			</Items>
-		</View>
+		</Items>
+	</View>
 
 </XMBML>

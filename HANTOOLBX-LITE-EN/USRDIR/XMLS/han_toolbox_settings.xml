@@ -2,8 +2,8 @@
 
 <!-- Main Items > Toolbox Settings -->
 		
-		<View id="han_toolbox_setup_main"> 
-		<Attributes> 
+	<View id="han_toolbox_setup_main">
+		<Attributes>
 			<Table key="han_toolbox_upgrade">
 				<Pair key="icon_rsc"><String>item_tex_cam_icon</String></Pair>
 				<Pair key="title"><String>Upgrade Toolbox</String></Pair>
@@ -16,7 +16,7 @@
 				Massive thanks to the PS3Xploit Team for all the hacks</String></Pair>
 			</Table>
 		</Attributes>
-			<Items>
+		<Items>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
 				key="han_toolbox_upgrade" 
@@ -28,7 +28,7 @@
 				key="han_toolbox_about"
 				attr="han_toolbox_about"
 				/>
-			</Items>
-		</View>
+		</Items>
+	</View>
 
 </XMBML>

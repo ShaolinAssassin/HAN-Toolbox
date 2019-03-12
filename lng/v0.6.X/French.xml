@@ -1306,7 +1306,7 @@ Remerciements à la Team PS3Xploit</Text>
 	<Text name="han_toolbox_server_setup_info">Mise à jour de la liste des PKG, scan du dossier source et autres options</Text>
 	<Text name="han_toolbox_server_refresh">Actualiser la liste des PKG</Text>
 	<Text name="han_toolbox_server_refresh_info">Installer une nouvelle version de Package_List.pkg depuis le serveur web (redémarrage requis)</Text>
-	<Text name="han_toolbox_server_enable_han"> Activer HAN (mode local)</Text>
+	<Text name="han_toolbox_server_enable_han">Activer HAN (mode local)</Text>
 	<Text name="han_toolbox_server_enable_han_info">Lancer PKG Linker avant d'utiliser cette option</Text>
 	<Text name="han_toolbox_server_rescan">Rescanner le dossier source</Text>
 	<Text name="han_toolbox_server_rescan_info">Rescanner le dossier source sur le serveur web et génère une nouvelle version de Package_List.pkg</Text>

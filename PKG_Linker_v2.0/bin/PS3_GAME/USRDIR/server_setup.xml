@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?> 
  
 <XMBML version="1.0">
-		<View id="server_setup_items">	
+	<View id="server_setup_items">	
 		<Attributes>
 			<Table key="refresh_list">
 				<Pair key="icon"><String>/dev_hdd0/game/PKGLINKER/USRDIR/icons/Refresh_Package_List.PNG</String></Pair>
@@ -46,8 +46,8 @@
 				<Pair key="module_name"><String>webrender_plugin</String></Pair>
 				<Pair key="module_action"><String>http://192.168.0.10:8486/</String></Pair>
 			</Table>
-		</Attributes> 
-			<Items>
+		</Attributes>
+		<Items>
 			<Query
 				class="type:x-xmb/folder-pixmap"
 				key="refresh_list"
@@ -73,10 +73,10 @@
 				class="type:x-xmb/module-action"
 				key="server_info"
 				attr="server_info"/>
-			</Items>
-		</View>
+		</Items>
+	</View>
 		
-		<View id="refresh_list_item">
+	<View id="refresh_list_item">
 		<Attributes>
 			<Table key="refresh">
 				<Pair key="info"><String>net_package_install</String></Pair>
@@ -87,9 +87,9 @@
 				<Pair key="prod_pict_path"><String>/dev_hdd0/game/PKGLINKER/USRDIR/icons/Refresh_Package_List.PNG</String></Pair>
 			</Table>
  		</Attributes>
- 			<Items>
+ 		<Items>
 			<Item class="type:x-xmb/xmlnpsignup" key="refresh" attr="refresh"/>
 		</Items>
- 		</View>
+ 	</View>
 
 	</XMBML>

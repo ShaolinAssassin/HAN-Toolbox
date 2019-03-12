@@ -1,373 +1,373 @@
-<XMBML version="1.0"> 
+<XMBML version="1.0">
  
 <!-- Main Items > External Content > Wave Downloader Items > Fonts Download Links -->
 
-	<View id="item_D506_main"> 
-		<Attributes> 
-			<Table key="item_D506_link"> 
-				<Pair key="info"><String>net_package_install</String></Pair> 
-				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132298428/FONT-D506.pkg?force_download=1</String></Pair> 
-				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132298428/FONT-D506.pkg?force_download=1</String></Pair> 
-				<Pair key="content_name"><String>pkg_install_pc</String></Pair> 
-				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair> 
-				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/FONTS/IMAGES/D506.png</String></Pair> 
-			</Table> 
-		</Attributes> 
-		<Items> 
-			<Item class="type:x-xmb/xmlnpsignup" key="item_D506_link" attr="item_D506_link"/> 
-		</Items> 
-	</View> 
+	<View id="item_D506_main">
+		<Attributes>
+			<Table key="item_D506_link">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132298428/FONT-D506.pkg?force_download=1</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132298428/FONT-D506.pkg?force_download=1</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/FONTS/IMAGES/D506.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="item_D506_link" attr="item_D506_link"/>
+		</Items>
+	</View>
 
-	<View id="item_D507_main"> 
-		<Attributes> 
-			<Table key="item_D507_link"> 
-				<Pair key="info"><String>net_package_install</String></Pair> 
-				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132298434/FONT-D507.pkg?force_download=1</String></Pair> 
-				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132298434/FONT-D507.pkg?force_download=1</String></Pair> 
-				<Pair key="content_name"><String>pkg_install_pc</String></Pair> 
-				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair> 
-				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/FONTS/IMAGES/D507.png</String></Pair> 
-			</Table> 
-		</Attributes> 
-		<Items> 
-			<Item class="type:x-xmb/xmlnpsignup" key="item_D507_link" attr="item_D507_link"/> 
-		</Items> 
-	</View> 
+	<View id="item_D507_main">
+		<Attributes>
+			<Table key="item_D507_link">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132298434/FONT-D507.pkg?force_download=1</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132298434/FONT-D507.pkg?force_download=1</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/FONTS/IMAGES/D507.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="item_D507_link" attr="item_D507_link"/>
+		</Items>
+	</View>
 
-	<View id="item_D508_main"> 
-		<Attributes> 
-			<Table key="item_D508_link"> 
-				<Pair key="info"><String>net_package_install</String></Pair> 
-				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132298437/FONT-D508.pkg?force_download=1</String></Pair> 
-				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132298437/FONT-D508.pkg?force_download=1</String></Pair> 
-				<Pair key="content_name"><String>pkg_install_pc</String></Pair> 
-				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair> 
-				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/FONTS/IMAGES/D508.png</String></Pair> 
-			</Table> 
-		</Attributes> 
-		<Items> 
-			<Item class="type:x-xmb/xmlnpsignup" key="item_D508_link" attr="item_D508_link"/> 
-		</Items> 
-	</View> 
+	<View id="item_D508_main">
+		<Attributes>
+			<Table key="item_D508_link">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132298437/FONT-D508.pkg?force_download=1</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132298437/FONT-D508.pkg?force_download=1</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/FONTS/IMAGES/D508.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="item_D508_link" attr="item_D508_link"/>
+		</Items>
+	</View>
 
-	<View id="item_D509_main"> 
-		<Attributes> 
-			<Table key="item_D509_link"> 
-				<Pair key="info"><String>net_package_install</String></Pair> 
-				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132298440/FONT-D509.pkg?force_download=1</String></Pair> 
-				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132298440/FONT-D509.pkg?force_download=1</String></Pair> 
-				<Pair key="content_name"><String>pkg_install_pc</String></Pair> 
-				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair> 
-				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/FONTS/IMAGES/D509.png</String></Pair> 
-			</Table> 
-		</Attributes> 
-		<Items> 
-			<Item class="type:x-xmb/xmlnpsignup" key="item_D509_link" attr="item_D509_link"/> 
-		</Items> 
-	</View> 
+	<View id="item_D509_main">
+		<Attributes>
+			<Table key="item_D509_link">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132298440/FONT-D509.pkg?force_download=1</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132298440/FONT-D509.pkg?force_download=1</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/FONTS/IMAGES/D509.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="item_D509_link" attr="item_D509_link"/>
+		</Items>
+	</View>
 
-	<View id="item_D510_main"> 
-		<Attributes> 
-			<Table key="item_D510_link"> 
-				<Pair key="info"><String>net_package_install</String></Pair> 
-				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132298443/FONT-D510.pkg?force_download=1</String></Pair> 
-				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132298443/FONT-D510.pkg?force_download=1</String></Pair> 
-				<Pair key="content_name"><String>pkg_install_pc</String></Pair> 
-				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair> 
-				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/FONTS/IMAGES/D510.png</String></Pair> 
-			</Table> 
-		</Attributes> 
-		<Items> 
-			<Item class="type:x-xmb/xmlnpsignup" key="item_D510_link" attr="item_D510_link"/> 
-		</Items> 
-	</View> 
+	<View id="item_D510_main">
+		<Attributes>
+			<Table key="item_D510_link">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132298443/FONT-D510.pkg?force_download=1</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132298443/FONT-D510.pkg?force_download=1</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/FONTS/IMAGES/D510.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="item_D510_link" attr="item_D510_link"/>
+		</Items>
+	</View>
 
-	<View id="item_D511_main"> 
-		<Attributes> 
-			<Table key="item_D511_link"> 
-				<Pair key="info"><String>net_package_install</String></Pair> 
-				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132298446/FONT-D511.pkg?force_download=1</String></Pair> 
-				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132298446/FONT-D511.pkg?force_download=1</String></Pair> 
-				<Pair key="content_name"><String>pkg_install_pc</String></Pair> 
-				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair> 
-				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/FONTS/IMAGES/D511.png</String></Pair> 
-			</Table> 
-		</Attributes> 
-		<Items> 
-			<Item class="type:x-xmb/xmlnpsignup" key="item_D511_link" attr="item_D511_link"/> 
-		</Items> 
-	</View> 
+	<View id="item_D511_main">
+		<Attributes>
+			<Table key="item_D511_link">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132298446/FONT-D511.pkg?force_download=1</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132298446/FONT-D511.pkg?force_download=1</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/FONTS/IMAGES/D511.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="item_D511_link" attr="item_D511_link"/>
+		</Items>
+	</View>
 
-	<View id="item_D512_main"> 
-		<Attributes> 
-			<Table key="item_D512_link"> 
-				<Pair key="info"><String>net_package_install</String></Pair> 
-				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132298449/FONT-D512.pkg?force_download=1</String></Pair> 
-				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132298449/FONT-D512.pkg?force_download=1</String></Pair> 
-				<Pair key="content_name"><String>pkg_install_pc</String></Pair> 
-				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair> 
-				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/FONTS/IMAGES/D512.png</String></Pair> 
-			</Table> 
-		</Attributes> 
-		<Items> 
-			<Item class="type:x-xmb/xmlnpsignup" key="item_D512_link" attr="item_D512_link"/> 
-		</Items> 
-	</View> 
+	<View id="item_D512_main">
+		<Attributes>
+			<Table key="item_D512_link">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132298449/FONT-D512.pkg?force_download=1</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132298449/FONT-D512.pkg?force_download=1</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/FONTS/IMAGES/D512.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="item_D512_link" attr="item_D512_link"/>
+		</Items>
+	</View>
 
-	<View id="item_D513_main"> 
-		<Attributes> 
-			<Table key="item_D513_link"> 
-				<Pair key="info"><String>net_package_install</String></Pair> 
-				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132298452/FONT-D513.pkg?force_download=1</String></Pair> 
-				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132298452/FONT-D513.pkg?force_download=1</String></Pair> 
-				<Pair key="content_name"><String>pkg_install_pc</String></Pair> 
-				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair> 
-				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/FONTS/IMAGES/D513.png</String></Pair> 
-			</Table> 
-		</Attributes> 
-		<Items> 
-			<Item class="type:x-xmb/xmlnpsignup" key="item_D513_link" attr="item_D513_link"/> 
-		</Items> 
-	</View> 
+	<View id="item_D513_main">
+		<Attributes>
+			<Table key="item_D513_link">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132298452/FONT-D513.pkg?force_download=1</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132298452/FONT-D513.pkg?force_download=1</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/FONTS/IMAGES/D513.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="item_D513_link" attr="item_D513_link"/>
+		</Items>
+	</View>
 
-	<View id="item_D514_main"> 
-		<Attributes> 
-			<Table key="item_D514_link"> 
-				<Pair key="info"><String>net_package_install</String></Pair> 
-				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132298455/FONT-D514.pkg?force_download=1</String></Pair> 
-				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132298455/FONT-D514.pkg?force_download=1</String></Pair> 
-				<Pair key="content_name"><String>pkg_install_pc</String></Pair> 
-				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair> 
-				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/FONTS/IMAGES/D514.png</String></Pair> 
-			</Table> 
-		</Attributes> 
-		<Items> 
-			<Item class="type:x-xmb/xmlnpsignup" key="item_D514_link" attr="item_D514_link"/> 
-		</Items> 
-	</View> 
+	<View id="item_D514_main">
+		<Attributes>
+			<Table key="item_D514_link">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132298455/FONT-D514.pkg?force_download=1</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132298455/FONT-D514.pkg?force_download=1</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/FONTS/IMAGES/D514.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="item_D514_link" attr="item_D514_link"/>
+		</Items>
+	</View>
 
-	<View id="item_D515_main"> 
-		<Attributes> 
-			<Table key="item_D515_link"> 
-				<Pair key="info"><String>net_package_install</String></Pair> 
-				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132298461/FONT-D515.pkg?force_download=1</String></Pair> 
-				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132298461/FONT-D515.pkg?force_download=1</String></Pair> 
-				<Pair key="content_name"><String>pkg_install_pc</String></Pair> 
-				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair> 
-				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/FONTS/IMAGES/D515.png</String></Pair> 
-			</Table> 
-		</Attributes> 
-		<Items> 
-			<Item class="type:x-xmb/xmlnpsignup" key="item_D515_link" attr="item_D515_link"/> 
-		</Items> 
-	</View> 
+	<View id="item_D515_main">
+		<Attributes>
+			<Table key="item_D515_link">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132298461/FONT-D515.pkg?force_download=1</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132298461/FONT-D515.pkg?force_download=1</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/FONTS/IMAGES/D515.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="item_D515_link" attr="item_D515_link"/>
+		</Items>
+	</View>
 
-	<View id="item_D516_main"> 
-		<Attributes> 
-			<Table key="item_D516_link"> 
-				<Pair key="info"><String>net_package_install</String></Pair> 
-				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132298464/FONT-D516.pkg?force_download=1</String></Pair> 
-				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132298464/FONT-D516.pkg?force_download=1</String></Pair> 
-				<Pair key="content_name"><String>pkg_install_pc</String></Pair> 
-				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair> 
-				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/FONTS/IMAGES/D516.png</String></Pair> 
-			</Table> 
-		</Attributes> 
-		<Items> 
-			<Item class="type:x-xmb/xmlnpsignup" key="item_D516_link" attr="item_D516_link"/> 
-		</Items> 
-	</View> 
+	<View id="item_D516_main">
+		<Attributes>
+			<Table key="item_D516_link">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132298464/FONT-D516.pkg?force_download=1</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132298464/FONT-D516.pkg?force_download=1</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/FONTS/IMAGES/D516.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="item_D516_link" attr="item_D516_link"/>
+		</Items>
+	</View>
 
-	<View id="item_D517_main"> 
-		<Attributes> 
-			<Table key="item_D517_link"> 
-				<Pair key="info"><String>net_package_install</String></Pair> 
-				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132298467/FONT-D517.pkg?force_download=1</String></Pair> 
-				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132298467/FONT-D517.pkg?force_download=1</String></Pair> 
-				<Pair key="content_name"><String>pkg_install_pc</String></Pair> 
-				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair> 
-				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/FONTS/IMAGES/D517.png</String></Pair> 
-			</Table> 
-		</Attributes> 
-		<Items> 
-			<Item class="type:x-xmb/xmlnpsignup" key="item_D517_link" attr="item_D517_link"/> 
-		</Items> 
-	</View> 
+	<View id="item_D517_main">
+		<Attributes>
+			<Table key="item_D517_link">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132298467/FONT-D517.pkg?force_download=1</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132298467/FONT-D517.pkg?force_download=1</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/FONTS/IMAGES/D517.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="item_D517_link" attr="item_D517_link"/>
+		</Items>
+	</View>
 
-	<View id="item_D518_main"> 
-		<Attributes> 
-			<Table key="item_D518_link"> 
-				<Pair key="info"><String>net_package_install</String></Pair> 
-				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132298470/FONT-D518.pkg?force_download=1</String></Pair> 
-				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132298470/FONT-D518.pkg?force_download=1</String></Pair> 
-				<Pair key="content_name"><String>pkg_install_pc</String></Pair> 
-				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair> 
-				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/FONTS/IMAGES/D518.png</String></Pair> 
-			</Table> 
-		</Attributes> 
-		<Items> 
-			<Item class="type:x-xmb/xmlnpsignup" key="item_D518_link" attr="item_D518_link"/> 
-		</Items> 
-	</View> 
+	<View id="item_D518_main">
+		<Attributes>
+			<Table key="item_D518_link">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132298470/FONT-D518.pkg?force_download=1</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132298470/FONT-D518.pkg?force_download=1</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/FONTS/IMAGES/D518.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="item_D518_link" attr="item_D518_link"/>
+		</Items>
+	</View>
 
-	<View id="item_D519_main"> 
-		<Attributes> 
-			<Table key="item_D519_link"> 
-				<Pair key="info"><String>net_package_install</String></Pair> 
-				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132298473/FONT-D519.pkg?force_download=1</String></Pair> 
-				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132298473/FONT-D519.pkg?force_download=1</String></Pair> 
-				<Pair key="content_name"><String>pkg_install_pc</String></Pair> 
-				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair> 
-				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/FONTS/IMAGES/D519.png</String></Pair> 
-			</Table> 
-		</Attributes> 
-		<Items> 
-			<Item class="type:x-xmb/xmlnpsignup" key="item_D519_link" attr="item_D519_link"/> 
-		</Items> 
-	</View> 
+	<View id="item_D519_main">
+		<Attributes>
+			<Table key="item_D519_link">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132298473/FONT-D519.pkg?force_download=1</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132298473/FONT-D519.pkg?force_download=1</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/FONTS/IMAGES/D519.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="item_D519_link" attr="item_D519_link"/>
+		</Items>
+	</View>
 
-	<View id="item_D520_main"> 
-		<Attributes> 
-			<Table key="item_D520_link"> 
-				<Pair key="info"><String>net_package_install</String></Pair> 
-				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132298476/FONT-D520.pkg?force_download=1</String></Pair> 
-				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132298476/FONT-D520.pkg?force_download=1</String></Pair> 
-				<Pair key="content_name"><String>pkg_install_pc</String></Pair> 
-				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair> 
-				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/FONTS/IMAGES/D520.png</String></Pair> 
-			</Table> 
-		</Attributes> 
-		<Items> 
-			<Item class="type:x-xmb/xmlnpsignup" key="item_D520_link" attr="item_D520_link"/> 
-		</Items> 
-	</View> 
+	<View id="item_D520_main">
+		<Attributes>
+			<Table key="item_D520_link">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132298476/FONT-D520.pkg?force_download=1</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132298476/FONT-D520.pkg?force_download=1</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/FONTS/IMAGES/D520.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="item_D520_link" attr="item_D520_link"/>
+		</Items>
+	</View>
 
-	<View id="item_D521_main"> 
-		<Attributes> 
-			<Table key="item_D521_link"> 
-				<Pair key="info"><String>net_package_install</String></Pair> 
-				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132298479/FONT-D521.pkg?force_download=1</String></Pair> 
-				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132298479/FONT-D521.pkg?force_download=1</String></Pair> 
-				<Pair key="content_name"><String>pkg_install_pc</String></Pair> 
-				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair> 
-				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/FONTS/IMAGES/D521.png</String></Pair> 
-			</Table> 
-		</Attributes> 
-		<Items> 
-			<Item class="type:x-xmb/xmlnpsignup" key="item_D521_link" attr="item_D521_link"/> 
-		</Items> 
-	</View> 
+	<View id="item_D521_main">
+		<Attributes>
+			<Table key="item_D521_link">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132298479/FONT-D521.pkg?force_download=1</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132298479/FONT-D521.pkg?force_download=1</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/FONTS/IMAGES/D521.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="item_D521_link" attr="item_D521_link"/>
+		</Items>
+	</View>
 
-	<View id="item_D522_main"> 
-		<Attributes> 
-			<Table key="item_D522_link"> 
-				<Pair key="info"><String>net_package_install</String></Pair> 
-				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132298404/FONT-D522.pkg?force_download=1</String></Pair> 
-				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132298404/FONT-D522.pkg?force_download=1</String></Pair> 
-				<Pair key="content_name"><String>pkg_install_pc</String></Pair> 
-				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair> 
-				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/FONTS/IMAGES/D522.png</String></Pair> 
-			</Table> 
-		</Attributes> 
-		<Items> 
-			<Item class="type:x-xmb/xmlnpsignup" key="item_D522_link" attr="item_D522_link"/> 
-		</Items> 
-	</View> 
+	<View id="item_D522_main">
+		<Attributes>
+			<Table key="item_D522_link">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132298404/FONT-D522.pkg?force_download=1</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132298404/FONT-D522.pkg?force_download=1</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/FONTS/IMAGES/D522.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="item_D522_link" attr="item_D522_link"/>
+		</Items>
+	</View>
 
-	<View id="item_D523_main"> 
-		<Attributes> 
-			<Table key="item_D523_link"> 
-				<Pair key="info"><String>net_package_install</String></Pair> 
-				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132298407/FONT-D523.pkg?force_download=1</String></Pair> 
-				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132298407/FONT-D523.pkg?force_download=1</String></Pair> 
-				<Pair key="content_name"><String>pkg_install_pc</String></Pair> 
-				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair> 
-				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/FONTS/IMAGES/D523.png</String></Pair> 
-			</Table> 
-		</Attributes> 
-		<Items> 
-			<Item class="type:x-xmb/xmlnpsignup" key="item_D523_link" attr="item_D523_link"/> 
-		</Items> 
-	</View> 
+	<View id="item_D523_main">
+		<Attributes>
+			<Table key="item_D523_link">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132298407/FONT-D523.pkg?force_download=1</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132298407/FONT-D523.pkg?force_download=1</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/FONTS/IMAGES/D523.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="item_D523_link" attr="item_D523_link"/>
+		</Items>
+	</View>
 
-	<View id="item_D524_main"> 
-		<Attributes> 
-			<Table key="item_D524_link"> 
-				<Pair key="info"><String>net_package_install</String></Pair> 
-				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132298410/FONT-D524.pkg?force_download=1</String></Pair> 
-				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132298410/FONT-D524.pkg?force_download=1</String></Pair> 
-				<Pair key="content_name"><String>pkg_install_pc</String></Pair> 
-				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair> 
-				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/FONTS/IMAGES/D524.png</String></Pair> 
-			</Table> 
-		</Attributes> 
-		<Items> 
-			<Item class="type:x-xmb/xmlnpsignup" key="item_D524_link" attr="item_D524_link"/> 
-		</Items> 
-	</View> 
+	<View id="item_D524_main">
+		<Attributes>
+			<Table key="item_D524_link">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132298410/FONT-D524.pkg?force_download=1</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132298410/FONT-D524.pkg?force_download=1</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/FONTS/IMAGES/D524.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="item_D524_link" attr="item_D524_link"/>
+		</Items>
+	</View>
 
-	<View id="item_D525_main"> 
-		<Attributes> 
-			<Table key="item_D525_link"> 
-				<Pair key="info"><String>net_package_install</String></Pair> 
-				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132298413/FONT-D525.pkg?force_download=1</String></Pair> 
-				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132298413/FONT-D525.pkg?force_download=1</String></Pair> 
-				<Pair key="content_name"><String>pkg_install_pc</String></Pair> 
-				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair> 
-				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/FONTS/IMAGES/D525.png</String></Pair> 
-			</Table> 
-		</Attributes> 
-		<Items> 
-			<Item class="type:x-xmb/xmlnpsignup" key="item_D525_link" attr="item_D525_link"/> 
-		</Items> 
-	</View> 
+	<View id="item_D525_main">
+		<Attributes>
+			<Table key="item_D525_link">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132298413/FONT-D525.pkg?force_download=1</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132298413/FONT-D525.pkg?force_download=1</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/FONTS/IMAGES/D525.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="item_D525_link" attr="item_D525_link"/>
+		</Items>
+	</View>
 
-	<View id="item_D526_main"> 
-		<Attributes> 
-			<Table key="item_D526_link"> 
-				<Pair key="info"><String>net_package_install</String></Pair> 
-				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132298416/FONT-D526.pkg?force_download=1</String></Pair> 
-				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132298416/FONT-D526.pkg?force_download=1</String></Pair> 
-				<Pair key="content_name"><String>pkg_install_pc</String></Pair> 
-				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair> 
-				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/FONTS/IMAGES/D526.png</String></Pair> 
-			</Table> 
-		</Attributes> 
-		<Items> 
-			<Item class="type:x-xmb/xmlnpsignup" key="item_D526_link" attr="item_D526_link"/> 
-		</Items> 
-	</View> 
+	<View id="item_D526_main">
+		<Attributes>
+			<Table key="item_D526_link">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132298416/FONT-D526.pkg?force_download=1</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132298416/FONT-D526.pkg?force_download=1</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/FONTS/IMAGES/D526.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="item_D526_link" attr="item_D526_link"/>
+		</Items>
+	</View>
 
-	<View id="item_D527_main"> 
-		<Attributes> 
-			<Table key="item_D527_link"> 
-				<Pair key="info"><String>net_package_install</String></Pair> 
-				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132298422/FONT-D527.pkg?force_download=1</String></Pair> 
-				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132298422/FONT-D527.pkg?force_download=1</String></Pair> 
-				<Pair key="content_name"><String>pkg_install_pc</String></Pair> 
-				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair> 
-				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/FONTS/IMAGES/D527.png</String></Pair> 
-			</Table> 
-		</Attributes> 
-		<Items> 
-			<Item class="type:x-xmb/xmlnpsignup" key="item_D527_link" attr="item_D527_link"/> 
-		</Items> 
-	</View> 
+	<View id="item_D527_main">
+		<Attributes>
+			<Table key="item_D527_link">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132298422/FONT-D527.pkg?force_download=1</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132298422/FONT-D527.pkg?force_download=1</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/FONTS/IMAGES/D527.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="item_D527_link" attr="item_D527_link"/>
+		</Items>
+	</View>
 
-	<View id="item_D528_main"> 
-		<Attributes> 
-			<Table key="item_D528_link"> 
-				<Pair key="info"><String>net_package_install</String></Pair> 
-				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132298425/FONT-D528.pkg?force_download=1</String></Pair> 
-				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132298425/FONT-D528.pkg?force_download=1</String></Pair> 
-				<Pair key="content_name"><String>pkg_install_pc</String></Pair> 
-				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair> 
-				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/FONTS/IMAGES/D528.png</String></Pair> 
-			</Table> 
-		</Attributes> 
-		<Items> 
-			<Item class="type:x-xmb/xmlnpsignup" key="item_D528_link" attr="item_D528_link"/> 
-		</Items> 
-	</View> 
+	<View id="item_D528_main">
+		<Attributes>
+			<Table key="item_D528_link">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132298425/FONT-D528.pkg?force_download=1</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132298425/FONT-D528.pkg?force_download=1</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/FONTS/IMAGES/D528.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="item_D528_link" attr="item_D528_link"/>
+		</Items>
+	</View>
 
 </XMBML>

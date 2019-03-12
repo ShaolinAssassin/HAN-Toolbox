@@ -2,8 +2,8 @@
 
 <!-- Main Items CEX (here : icon update notification) -->
 		
-		<View id="han_main_items"> 
-		<Attributes> 
+	<View id="han_main_items">
+		<Attributes>
 			<Table key="han_reboot_soft_offline">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/reboot.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_reboot_soft_offline</String></Pair>
@@ -51,7 +51,7 @@
 				<Pair key="info_rsc"><String>han_toolbox_settings_info</String></Pair>
 			</Table>	
 		</Attributes>
-			<Items>
+		<Items>
 			<Query 
 				class="type:x-xmb/module-action"
 				key="han_reboot_soft_offline"
@@ -97,13 +97,13 @@
 				attr="han_toolbox_setup"
 				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_settings.xml#han_toolbox_setup_main"
 				/>
-			</Items>
-		</View>
+		</Items>
+	</View>
 		
 <!-- Main Items DEX (here : icon update notification) -->
 		
-		<View id="han_main_items_dex"> 
-		<Attributes> 
+	<View id="han_main_items_dex">
+		<Attributes>
 			<Table key="han_reboot_soft_dex">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/reboot.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_soft_reboot</String></Pair>
@@ -144,7 +144,7 @@
 				<Pair key="info_rsc"><String>han_toolbox_settings_info</String></Pair>
 			</Table>	
 		</Attributes>
-			<Items>
+		<Items>
 			<Query 
 				class="type:x-xmb/module-action"
 				key="han_reboot_soft_dex"
@@ -185,7 +185,7 @@
 				attr="han_toolbox_setup"
 				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_settings.xml#han_toolbox_setup_main"
 				/>
-			</Items>
-		</View>
+		</Items>
+	</View>
 
 </XMBML>
