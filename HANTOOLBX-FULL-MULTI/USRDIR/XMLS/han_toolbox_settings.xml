@@ -516,8 +516,10 @@
 			<Table key="han_toolbox_last_changes">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/list.png</String></Pair>
 				<Pair key="title"><String>HAN Toolbox Changelog</String></Pair>
-				<Pair key="info"><String>・ v0.7 (2019/XX/XX) :
-				</String></Pair>
+				<Pair key="info"><String>v0.7 (2019/XX/XX) :
+				・ </String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://raw.githubusercontent.com/ShaolinAssassin/HAN-Toolbox/v0.7/Changelog.txt</String></Pair>
 			</Table>
 		</Attributes>
 		<Items>
