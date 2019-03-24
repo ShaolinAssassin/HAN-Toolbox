@@ -4,18 +4,18 @@
 		
 	<View id="han_toolbox_setup_main">
 		<Attributes>
-			<Table key="han_toolbox_lang">
+			<!--Table key="han_toolbox_lang">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_file.png</String></Pair>
 				<Pair key="title"><String>Toolbox Multi Language</String></Pair>
 				<Pair key="info"><String>Install/Uninstall the HAN Toolbox lang resources files</String></Pair>
-			</Table>
+			</Table-->
 			<Table key="han_toolbox_resources">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_file.png</String></Pair>
 				<Pair key="title"><String>Toolbox Resources</String></Pair>
 				<Pair key="info"><String>Install/Uninstall the HAN Toolbox resources packages</String></Pair>
 			</Table>
 			<Table key="han_toolbox_update">
-				<Pair key="icon"><String>http://raw.githubusercontent.com/ShaolinAssassin/HAN-Toolbox/master/update_status/v0.7-update.png</String></Pair>
+				<Pair key="icon"><String>http://raw.githubusercontent.com/ShaolinAssassin/HAN-Toolbox/v0.7/update_status/v0.7-update.png</String></Pair>
 				<Pair key="title"><String>Update Toolbox</String></Pair>
 				<Pair key="info"><String>Download and install the latest Toolbox package and reboot after</String></Pair>
 			</Table>
@@ -23,16 +23,16 @@
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/list.png</String></Pair>
 				<Pair key="title"><String>Version 0.7 (Full)</String></Pair>
 				<Pair key="info"><String>By DeViL303, Pink1, esc0rtd3w, Berion, ShaolinAssassin, Demon Hades, lmn7 and 0_obeWAN
-				Massive thanks to the PS3Xploit Team for all the hacks</String></Pair>
+				Massive thanks to the PS3Xploit Team & Joonie for all the hacks</String></Pair>
 			</Table>
 		</Attributes>
 		<Items>
-			<Query 
+			<!--Query 
 				class="type:x-xmb/folder-pixmap" 
 				key="han_toolbox_lang" 
 				attr="han_toolbox_lang"
 				src="#han_toolbox_lang_main"
-				/>
+				/-->
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
 				key="han_toolbox_resources" 
@@ -56,7 +56,7 @@
 
 <!-- Main Items > Toolbox Settings > Toolbox Multi Language -->
 
-	<View id="han_toolbox_lang_main">
+	<!--View id="han_toolbox_lang_main">
 		<Attributes>
 			<Table key="han_toolbox_install_lang">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_file.png</String></Pair>
@@ -87,7 +87,7 @@
 		
 <!-- Main Items > Toolbox Settings > Toolbox Multi Language > Install Multi Language -->
 		
-	<View id="han_toolbox_install_lang_main">
+	<!--View id="han_toolbox_install_lang_main">
 		<Attributes>
 			<Table key="han_toolbox_check_lang_item">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/list.png</String></Pair>
@@ -130,7 +130,7 @@
 
 <!-- Main Items > Toolbox Settings > Toolbox Multi Language > Install Multi Language > Lang available (here) -->
 
-	<View id="han_toolbox_lang_available">
+	<!--View id="han_toolbox_lang_available">
 		<Attributes>
 			<Table key="han_toolbox_lang_chinese_s">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/lang/ch-zh.png</String></Pair>
@@ -377,8 +377,8 @@
 				<Pair key="title"><String>Download Toolbox Resources</String></Pair>
 				<Pair key="info"><String>Download and install the full HAN Toolbox resources package and reboot after</String></Pair>
 			</Table>
-			<Table key="han_toolbox_install_coldboots_resources_pkg">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/</String></Pair>
+			<!--Table key="han_toolbox_install_coldboots_resources_pkg">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/inj_coldboot.png</String></Pair>
 				<Pair key="title"><String>Download Coldboot Downloader Resources</String></Pair>
 				<Pair key="info"><String>Download and install the Coldboot Downloader resources package and reboot after</String></Pair>
 			</Table>
@@ -388,7 +388,7 @@
 				<Pair key="info"><String>Download and install the Demo Downloader resources package and reboot after</String></Pair>
 			</Table>
 			<Table key="han_toolbox_install_fonts_resources_pkg">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/</String></Pair>
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/inj_font.png</String></Pair>
 				<Pair key="title"><String>Download Font Downloader Resources</String></Pair>
 				<Pair key="info"><String>Download and install the Font Downloader resources package and reboot after</String></Pair>
 			</Table>
@@ -413,10 +413,10 @@
 				<Pair key="info"><String>Download and install the Wallpaper Downloader resources package and reboot after</String></Pair>
 			</Table>
 			<Table key="han_toolbox_install_waves_resources_pkg">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/</String></Pair>
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/inj_wave.png</String></Pair>
 				<Pair key="title"><String>Download Wave Downloader Resources</String></Pair>
 				<Pair key="info"><String>Download and install the Wave Downloader resources package and reboot after</String></Pair>
-			</Table>
+			</Table-->
 		</Attributes>
 		<Items>
 			<Query 
@@ -425,7 +425,7 @@
 				attr="han_toolbox_install_resources_pkg"
 				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_stuff_downloader.xml#han_toolbox_install_resources_pkg_main"
 			/>
-			<Query 
+			<!--Query 
 				class="type:x-xmb/folder-pixmap" 
 				key="han_toolbox_install_coldboots_resources_pkg" 
 				attr="han_toolbox_install_coldboots_resources_pkg"
@@ -472,7 +472,7 @@
 				key="han_toolbox_install_waves_resources_pkg" 
 				attr="han_toolbox_install_waves_resources_pkg"
 				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_stuff_downloader.xml#han_toolbox_install_waves_resources_pkg_main"
-			/>
+			/-->
 		</Items>
 	</View>
 
@@ -516,8 +516,15 @@
 			<Table key="han_toolbox_last_changes">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/list.png</String></Pair>
 				<Pair key="title"><String>HAN Toolbox Changelog</String></Pair>
-				<Pair key="info"><String>v0.7 (2019/XX/XX) :
-				・ </String></Pair>
+				<Pair key="info"><String>v0.7 (2019/03/24) :
+				・Offline Rebooter, HAN Enabler, Debug PKG Enabler updated to also support 4.84
+				・Offline 4.84 File Copier added
+				・Offline Temperature Reader & Databse Rebuilder (4.82/4.84) added
+				・PS3Xploit Basic tools urls updated (4.81-4.84 OFW/CFW/HFW Firmware supported - site updated)
+				・PS3Xploit Extra tools urls updated (site not updated yet for 4.81-4.84 OFW/CFW/HFW Firmware)
+				・Coldboot/Font/Wave Downloaders added to External content section
+				・Multi-language and DEX support disabled ATM
+				・Misc other stuff</String></Pair>
 				<Pair key="module_name"><String>webrender_plugin</String></Pair>
 				<Pair key="module_action"><String>http://raw.githubusercontent.com/ShaolinAssassin/HAN-Toolbox/v0.7/Changelog.txt</String></Pair>
 			</Table>

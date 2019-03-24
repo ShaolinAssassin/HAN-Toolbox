@@ -10,13 +10,13 @@ Legend:
 	<Text name="han_toolbox_info_dex">The Xploit 3.0 Companion (DEX)</Text>
 	<Text name="han_toolbox_reboot_soft_offline">Offline Soft Rebooter</Text>
 	<Text name="han_toolbox_reboot_info">Restart console</Text>
-[*]	<Text name="han_toolbox_reboot_info_482_cex">Restart console (4.82)</Text>
+[*]	<Text name="han_toolbox_reboot_soft_offline_info">Restart console (4.82/4.84)</Text>
 	<Text name="han_toolbox_enabler_offline">Offline HAN Enabler</Text>
 [-]	<Text name="han_toolbox_enabler_info_cex">Enable custom signed packages and licenses (4.82)</Text>
-[*]	<Text name="han_toolbox_enabler_info_482_cex">Enable custom signed packages and licenses (4.82)</Text>
+[*]	<Text name="han_toolbox_enabler_offline_info">Enable custom signed packages and licenses (4.82/4.84)</Text>
 	<Text name="han_toolbox_debug_enabler_offline">Offline Debug Package Enabler</Text>
-[-]	<Text name="han_toolbox_debug_enabler_offline_info">Enable modified retail packages (4.82)</Text>
-[*]	<Text name="han_toolbox_debug_enabler_info_482_cex">Enable modified retail packages (4.82)</Text>
+[*]	<Text name="han_toolbox_debug_enabler_offline_info">Enable modified retail packages (4.82/4.84)</Text>
+[-]	<Text name="han_toolbox_debug_enabler_info_482_cex">Enable modified retail packages (4.82)</Text>
 	<Text name="han_toolbox_functions">HAN Functions</Text>
 	<Text name="han_toolbox_functions_info">Autorun HAN functions (Official site)</Text>
 	<Text name="han_toolbox_functions_local">Locally Hosted HAN Functions</Text>
@@ -30,7 +30,7 @@ Legend:
 	<Text name="han_toolbox_enabler_info_dex">Enable custom signed packages and licenses (DEX)</Text>
 	<Text name="han_toolbox_functions_info_dex">Autorun HAN Functions for DEX Firmware/Hybrid</Text>
 	<Text name="han_toolbox_file_copier">File Copier</Text>
-	<Text name="han_toolbox_file_copier_info_482_cex">Transfer files between your PS3 and USB flash drive (4.82 CEX)</Text>
+	<Text name="han_toolbox_file_copier_info">Transfer files between your PS3 and USB flash drive (4.82 CEX)</Text>
 	<Text name="han_toolbox_file_explorer">File Explorer</Text>
 	<Text name="han_toolbox_file_explorer_info">Browse complete file system and delete files (Be careful)</Text>
 	<Text name="han_toolbox_file_injector">File Injector</Text>
@@ -120,7 +120,7 @@ Legend:
 	<Text name="han_toolbox_update">Update Toolbox</Text>
 	<Text name="han_toolbox_update_info">Download and install the latest Toolbox package and reboot after</Text>
 [*]	<Text name="han_toolbox_credits">By DeViL303, Pink1, esc0rtd3w, Berion, ShaolinAssassin, Demon Hades, lmn7 and 0_obeWAN
-	Massive thanks to the PS3Xploit Team for all the hacks</Text>
+	Massive thanks to the PS3Xploit Team & Joonie for all the hacks</Text>
 	Translation in (language) by (your-name-here)</Text>
 	<Text name="han_toolbox_install_lang">Install Multi Language</Text>
 	<Text name="han_toolbox_install_lang_info">Download and install the lang resources and reboot after</Text>
@@ -324,4 +324,9 @@ Legend:
 [+]	<Text name="msg_lang_portuguese-BR">Portuguese (Brazil)</Text>
 [+]	<Text name="msg_lang_portuguese-PT">Portuguese (Portugal)</Text>	
 [+]	<Text name="han_toolbox_lang_available_info_yes">Available: Yes</Text>
-[+]	<Text name="han_toolbox_lang_available_info_no">Available: No</Text>	
+[+]	<Text name="han_toolbox_lang_available_info_no">Available: No</Text>
+[+]	<Text name="han_toolbox_rebuild_db">Database Rebuilder</Text>
+[+]	<Text name="han_toolbox_rebuild_db_info">Rebuild database (4.82/4.84 CEX)</Text>
+[+]	<Text name="han_toolbox_file_copier_hfw_info">Transfer files between your PS3 and USB flash drive (4.84 CEX)</Text>
+[+]	<Text name="han_toolbox_inject_gameboot">Inject GameBoot (Custom Game Intro/Image)</Text>
+[+]	<Text name="han_toolbox_inject_gameboot_info">Copy custom_render_plugin.rco to dev_flash/vsh/resource/*.rco</Text>

@@ -1,6 +1,6 @@
 <XMBML version="1.0">
 
-<!-- HAN Toolbox v0.7 (here : v#) -- patch PKG for multi language -->
+<!-- HAN Toolbox - FULL-MULTI  -->
 
 	<View id="han_toolbox_xmb_main">
 		<Attributes>
@@ -21,7 +21,7 @@
 		</Items>
 	</View>
 		
-	<View id="han_toolbox_xmb_main_dex">
+	<!--View id="han_toolbox_xmb_main_dex">
 		<Attributes>
 			<Table key="han_main">
 				<Pair key="icon_rsc"><String>tex_album_icon</String></Pair>
@@ -38,7 +38,7 @@
 				attr="han_main"
 				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_main_items.xml#han_main_items_dex"/>
 		</Items>
-	</View>
+	</View-->
 		
 </XMBML>
 		
