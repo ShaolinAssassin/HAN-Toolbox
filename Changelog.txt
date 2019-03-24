@@ -1,7 +1,7 @@
 * v0.7 (2019/03/24) :
 -Offline Rebooter, HAN Enabler, Debug PKG Enabler updated to also support 4.84 - thanks to Imn7
 -Offline 4.84 File Copier added - thanks to Imn7
--Offline Temperature Reader & Databse Rebuilder (4.82/4.84) added - thanks to Imn7
+-Offline Temperature Reader & Database Rebuilder (4.82/4.84) added - thanks to Imn7
 -PS3Xploit Basic tools urls updated (not auto though) - 4.81-4.84 OFW/CFW/HFW Firmware supported and working (site updated)
 -PS3Xploit Extra tools urls updated (site not updated yet to support 4.81-4.84 OFW/CFW/HFW Firmware - be patient)
 -Coldboot/Font/Wave Downloaders added - thanks to 0_obeWAN for the resources

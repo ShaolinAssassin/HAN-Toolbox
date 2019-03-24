@@ -15,13 +15,13 @@
 				<Pair key="info"><String>Install/Uninstall the HAN Toolbox resources packages</String></Pair>
 			</Table>
 			<Table key="han_toolbox_update">
-				<Pair key="icon"><String>http://raw.githubusercontent.com/ShaolinAssassin/HAN-Toolbox/v0.7/update_status/v0.7-update.png</String></Pair>
+				<Pair key="icon"><String>http://raw.githubusercontent.com/ShaolinAssassin/HAN-Toolbox/v0.7/update_status/v0.7-fixed-update.png</String></Pair>
 				<Pair key="title"><String>Update Toolbox</String></Pair>
 				<Pair key="info"><String>Download and install the latest Toolbox package and reboot after</String></Pair>
 			</Table>
 			<Table key="han_toolbox_about">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/list.png</String></Pair>
-				<Pair key="title"><String>Version 0.7 (Full)</String></Pair>
+				<Pair key="title"><String>Version 0.7-fixed (Full)</String></Pair>
 				<Pair key="info"><String>By DeViL303, Pink1, esc0rtd3w, Berion, ShaolinAssassin, Demon Hades, lmn7 and 0_obeWAN
 				Massive thanks to the PS3Xploit Team & Joonie for all the hacks</String></Pair>
 			</Table>
@@ -519,7 +519,7 @@
 				<Pair key="info"><String>v0.7 (2019/03/24) :
 				・Offline Rebooter, HAN Enabler, Debug PKG Enabler updated to also support 4.84
 				・Offline 4.84 File Copier added
-				・Offline Temperature Reader & Databse Rebuilder (4.82/4.84) added
+				・Offline Temperature Reader & Database Rebuilder (4.82/4.84) added
 				・PS3Xploit Basic tools urls updated (4.81-4.84 OFW/CFW/HFW Firmware supported - site updated)
 				・PS3Xploit Extra tools urls updated (site not updated yet for 4.81-4.84 OFW/CFW/HFW Firmware)
 				・Coldboot/Font/Wave Downloaders added to External content section
