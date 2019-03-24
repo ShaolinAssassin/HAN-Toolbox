@@ -1,0 +1,144 @@
+<XMBML version="1.0">
+
+<!-- Main Items > External Content > Wallpaper Downloader -->
+	
+	<View id="wallpaper_downloader_items">
+		<Attributes>
+			<Table key="wallpaper_downloader_abstract">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/abstract_folder.png</String></Pair>
+				<Pair key="title"><String>Abstract</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
+			</Table>
+			<Table key="wallpaper_downloader_animals">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/animals_folder.png</String></Pair>
+				<Pair key="title"><String>Animals</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
+			</Table>
+			<Table key="wallpaper_downloader_cars">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/cars_folder.png</String></Pair>
+				<Pair key="title"><String>Cars</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
+			</Table>
+			<Table key="wallpaper_downloader_cityscapes">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/cityscapes_folder.png</String></Pair>
+				<Pair key="title"><String>Cityscapes</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
+			</Table>
+			<Table key="wallpaper_downloader_games">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/games_folder.png</String></Pair>
+				<Pair key="title"><String>Games</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
+			</Table>
+			<Table key="wallpaper_downloader_landscapes">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/landscapes_folder.png</String></Pair>
+				<Pair key="title"><String>Landscapes</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
+			</Table>
+			<Table key="wallpaper_downloader_love">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/love_folder.png</String></Pair>
+				<Pair key="title"><String>Love</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
+			</Table>
+			<Table key="wallpaper_downloader_nature">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/nature_folder.png</String></Pair>
+				<Pair key="title"><String>Nature</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
+			</Table>
+			<Table key="wallpaper_downloader_plain">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/plain_folder.png</String></Pair>
+				<Pair key="title"><String>Plain</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
+			</Table>
+			<Table key="wallpaper_downloader_space">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/space_folder.png</String></Pair>
+				<Pair key="title"><String>Space</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
+			</Table>
+			<Table key="wallpaper_downloader_unsorted">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/unsorted_folder.png</String></Pair>
+				<Pair key="title"><String>Unsorted</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="wallpaper_downloader_abstract"
+				attr="wallpaper_downloader_abstract"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/WALLPAPERS/XMLS/wallpaper_downloader_abstract.xml#wallpaper_downloader_abstract_items"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="wallpaper_downloader_animals"
+				attr="wallpaper_downloader_animals"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/WALLPAPERS/XMLS/wallpaper_downloader_animals.xml#wallpaper_downloader_animals_items"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="wallpaper_downloader_cars"
+				attr="wallpaper_downloader_cars"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/WALLPAPERS/XMLS/wallpaper_downloader_cars.xml#wallpaper_downloader_cars_items"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="wallpaper_downloader_cityscapes"
+				attr="wallpaper_downloader_cityscapes"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/WALLPAPERS/XMLS/wallpaper_downloader_cityscapes.xml#wallpaper_downloader_cityscapes_items"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="wallpaper_downloader_games"
+				attr="wallpaper_downloader_games"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/WALLPAPERS/XMLS/wallpaper_downloader_games.xml#wallpaper_downloader_games_items"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="wallpaper_downloader_landscapes"
+				attr="wallpaper_downloader_landscapes"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/WALLPAPERS/XMLS/wallpaper_downloader_landscapes.xml#wallpaper_downloader_landscapes_items"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="wallpaper_downloader_love"
+				attr="wallpaper_downloader_love"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/WALLPAPERS/XMLS/wallpaper_downloader_love.xml#wallpaper_downloader_love_items"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="wallpaper_downloader_nature"
+				attr="wallpaper_downloader_nature"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/WALLPAPERS/XMLS/wallpaper_downloader_nature.xml#wallpaper_downloader_nature_items"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="wallpaper_downloader_plain"
+				attr="wallpaper_downloader_plain"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/WALLPAPERS/XMLS/wallpaper_downloader_plain.xml#wallpaper_downloader_plain_items"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="wallpaper_downloader_space"
+				attr="wallpaper_downloader_space"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/WALLPAPERS/XMLS/wallpaper_downloader_space.xml#wallpaper_downloader_space_items"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="wallpaper_downloader_unsorted"
+				attr="wallpaper_downloader_unsorted"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/WALLPAPERS/XMLS/wallpaper_downloader_unsorted.xml#wallpaper_downloader_unsorted_items"
+				/>
+		</Items>
+	</View>
+	
+</XMBML>

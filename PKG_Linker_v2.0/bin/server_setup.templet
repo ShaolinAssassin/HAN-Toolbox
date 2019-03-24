@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+ 
+<XMBML version="1.0">
+	<View id="server_setup_items">	
+		<Attributes>
+			<Table key="server_setup">
+				<Pair key="icon"><String>/dev_hdd0/game/PKGLINKER/USRDIR/icons/setup.png</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_server_setup</String></Pair>
+ 				<Pair key="info_rsc"><String>han_toolbox_server_setup_info</String></Pair>
+ 			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/folder-pixmap" key="server_setup" attr="server_setup" src="#server_setup_subitems"/>
+		</Items>
+	</View>
+	<View id="server_setup_subitems">	
+		<Attributes>
+			<Table key="refresh_list">
+				<Pair key="icon"><String>/dev_hdd0/game/PKGLINKER/USRDIR/icons/Refresh_Package_List.PNG</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_server_refresh</String></Pair>
+ 				<Pair key="info_rsc"><String>han_toolbox_server_refresh_info</String></Pair>
+ 			</Table>
+			<Table key="enable_han_local">
+				<Pair key="icon"><String>/dev_hdd0/game/PKGLINKER/USRDIR/icons/local_han_enabler.png</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_server_enable_han</String></Pair>
+ 				<Pair key="info_rsc"><String>han_toolbox_server_enable_han_info</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://patch_ip_port/bin/PS3Xploit_files/han/han_enabler_auto.html</String></Pair>
+ 			</Table>
+			<Table key="rescan_folder">
+				<Pair key="icon"><String>/dev_hdd0/game/PKGLINKER/USRDIR/icons/server_rescan.png</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_server_rescan</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_server_rescan_info</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://patch_ip_port/bin/flags/rescan.php</String></Pair>
+			</Table>
+			<Table key="stop_server">
+				<Pair key="icon"><String>/dev_hdd0/game/PKGLINKER/USRDIR/icons/server_stop.png</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_server_stop</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_server_stop_info</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://patch_ip_port/bin/flags/stop.php</String></Pair>
+			</Table>
+			<Table key="exit_pkg_linker">
+				<Pair key="icon"><String>/dev_hdd0/game/PKGLINKER/USRDIR/icons/server_stop.png</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_server_close</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_server_close_info</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://patch_ip_port/bin/flags/exit.php</String></Pair>
+			</Table>
+			<Table key="server_info">
+				<Pair key="icon"><String>/dev_hdd0/game/PKGLINKER/USRDIR/icons/server_info.png</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_server_info</String></Pair>
+				<Pair key="info_rsc"><String>PC IP: patch_ip
+				Port: patch_port
+				Folder: patch_folder
+				Press  to see package list</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://patch_ip_port/</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="refresh_list"
+				attr="refresh_list"
+				src="#refresh_list_item"/>
+			<Query
+				class="type:x-xmb/module-action"
+				key="enable_han_local"
+				attr="enable_han_local"/>
+			<Query
+				class="type:x-xmb/module-action"
+				key="rescan_folder"
+				attr="rescan_folder"/>
+			<Query
+				class="type:x-xmb/module-action"
+				key="stop_server"
+				attr="stop_server"/>
+			<Query
+				class="type:x-xmb/module-action"
+				key="exit_pkg_linker"
+				attr="exit_pkg_linker"/>
+			<Query
+				class="type:x-xmb/module-action"
+				key="server_info"
+				attr="server_info"/>
+		</Items>
+	</View>
+		
+	<View id="refresh_list_item">
+		<Attributes>
+			<Table key="refresh">
+				<Pair key="info_rsc"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://patch_ip_port/Package_List.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://patch_ip_port/Package_List.pkg</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>UP0100-PKGLINKER_00-PINK1000DEVIL303</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/PKGLINKER/USRDIR/icons/Refresh_Package_List.PNG</String></Pair>
+			</Table>
+ 		</Attributes>
+ 		<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="refresh" attr="refresh"/>
+		</Items>
+ 	</View>
+
+	</XMBML>

@@ -1,0 +1,411 @@
+<XMBML version="1.0">
+
+<!-- Main Items > Advanced Tools > File Restorer >
+
+	<View id="han_download_stock_coldboot_raf_main">
+		<Attributes>
+			<Table key="han_download_stock_coldboot_raf_item">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132101361/STOCK-COLDBOOT.pkg?force_download=1</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132101361/STOCK-COLDBOOT.pkg?force_download=1</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/download.png</String></Pair>
+ 			</Table>
+		</Attributes>
+		<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="han_download_stock_coldboot_raf_item" attr="han_download_stock_coldboot_raf_item"/>
+		</Items>
+	</View>
+
+	<View id="han_download_stock_rco_main">
+		<Attributes>
+			<Table key="han_download_stock_rco_item">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132101334/STOCK-RCO.pkg?force_download=1</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132101334/STOCK-RCO.pkg?force_download=1</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/download.png</String></Pair>
+ 			</Table>
+		</Attributes>
+		<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="han_download_stock_rco_item" attr="han_download_stock_rco_item"/>
+		</Items>
+	</View>
+
+	<View id="han_download_stock_xml_main">
+		<Attributes>
+			<Table key="han_download_stock_xml_item">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132101343/STOCK-XML.pkg?force_download=1</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132101343/STOCK-XML.pkg?force_download=1</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/download.png</String></Pair>
+ 			</Table>
+		</Attributes>
+		<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="han_download_stock_xml_item" attr="han_download_stock_xml_item"/>
+		</Items>
+	</View>		
+
+	<View id="han_download_stock_lines_main">
+		<Attributes>
+			<Table key="han_download_stock_lines_item">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132101340/STOCK-WAVE.pkg?force_download=1</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132101340/STOCK-WAVE.pkg?force_download=1</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/download.png</String></Pair>
+ 			</Table>
+		</Attributes>
+		<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="han_download_stock_lines_item" attr="han_download_stock_lines_item"/>
+		</Items>
+	</View>
+		
+	<View id="han_download_stock_imagefont_main">
+		<Attributes>
+			<Table key="han_download_stock_imagefont_item">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132101292/STOCK-IMAGEFONT.pkg?force_download=1</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132101292/STOCK-IMAGEFONT.pkg?force_download=1</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/download.png</String></Pair>
+ 			</Table>
+		</Attributes>
+		<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="han_download_stock_imagefont_item" attr="han_download_stock_imagefont_item"/>
+		</Items>
+	</View>		
+
+	<View id="han_download_stock_TTF_font_main">
+		<Attributes>
+			<Table key="han_download_stock_TTF_font_item">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132101487/STOCK-FONTS-TTF.pkg?force_download=1</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132101487/STOCK-FONTS-TTF.pkg?force_download=1</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/download.png</String></Pair>
+ 			</Table>
+		</Attributes>
+		<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="han_download_stock_TTF_font_item" attr="han_download_stock_TTF_font_item"/>
+		</Items>
+	</View>	
+		
+	<View id="han_download_stock_ttf_sony_cc_font_main">
+		<Attributes>
+			<Table key="han_download_stock_ttf_sony_cc_font_item">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132101289/STOCK-FONTS-TTF-SONY-CC.pkg?force_download=1</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132101289/STOCK-FONTS-TTF-SONY-CC.pkg?force_download=1</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/download.png</String></Pair>
+ 			</Table>
+		</Attributes>
+		<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="han_download_stock_ttf_sony_cc_font_item" attr="han_download_stock_ttf_sony_cc_font_item"/>
+		</Items>
+	</View>	
+
+	<View id="han_download_stock_cert_main">
+		<Attributes>
+			<Table key="han_download_stock_cert_item">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132101352/STOCK-CERT.pkg?force_download=1</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132101352/STOCK-CERT.pkg?force_download=1</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/download.png</String></Pair>
+ 			</Table>
+		</Attributes>
+		<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="han_download_stock_cert_item" attr="han_download_stock_cert_item"/>
+		</Items>
+	</View>				
+
+	<View id="han_download_stock_han_support_files_main">
+		<Attributes>
+			<Table key="han_download_han_support_files_cert_item">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132101349/HAN-SUPPORT-FILES.pkg?force_download=1</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132101349/HAN-SUPPORT-FILES.pkg?force_download=1</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/download.png</String></Pair>
+ 			</Table>
+		</Attributes>
+		<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="han_download_stock_han_support_files_item" attr="han_download_stock_han_support_files_item"/>
+		</Items>
+	</View>	
+		
+<!-- Main Items > Advanced Tools > DEX XMB Setup > Debug Settings Installer/Remover Steps > Download CEX/DEX 4.81/4.82 Files >
+
+	<View id="han_download_debug_settings_481_dex_files_main">
+		<Attributes>
+			<Table key="han_download_debug_settings_481_dex_files_item">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>XXXXX</String></Pair>
+				<Pair key="pkg_src_qa"><String>XXXXX</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/download.png</String></Pair>
+ 			</Table>
+		</Attributes>
+		<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="han_download_debug_settings_481_dex_files_item" attr="han_download_debug_settings_481_dex_files_item"/>
+		</Items>
+	</View>
+		
+	<View id="han_download_debug_settings_482_dex_files_main">
+		<Attributes>
+			<Table key="han_download_debug_settings_482_dex_files_item">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>XXXXX</String></Pair>
+				<Pair key="pkg_src_qa"><String>XXXXX</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/download.png</String></Pair>
+ 			</Table>
+		</Attributes>
+		<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="han_download_debug_settings_482_dex_files_item" attr="han_download_debug_settings_482_dex_files_item"/>
+		</Items>
+	</View>
+		
+	<View id="han_download_debug_settings_481_cex_files_main">
+		<Attributes>
+			<Table key="han_download_debug_settings_481_cex_files_item">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>XXXXX</String></Pair>
+				<Pair key="pkg_src_qa"><String>XXXXX</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/download.png</String></Pair>
+ 			</Table>
+		</Attributes>
+		<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="han_download_debug_settings_481_cex_files_item" attr="han_download_debug_settings_481_cex_files_item"/>
+		</Items>
+	</View>
+		
+	<View id="han_download_debug_settings_482_cex_files_main">
+		<Attributes>
+			<Table key="han_download_debug_settings_482_cex_files_item">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>XXXXX</String></Pair>
+				<Pair key="pkg_src_qa"><String>XXXXX</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/download.png</String></Pair>
+ 			</Table>
+		</Attributes>
+		<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="han_download_debug_settings_482_cex_files_item" attr="han_download_debug_settings_482_cex_files_item"/>
+		</Items>
+	</View>
+
+<!-- Main Items > Advanced Tools > DEX XMB Setup > Toggle Debug Settings > Download CEX/DEX 4.81/4.82 File >
+
+	<View id="han_download_sysconf_plugin_481_dex_files_main">
+		<Attributes>
+			<Table key="han_download_sysconf_plugin_481_dex_files_item">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>XXXXX</String></Pair>
+				<Pair key="pkg_src_qa"><String>XXXXX</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/download.png</String></Pair>
+ 			</Table>
+		</Attributes>
+		<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="han_download_sysconf_plugin_481_dex_files_item" attr="han_download_sysconf_plugin_481_dex_files_item"/>
+		</Items>
+	</View>
+		
+	<View id="han_download_sysconf_plugin_482_dex_files_main">
+		<Attributes>
+			<Table key="han_download_sysconf_plugin_482_dex_files_item">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>XXXXX</String></Pair>
+				<Pair key="pkg_src_qa"><String>XXXXX</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/download.png</String></Pair>
+ 			</Table>
+		</Attributes>
+		<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="han_download_sysconf_plugin_482_dex_files_item" attr="han_download_sysconf_plugin_482_dex_files_item"/>
+		</Items>
+	</View>
+		
+	<View id="han_download_sysconf_plugin_481_cex_files_main">
+		<Attributes>
+			<Table key="han_download_sysconf_plugin_481_cex_files_item">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>XXXXX</String></Pair>
+				<Pair key="pkg_src_qa"><String>XXXXX</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/download.png</String></Pair>
+ 			</Table>
+		</Attributes>
+		<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="han_download_sysconf_plugin_481_cex_files_item" attr="han_download_sysconf_plugin_481_cex_files_item"/>
+		</Items>
+	</View>
+		
+	<View id="han_download_sysconf_plugin_482_cex_files_main">
+		<Attributes>
+			<Table key="han_download_sysconf_plugin_482_cex_files_item">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>XXXXX</String></Pair>
+				<Pair key="pkg_src_qa"><String>XXXXX</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/download.png</String></Pair>
+ 			</Table>
+		</Attributes>
+		<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="han_download_sysconf_plugin_482_cex_files_item" attr="han_download_sysconf_plugin_482_cex_files_item"/>
+		</Items>
+	</View>
+
+
+<!-- Main Items > Advanced Tools > DEX XMB Setup > Toggle IP/Host info > Download CEX/DEX 4.81/4.82 File >
+
+	<View id="han_download_xmb_plugin_481_dex_files_main">
+		<Attributes>
+			<Table key="han_download_xmb_plugin_481_dex_files_item">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>XXXXX</String></Pair>
+				<Pair key="pkg_src_qa"><String>XXXXX</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/download.png</String></Pair>
+ 			</Table>
+		</Attributes>
+		<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="han_download_xmb_plugin_481_dex_files_item" attr="han_download_xmb_plugin_481_dex_files_item"/>
+		</Items>
+	</View>
+		
+	<View id="han_download_xmb_plugin_482_dex_files_main">
+		<Attributes>
+			<Table key="han_download_xmb_plugin_482_dex_files_item">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>XXXXX</String></Pair>
+				<Pair key="pkg_src_qa"><String>XXXXX</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/download.png</String></Pair>
+ 			</Table>
+		</Attributes>
+		<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="han_download_xmb_plugin_482_dex_files_item" attr="han_download_xmb_plugin_482_dex_files_item"/>
+		</Items>
+	</View>
+		
+	<View id="han_download_xmb_plugin_481_cex_files_main">
+		<Attributes>
+			<Table key="han_download_xmb_plugin_481_cex_files_item">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>XXXXX</String></Pair>
+				<Pair key="pkg_src_qa"><String>XXXXX</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/download.png</String></Pair>
+ 			</Table>
+		</Attributes>
+		<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="han_download_xmb_plugin_481_cex_files_item" attr="han_download_xmb_plugin_481_cex_files_item"/>
+		</Items>
+	</View>
+		
+	<View id="han_download_xmb_plugin_482_cex_files_main">
+		<Attributes>
+			<Table key="han_download_xmb_plugin_482_cex_files_item">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>XXXXX</String></Pair>
+				<Pair key="pkg_src_qa"><String>XXXXX</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/download.png</String></Pair>
+ 			</Table>
+		</Attributes>
+		<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="han_download_xmb_plugin_482_cex_files_item" attr="han_download_xmb_plugin_482_cex_files_item"/>
+		</Items>
+	</View>
+
+<!-- Main Items > Toolbox Settings > Toolbox Multi Language > Install Multi Language > Toolbox Multi Lang PKG Downloader >
+			
+	<View id="han_download_multi_lang_pkg_main">
+		<Attributes>
+			<Table key="han_download_multi_lang_pkg_item">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://www.dropbox.com/s/mma7r4us93vzke3/Latest_HAN_Toolbox_CEX-MULTI.pkg?dl=1</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/mma7r4us93vzke3/Latest_HAN_Toolbox_CEX-MULTI.pkg?dl=1</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/download.png</String></Pair>
+ 			</Table>
+		</Attributes>
+		<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="han_download_multi_lang_pkg_item" attr="han_download_multi_lang_pkg_item"/>
+		</Items>
+	</View>			
+
+<!-- Main Items > Toolbox Settings > Toolbox Resources > Install Toolbox Resources > Resources PKG Downloader -->
+			
+	<View id="han_toolbox_install_resources_pkg_main">
+		<Attributes>
+			<Table key="han_toolbox_install_resources_pkg_item">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132687870/HAN_Toolbox_Resources.pkg?force_download=1</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132687870/HAN_Toolbox_Resources.pkg?force_download=1</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/download.png</String></Pair>
+ 			</Table>
+		</Attributes>
+		<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="han_toolbox_install_resources_pkg_item" attr="han_toolbox_install_resources_pkg_item"/>
+		</Items>
+	</View>		
+
+>	han_toolbox_install_coldboots_resources_pkg_main
+>	han_toolbox_install_demos_resources_pkg_main
+>	han_toolbox_install_fonts_resources_pkg_main
+>	han_toolbox_install_nopsn_resources_pkg_main
+>	han_toolbox_install_psn_resources_pkg_main
+>	han_toolbox_install_themes_resources_pkg_main
+>	han_toolbox_install_wallpapers_resources_pkg_main
+>	han_toolbox_install_waves_resources_pkg_main
+		
+<!-- Main Items > Toolbox Settings > Toolbox Updater -->
+		
+	<View id="han_toolbox_update_main">
+		<Attributes>
+			<Table key="han_toolbox_update_item">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132687903/Latest_HAN_Toolbox_CEX-EN.pkg?force_download=1</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132687903/Latest_HAN_Toolbox_CEX-EN.pkg?force_download=1</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="han_toolbox_update_item" attr="han_toolbox_update_item"/>
+		</Items>
+	</View>
+		
+</XMBML>

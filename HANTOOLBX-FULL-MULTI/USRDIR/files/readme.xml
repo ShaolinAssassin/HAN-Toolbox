@@ -1,0 +1,30 @@
+<XMBML version="1.0">
+
+	<View id="readme_main">
+		<Attributes>
+			<Table key="readme_item">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/text.png</String></Pair>
+				<Pair key="title"><String>explore_plugin_full.rco - Lang RCO for HAN Toolbox v0.6.4</String></Pair>
+				<Pair key="info"><String>-Chinese (Simplified) - translation by Ding xiansheng
+-French - translation by ShaolinAssassin
+-Finnish - translation by sestain
+-Italian - translation by EdoMan
+-Portuguese (Portugal) - translation by FmTGamer & Naked_Snake1995, revised by Tkit
+-Portuguese (Brazil) - translation by Caio99BR
+-Polish - translation by NiHuShu
+-Russian - translation by in1975
+-Spanish - translation by mr_ota
+-Swedish - translation by ISAK.M
+-Turkish - translation by kemalsanli</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query 
+				class="type:x-xmb/module-action" 
+				key="readme_item" 
+				attr="readme_item"
+				/>
+		</Items>
+	</View>
+	
+</XMBML>

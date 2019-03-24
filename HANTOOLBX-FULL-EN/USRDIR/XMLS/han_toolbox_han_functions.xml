@@ -1,0 +1,189 @@
+<XMBML version="1.0">
+
+<!-- Main Items > HAN functions (online CEX) -->
+		
+	<View id="han_functions_main">
+		<Attributes>
+			<!--Table key="han_reboot_soft_auto">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/reboot.png</String></Pair>
+				<Pair key="title"><String>Soft Reboot</String></Pair>
+				<Pair key="info"><String>Restart console</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://www.ps3xploit.com/autoxml/pett/syscalls/power/soft_reboot.html</String></Pair>
+			</Table>
+			<Table key="han_reboot_hard_auto">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/reboot.png</String></Pair>
+				<Pair key="title"><String>Hard Reboot</String></Pair>
+				<Pair key="info"><String>Restart console</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://www.ps3xploit.com/autoxml/pett/syscalls/power/hard_reboot.html</String></Pair>
+			</Table>
+			<Table key="han_shutdown_auto">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/shutdown.png</String></Pair>
+				<Pair key="title"><String>Shutdown</String></Pair>
+				<Pair key="info"><String>Turn off console</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://www.ps3xploit.com/autoxml/pett/syscalls/power/power_down.html </String></Pair>
+			</Table-->
+			<Table key="han_enabler_auto">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/han_enable.png</String></Pair>
+				<Pair key="title"><String>HAN Enabler</String></Pair>
+				<Pair key="info"><String>Enable custom signed packages and licenses</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://ps3xploit.com/hfw/han/han_enabler.html</String></Pair>
+			</Table>
+			<Table key="han_installer_auto">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/net_pkg.png</String></Pair>
+				<Pair key="title"><String>HAN Installer</String></Pair>
+				<Pair key="info"><String>Enable package manager</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://ps3xploit.com/hfw/han/han_installer.html</String></Pair>
+			</Table>
+			<Table key="han_license_dumper_auto">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/key.png</String></Pair>
+				<Pair key="title"><String>License Dumper</String></Pair>
+				<Pair key="info"><String>Dump activation data (act.dat+idps)</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://ps3xploit.com/hfw/han/actidps_dumper.html</String></Pair>
+			</Table>
+			<Table key="han_injector_auto">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/inj_license.png</String></Pair>
+				<Pair key="title"><String>Act.dat Injector</String></Pair>
+				<Pair key="info"><String>Auto running injector Xploit useful for act.dat</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://ps3xploit.com/hfw/han/actrif_copier.html</String></Pair>
+			</Table>
+			<Table key="han_debug_auto">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/net_pkg.png</String></Pair>
+				<Pair key="title"><String>Debug Package Enabler</String></Pair>
+				<Pair key="info"><String>For modifed retail PS3 packages only</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://ps3xploit.com/hfw/han/dbgpkg_enabler.html</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<!--Query 
+				class="type:x-xmb/module-action"
+				key="han_reboot_soft_auto"
+				attr="han_reboot_soft_auto"
+				/>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_reboot_hard_auto"
+				attr="han_reboot_hard_auto"
+				/>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_shutdown_auto"
+				attr="han_shutdown_auto"
+				/-->
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_enabler_auto"
+				attr="han_enabler_auto"
+				/>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_installer_auto"
+				attr="han_installer_auto"
+				/>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_license_dumper_auto"
+				attr="han_license_dumper_auto"
+				/>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_injector_auto"
+				attr="han_injector_auto"
+				/>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_debug_auto"
+				attr="han_debug_auto"
+				/>
+		</Items>
+	</View>
+		
+<!-- Main Items > HAN functions (online DEX) -->
+		
+	<!--View id="han_functions_dex_main">
+		<Attributes>
+			<Table key="han_reboot_soft_auto_dex">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/reboot.png</String></Pair>
+				<Pair key="title"><String>Soft Reboot</String></Pair>
+				<Pair key="info"><String>Restart Console</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://ps3xploit.com/autoxml/pett/syscalls/soft_reboot_dex.html</String></Pair>
+			</Table>
+			<Table key="han_reboot_hard_auto_dex">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/reboot.png</String></Pair>
+				<Pair key="title"><String>Hard Reboot</String></Pair>
+				<Pair key="info"><String>Restart Console</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://ps3xploit.com/autoxml/pett/syscalls/hard_reboot_dex.html</String></Pair>
+			</Table>
+			<Table key="han_shutdown_auto_dex">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/shutdown.png</String></Pair>
+				<Pair key="title"><String>Shutdown</String></Pair>
+				<Pair key="info"><String>Turn Off Console</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://ps3xploit.com/autoxml/pett/syscalls/power_down_dex.html</String></Pair>
+			</Table>
+			<Table key="han_enabler_auto_dex">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/han_enable.png</String></Pair>
+				<Pair key="title"><String>HAN Enabler</String></Pair>
+				<Pair key="info"><String>Enable Custom Signed Packages and Licenses</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://ps3xploit.com/autoxml/han/han_enabler_auto_dex.html</String></Pair>
+			</Table>
+			<Table key="han_license_dumper_auto_dex">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/key.png</String></Pair>
+				<Pair key="title"><String>License Dumper</String></Pair>
+				<Pair key="info"><String>Dump Activation Data (act.dat/idps)</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://ps3xploit.com/autoxml/han/actidps_dumper_auto_dex.html</String></Pair>
+			</Table>
+			<Table key="han_injector_auto_dex">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/inj_license.png</String></Pair>
+				<Pair key="title"><String>License Injector</String></Pair>
+				<Pair key="info"><String>Inject Custom Signed Activation Data (act.dat)</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://ps3xploit.com/autoxml/han/actrif_copier_auto_dex.html</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_reboot_soft_auto_dex"
+				attr="han_reboot_soft_auto_dex"
+				/>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_reboot_hard_auto_dex"
+				attr="han_reboot_hard_auto_dex"
+				/>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_shutdown_auto_dex"
+				attr="han_shutdown_auto_dex"
+				/>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_enabler_auto_dex"
+				attr="han_enabler_auto_dex"
+				/>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_license_dumper_auto_dex"
+				attr="han_license_dumper_auto_dex"
+				/>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_injector_auto_dex"
+				attr="han_injector_auto_dex"
+				/>
+		</Items>
+	</View-->
+
+</XMBML>

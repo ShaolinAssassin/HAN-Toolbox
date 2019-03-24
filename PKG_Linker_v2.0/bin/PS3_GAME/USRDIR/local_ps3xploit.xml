@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<XMBML version="1.0">
+<View id="han_functions_local_items">
+		<Attributes>
+			<Table key="han_reboot_soft_auto_local">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/reboot.png</String></Pair>
+				<Pair key="title"><String>Soft Reboot</String></Pair>
+				<Pair key="info"><String>Restart Console</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://192.168.0.10:8486/bin/PS3Xploit_files/pett/syscalls/power/soft_reboot.html</String></Pair>
+			</Table>
+			<Table key="han_reboot_hard_auto_local">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/reboot.png</String></Pair>
+				<Pair key="title"><String>Hard Reboot</String></Pair>
+				<Pair key="info"><String>Restart Console</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://192.168.0.10:8486/bin/PS3Xploit_files/pett/syscalls/power/hard_reboot.html</String></Pair>
+			</Table>
+			<Table key="han_shutdown_auto_local">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/shutdown.png</String></Pair>
+				<Pair key="title"><String>Shutdown</String></Pair>
+				<Pair key="info"><String>Turn Off Console</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://192.168.0.10:8486/bin/PS3Xploit_files/pett/syscalls/power/power_down.html</String></Pair>
+			</Table>
+			<Table key="han_enabler_auto_local">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/web.png</String></Pair>
+				<Pair key="title"><String>HAN Enabler</String></Pair>
+				<Pair key="info"><String>Enable Custom Signed Packages and Licenses</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://192.168.0.10:8486/bin/PS3Xploit_files/han/han_enabler_auto.html</String></Pair>
+			</Table>
+			<Table key="han_installer_auto_local">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/web.png</String></Pair>
+				<Pair key="title"><String>HAN Installer</String></Pair>
+				<Pair key="info"><String>Enable Package Manager</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://192.168.0.10:8486/bin/PS3Xploit_files/han/han_installer_auto.html</String></Pair>
+			</Table>
+			<Table key="han_license_dumper_auto_local">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/web.png</String></Pair>
+				<Pair key="title"><String>License Dumper</String></Pair>
+				<Pair key="info"><String>Dump Activation Data (act.dat/idps)</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://192.168.0.10:8486/bin/PS3Xploit_files/han/actidps_dumper_auto.html</String></Pair>
+			</Table>
+			<Table key="han_injector_auto_local">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/web.png</String></Pair>
+				<Pair key="title"><String>Injector</String></Pair>
+				<Pair key="info"><String>Act.dat+rif Injector (modify html for rif name)</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://192.168.0.10:8486/bin/PS3Xploit_files/han/actrif_copier_auto.html</String></Pair>
+			</Table>
+			<Table key="han_debug_auto_local">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/web.png</String></Pair>
+				<Pair key="title"><String>Debug Package Enabler</String></Pair>
+				<Pair key="info"><String>For Modifed Retail PS3 Packages Only</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://192.168.0.10:8486/bin/PS3Xploit_files/han/dbgpkg_enabler_auto.html</String></Pair>
+			</Table>
+			<Table key="han_mount_usb_as_bd_local">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/web.png</String></Pair>
+				<Pair key="title"><String>Mount USB as BDVD</String></Pair>
+				<Pair key="info"><String>Redirect dev_usb000 to dev_bdvd</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://192.168.0.10:8486/bin/PS3Xploit_files/pett/syscalls/mount_usb000_as_bdvd.html</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_reboot_soft_auto_local"
+				attr="han_reboot_soft_auto_local"
+				/>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_reboot_hard_auto_local"
+				attr="han_reboot_hard_auto_local"
+				/>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_shutdown_auto_local"
+				attr="han_shutdown_auto_local"
+				/>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_enabler_auto_local"
+				attr="han_enabler_auto_local"
+				/>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_installer_auto_local"
+				attr="han_installer_auto_local"
+				/>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_license_dumper_auto_local"
+				attr="han_license_dumper_auto_local"
+				/>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_injector_auto_local"
+				attr="han_injector_auto_local"
+				/>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_debug_auto_local"
+				attr="han_debug_auto_local"
+				/>
+			<!-- <Query 
+				class="type:x-xmb/module-action"
+				key="han_mount_usb_as_bd_local"
+				attr="han_mount_usb_as_bd_local"
+				/> -->
+		</Items>
+	</View>
+		
+		</XMBML>
+		
