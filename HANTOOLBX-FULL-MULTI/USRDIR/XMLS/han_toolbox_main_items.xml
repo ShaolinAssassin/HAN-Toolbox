@@ -221,7 +221,7 @@
 				class="type:x-xmb/folder-pixmap" 
 				key="han_advanced_menu" 
 				attr="han_advanced_menu"
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_advanced_tools.xml#han_advanced_menu_main"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_advanced_tools.xml#han_advanced_menu_dex_main"
 				/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 

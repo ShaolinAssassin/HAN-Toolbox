@@ -1,6 +1,6 @@
 <XMBML version="1.0">
 
-<!-- Main Items > Advanced Tools -->
+<!-- Main Items > Advanced Tools (CEX mode) -->
 		
 	<View id="han_advanced_menu_main">
 		<Attributes>
@@ -92,6 +92,59 @@
 				key="han_rebuild_db"
 				attr="han_rebuild_db"
 				/>
+			<!--Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_dex_settings_injector"
+				attr="han_dex_settings_injector" 				
+				src="#han_dex_settings_injector_items"
+				/-->
+		</Items>
+	</View>
+	
+<!-- Main Items > Advanced Tools (DEX mode) -->
+		
+	<View id="han_advanced_menu_main">
+		<Attributes>
+			<Table key="han_file_browser">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/file_explorer.png</String></Pair>
+				<Pair key="title"><String>File Explorer</String></Pair>
+				<Pair key="info"><String>Browse complete file system and delete files (Be careful)</String></Pair>
+			</Table>
+			<Table key="han_file_injector">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/inj_file.png</String></Pair>
+				<Pair key="title"><String>File Injector</String></Pair>
+				<Pair key="info"><String>Use for adding XMB mods to flash or other file operations (Be careful)</String></Pair>
+			</Table>
+			<!--Table key="han_file_restorer">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/inj_file.png</String></Pair>
+				<Pair key="title"><String>File Restorer</String></Pair>
+				<Pair key="info"><String>Download stock files for restoration purpose</String></Pair>
+			</Table-->
+			<!--Table key="han_dex_settings_injector">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/inj_debug.png</String></Pair>
+				<Pair key="title"><String>DEX XMB Setup</String></Pair>
+				<Pair key="info"><String>Add/Remove DEX settings etc (Be careful)</String></Pair>
+			</Table-->
+		</Attributes>
+		<Items>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_file_browser"
+				attr="han_file_browser" 				
+				src="#han_file_browser_items"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_file_injector"
+				attr="han_file_injector" 				
+				src="#han_file_injector_items"
+				/>
+			<!--Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_file_restorer"
+				attr="han_file_restorer" 				
+				src="#han_file_restorer_items"
+				/-->
 			<!--Query 
 				class="type:x-xmb/folder-pixmap" 
 				key="han_dex_settings_injector"
