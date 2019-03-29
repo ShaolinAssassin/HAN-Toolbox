@@ -14,6 +14,13 @@
 				<Pair key="title"><String>Toolbox Resources</String></Pair>
 				<Pair key="info"><String>Install/Uninstall the HAN Toolbox resources packages</String></Pair>
 			</Table>
+			<Table key="han_ps3xploit_site">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/site.png</String></Pair>
+				<Pair key="title"><String>PS3Xploit Website</String></Pair>
+				<Pair key="info"><String>PS3Xploit Homepage</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://ps3xploit.com/</String></Pair>
+			</Table>
 			<Table key="han_toolbox_update">
 				<Pair key="icon"><String>http://raw.githubusercontent.com/ShaolinAssassin/HAN-Toolbox/master/update_status/v0.7-fixed-update.png</String></Pair>
 				<Pair key="title"><String>Update Toolbox</String></Pair>
@@ -38,6 +45,11 @@
 				key="han_toolbox_resources" 
 				attr="han_toolbox_resources"
 				src="#han_toolbox_resources_main"
+				/>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_ps3xploit_site"
+				attr="han_ps3xploit_site"
 				/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 

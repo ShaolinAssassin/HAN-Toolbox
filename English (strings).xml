@@ -318,6 +318,8 @@
 	<Text name="han_toolbox_lang_info">Install/Uninstall the HAN Toolbox lang resources files</Text>
 	<Text name="han_toolbox_resources">Toolbox Resources</Text>
 	<Text name="han_toolbox_resources_info">Install/Uninstall the HAN Toolbox resources packages</Text>
+	<Text name="han_toolbox_ps3xploit_site">PS3Xploit Website</Text>
+	<Text name="han_toolbox_ps3xploit_site_info">PS3Xploit Homepage</Text>
 	<Text name="han_toolbox_update">Update Toolbox</Text>
 	<Text name="han_toolbox_update_info">Download and install the latest Toolbox package and reboot after</Text>
 	<Text name="han_toolbox_credits">By DeViL303, Pink1, esc0rtd3w, Berion, ShaolinAssassin, Demon Hades, lmn7 and 0_obeWAN
