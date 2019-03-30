@@ -223,8 +223,8 @@
 		<Attributes>
 			<Table key="han_toolbox_install_resources_pkg_item">
 				<Pair key="info"><String>net_package_install</String></Pair>
-				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132687870/HAN_Toolbox_Resources.pkg?force_download=1</String></Pair>
-				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132687870/HAN_Toolbox_Resources.pkg?force_download=1</String></Pair>
+				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132797445/HAN_Toolbox_Resources-Full.pkg?force_download=1</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132797445/HAN_Toolbox_Resources-Full.pkg?force_download=1</String></Pair>
 				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
 				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair>
 				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/download.png</String></Pair>
@@ -233,16 +233,135 @@
 		<Items>
 			<Item class="type:x-xmb/xmlnpsignup" key="han_toolbox_install_resources_pkg_item" attr="han_toolbox_install_resources_pkg_item"/>
 		</Items>
-	</View>		
+	</View>	
 
->	han_toolbox_install_coldboots_resources_pkg_main
->	han_toolbox_install_demos_resources_pkg_main
->	han_toolbox_install_fonts_resources_pkg_main
->	han_toolbox_install_nopsn_resources_pkg_main
->	han_toolbox_install_psn_resources_pkg_main
->	han_toolbox_install_themes_resources_pkg_main
->	han_toolbox_install_wallpapers_resources_pkg_main
->	han_toolbox_install_waves_resources_pkg_main
+	<View id="han_toolbox_install_coldboots_resources_pkg_main">
+		<Attributes>
+			<Table key="han_toolbox_install_coldboots_resources_pkg_item">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132797448/HAN_Toolbox_Resources-Coldboots.pkg?force_download=1</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132797448/HAN_Toolbox_Resources-Coldboots.pkg?force_download=1</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/download.png</String></Pair>
+ 			</Table>
+		</Attributes>
+		<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="han_toolbox_install_coldboots_resources_pkg_item" attr="han_toolbox_install_coldboots_resources_pkg_item"/>
+		</Items>
+	</View>
+
+	<View id="han_toolbox_install_demos_resources_pkg_main">
+		<Attributes>
+			<Table key="han_toolbox_install_demos_resources_pkg_item">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132797424/HAN_Toolbox_Resources-Demos.pkg?force_download=1</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132797424/HAN_Toolbox_Resources-Demos.pkg?force_download=1</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/download.png</String></Pair>
+ 			</Table>
+		</Attributes>
+		<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="han_toolbox_install_demos_resources_pkg_item" attr="han_toolbox_install_demos_resources_pkg_item"/>
+		</Items>
+	</View>	
+	
+	<View id="han_toolbox_install_fonts_resources_pkg_main">
+		<Attributes>
+			<Table key="han_toolbox_install_fonts_resources_pkg_item">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132797427/HAN_Toolbox_Resources-Fonts.pkg?force_download=1</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132797427/HAN_Toolbox_Resources-Fonts.pkg?force_download=1</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/download.png</String></Pair>
+ 			</Table>
+		</Attributes>
+		<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="han_toolbox_install_fonts_resources_pkg_item" attr="han_toolbox_install_fonts_resources_pkg_item"/>
+		</Items>
+	</View>	
+
+	<View id="han_toolbox_install_nopsn_resources_pkg_main">
+		<Attributes>
+			<Table key="han_toolbox_install_nopsn_resources_pkg_item">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132797430/HAN_Toolbox_Resources-NoPSN.pkg?force_download=1</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132797430/HAN_Toolbox_Resources-NoPSN.pkg?force_download=1</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/download.png</String></Pair>
+ 			</Table>
+		</Attributes>
+		<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="han_toolbox_install_nopsn_resources_pkg_item" attr="han_toolbox_install_nopsn_resources_pkg_item"/>
+		</Items>
+	</View>	
+	
+	<View id="han_toolbox_install_psn_resources_pkg_main">
+		<Attributes>
+			<Table key="han_toolbox_install_psn_resources_pkg_item">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132797433/HAN_Toolbox_Resources-PSN.pkg?force_download=1</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132797433/HAN_Toolbox_Resources-PSN.pkg?force_download=1</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/download.png</String></Pair>
+ 			</Table>
+		</Attributes>
+		<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="han_toolbox_install_psn_resources_pkg_item" attr="han_toolbox_install_psn_resources_pkg_item"/>
+		</Items>
+	</View>
+
+	<View id="han_toolbox_install_themes_resources_pkg_main">
+		<Attributes>
+			<Table key="han_toolbox_install_themes_resources_pkg_item">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132797436/HAN_Toolbox_Resources-Themes.pkg?force_download=1</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132797436/HAN_Toolbox_Resources-Themes.pkg?force_download=1</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/download.png</String></Pair>
+ 			</Table>
+		</Attributes>
+		<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="han_toolbox_install_themes_resources_pkg_item" attr="han_toolbox_install_themes_resources_pkg_item"/>
+		</Items>
+	</View>	
+	
+	<View id="han_toolbox_install_wallpapers_resources_pkg_main">
+		<Attributes>
+			<Table key="han_toolbox_install_wallpapers_resources_pkg_item">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132797439/HAN_Toolbox_Resources-Wallpapers.pkg?force_download=1</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132797439/HAN_Toolbox_Resources-Wallpapers.pkg?force_download=1</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/download.png</String></Pair>
+ 			</Table>
+		</Attributes>
+		<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="han_toolbox_install_wallpapers_resources_pkg_item" attr="han_toolbox_install_wallpapers_resources_pkg_item"/>
+		</Items>
+	</View>	
+
+	<View id="han_toolbox_install_waves_resources_pkg_main">
+		<Attributes>
+			<Table key="han_toolbox_install_waves_resources_pkg_item">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/132797442/HAN_Toolbox_Resources-Waves.pkg?force_download=1</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/132797442/HAN_Toolbox_Resources-Waves.pkg?force_download=1</String></Pair>
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair>
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/download.png</String></Pair>
+ 			</Table>
+		</Attributes>
+		<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="han_toolbox_install_waves_resources_pkg_item" attr="han_toolbox_install_waves_resources_pkg_item"/>
+		</Items>
+	</View>	
 		
 <!-- Main Items > Toolbox Settings > Toolbox Updater -->
 		
