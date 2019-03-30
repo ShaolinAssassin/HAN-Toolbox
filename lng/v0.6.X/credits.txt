@@ -6,7 +6,7 @@ Code	Name							State				Team							Notes
 01		English (United States)			Updated (v0.6)		DeViL303/ShaolinAssassin	
 02		French							Updated (v0.6)		ShaolinAssassin					Included in v0.6.2
 03		Spanish (neutral)				Updated (v0.6)		mr_ota							Included in v0.6.1
-04		German							Missing				Nobody	
+04		German							Updated (v0.6)		DerMinecraftClub123				Not included yet
 05		Italian							Updated (v0.6)		EdoMan							Included in v0.6.3
 06		Dutch							Missing				Nobody	
 07		Portuguese (Portugal)			Updated (v0.6)		FmTGamer, Naked_Snake1995, Tkit	Included in v0.6.3
