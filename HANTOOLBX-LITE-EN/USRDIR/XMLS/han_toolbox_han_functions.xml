@@ -22,8 +22,8 @@
 				<Pair key="icon_rsc"><String>tex_stop_status</String></Pair>
 				<Pair key="title"><String>Shutdown</String></Pair>
 				<Pair key="info"><String>Turn off console</String></Pair>
-				<Pair key="module_name"><String>webrender_plugin</String></Pair>
-				<Pair key="module_action"><String>http://www.ps3xploit.com/autoxml/pett/syscalls/power/power_down.html </String></Pair>
+				<Pair key="module_name"><String>poweroff_plugin</String></Pair>
+				<Pair key="module_action"><String></String></Pair>
 			</Table>
 			<Table key="han_enabler_auto">
 				<Pair key="icon_rsc"><String>item_tex_cam_icon</String></Pair>
