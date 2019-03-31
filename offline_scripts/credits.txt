@@ -1,0 +1,14 @@
+Offline Scripts by lmn7 @psx-place
+
+HAN Enabler 4.82 : 				https://www.psx-place.com/threads/tutorial-how-to-enable-han-offline.20774/
+DBG PKG Enabler 4.82 : 			https://www.psx-place.com/threads/tutorial-how-to-enable-han-offline.20774/
+Reboot 4.82 :					https://www.psx-place.com/threads/tutorial-how-to-enable-han-offline.20774/page-5#post-141325
+HAN Enabler 4.81/4.82 :			https://www.psx-place.com/threads/han-toolbox-the-xploit-3-0-companion.16682/page-17#post-150242
+File Copier 4.82 : 				https://www.psx-place.com/threads/update-han-toolbox-v0-6-released-by-shaolinassassin-3-new-versions-choices-other-new-features.21864/#post-150922
+Temp Reader 4.82 :				https://www.psx-place.com/threads/tutorial-how-to-enable-han-offline.20774/page-7#post-159884
+HAN Enabler 4.82/4.84 : 		https://www.psx-place.com/threads/tutorial-how-to-enable-han-offline.20774/page-7#post-165191
+DBG PKG Enabler 4.82/4.84 : 	https://www.psx-place.com/threads/tutorial-how-to-enable-han-offline.20774/page-7#post-165191
+Temp Reader 4.82/4.84 : 		https://www.psx-place.com/threads/tutorial-how-to-enable-han-offline.20774/page-7#post-165191
+Reboot 4.82/4.84 : 				https://www.psx-place.com/threads/tutorial-how-to-enable-han-offline.20774/page-7#post-165191
+File Copier 4.84 only : 		https://www.psx-place.com/threads/tutorial-how-to-enable-han-offline.20774/page-7#post-165191
+Rebuild Database 4.82/4.84 : 	https://www.psx-place.com/threads/tutorial-how-to-enable-han-offline.20774/page-7#post-165191
