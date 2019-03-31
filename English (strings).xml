@@ -232,64 +232,10 @@
 	<Text name="han_toolbox_debug_settings">Debug Settings Installer/Remover</Text>
 	<Text name="han_toolbox_debug_settings_info">Install/Uninstall Debug Settings</Text>
 	<Text name="han_toolbox_debug_settings_toggler">Toggle Debug Settings</Text>
-	<Text name="han_toolbox_debug_settings_toggler_info">Switch between CEX and DEX Debug Settings Menu</Text>
+	<Text name="han_toolbox_debug_settings_toggler_info">Copy sysconf_plugin.sprx from usb000 to dev_flash</Text>
 	<Text name="han_toolbox_toggle_ip">Toggle IP/Host info</Text>
-	<Text name="han_toolbox_toggle_ip_info">Show/Hide IP/Host info on the XMB</Text>
+	<Text name="han_toolbox_toggle_ip_info">Copy xmb_plugin.sprx from usb000 to dev_flash</Text>
 
-<!-- han_toolbox_advanced_tools.xml // 	Main Items > Advanced Tools > DEX XMB Setup > Debug Settings Installer/Remover Steps -->
-
-	<Text name="han_toolbox_download_files">Step 1: Download Files</Text>
-	<Text name="han_toolbox_download_files_info">Download files to HANTOOLBX/USRDIR/files/ ready for installation</Text>
-	<Text name="han_toolbox_debug_settings_installer">Step 2: Install/Uninstall Debug Settings</Text>
-	<Text name="han_toolbox_debug_settings_installer_info">Copy downloaded files from HANTOOLBX/USRDIR/files/ to dev_flash (Don't select usb000)</Text>
-	
-<!-- han_toolbox_advanced_tools.xml // 	Main Items > Advanced Tools > DEX XMB Setup > Debug Settings Installer/Remover Steps > Download CEX/DEX 4.81/4.82 Files -->
-
-	<Text name="han_toolbox_download_dex_481_files">DEX 4.81 Files (Debug)</Text>
-	<Text name="han_toolbox_download_dex_481_files_info">Download DEX 4.81 files to HANTOOLBX/USRDIR/files/ ready for installation</Text>
-	<Text name="han_toolbox_download_dex_482_files">DEX 4.82 Files (Debug)</Text>
-	<Text name="han_toolbox_download_dex_482_files_info">Download DEX 4.82 files to HANTOOLBX/USRDIR/files/ ready for installation</Text>
-	<Text name="han_toolbox_download_cex_481_files">CEX 4.81 Files (Retail)</Text>
-	<Text name="han_toolbox_download_cex_481_files_info">Download CEX 4.81 files to HANTOOLBX/USRDIR/files/ ready for installation</Text>
-	<Text name="han_toolbox_download_cex_482_files">CEX 4.81 Files (Retail)</Text>
-	<Text name="han_toolbox_download_cex_482_files_info">Download CEX 4.82 files to HANTOOLBX/USRDIR/files/ ready for installation</Text>
-
-<!-- han_toolbox_advanced_tools.xml // 	Main Items > Advanced Tools > DEX XMB Setup > Toggle Debug Settings -->
-
-	<Text name="han_toolbox_download_file">Step 1: Download File</Text>
-	<Text name="han_toolbox_download_file_info">Download file to HANTOOLBX/USRDIR/files/ ready for installation</Text>
-	<Text name="han_toolbox_debug_settings_swapper">Step 2: Toggle Debug Settings</Text>
-	<Text name="han_toolbox_debug_settings_swapper_info">Copy downloaded sysconf_plugin.sprx from HANTOOLBX/USRDIR/files/ to dev_flash (Don't select usb000)</Text>
-	
-<!-- han_toolbox_advanced_tools.xml // 	Main Items > Advanced Tools > DEX XMB Setup > Toggle Debug Settings > Download CEX/DEX 4.81/4.82 File -->
-
-	<Text name="han_toolbox_download_dex_481_file">DEX 4.81 File (Debug)</Text>
-	<Text name="han_toolbox_download_dex_481_file_info">Download DEX 4.81 file to HANTOOLBX/USRDIR/files/ ready for installation</Text>
-	<Text name="han_toolbox_download_dex_482_file">DEX 4.82 File (Debug)</Text>
-	<Text name="han_toolbox_download_dex_482_file_info">Download DEX 4.82 file to HANTOOLBX/USRDIR/files/ ready for installation</Text>
-	<Text name="han_toolbox_download_cex_481_file">CEX 4.81 File (Retail)</Text>
-	<Text name="han_toolbox_download_cex_481_file_info">Download CEX 4.81 file to HANTOOLBX/USRDIR/files/ ready for installation</Text>
-	<Text name="han_toolbox_download_cex_482_file">CEX 4.81 File (Retail)</Text>
-	<Text name="han_toolbox_download_cex_482_file_info">Download CEX 4.82 file to HANTOOLBX/USRDIR/files/ ready for installation</Text>
-
-<!-- han_toolbox_advanced_tools.xml // 	Main Items > Advanced Tools > DEX XMB Setup > Toggle IP/Host info -->
-
-	<Text name="han_toolbox_download_file">Step 1: Download File</Text>
-	<Text name="han_toolbox_download_file_info">Download file to HANTOOLBX/USRDIR/files/ ready for installation</Text>
-	<Text name="han_toolbox_debug_plugin_swapper">Step 2: Toggle IP/Host info</Text>
-	<Text name="han_toolbox_debug_plugin_swapper_info">Copy downloaded xmb_plugin.sprx from HANTOOLBX/USRDIR/files/ to dev_flash (Don't select usb000)</Text>
-	
-<!-- han_toolbox_advanced_tools.xml // 	Main Items > Advanced Tools > DEX XMB Setup > Toggle IP/Host info > Download CEX/DEX 4.81/4.82 File -->
-
-	<Text name="han_toolbox_download_dex_481_file">DEX 4.81 File (Debug)</Text>
-	<Text name="han_toolbox_download_dex_481_file_info">Download DEX 4.81 file to HANTOOLBX/USRDIR/files/ ready for installation</Text>
-	<Text name="han_toolbox_download_dex_482_file">DEX 4.82 File (Debug)</Text>
-	<Text name="han_toolbox_download_dex_482_file_info">Download DEX 4.82 file to HANTOOLBX/USRDIR/files/ ready for installation</Text>
-	<Text name="han_toolbox_download_cex_481_file">CEX 4.81 File (Retail)</Text>
-	<Text name="han_toolbox_download_cex_481_file_info">Download CEX 4.81 file to HANTOOLBX/USRDIR/files/ ready for installation</Text>
-	<Text name="han_toolbox_download_cex_482_file">CEX 4.81 File (Retail)</Text>
-	<Text name="han_toolbox_download_cex_482_file_info">Download CEX 4.82 file to HANTOOLBX/USRDIR/files/ ready for installation</Text>
-	
 <!-- han_toolbox_settings.xml // Main Items > Toolbox Settings -->
 
 	<Text name="han_toolbox_lang">Toolbox Multi Language</Text>
