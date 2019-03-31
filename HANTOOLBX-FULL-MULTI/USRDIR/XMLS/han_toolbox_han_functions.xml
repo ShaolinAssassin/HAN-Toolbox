@@ -4,6 +4,27 @@
 		
 	<View id="han_functions_main">
 		<Attributes>
+			<Table key="han_reboot_soft_auto">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/reboot.png</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_soft_reboot</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_reboot_info</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://www.ps3xploit.com/autoxml/pett/syscalls/power/soft_reboot.html</String></Pair>
+			</Table>
+			<Table key="han_reboot_hard_auto">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/reboot.png</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_hard_reboot</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_reboot_info</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://www.ps3xploit.com/autoxml/pett/syscalls/power/hard_reboot.html</String></Pair>
+			</Table>
+			<Table key="han_shutdown_auto">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/shutdown.png</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_shutdown</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_shutdown_info</String></Pair>
+				<Pair key="module_name"><String>poweroff_plugin</String></Pair>
+				<Pair key="module_action"><String></String></Pair>
+			</Table>
 			<Table key="han_enabler_auto">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/han_enable.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_enabler</String></Pair>
@@ -43,6 +64,21 @@
 		<Items>
 			<Query 
 				class="type:x-xmb/module-action"
+				key="han_reboot_soft_auto"
+				attr="han_reboot_soft_auto"
+				/>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_reboot_hard_auto"
+				attr="han_reboot_hard_auto"
+				/>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_shutdown_auto"
+				attr="han_shutdown_auto"
+				/>	
+			<Query 
+				class="type:x-xmb/module-action"
 				key="han_enabler_auto"
 				attr="han_enabler_auto"
 				/>
@@ -73,6 +109,27 @@
 		
 	<View id="han_functions_hfw_main">
 		<Attributes>
+			<Table key="han_reboot_soft_auto">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/reboot.png</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_soft_reboot</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_reboot_info</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://www.ps3xploit.com/autoxml/pett/syscalls/power/soft_reboot.html</String></Pair>
+			</Table>
+			<Table key="han_reboot_hard_auto">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/reboot.png</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_hard_reboot</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_reboot_info</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://www.ps3xploit.com/autoxml/pett/syscalls/power/hard_reboot.html</String></Pair>
+			</Table>
+			<Table key="han_shutdown_auto">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/shutdown.png</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_shutdown</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_shutdown_info</String></Pair>
+				<Pair key="module_name"><String>poweroff_plugin</String></Pair>
+				<Pair key="module_action"><String></String></Pair>
+			</Table>
 			<Table key="han_enabler_hfw_auto">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/han_enable.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_enabler</String></Pair>
@@ -112,6 +169,21 @@
 		<Items>
 			<Query 
 				class="type:x-xmb/module-action"
+				key="han_reboot_soft_auto"
+				attr="han_reboot_soft_auto"
+				/>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_reboot_hard_auto"
+				attr="han_reboot_hard_auto"
+				/>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_shutdown_auto"
+				attr="han_shutdown_auto"
+				/>	
+			<Query 
+				class="type:x-xmb/module-action"
 				key="han_enabler_hfw_auto"
 				attr="han_enabler_hfw_auto"
 				/>
@@ -142,6 +214,27 @@
 		
 	<View id="han_functions_dex_main">
 		<Attributes>
+			<Table key="han_reboot_soft_auto">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/reboot.png</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_soft_reboot</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_reboot_info</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://www.ps3xploit.com/autoxml/pett/syscalls/power/soft_reboot.html</String></Pair>
+			</Table>
+			<Table key="han_reboot_hard_auto">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/reboot.png</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_hard_reboot</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_reboot_info</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://www.ps3xploit.com/autoxml/pett/syscalls/power/hard_reboot.html</String></Pair>
+			</Table>
+			<Table key="han_shutdown_auto">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/shutdown.png</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_shutdown</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_shutdown_info</String></Pair>
+				<Pair key="module_name"><String>poweroff_plugin</String></Pair>
+				<Pair key="module_action"><String></String></Pair>
+			</Table>
 			<Table key="han_enabler_auto_dex">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/han_enable.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_enabler</String></Pair>
@@ -181,6 +274,21 @@
 		<Items>
 			<Query 
 				class="type:x-xmb/module-action"
+				key="han_reboot_soft_auto"
+				attr="han_reboot_soft_auto"
+				/>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_reboot_hard_auto"
+				attr="han_reboot_hard_auto"
+				/>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_shutdown_auto"
+				attr="han_shutdown_auto"
+				/>	
+			<Query 
+				class="type:x-xmb/module-action"
 				key="han_enabler_auto_dex"
 				attr="han_enabler_auto_dex"
 				/>
@@ -211,6 +319,27 @@
 		
 	<View id="han_functions_hfw_dex_main">
 		<Attributes>
+			<Table key="han_reboot_soft_auto">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/reboot.png</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_soft_reboot</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_reboot_info</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://www.ps3xploit.com/autoxml/pett/syscalls/power/soft_reboot.html</String></Pair>
+			</Table>
+			<Table key="han_reboot_hard_auto">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/reboot.png</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_hard_reboot</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_reboot_info</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://www.ps3xploit.com/autoxml/pett/syscalls/power/hard_reboot.html</String></Pair>
+			</Table>
+			<Table key="han_shutdown_auto">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/shutdown.png</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_shutdown</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_shutdown_info</String></Pair>
+				<Pair key="module_name"><String>poweroff_plugin</String></Pair>
+				<Pair key="module_action"><String></String></Pair>
+			</Table>
 			<Table key="han_enabler_auto_hfw_dex">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/han_enable.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_enabler</String></Pair>
@@ -248,6 +377,21 @@
 			</Table>
 		</Attributes>
 		<Items>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_reboot_soft_auto"
+				attr="han_reboot_soft_auto"
+				/>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_reboot_hard_auto"
+				attr="han_reboot_hard_auto"
+				/>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_shutdown_auto"
+				attr="han_shutdown_auto"
+				/>	
 			<Query 
 				class="type:x-xmb/module-action"
 				key="han_enabler_auto_hfw_dex"

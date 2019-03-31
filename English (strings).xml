@@ -33,8 +33,6 @@
 	<Text name="han_toolbox_reboot_info">Restart console</Text>	
 	<Text name="han_toolbox_enabler">HAN Enabler</Text>	
 	<Text name="han_toolbox_enabler_info_dex">Enable custom signed packages and licenses (DEX)</Text>
-	<Text name="han_toolbox_power_options">Power Options</Text>
-	<Text name="han_toolbox_power_options_info">Autorun power options online</Text>
 	<Text name="han_toolbox_functions">HAN Functions</Text>	
 	<Text name="han_toolbox_functions_info_dex">Autorun HAN Functions for DEX Firmware/Hybrid (4.81/4.82)</Text>
 	<Text name="han_toolbox_functions">HAN Functions</Text>
@@ -48,6 +46,12 @@
 
 <!-- han_toolbox_han_functions.xml // Main Items > HAN functions (online CEX) -->
 
+	<Text name="han_toolbox_soft_reboot">Soft Reboot</Text>
+	<Text name="han_toolbox_reboot_info">Restart console</Text>
+	<Text name="han_toolbox_hard_reboot">Hard Reboot</Text>
+	<Text name="han_toolbox_reboot_info">Restart console</Text>
+	<Text name="han_toolbox_shutdown">Shutdown</Text>
+	<Text name="han_toolbox_shutdown_info">Turn off console</Text>
 	<Text name="han_toolbox_enabler">HAN Enabler</Text>	
 	<Text name="han_toolbox_enabler_info">Enable custom signed packages and licenses</Text>	
 	<Text name="han_toolbox_installer">HAN Installer</Text>
@@ -61,6 +65,12 @@
 
 <!-- han_toolbox_han_functions.xml // Main Items > HAN functions (online DEX) -->
 
+	<Text name="han_toolbox_soft_reboot">Soft Reboot</Text>
+	<Text name="han_toolbox_reboot_info">Restart console</Text>
+	<Text name="han_toolbox_hard_reboot">Hard Reboot</Text>
+	<Text name="han_toolbox_reboot_info">Restart console</Text>
+	<Text name="han_toolbox_shutdown">Shutdown</Text>
+	<Text name="han_toolbox_shutdown_info">Turn off console</Text>
 	<Text name="han_toolbox_enabler">HAN Enabler</Text>	
 	<Text name="han_toolbox_enabler_info">Enable custom signed packages and licenses</Text>	
 	<Text name="han_toolbox_installer">HAN Installer</Text>
@@ -71,16 +81,7 @@
 	<Text name="han_toolbox_injector_info">Auto running injector Xploit useful for act.dat</Text>	
 	<Text name="han_toolbox_debug_enabler">Debug Package Enabler</Text>
 	<Text name="han_toolbox_debug_enabler_info">For modifed retail PS3 packages only</Text>		
-	
-<!-- han_toolbox_power_options.xml // Main Items > Power Options -->
-
-	<Text name="han_toolbox_soft_reboot">Soft Reboot</Text>
-	<Text name="han_toolbox_reboot_info">Restart console</Text>
-	<Text name="han_toolbox_hard_reboot">Hard Reboot</Text>
-	<Text name="han_toolbox_reboot_info">Restart console</Text>
-	<Text name="han_toolbox_shutdown">Shutdown</Text>
-	<Text name="han_toolbox_shutdown_info">Turn off console</Text>
-	
+		
 <!-- han_toolbox_external_content.xml // Main Items > External Content -->
 	
 	<Text name="han_toolbox_webserver_packages">Install Packages From Webserver</Text>
