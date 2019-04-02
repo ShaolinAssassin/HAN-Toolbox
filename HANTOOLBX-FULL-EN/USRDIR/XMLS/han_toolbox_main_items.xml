@@ -116,7 +116,7 @@
 				<Pair key="title"><String>HAN Enabler</String></Pair>
 				<Pair key="info"><String>Enable custom signed packages and licenses (DEX)</String></Pair>
 				<Pair key="module_name"><String>webrender_plugin</String></Pair>
-				<Pair key="module_action"><String>http://ps3xploit.com/autoxml/han/han_enabler_auto_dex.html</String></Pair>
+				<Pair key="module_action"><String>http://ps3xploit.com/hfw/autoxml/han/han_enabler_auto_dex.html</String></Pair>
 			</Table>
 			<Table key="han_functions_hfw_dex">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/han.png</String></Pair>

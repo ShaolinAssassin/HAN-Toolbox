@@ -11,7 +11,7 @@
 				<Pair key="child"><String>segment</String></Pair>
 			</Table>
 			<Table key="coldboot_downloader">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/inj_coldboot.png</String></Pair>
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/coldboot.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_colboot_downloader</String></Pair>
 				<Pair key="info_rsc"><String>han_toolbox_colboot_downloader_info</String></Pair>
 				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
@@ -22,7 +22,7 @@
 				<Pair key="info_rsc"><String>han_toolbox_demo_downloader_info</String></Pair>
 			</Table>
 			<Table key="font_downloader">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/inj_font.png</String></Pair>
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/font.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_font_downloader</String></Pair>
 				<Pair key="info_rsc"><String>han_toolbox_font_downloader_info</String></Pair>
 				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
@@ -48,7 +48,7 @@
 				<Pair key="info_rsc"><String>han_toolbox_wallpaper_downloader_info</String></Pair>
 			</Table>
 			<Table key="wave_downloader">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/inj_wave.png</String></Pair>
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/wave.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_wave_downloader</String></Pair>
 				<Pair key="info_rsc"><String>han_toolbox_wave_downloader_info</String></Pair>
 				<Pair key="str_noitem"><String>msg_no_data</String></Pair>

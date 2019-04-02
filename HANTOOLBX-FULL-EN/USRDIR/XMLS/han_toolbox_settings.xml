@@ -493,13 +493,13 @@
 	<View id="han_toolbox_delete_resources_main">
 		<Attributes>
 			<Table key="han_toolbox_delete_resources_pkg">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/delete.png</String></Pair>
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/delete_folder.png</String></Pair>
 				<Pair key="title"><String>Delete all Toolbox Resources</String></Pair>
 				<Pair key="info"><String>Press  to access HAN Toolbox folder and unlink RESOURCES folder</String></Pair>
 				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
 			</Table>
 			<Table key="han_toolbox_delete_downloader_resources_pkg">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/delete.png</String></Pair>
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/delete_folder.png</String></Pair>
 				<Pair key="title"><String>Delete Downloader Resources</String></Pair>
 				<Pair key="info"><String>Press  to access HAN Toolbox RESOURCES folder and unlink any of the downloader folders</String></Pair>
 				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
