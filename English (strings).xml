@@ -109,10 +109,12 @@
 	<Text name="han_toolbox_file_explorer_info">Browse complete file system and delete files (Be careful)</Text>
 	<Text name="han_toolbox_file_injector">File Injector</Text>
 	<Text name="han_toolbox_file_injector_info">Use for adding XMB mods to flash or other file operations (Be careful)</Text>
+	<Text name="han_toolbox_flash_mounter">Offline Flash Mounter</Text>
+	<Text name="han_toolbox_flash_mounter_info">Mount dev_flash as dev_blind</Text>	
 	<Text name="han_toolbox_temperature_reader">Temperature Reader</Text>
 	<Text name="han_toolbox_temperature_reader_info">Display CELL and RSX temperature values</Text>
 	<Text name="han_toolbox_rebuild_db">Database Rebuilder</Text>
-	<Text name="han_toolbox_rebuild_db_info">Rebuild database (Be careful)</Text>	
+	<Text name="han_toolbox_rebuild_db_info">Rebuild database (Be careful)</Text>
 	<Text name="han_toolbox_dex_xmb_setup">DEX XMB Setup</Text>
 	<Text name="han_toolbox_dex_xmb_setup_info">Add/Remove DEX settings etc (Be careful)</Text>
 
@@ -141,6 +143,8 @@
 	<Text name="han_toolbox_browse_dev_flash2_info">Access dev_flash2/ partition</Text>
 	<Text name="han_toolbox_browse_dev_flash3">Internal flash, partition n°3</Text>
 	<Text name="han_toolbox_browse_dev_flash3_info">Access dev_flash3/ partition</Text>
+	<Text name="han_toolbox_browse_dev_blind">Writable internal flash, partition n°1</Text>
+	<Text name="han_toolbox_browse_dev_blind_info">Access dev_blind partition - do NOT delete any of these files</Text>
 
 <!-- han_toolbox_advanced_tools.xml // Main Items > Advanced Tools > File Browser > USB Mass Storage Devices -->
 
