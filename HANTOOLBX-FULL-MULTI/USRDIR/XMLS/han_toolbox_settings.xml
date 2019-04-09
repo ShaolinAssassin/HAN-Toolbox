@@ -4,11 +4,11 @@
 		
 	<View id="han_toolbox_setup_main">
 		<Attributes>
-			<!--Table key="han_toolbox_lang">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_file.png</String></Pair>
+			<Table key="han_toolbox_lang">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/faces.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_lang</String></Pair>
 				<Pair key="info_rsc"><String>han_toolbox_lang_info</String></Pair>
-			</Table-->
+			</Table>
 			<Table key="han_toolbox_resources">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_file.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_resources</String></Pair>
@@ -34,17 +34,17 @@
 			</Table>
 		</Attributes>
 		<Items>
-			<!--Query 
+			<Query 
 				class="type:x-xmb/folder-pixmap" 
 				key="han_toolbox_lang" 
 				attr="han_toolbox_lang"
-				src="#han_toolbox_lang_main"
-				/-->
+				src="#han_toolbox_lang_items"
+				/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
 				key="han_toolbox_resources" 
 				attr="han_toolbox_resources"
-				src="#han_toolbox_resources_main"
+				src="#han_toolbox_resources_items"
 				/>
 			<Query 
 				class="type:x-xmb/module-action"
@@ -68,10 +68,15 @@
 		
 <!-- Main Items > Toolbox Settings > Toolbox Multi Language -->
 
-	<!--View id="han_toolbox_lang_main">
+	<View id="han_toolbox_lang_items">
 		<Attributes>
+			<Table key="han_toolbox_check_lang_item">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/list.png</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_check_lang_item</String></Pair>
+				<Pair key="info"><String>han_toolbox_check_lang_item_info</String></Pair>
+			</Table>
 			<Table key="han_toolbox_install_lang">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_file.png</String></Pair>
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/faces.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_install_lang</String></Pair>
 				<Pair key="info_rsc"><String>han_toolbox_install_lang_info</String></Pair>
 			</Table>
@@ -84,9 +89,15 @@
 		<Items>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
+				key="han_toolbox_check_lang_item" 
+				attr="han_toolbox_check_lang_item"
+				src="#han_toolbox_lang_available"				
+				/>
+			<Query 
+				class="type:x-xmb/module-action" 
 				key="han_toolbox_install_lang" 
 				attr="han_toolbox_install_lang"
-				src="#han_toolbox_install_lang_main"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_stuff_downloader.xml#han_toolbox_multi_update_main"
 				/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
@@ -99,9 +110,9 @@
 
 <!-- Main Items > Toolbox Settings > Toolbox Multi Language > Install Multi Language -->
 		
-	<!--View id="han_toolbox_install_lang_main">
+<!--	<View id="han_toolbox_install_lang_main">
 		<Attributes>
-			<Table key="han_toolbox_check_lang_item">
+			<Table key="han_toolbox_check_lang">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/list.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_check_lang_item</String></Pair>
 				<Pair key="info"><String>han_toolbox_check_lang_item_info</String></Pair>
@@ -122,8 +133,8 @@
 		<Items>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
-				key="han_toolbox_check_lang_item" 
-				attr="han_toolbox_check_lang_item"
+				key="han_toolbox_check_lang" 
+				attr="han_toolbox_check_lang"
 				src="#han_toolbox_lang_available"				
 				/>
 			<Query 
@@ -142,107 +153,107 @@
 
 <!-- Main Items > Toolbox Settings > Toolbox Multi Language > Install Multi Language > Lang available (here) -->
 
-	<!--View id="han_toolbox_lang_available">
+	<View id="han_toolbox_lang_available">
 		<Attributes>
 			<Table key="han_toolbox_lang_chinese_s">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/lang/ch-zh.png</String></Pair>
 				<Pair key="title_rsc"><String>msg_lang_chinese_s</String></Pair>
-				<Pair key="info_rsc"><String>han_toolbox_lang_available_info_no</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_lang_available_no_info</String></Pair>
 			</Table>
 			<Table key="han_toolbox_lang_chinese_t">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/lang/ch-zh.png</String></Pair>
 				<Pair key="title_rsc"><String>msg_lang_chinese_t</String></Pair>
-				<Pair key="info_rsc"><String>han_toolbox_lang_available_info_no</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_lang_available_no_info</String></Pair>
 			</Table>
 			<Table key="han_toolbox_lang_danish">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/lang/da.png</String></Pair>
 				<Pair key="title_rsc"><String>msg_lang_danish</String></Pair>
-				<Pair key="info_rsc"><String>han_toolbox_lang_available_info_no</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_lang_available_no_info</String></Pair>
 			</Table>
 			<Table key="han_toolbox_lang_dutch">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/lang/nl.png</String></Pair>
 				<Pair key="title_rsc"><String>msg_lang_dutch</String></Pair>
-				<Pair key="info_rsc"><String>han_toolbox_lang_available_info_no</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_lang_available_no_info</String></Pair>
 			</Table>
 			<Table key="han_toolbox_lang_english-UK">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/lang/en-UK.png</String></Pair>
 				<Pair key="title_rsc"><String>msg_lang_english-UK</String></Pair>
-				<Pair key="info_rsc"><String>han_toolbox_lang_available_info_yes</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_lang_available_default_info</String></Pair>
 			</Table>
 			<Table key="han_toolbox_lang_english-US">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/lang/en-US.png</String></Pair>
 				<Pair key="title_rsc"><String>msg_lang_english-US</String></Pair>
-				<Pair key="info_rsc"><String>han_toolbox_lang_available_info_yes</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_lang_available_default_info</String></Pair>
 			</Table>
 			<Table key="han_toolbox_lang_finnish">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/lang/fi.png</String></Pair>
 				<Pair key="title_rsc"><String>msg_lang_finnish</String></Pair>
-				<Pair key="info_rsc"><String>han_toolbox_lang_available_info_no</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_lang_available_no_info</String></Pair>
 			</Table>
 			<Table key="han_toolbox_lang_french">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/lang/fr.png</String></Pair>
 				<Pair key="title_rsc"><String>msg_lang_french</String></Pair>
-				<Pair key="info_rsc"><String>han_toolbox_lang_available_info_no</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_lang_available_no_info</String></Pair>
 			</Table>
 			<Table key="han_toolbox_lang_german">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/lang/de.png</String></Pair>
 				<Pair key="title_rsc"><String>msg_lang_german</String></Pair>
-				<Pair key="info_rsc"><String>han_toolbox_lang_available_info_no</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_lang_available_no_info</String></Pair>
 			</Table>
 			<Table key="han_toolbox_lang_italian">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/lang/it.png</String></Pair>
 				<Pair key="title_rsc"><String>msg_lang_italian</String></Pair>
-				<Pair key="info_rsc"><String>han_toolbox_lang_available_info_no</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_lang_available_no_info</String></Pair>
 			</Table>
 			<Table key="han_toolbox_lang_japan">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/lang/ja.png</String></Pair>
 				<Pair key="title_rsc"><String>msg_lang_japan</String></Pair>
-				<Pair key="info_rsc"><String>han_toolbox_lang_available_info_no</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_lang_available_no_info</String></Pair>
 			</Table>
 			<Table key="han_toolbox_lang_korean">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/lang/ko.png</String></Pair>
 				<Pair key="title_rsc"><String>msg_lang_korean</String></Pair>
-				<Pair key="info_rsc"><String>han_toolbox_lang_available_info_no</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_lang_available_no_info</String></Pair>
 			</Table>
 			<Table key="han_toolbox_lang_norwegian">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/lang/no.png</String></Pair>
 				<Pair key="title_rsc"><String>msg_lang_norwegian</String></Pair>
-				<Pair key="info_rsc"><String>han_toolbox_lang_available_info_no</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_lang_available_no_info</String></Pair>
 			</Table>
 			<Table key="han_toolbox_lang_polish">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/lang/pl.png</String></Pair>
 				<Pair key="title_rsc"><String>msg_lang_polish</String></Pair>
-				<Pair key="info_rsc"><String>han_toolbox_lang_available_info_no</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_lang_available_no_info</String></Pair>
 			</Table>
 			<Table key="han_toolbox_lang_portuguese-BR">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/lang/pt-BR.png</String></Pair>
 				<Pair key="title_rsc"><String>msg_lang_portuguese-BR</String></Pair>
-				<Pair key="info_rsc"><String>han_toolbox_lang_available_info_no</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_lang_available_no_info</String></Pair>
 			</Table>
 			<Table key="han_toolbox_lang_portuguese-PT">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/lang/pt-PT.png</String></Pair>
 				<Pair key="title_rsc"><String>msg_lang_portuguese-PT</String></Pair>
-				<Pair key="info_rsc"><String>han_toolbox_lang_available_info_no</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_lang_available_no_info</String></Pair>
 			</Table>
 			<Table key="han_toolbox_lang_russian">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/lang/ru.png</String></Pair>
 				<Pair key="title_rsc"><String>msg_lang_russian</String></Pair>
-				<Pair key="info_rsc"><String>han_toolbox_lang_available_info_no</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_lang_available_no_info</String></Pair>
 			</Table>
 			<Table key="han_toolbox_lang_spanish">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/lang/es.png</String></Pair>
 				<Pair key="title_rsc"><String>msg_lang_spanish</String></Pair>
-				<Pair key="info_rsc"><String>han_toolbox_lang_available_info_no</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_lang_available_no_info</String></Pair>
 			</Table>
 			<Table key="han_toolbox_lang_swedish">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/lang/sv.png</String></Pair>
 				<Pair key="title_rsc"><String>msg_lang_swedish</String></Pair>
-				<Pair key="info_rsc"><String>han_toolbox_lang_available_info_no</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_lang_available_no_info</String></Pair>
 			</Table>
 			<Table key="han_toolbox_lang_turkish">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/lang/tr.png</String></Pair>
 				<Pair key="title_rsc"><String>msg_lang_turkish</String></Pair>
-				<Pair key="info_rsc"><String>han_toolbox_lang_available_info_no</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_lang_available_no_info</String></Pair>
 			</Table>
 		</Attributes>
 		<Items>
@@ -351,7 +362,7 @@
 		
 <!-- Main Items > Toolbox Settings > Toolbox Resources -->
 
-	<View id="han_toolbox_resources_main">
+	<View id="han_toolbox_resources_items">
 		<Attributes>
 			<Table key="han_toolbox_install_resources">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_file.png</String></Pair>
@@ -369,153 +380,153 @@
 				class="type:x-xmb/folder-pixmap" 
 				key="han_toolbox_install_resources" 
 				attr="han_toolbox_install_resources"
-				src="#han_toolbox_install_resources_main"
+				src="#han_toolbox_install_resources_items"
 			/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
 				key="han_toolbox_delete_resources" 
 				attr="han_toolbox_delete_resources"
-				src="#han_toolbox_delete_resources_main"
+				src="#han_toolbox_delete_resources_items"
 			/>
 		</Items>
 	</View>
 
 <!-- Main Items > Toolbox Settings > Toolbox Resources > Install Toolbox Resources -->
 
-	<View id="han_toolbox_install_resources_main">
+	<View id="han_toolbox_install_resources_items">
 		<Attributes>
-			<Table key="han_toolbox_install_resources_pkg">
+			<Table key="han_toolbox_install_all_resources">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_file.png</String></Pair>
-				<Pair key="title_rsc"><String>han_toolbox_install_resources_pkg</String></Pair>
-				<Pair key="info_rsc"><String>han_toolbox_install_resources_pkg_info</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_install_all_resources</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_install_all_resources_info</String></Pair>
 			</Table>
-			<!--Table key="han_toolbox_install_coldboots_resources_pkg">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/inj_coldboot.png</String></Pair>
-				<Pair key="title_rsc"><String>han_toolbox_install_coldboots_resources_pkg</String></Pair>
-				<Pair key="info_rsc"><String>han_toolbox_install_coldboots_resources_pkg_info</String></Pair>
+			<Table key="han_toolbox_install_coldboots_resources">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/coldboot.png</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_install_coldboots_resources</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_install_coldboots_resources_info</String></Pair>
 			</Table>
-			<Table key="han_toolbox_install_demos_resources_pkg">
+			<Table key="han_toolbox_install_demos_resources">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/downloader.png</String></Pair>
-				<Pair key="title_rsc"><String>han_toolbox_install_demos_resources_pkg</String></Pair>
-				<Pair key="info_rsc"><String>han_toolbox_install_demos_resources_pkg_info</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_install_demos_resources</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_install_demos_resources_info</String></Pair>
 			</Table>
-			<Table key="han_toolbox_install_fonts_resources_pkg">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/inj_font.png</String></Pair>
-				<Pair key="title_rsc"><String>han_toolbox_install_fonts_resources_pkg</String></Pair>
-				<Pair key="info_rsc"><String>han_toolbox_install_fonts_resources_pkg_info</String></Pair>
+			<Table key="han_toolbox_install_fonts_resources">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/font.png</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_install_fonts_resources</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_install_fonts_resources_info</String></Pair>
 			</Table>
-			<Table key="han_toolbox_install_nopsn_resources_pkg">
+			<Table key="han_toolbox_install_nopsn_resources">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/nopsn.png</String></Pair>
-				<Pair key="title_rsc"><String>han_toolbox_install_nopsn_resources_pkg</String></Pair>
-				<Pair key="info_rsc"><String>han_toolbox_install_nopsn_resources_pkg_info</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_install_nopsn_resources</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_install_nopsn_resources_info</String></Pair>
 			</Table>
-			<Table key="han_toolbox_install_psn_resources_pkg">
+<!--			<Table key="han_toolbox_install_psn_resources">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/psn.png</String></Pair>
-				<Pair key="title_rsc"><String>han_toolbox_install_psn_resources_pkg</String></Pair>
-				<Pair key="info_rsc"><String>han_toolbox_install_psn_resources_pkg_info</String></Pair>
-			</Table>
-			<Table key="han_toolbox_install_themes_resources_pkg">
+				<Pair key="title_rsc"><String>han_toolbox_install_psn_resources</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_install_psn_resources_info</String></Pair>
+			</Table> -->
+			<Table key="han_toolbox_install_themes_resources">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/theme.png</String></Pair>
-				<Pair key="title_rsc"><String>han_toolbox_install_themes_resources_pkg</String></Pair>
-				<Pair key="info_rsc"><String>han_toolbox_install_themes_resources_pkg_info</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_install_themes_resources</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_install_themes_resources_info</String></Pair>
 			</Table>
-			<Table key="han_toolbox_install_wallpapers_resources_pkg">
+			<Table key="han_toolbox_install_wallpapers_resources">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/wallpaper.png</String></Pair>
-				<Pair key="title_rsc"><String>han_toolbox_install_wallpapers_resources_pkg</String></Pair>
-				<Pair key="info_rsc"><String>han_toolbox_install_wallpapers_resources_pkg_info</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_install_wallpapers_resources</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_install_wallpapers_resources_info</String></Pair>
 			</Table>
-			<Table key="han_toolbox_install_waves_resources_pkg">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/inj_wave.png</String></Pair>
-				<Pair key="title_rsc"><String>han_toolbox_install_waves_resources_pkg</String></Pair>
-				<Pair key="info_rsc"><String>han_toolbox_install_waves_resources_pkg_info</String></Pair>
-			</Table-->
+			<Table key="han_toolbox_install_waves_resources">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/wave.png</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_install_waves_resources</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_install_waves_resources_info</String></Pair>
+			</Table>
 		</Attributes>
 		<Items>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
-				key="han_toolbox_install_resources_pkg" 
-				attr="han_toolbox_install_resources_pkg"
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_stuff_downloader.xml#han_toolbox_install_resources_pkg_main"
-			/>
-			<!--Query 
-				class="type:x-xmb/folder-pixmap" 
-				key="han_toolbox_install_coldboots_resources_pkg" 
-				attr="han_toolbox_install_coldboots_resources_pkg"
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_stuff_downloader.xml#han_toolbox_install_coldboots_resources_pkg_main"
+				key="han_toolbox_install_all_resources" 
+				attr="han_toolbox_install_all_resources"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_stuff_downloader.xml#han_toolbox_resources_main"
 			/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
-				key="han_toolbox_install_demos_resources_pkg" 
-				attr="han_toolbox_install_demos_resources_pkg"
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_stuff_downloader.xml#han_toolbox_install_demos_resources_pkg_main"
+				key="han_toolbox_install_coldboots_resources" 
+				attr="han_toolbox_install_coldboots_resources"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_stuff_downloader.xml#han_toolbox_coldboots_resources_main"
 			/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
-				key="han_toolbox_install_fonts_resources_pkg" 
-				attr="han_toolbox_install_fonts_resources_pkg"
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_stuff_downloader.xml#han_toolbox_install_fonts_resources_pkg_main"
+				key="han_toolbox_install_demos_resources" 
+				attr="han_toolbox_install_demos_resources"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_stuff_downloader.xml#han_toolbox_demos_resources_main"
 			/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
-				key="han_toolbox_install_nopsn_resources_pkg" 
-				attr="han_toolbox_install_nopsn_resources_pkg"
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_stuff_downloader.xml#han_toolbox_install_nopsn_resources_pkg_main"
+				key="han_toolbox_install_fonts_resources" 
+				attr="han_toolbox_install_fonts_resources"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_stuff_downloader.xml#han_toolbox_fonts_resources_main"
 			/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
-				key="han_toolbox_install_psn_resources_pkg" 
+				key="han_toolbox_install_nopsn_resources" 
+				attr="han_toolbox_install_nopsn_resources"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_stuff_downloader.xml#han_toolbox_nopsn_resources_main"
+			/>
+<!--			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_toolbox_install_psn_resources" 
 				attr="han_toolbox_install_psn_resources_pkg"
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_stuff_downloader.xml#han_toolbox_install_psn_resources_pkg_main"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_stuff_downloader.xml#han_toolbox_psn_resources_main"
+			/> -->
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_toolbox_install_themes_resources" 
+				attr="han_toolbox_install_themes_resources"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_stuff_downloader.xml#han_toolbox_themes_resources_main"
 			/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
-				key="han_toolbox_install_themes_resources_pkg" 
-				attr="han_toolbox_install_themes_resources_pkg"
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_stuff_downloader.xml#han_toolbox_install_themes_resources_pkg_main"
+				key="han_toolbox_install_wallpapers_resources" 
+				attr="han_toolbox_install_wallpapers_resources"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_stuff_downloader.xml#han_toolbox_wallpapers_resources_main"
 			/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
-				key="han_toolbox_install_wallpapers_resources_pkg" 
-				attr="han_toolbox_install_wallpapers_resources_pkg"
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_stuff_downloader.xml#han_toolbox_install_wallpapers_resources_pkg_main"
+				key="han_toolbox_install_waves_resources" 
+				attr="han_toolbox_install_waves_resources"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_stuff_downloader.xml#han_toolbox_waves_resources_main"
 			/>
-			<Query 
-				class="type:x-xmb/folder-pixmap" 
-				key="han_toolbox_install_waves_resources_pkg" 
-				attr="han_toolbox_install_waves_resources_pkg"
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_stuff_downloader.xml#han_toolbox_install_waves_resources_pkg_main"
-			/-->
 		</Items>
 	</View>
 				
 <!-- Main Items > Toolbox Settings > Toolbox Resources > Uninstall Toolbox Resources -->
 			
-	<View id="han_toolbox_delete_resources_main">
+	<View id="han_toolbox_delete_resources_items">
 		<Attributes>
-			<Table key="han_toolbox_delete_resources_pkg">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/delete_folder.png</String></Pair>
-				<Pair key="title_rsc"><String>han_toolbox_delete_resources_pkg</String></Pair>
-				<Pair key="info_rsc"><String>han_toolbox_delete_resources_pkg_info</String></Pair>
+			<Table key="han_toolbox_delete_all_resources">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/delete_package.png</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_delete_all_resources</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_delete_all_resources_info</String></Pair>
 				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
 			</Table>
-			<Table key="han_toolbox_delete_downloader_resources_pkg">
+			<Table key="han_toolbox_delete_downloader_resources">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/delete_folder.png</String></Pair>
-				<Pair key="title_rsc"><String>han_toolbox_delete_downloader_resources_pkg</String></Pair>
-				<Pair key="info_rsc"><String>han_toolbox_delete_downloader_resources_pkg_info</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_delete_downloader_resources</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_delete_downloader_resources_info</String></Pair>
 				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
 			</Table>
 		</Attributes>
 		<Items>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
-				key="han_toolbox_delete_resources_pkg" 
-				attr="han_toolbox_delete_resources_pkg"
+				key="han_toolbox_delete_all_resources" 
+				attr="han_toolbox_delete_all_resources"
 				src="host://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/"
 				/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
-				key="han_toolbox_delete_downloader_resources_pkg" 
-				attr="han_toolbox_delete_downloader_resources_pkg"
+				key="han_toolbox_delete_downloader_resources" 
+				attr="han_toolbox_delete_downloader_resources"
 				src="host://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/"
 				/>
 		</Items>

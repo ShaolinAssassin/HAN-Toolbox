@@ -5,14 +5,14 @@
 		<Attributes>
 			<Table key="han_reboot_soft_auto_local">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/reboot.png</String></Pair>
-				<Pair key="title_rsc"><String>han_toolbox_soft_reboot</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_reboot_soft</String></Pair>
 				<Pair key="info_rsc"><String>han_toolbox_reboot_info</String></Pair>
 				<Pair key="module_name"><String>webrender_plugin</String></Pair>
 				<Pair key="module_action"><String>http://patch_ip/bin/PS3Xploit_files/pett/syscalls/power/soft_reboot.html</String></Pair>
 			</Table>
 			<Table key="han_reboot_hard_auto_local">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/reboot.png</String></Pair>
-				<Pair key="title_rsc"><String>han_toolbox_hard_reboot</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_reboot_hard</String></Pair>
 				<Pair key="info_rsc"><String>han_toolbox_reboot_info</String></Pair>
 				<Pair key="module_name"><String>webrender_plugin</String></Pair>
 				<Pair key="module_action"><String>http://patch_ip/bin/PS3Xploit_files/pett/syscalls/power/hard_reboot.html</String></Pair>
