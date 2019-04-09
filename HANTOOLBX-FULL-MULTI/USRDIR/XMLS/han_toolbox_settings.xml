@@ -76,12 +76,12 @@
 				<Pair key="info"><String>han_toolbox_check_lang_item_info</String></Pair>
 			</Table>
 			<Table key="han_toolbox_install_lang">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/faces.png</String></Pair>
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_faces.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_install_lang</String></Pair>
 				<Pair key="info_rsc"><String>han_toolbox_install_lang_info</String></Pair>
 			</Table>
 			<Table key="han_toolbox_uninstall_lang">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/delete.png</String></Pair>
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/delete_faces.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_uninstall_lang</String></Pair>
 				<Pair key="info_rsc"><String>han_toolbox_uninstall_lang_info</String></Pair>
 			</Table>
@@ -401,12 +401,12 @@
 				<Pair key="info_rsc"><String>han_toolbox_install_all_resources_info</String></Pair>
 			</Table>
 			<Table key="han_toolbox_install_coldboots_resources">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/coldboot.png</String></Pair>
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_coldboot.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_install_coldboots_resources</String></Pair>
 				<Pair key="info_rsc"><String>han_toolbox_install_coldboots_resources_info</String></Pair>
 			</Table>
 			<Table key="han_toolbox_install_demos_resources">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/downloader.png</String></Pair>
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_downloader.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_install_demos_resources</String></Pair>
 				<Pair key="info_rsc"><String>han_toolbox_install_demos_resources_info</String></Pair>
 			</Table>
@@ -416,27 +416,27 @@
 				<Pair key="info_rsc"><String>han_toolbox_install_fonts_resources_info</String></Pair>
 			</Table>
 			<Table key="han_toolbox_install_nopsn_resources">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/nopsn.png</String></Pair>
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_nopsn.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_install_nopsn_resources</String></Pair>
 				<Pair key="info_rsc"><String>han_toolbox_install_nopsn_resources_info</String></Pair>
 			</Table>
 <!--			<Table key="han_toolbox_install_psn_resources">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/psn.png</String></Pair>
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_psn.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_install_psn_resources</String></Pair>
 				<Pair key="info_rsc"><String>han_toolbox_install_psn_resources_info</String></Pair>
 			</Table> -->
 			<Table key="han_toolbox_install_themes_resources">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/theme.png</String></Pair>
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_theme.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_install_themes_resources</String></Pair>
 				<Pair key="info_rsc"><String>han_toolbox_install_themes_resources_info</String></Pair>
 			</Table>
 			<Table key="han_toolbox_install_wallpapers_resources">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/wallpaper.png</String></Pair>
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_wallpaper.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_install_wallpapers_resources</String></Pair>
 				<Pair key="info_rsc"><String>han_toolbox_install_wallpapers_resources_info</String></Pair>
 			</Table>
 			<Table key="han_toolbox_install_waves_resources">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/wave.png</String></Pair>
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_wave.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_install_waves_resources</String></Pair>
 				<Pair key="info_rsc"><String>han_toolbox_install_waves_resources_info</String></Pair>
 			</Table>

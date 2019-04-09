@@ -103,63 +103,54 @@
 
 <!-- han_toolbox_advanced_tools.xml // Main Items > Advanced Tools -->
 
+	<Text name="han_toolbox_database_rebuilder">Database Rebuilder</Text>
+	<Text name="han_toolbox_database_rebuilder_info">Rebuild database</Text>
 	<Text name="han_toolbox_file_copier">File Copier</Text>
 	<Text name="han_toolbox_file_copier_info">Transfer files between your PS3 and USB flash drive</Text>	
 	<Text name="han_toolbox_file_explorer">File Explorer</Text>
-	<Text name="han_toolbox_file_explorer_info">Browse complete file system and delete files (Be careful)</Text>
+	<Text name="han_toolbox_file_explorer_info">Browse complete file system and delete files</Text>
 	<Text name="han_toolbox_file_injector">File Injector</Text>
-	<Text name="han_toolbox_file_injector_info">Use for adding XMB mods to flash or other file operations (Be careful)</Text>
-	<Text name="han_toolbox_flash_mounter">Offline Flash Mounter</Text>
+	<Text name="han_toolbox_file_injector_info">Use for adding XMB mods to flash or other file operations</Text>
+	<Text name="han_toolbox_flash_mounter">Flash Mounter</Text>
 	<Text name="han_toolbox_flash_mounter_info">Mount dev_flash as dev_blind</Text>	
 	<Text name="han_toolbox_temperature_reader">Temperature Reader</Text>
 	<Text name="han_toolbox_temperature_reader_info">Display CELL and RSX temperature values</Text>
-	<Text name="han_toolbox_rebuild_db">Database Rebuilder</Text>
-	<Text name="han_toolbox_rebuild_db_info">Rebuild database (Be careful)</Text>
 	<Text name="han_toolbox_dex_xmb_setup">DEX XMB Setup</Text>
-	<Text name="han_toolbox_dex_xmb_setup_info">Add/Remove DEX settings etc (Be careful)</Text>
+	<Text name="han_toolbox_dex_xmb_setup_info">Add/Remove DEX settings etc</Text>
 
 <!-- han_toolbox_advanced_tools.xml // Main Items > Advanced Tools > File Browser -->
 
-	<Text name="han_toolbox_browse_dev_all">All active devices</Text>
+	<Text name="han_toolbox_browse_dev_all">All Active Devices</Text>
 	<Text name="han_toolbox_browse_dev_all_info">Browse/detele files on all active devices</Text>
 	<Text name="han_toolbox_browse_dev_hdd">Internal HDD</Text>
 	<Text name="han_toolbox_browse_dev_hdd_info">Browse/detele files on PS3 internal hard drive disk</Text>
-	<Text name="han_toolbox_browse_dev_flash">Internal flash memory</Text>
+	<Text name="han_toolbox_browse_dev_flash">Internal Flash Memory</Text>
 	<Text name="han_toolbox_browse_dev_flash_info">Browse/detele files on flash memory</Text>
-	<Text name="han_toolbox_browse_dev_usb">USB mass storage devices</Text>
+	<Text name="han_toolbox_browse_dev_usb">USB Mass Storage Devices</Text>
 	<Text name="han_toolbox_browse_dev_usb_info">Browse/detele files on USB devices</Text>
-	<Text name="han_toolbox_browse_dev_optical">Optical drive</Text>
+	<Text name="han_toolbox_browse_dev_optical">Optical Drive</Text>
 	<Text name="han_toolbox_browse_dev_optical_info">Browse files on optical disc</Text>
-	<Text name="han_toolbox_browse_toolbx_folder">Optical drive</Text>
-	<Text name="han_toolbox_browse_toolbx_folder_info">Browse files on optical disc</Text>
-	<Text name="han_toolbox_browse_downloaded_files">Downloaded files</Text>
-	<Text name="han_toolbox_browse_downloaded_files_info">Browse/detele files downloaded in HANTOOLBX/USRDIR/files/ folder</Text>
+	<Text name="han_toolbox_browse_toolbx_folder">HAN Toolbox Folder</Text>
+	<Text name="han_toolbox_browse_toolbx_folder_info">Browse/detele files in dev_hdd0/game/HANTOOLBX/ folder</Text>
 
 <!-- han_toolbox_advanced_tools.xml // Main Items > Advanced Tools > File Browser > Internal Flash Memory -->
 
-	<Text name="han_toolbox_browse_dev_flash1">Internal flash, partition n°1</Text>
-	<Text name="han_toolbox_browse_dev_flash1_info">Access dev_flash/ partition</Text>
-	<Text name="han_toolbox_browse_dev_flash2">Internal flash, partition n°2</Text>
-	<Text name="han_toolbox_browse_dev_flash2_info">Access dev_flash2/ partition</Text>
-	<Text name="han_toolbox_browse_dev_flash3">Internal flash, partition n°3</Text>
-	<Text name="han_toolbox_browse_dev_flash3_info">Access dev_flash3/ partition</Text>
-	<Text name="han_toolbox_browse_dev_blind">Writable internal flash, partition n°1</Text>
-	<Text name="han_toolbox_browse_dev_blind_info">Access dev_blind partition - do NOT delete any of these files</Text>
+	<Text name="han_toolbox_browse_dev_flash1">Internal Flash, Partition n°1</Text>
+	<Text name="han_toolbox_browse_dev_flash1_info">Access dev_flash partition</Text>
+	<Text name="han_toolbox_browse_dev_flash2">Internal Flash, Partition n°2</Text>
+	<Text name="han_toolbox_browse_dev_flash2_info">Access dev_flash2 partition</Text>
+	<Text name="han_toolbox_browse_dev_flash3">Internal Flash, Partition n°3</Text>
+	<Text name="han_toolbox_browse_dev_flash3_info">Access dev_flash3 partition</Text>
+	<Text name="han_toolbox_browse_dev_blind">Writable Internal Flash, Partition n°1</Text>
+	<Text name="han_toolbox_browse_dev_blind_info">Access dev_blind partition</Text>
 
 <!-- han_toolbox_advanced_tools.xml // Main Items > Advanced Tools > File Browser > USB Mass Storage Devices -->
 
 	<Text name="han_toolbox_browse_dev_usb000">Device n°0 (Right port)</Text>
-	<Text name="han_toolbox_browse_dev_usb000_info">Access dev_usb000/</Text>
+	<Text name="han_toolbox_browse_dev_usb000_info">Access dev_usb000</Text>
 	<Text name="han_toolbox_browse_dev_usb001">Device n°1 (Left port)</Text>
-	<Text name="han_toolbox_browse_dev_usb001_info">Access dev_usb0001</Text>
+	<Text name="han_toolbox_browse_dev_usb001_info">Access dev_usb001</Text>
 
-<!-- han_toolbox_advanced_tools.xml // Main Items > Advanced Tools > File Browser > Downloaded files -->
-
-	<Text name="han_toolbox_browse_downloaded_files_folder">HANTOOLBX/USRDIR/files/</Text>
-	<Text name="han_toolbox_browse_downloaded_files_folder_info">Access HANTOOLBX/USRDIR/files/</Text>
-	<Text name="han_toolbox_browse_downloaded_files_readme">Open readme</Text>
-	<Text name="han_toolbox_browse_downloaded_files_readme_info">Read downloaded files description</Text>	
-	
 <!-- han_toolbox_advanced_tools.xml // Main Items > Advanced Tools > File injector (online) -->
 
 	<Text name="han_toolbox_xreg_dumper_injector">xRegistry.sys Operations (Backup/Restore System Settings)</Text>
@@ -188,9 +179,9 @@
 <!-- han_toolbox_advanced_tools.xml // Main Items > Advanced Tools > File injector > xRegistry Operations (online) -->
 
 	<Text name="han_toolbox_dump_xregistry">Dump xRegistry.sys</Text>
-	<Text name="han_toolbox_dump_xregistry_info">Copy xRegistry.sys from dev_flash2/etc/ to USB</Text>
+	<Text name="han_toolbox_dump_xregistry_info">Copy xRegistry.sys from dev_flash2/etc/* to USB</Text>
 	<Text name="han_toolbox_inject_xregistry">Inject xRegistry.sys</Text>
-	<Text name="han_toolbox_inject_xregistry_info">Copy xRegistry.sys from USB to dev_flash2/etc/</Text>
+	<Text name="han_toolbox_inject_xregistry_info">Copy xRegistry.sys to dev_flash2/etc/*</Text>
 
 <!-- han_toolbox_advanced_tools.xml // Main Items > Advanced Tools > File injector > SPRX injector (online) -->
 
@@ -231,11 +222,11 @@
 <!-- han_toolbox_advanced_tools.xml // Main Items > Advanced Tools > DEX XMB Setup -->
 
 	<Text name="han_toolbox_debug_settings_installer">Debug Settings Installer/Remover</Text>
-	<Text name="han_toolbox_debug_settings_installer_info">Copy CEX or DEX Settings files from usb000/ to dev_flash</Text>
+	<Text name="han_toolbox_debug_settings_installer_info">Copy CEX or DEX Settings files from USB to dev_flash</Text>
 	<Text name="han_toolbox_debug_settings_toggler">Toggle Debug Settings</Text>
-	<Text name="han_toolbox_debug_settings_toggler_info">Copy sysconf_plugin.sprx from usb000/ to dev_flash</Text>
+	<Text name="han_toolbox_debug_settings_toggler_info">Copy sysconf_plugin.sprx from USB to dev_flash</Text>
 	<Text name="han_toolbox_toggle_ip">Toggle IP/Host info</Text>
-	<Text name="han_toolbox_toggle_ip_info">Copy xmb_plugin.sprx from usb000/ to dev_flash</Text>
+	<Text name="han_toolbox_toggle_ip_info">Copy xmb_plugin.sprx from USB to dev_flash</Text>
 
 <!-- han_toolbox_settings.xml // Main Items > Toolbox Settings -->
 

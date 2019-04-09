@@ -76,12 +76,12 @@
 				<Pair key="info"><String>Press  to see the list</String></Pair>
 			</Table>
 			<Table key="han_toolbox_install_lang">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/faces.png</String></Pair>
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_faces.png</String></Pair>
 				<Pair key="title"><String>Install Multi Language</String></Pair>
 				<Pair key="info"><String>Download and install the lang resources and reboot after</String></Pair>
 			</Table>
 			<Table key="han_toolbox_uninstall_lang">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/delete.png</String></Pair>
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/delete_faces.png</String></Pair>
 				<Pair key="title"><String>Remove Multi Language</String></Pair>
 				<Pair key="info"><String>Restore English language of HAN Toolbox and reboot after</String></Pair>
 			</Table>
@@ -401,42 +401,42 @@
 				<Pair key="info"><String>Download and install the full HAN Toolbox resources package and reboot after</String></Pair>
 			</Table>
 			<Table key="han_toolbox_install_coldboots_resources">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/coldboot.png</String></Pair>
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_coldboot.png</String></Pair>
 				<Pair key="title"><String>Download Coldboot Downloader Resources</String></Pair>
 				<Pair key="info"><String>Download and install the Coldboot Downloader resources package and reboot after</String></Pair>
 			</Table>
 			<Table key="han_toolbox_install_demos_resources">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/downloader.png</String></Pair>
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_downloader.png</String></Pair>
 				<Pair key="title"><String>Download Demo Downloader Resources</String></Pair>
 				<Pair key="info"><String>Download and install the Demo Downloader resources package and reboot after</String></Pair>
 			</Table>
 			<Table key="han_toolbox_install_fonts_resources">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/font.png</String></Pair>
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_font.png</String></Pair>
 				<Pair key="title"><String>Download Font Downloader Resources</String></Pair>
 				<Pair key="info"><String>Download and install the Font Downloader resources package and reboot after</String></Pair>
 			</Table>
 			<Table key="han_toolbox_install_nopsn_resources">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/nopsn.png</String></Pair>
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_nopsn.png</String></Pair>
 				<Pair key="title"><String>Download NoPSN Apps Downloader Resources</String></Pair>
 				<Pair key="info"><String>Download and install the NoPSN Apps Downloader resources package and reboot after</String></Pair>
 			</Table>
 <!--			<Table key="han_toolbox_install_psn_resources">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/psn.png</String></Pair>
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_psn.png</String></Pair>
 				<Pair key="title"><String>Download PSN Apps Downloader Resources</String></Pair>
 				<Pair key="info"><String>Download and install the PSN Apps Downloader resources package and reboot after</String></Pair>
 			</Table> -->
 			<Table key="han_toolbox_install_themes_resources">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/theme.png</String></Pair>
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_theme.png</String></Pair>
 				<Pair key="title"><String>Download Theme Downloader Resources</String></Pair>
 				<Pair key="info"><String>Download and install the Theme Downloader resources package and reboot after</String></Pair>
 			</Table>
 			<Table key="han_toolbox_install_wallpapers_resources">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/wallpaper.png</String></Pair>
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_wallpaper.png</String></Pair>
 				<Pair key="title"><String>Download Wallpaper Downloader Resources</String></Pair>
 				<Pair key="info"><String>Download and install the Wallpaper Downloader resources package and reboot after</String></Pair>
 			</Table>
 			<Table key="han_toolbox_install_waves_resources">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/wave.png</String></Pair>
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_wave.png</String></Pair>
 				<Pair key="title"><String>Download Wave Downloader Resources</String></Pair>
 				<Pair key="info"><String>Download and install the Wave Downloader resources package and reboot after</String></Pair>
 			</Table>
