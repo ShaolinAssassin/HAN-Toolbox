@@ -321,6 +321,13 @@
 	<Text name="han_toolbox_demos_shooter">Shooter</Text>
 	<Text name="han_toolbox_demos_sports">Sports</Text>
 	<Text name="han_toolbox_demos_strategy">Strategy</Text>
+	
+<!-- han_toolbox_font_downloader.xml // Main Items > External Content > Font Downloader -->
+
+	<Text name="han_toolbox_download_TTF_font">Step 1: Download Font file</Text>
+	<Text name="han_toolbox_download_TTF_font_info">Download SCE-PS3-RD-R-LATIN2.TTF to HANTOOLBX/USRDIR/files/ ready for installation</Text>
+	<Text name="han_toolbox_inject_TTF_font">Step 2: Inject Font file</Text>
+	<Text name="han_toolbox_inject_TTF_font_info">Copy downloaded SCE-PS3-RD-R-LATIN2.TTF from HANTOOLBX/USRDIR/files to dev_flash/data/font/*.TTF</Text>	
 
 <!-- han_toolbox_nopsn_downloader.xml // Main Items > External Content > NoPSN Downloader -->
 

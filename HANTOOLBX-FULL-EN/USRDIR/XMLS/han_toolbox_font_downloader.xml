@@ -1,0 +1,36 @@
+<XMBML version="1.0">
+
+<!-- Main Items > External Content > Font Downloader -->
+	
+	<View id="font_downloader_items">
+		<Attributes>
+			<Table key="download_TTF_font">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/font.png</String></Pair>
+				<Pair key="title"><String>Step 1: Download Font file</String></Pair>
+				<Pair key="info"><String>Download SCE-PS3-RD-R-LATIN2.TTF to HANTOOLBX/USRDIR/files/ ready for installation</String></Pair>
+				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
+			</Table>
+			<Table key="inject_TTF_font">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/inj_font.png</String></Pair>
+				<Pair key="title"><String>Step 2: Inject Font file</String></Pair>
+				<Pair key="info"><String>Copy downloaded SCE-PS3-RD-R-LATIN2.TTF from HANTOOLBX/USRDIR/files to dev_flash/data/font/*.TTF</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://ps3xploit.com/hfw/flash_font_replacer/flash_font_replacer.html</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query 
+				class="type:x-xmb/folder-pixmap"
+				key="download_TTF_font" 
+				attr="download_TTF_font"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/FONTS/XMLS/font_downloader.xml#font_downloader_items"
+				/>
+			<Query 
+				class="type:x-xmb/module-action" 
+				key="inject_TTF_font" 
+				attr="inject_TTF_font"
+				/>
+		</Items>
+	</View>
+			
+</XMBML>

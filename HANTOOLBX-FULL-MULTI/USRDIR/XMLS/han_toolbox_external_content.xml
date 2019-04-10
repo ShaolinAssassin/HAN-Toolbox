@@ -77,7 +77,7 @@
 				class="type:x-xmb/folder-pixmap"
 				key="font_downloader"
 				attr="font_downloader"
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/FONTS/XMLS/font_downloader.xml#font_downloader_items"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_font_downloader.xml#font_downloader_items"
 				/>
 			<Query
 				class="type:x-xmb/folder-pixmap"
@@ -177,7 +177,7 @@
 				class="type:x-xmb/folder-pixmap"
 				key="coldboot_downloader_dex"
 				attr="coldboot_downloader_dex"
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/XMLS/coldboot_downloader.xml#coldboot_downloader_items_dex"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_coldboot_downloader.xml#coldboot_downloader_items_dex"
 				/>
 			<Query
 				class="type:x-xmb/folder-pixmap"
@@ -189,7 +189,7 @@
 				class="type:x-xmb/folder-pixmap"
 				key="font_downloader"
 				attr="font_downloader"
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/FONTS/XMLS/font_downloader.xml#font_downloader_items"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_font_downloader.xml#font_downloader_items"
 				/>
 			<Query
 				class="type:x-xmb/folder-pixmap"
@@ -219,7 +219,7 @@
 				class="type:x-xmb/folder-pixmap"
 				key="wave_downloader_dex"
 				attr="wave_downloader_dex"
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/WAVES/XMLS/wave_downloader.xml#wave_downloader_items_dex"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_wave_downloader.xml#wave_downloader_items_dex"
 				/>
 		</Items>
 	</View>
