@@ -5,7 +5,7 @@
 	<View id="wave_downloader_items">
 		<Attributes>
 			<Table key="download_lines">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/wave.png</String></Pair>
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/download_wave.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_download_lines</String></Pair>
 				<Pair key="info_rsc"><String>han_toolbox_download_lines_info</String></Pair>
 				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
@@ -38,7 +38,7 @@
 	<View id="wave_downloader_items_dex">
 		<Attributes>
 			<Table key="download_lines">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/wave.png</String></Pair>
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/download_wave.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_download_lines</String></Pair>
 				<Pair key="info_rsc"><String>han_toolbox_download_lines_info</String></Pair>
 				<Pair key="str_noitem"><String>msg_no_data</String></Pair>

@@ -5,7 +5,7 @@
 	<View id="wave_downloader_items">
 		<Attributes>
 			<Table key="download_lines">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/wave.png</String></Pair>
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/download_wave.png</String></Pair>
 				<Pair key="title"><String>Step 1: Download Lines.qrc file (Wave)</String></Pair>
 				<Pair key="info"><String>Download lines.qrc to HANTOOLBX/USRDIR/files/ ready for installation</String></Pair>
 				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
@@ -38,7 +38,7 @@
 	<View id="wave_downloader_items_dex">
 		<Attributes>
 			<Table key="download_lines">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/wave.png</String></Pair>
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/download_wave.png</String></Pair>
 				<Pair key="title"><String>Step 1: Download Lines.qrc file (Wave)</String></Pair>
 				<Pair key="info"><String>Download lines.qrc to HANTOOLBX/USRDIR/files/ ready for installation</String></Pair>
 				<Pair key="str_noitem"><String>msg_no_data</String></Pair>

@@ -5,7 +5,7 @@
 	<View id="font_downloader_items">
 		<Attributes>
 			<Table key="download_TTF_font">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/font.png</String></Pair>
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/download_font.png</String></Pair>
 				<Pair key="title"><String>Step 1: Download Font file</String></Pair>
 				<Pair key="info"><String>Download SCE-PS3-RD-R-LATIN2.TTF to HANTOOLBX/USRDIR/files/ ready for installation</String></Pair>
 				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
