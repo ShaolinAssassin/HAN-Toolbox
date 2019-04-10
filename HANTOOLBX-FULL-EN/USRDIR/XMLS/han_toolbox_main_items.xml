@@ -46,7 +46,7 @@
 				<Pair key="info"><String>Be careful with items in here</String></Pair>
 			</Table>
 			<Table key="han_toolbox_setup">
-				<Pair key="icon"><String>http://raw.githubusercontent.com/ShaolinAssassin/HAN-Toolbox/master/update_status/v0.7-fixed-settings.png</String></Pair>
+				<Pair key="icon"><String>http://raw.githubusercontent.com/ShaolinAssassin/HAN-Toolbox/master/update_status/v0.7.1-settings.png</String></Pair>
 				<Pair key="title"><String>Toolbox Settings</String></Pair>
 				<Pair key="info"><String>Version info, Resources download, Updates, Languages</String></Pair>
 			</Table>
@@ -139,7 +139,7 @@
 				<Pair key="info"><String>Be careful with items in here</String></Pair>
 			</Table>
 			<Table key="han_toolbox_setup">
-				<Pair key="icon"><String>http://raw.githubusercontent.com/ShaolinAssassin/HAN-Toolbox/master/update_status/v0.7-fixed-settings.png</String></Pair>
+				<Pair key="icon"><String>http://raw.githubusercontent.com/ShaolinAssassin/HAN-Toolbox/master/update_status/v0.7.1-settings.png</String></Pair>
 				<Pair key="title"><String>Toolbox Settings</String></Pair>
 				<Pair key="info"><String>Version info, Resources download, Updates, Languages</String></Pair>
 			</Table>

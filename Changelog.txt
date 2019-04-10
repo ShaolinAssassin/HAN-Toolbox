@@ -1,7 +1,16 @@
+* v0.7.1 (2019/04/10) :
+-Offline HAN Enabler & Debug PKG Enabler updated, allowing batch PKG installation - thanks to habib, Joonie & lmn7
+-Offline Flash Mounter added - thanks to lmn7
+-PS3Xploit Basic tools urls updated (auto now)
+-Coldboot/Font/Wave Downloaders reworked (2-steps process + Coldboot & Wave Downloaders use auto pages - thanks esc0rtd3w)
+-All Resources can be downloaded individually by type
+-DEX support enabled back
+-Misc other stuff
+
 * v0.7 (2019/03/24) :
--Offline Rebooter, HAN Enabler, Debug PKG Enabler updated to also support 4.84 - thanks to Imn7
--Offline 4.84 File Copier added - thanks to Imn7
--Offline Temperature Reader & Database Rebuilder (4.82/4.84) added - thanks to Imn7
+-Offline Rebooter, HAN Enabler, Debug PKG Enabler updated to also support 4.84 - thanks to lmn7
+-Offline 4.84 File Copier added - thanks to lmn7
+-Offline Temperature Reader & Database Rebuilder (4.82/4.84) added - thanks to lmn7
 -PS3Xploit Basic tools urls updated (not auto though) - 4.81-4.84 OFW/CFW/HFW Firmware supported and working (site updated)
 -PS3Xploit Extra tools urls updated (site not updated yet to support 4.81-4.84 OFW/CFW/HFW Firmware - be patient)
 -Coldboot/Font/Wave Downloaders added - thanks to 0_obeWAN for the resources
@@ -19,7 +28,7 @@ New languages available:
 -Portuguese (Portugal) - translation by FmTGamer & Naked_Snake1995, revised by Tkit
 
 * v0.6.2 (2019/01/03) :
--File copier updated - by Imn7. Details here: http://www.psx-place.com/threads/update-han-toolbox-v0-6-released-by-shaolinassassin-3-new-versions-choices-other-new-features.21864/#post-150922
+-File copier updated - by lmn7. Details here: http://www.psx-place.com/threads/update-han-toolbox-v0-6-released-by-shaolinassassin-3-new-versions-choices-other-new-features.21864/#post-150922
 New languages available:
 -Chinese (Simplified) - translation by Ding xiansheng
 -French - translation by ShaolinAssassin

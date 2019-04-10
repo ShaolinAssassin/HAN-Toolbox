@@ -46,7 +46,7 @@
 				<Pair key="info_rsc"><String>han_toolbox_advanced_tools_info</String></Pair>
 			</Table>
 			<Table key="han_toolbox_setup">
-				<Pair key="icon"><String>http://raw.githubusercontent.com/ShaolinAssassin/HAN-Toolbox/master/update_status/v0.7-settings.png</String></Pair>
+				<Pair key="icon"><String>http://raw.githubusercontent.com/ShaolinAssassin/HAN-Toolbox/master/update_status/v0.7.1-settings.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_settings</String></Pair>
 				<Pair key="info_rsc"><String>han_toolbox_settings_info</String></Pair>
 			</Table>	
@@ -139,7 +139,7 @@
 				<Pair key="info_rsc"><String>han_toolbox_advanced_tools_info</String></Pair>
 			</Table>
 			<Table key="han_toolbox_setup">
-				<Pair key="icon"><String>http://raw.githubusercontent.com/ShaolinAssassin/HAN-Toolbox/master/update_status/v0.7-settings.png</String></Pair>
+				<Pair key="icon"><String>http://raw.githubusercontent.com/ShaolinAssassin/HAN-Toolbox/master/update_status/v0.7.1-settings.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_settings</String></Pair>
 				<Pair key="info_rsc"><String>han_toolbox_settings_info</String></Pair>
 			</Table>	
