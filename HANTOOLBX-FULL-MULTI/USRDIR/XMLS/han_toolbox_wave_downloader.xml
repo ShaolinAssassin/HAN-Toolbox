@@ -1,0 +1,69 @@
+<XMBML version="1.0">
+
+<!-- Main Items > External Content > Wave Downloader (CEX) -->
+	
+	<View id="wave_downloader_items">
+		<Attributes>
+			<Table key="download_lines">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/wave.png</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_download_lines</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_download_lines_info</String></Pair>
+				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
+			</Table>
+			<Table key="inject_lines_auto">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/inj_wave.png</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_inject_lines_auto</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_inject_lines_auto_info</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://ps3xploit.com/hfw/autoxml/han/extras/xmb_wave_installer/xmb_wave_installer_auto_hantoolbx.html</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query 
+				class="type:x-xmb/folder-pixmap"
+				key="download_lines" 
+				attr="download_lines"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/WAVES/XMLS/wave_downloader.xml#wave_downloader_items"
+				/>
+			<Query 
+				class="type:x-xmb/module-action" 
+				key="inject_lines_auto" 
+				attr="inject_lines_auto"
+				/>
+		</Items>
+	</View>
+	
+<!-- Main Items > External Content > Wave Downloader (DEX) -->
+	
+	<View id="wave_downloader_items_dex">
+		<Attributes>
+			<Table key="download_lines">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/wave.png</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_download_lines</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_download_lines_info</String></Pair>
+				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
+			</Table>
+			<Table key="inject_lines_auto_dex">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/inj_wave.png</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_inject_lines_auto</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_inject_lines_auto_info</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://ps3xploit.com/hfw/autoxml/han/extras/xmb_wave_installer/xmb_wave_installer_auto_hantoolbx_dex.html</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query 
+				class="type:x-xmb/folder-pixmap"
+				key="download_lines" 
+				attr="download_lines"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/WAVES/XMLS/wave_downloader.xml#wave_downloader_items"
+				/>
+			<Query 
+				class="type:x-xmb/module-action" 
+				key="inject_lines_auto_dex" 
+				attr="inject_lines_auto_dex"
+				/>
+		</Items>
+	</View>
+		
+</XMBML>

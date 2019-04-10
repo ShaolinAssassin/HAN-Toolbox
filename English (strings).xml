@@ -295,6 +295,13 @@
 	<Text name="han_toolbox_delete_downloader_resources">Delete Downloader Resources</Text>
 	<Text name="han_toolbox_delete_downloader_resources_info">Press  to access HAN Toolbox RESOURCES folder and unlink any of the downloader folders</Text>
 
+<!-- han_toolbox_coldboot_downloader.xml // Main Items > External Content > Coldboot Downloader -->
+
+	<Text name="han_toolbox_download_coldboot_raf">Step 1: Download Coldboot files</Text>
+	<Text name="han_toolbox_download_coldboot_raf_info">Download coldboot_*.* to HANTOOLBX/USRDIR/files/ ready for installation</Text>
+	<Text name="han_toolbox_inject_coldboot_raf_auto">Step 2: Inject Coldboot files</Text>
+	<Text name="han_toolbox_inject_coldboot_raf_auto_info">Copy downloaded coldboot_*.* from HANTOOLBX/USRDIR/files to dev_flash/vsh/resource/coldboot_*.*</Text>	
+	
 <!-- han_toolbox_demo_downloader.xml // Main Items > External Content > Demo Downloader -->
 
 	<Text name="han_toolbox_demos_eu">EU Demos</Text>
@@ -344,6 +351,13 @@
 	<Text name="han_toolbox_plain">Plain</Text>
 	<Text name="han_toolbox_space">Space</Text>
 	<Text name="han_toolbox_unsorted">Unsorted</Text>
+	
+<!-- han_toolbox_wave_downloader.xml // Main Items > External Content > Wave Downloader -->
+
+	<Text name="han_toolbox_download_coldboot_raf">Step 1: Download Lines.qrc file (Wave)</Text>
+	<Text name="han_toolbox_download_coldboot_raf_info">Download lines.qrc to HANTOOLBX/USRDIR/files/ ready for installation</Text>
+	<Text name="han_toolbox_inject_coldboot_raf_auto">Step 2: Inject Lines.qrc file</Text>
+	<Text name="han_toolbox_inject_coldboot_raf_auto_info">Copy downloaded lines.qrc from HANTOOLBX/USRDIR/files to dev_flash/vsh/resource/qgl/lines.qrc</Text>	
 
 <!-- server_setup.templet -->
 	

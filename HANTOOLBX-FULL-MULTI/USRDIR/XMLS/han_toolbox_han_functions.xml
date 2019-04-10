@@ -1,6 +1,6 @@
 <XMBML version="1.0">
 
-<!-- Main Items > HAN functions (online CEX HFW 4.84) -->
+<!-- Main Items > HAN functions (online CEX 4.81 - 4.84 OFW/CFW/HFW Firmware) -->
 		
 	<View id="han_functions_main">
 		<Attributes>
@@ -105,7 +105,7 @@
 		</Items>
 	</View>
 		
-<!-- Main Items > HAN functions (online DEX HFW 4.84) -->
+<!-- Main Items > HAN functions (online DEX 4.81 - 4.84 OFW/CFW/HFW Firmware) -->
 		
 	<View id="han_functions_dex_main">
 		<Attributes>

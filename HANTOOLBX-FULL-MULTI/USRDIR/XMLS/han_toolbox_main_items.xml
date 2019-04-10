@@ -111,7 +111,7 @@
 				<Pair key="module_name"><String>webrender_plugin</String></Pair>
 				<Pair key="module_action"><String>http://ps3xploit.com/autoxml/pett/syscalls/soft_reboot_dex.html</String></Pair>
 			</Table>
-			<Table key="han_enabler_auto_main_dex">
+			<Table key="han_enabler_auto_dex_main">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/han_enable.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_enabler</String></Pair>
 				<Pair key="info_rsc"><String>han_toolbox_enabler_info</String></Pair>
@@ -128,7 +128,7 @@
 				<Pair key="title_rsc"><String>han_toolbox_functions_local</String></Pair>
 				<Pair key="info_rsc"><String>han_toolbox_functions_local_info</String></Pair>
 			</Table>
-			<Table key="han_external_content">
+			<Table key="han_external_content_dex">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/server.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_external_content</String></Pair>
 				<Pair key="info_rsc"><String>han_toolbox_external_content_info</String></Pair>
@@ -152,8 +152,8 @@
 				/>
 			<Query 
 				class="type:x-xmb/module-action"
-				key="han_enabler_auto_main_dex"
-				attr="han_enabler_auto_main_dex"
+				key="han_enabler_auto_dex_main"
+				attr="han_enabler_auto_dex_main"
 				/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
@@ -169,9 +169,9 @@
 				/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
-				key="han_external_content" 
-				attr="han_external_content"
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_external_content.xml#han_external_content_main"
+				key="han_external_content_dex" 
+				attr="han_external_content_dex"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_external_content.xml#han_external_content_dex_main"
 				/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 

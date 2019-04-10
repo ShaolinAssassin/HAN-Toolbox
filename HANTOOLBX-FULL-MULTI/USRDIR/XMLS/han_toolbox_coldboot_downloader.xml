@@ -1,0 +1,69 @@
+<XMBML version="1.0">
+
+<!-- Main Items > External Content > Coldboot Downloader (CEX) -->
+	
+	<View id="coldboot_downloader_items">
+		<Attributes>
+			<Table key="download_coldboot_raf">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/coldboot.png</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_download_coldboot_raf</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_download_coldboot_raf_info</String></Pair>
+				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
+			</Table>
+			<Table key="inject_coldboot_raf_auto">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/inj_coldboot.png</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_inject_coldboot_raf_auto</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_inject_coldboot_raf_auto_info</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://ps3xploit.com/hfw/autoxml/han/extras/coldboot_installer/coldboot_installer_auto_hantoolbx.html</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query 
+				class="type:x-xmb/folder-pixmap"
+				key="download_coldboot_raf" 
+				attr="download_coldboot_raf"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/XMLS/coldboot_downloader.xml#coldboot_downloader_items"
+				/>
+			<Query 
+				class="type:x-xmb/module-action" 
+				key="inject_coldboot_raf_auto" 
+				attr="inject_coldboot_raf_auto"
+				/>
+		</Items>
+	</View>
+	
+<!-- Main Items > External Content > Coldboot Downloader (DEX) -->
+	
+	<View id="coldboot_downloader_items_dex">
+		<Attributes>
+			<Table key="download_coldboot_raf">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/coldboot.png</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_download_coldboot_raf</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_download_coldboot_raf_info</String></Pair>
+				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
+			</Table>
+			<Table key="inject_coldboot_raf_auto_dex">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/inj_coldboot.png</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_inject_coldboot_raf_auto</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_inject_coldboot_raf_auto_info</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://ps3xploit.com/hfw/autoxml/han/extras/coldboot_installer/coldboot_installer_auto_hantoolbx_dex.html</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query 
+				class="type:x-xmb/folder-pixmap"
+				key="download_coldboot_raf" 
+				attr="download_coldboot_raf"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/XMLS/coldboot_downloader.xml#coldboot_downloader_items"
+				/>
+			<Query 
+				class="type:x-xmb/module-action" 
+				key="inject_coldboot_raf_auto_dex" 
+				attr="inject_coldboot_raf_auto_dex"
+				/>
+		</Items>
+	</View>
+		
+</XMBML>

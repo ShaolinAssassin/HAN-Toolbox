@@ -295,7 +295,7 @@
 		</Items>
 	</View>
 	
-<!-- Main Items > Advanced Tools > File injector (online) -->
+<!-- Main Items > Advanced Tools > File injector (CEX/DEX 4.81 - 4.84 OFW/CFW/HFW Firmware) -->
 		
 	<View id="han_file_injector_items">
 		<Attributes>
@@ -431,7 +431,7 @@
 		</Items>
 	</View>
 		
-<!-- Main Items > Advanced Tools > File injector > xRegistry Operations (online) -->
+<!-- Main Items > Advanced Tools > File injector > xRegistry Operations (CEX/DEX 4.81 - 4.84 OFW/CFW/HFW Firmware) -->
 		
 	<View id="han_xreg_dumper_injector_items">
 		<Attributes>
@@ -464,7 +464,7 @@
 		</Items>
 	</View>
 
-<!-- Main Items > Advanced Tools > File injector > SPRX injector (online) -->
+<!-- Main Items > Advanced Tools > File injector > SPRX injector (CEX/DEX 4.81 - 4.84 OFW/CFW/HFW Firmware) -->
 		
 	<View id="han_inject_sprx_items">
 		<Attributes>
@@ -509,7 +509,7 @@
 		</Items>
 	</View>
 		
-<!-- Main Items > Advanced Tools > File injector > SELF injector (online) -->
+<!-- Main Items > Advanced Tools > File injector > SELF injector (CEX/DEX 4.81 - 4.84 OFW/CFW/HFW Firmware) -->
 		
 	<View id="han_inject_self_items">
 		<Attributes>
@@ -578,7 +578,7 @@
 		</Items>
 	</View>
 
-<!-- Main Items > Advanced Tools > File injector > Font TTF injector (online) -->
+<!-- Main Items > Advanced Tools > File injector > Font TTF injector (CEX/DEX 4.81 - 4.84 OFW/CFW/HFW Firmware) -->
 		
 	<View id="han_inject_font_items">
 		<Attributes>
@@ -611,7 +611,7 @@
 		</Items>
 	</View>
 		
-<!-- Main Items > Advanced Tools > File injector > Cert injector (online) -->
+<!-- Main Items > Advanced Tools > File injector > Cert injector (CEX/DEX 4.81 - 4.84 OFW/CFW/HFW Firmware) -->
 		
 	<View id="han_inject_remove_cert_items">
 		<Attributes>

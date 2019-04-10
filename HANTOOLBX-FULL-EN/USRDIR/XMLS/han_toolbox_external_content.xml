@@ -1,6 +1,6 @@
 <XMBML version="1.0">
 
-<!-- Main Items > External Content -->
+<!-- Main Items > External Content (CEX) -->
 			
 	<View id="han_external_content_main">
 		<Attributes>
@@ -65,7 +65,7 @@
 				class="type:x-xmb/folder-pixmap"
 				key="coldboot_downloader"
 				attr="coldboot_downloader"
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/COLDBOOTS/XMLS/coldboot_downloader.xml#coldboot_downloader_items"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_coldboot_downloader.xml#coldboot_downloader_items"
 				/>
 			<Query
 				class="type:x-xmb/folder-pixmap"
@@ -107,7 +107,119 @@
 				class="type:x-xmb/folder-pixmap"
 				key="wave_downloader"
 				attr="wave_downloader"
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/WAVES/XMLS/wave_downloader.xml#wave_downloader_items"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_wave_downloader.xml#wave_downloader_items"
+				/>
+		</Items>
+	</View>
+	
+<!-- Main Items > External Content (DEX) -->
+			
+	<View id="han_external_content_dex_main">
+		<Attributes>
+			<Table key="pkg_linker">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/server.png</String></Pair>
+				<Pair key="title"><String>Install Packages From Webserver</String></Pair>
+				<Pair key="info"><String>Download and install packages from your PC via PKG Linker (pkg)</String></Pair>
+				<Pair key="child"><String>segment</String></Pair>
+			</Table>
+			<Table key="coldboot_downloader_dex">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/coldboot.png</String></Pair>
+				<Pair key="title"><String>Coldboot Downloader</String></Pair>
+				<Pair key="info"><String>Download and install coldboots (Boot Logo and Sound)</String></Pair>
+				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
+			</Table>
+			<Table key="demo_downloader">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/downloader.png</String></Pair>
+				<Pair key="title"><String>Demo Downloader</String></Pair>
+				<Pair key="info"><String>Try PSN games before you buy with demo downloader (pkg)</String></Pair>
+			</Table>
+			<Table key="font_downloader">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/font.png</String></Pair>
+				<Pair key="title"><String>Font Downloader</String></Pair>
+				<Pair key="info"><String>Download and install fonts (TTF/ttf)</String></Pair>
+				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
+			</Table>
+			<Table key="nopsn_downloader">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/nopsn.png</String></Pair>
+				<Pair key="title"><String>NoPSN Apps Downloader</String></Pair>
+				<Pair key="info"><String>Download and install NoPSN HAN compatible Apps (pkg)</String></Pair>
+			</Table>
+			<!--Table key="psn_downloader">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/</String></Pair>
+				<Pair key="title"><String>PSN Apps Downloader</String></Pair>
+				<Pair key="info"><String>Download and install PSN Apps (pkg) (PSN login required, use a proxy)</String></Pair>
+			</Table-->
+			<Table key="theme_downloader">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/theme.png</String></Pair>
+				<Pair key="title"><String>Theme Downloader</String></Pair>
+				<Pair key="info"><String>Download and install themes (p3t)</String></Pair>
+			</Table>
+			<Table key="wallpaper_downloader">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/wallpaper.png</String></Pair>
+				<Pair key="title"><String>Wallpaper Downloader</String></Pair>
+				<Pair key="info"><String>Preview and download backgrounds (jpg)</String></Pair>
+			</Table>
+			<Table key="wave_downloader_dex">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/wave.png</String></Pair>
+				<Pair key="title"><String>Wave Downloader</String></Pair>
+				<Pair key="info"><String>Download and install waves (lines.qrc)</String></Pair>
+				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+				<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="pkg_linker" 
+				attr="pkg_linker"
+				src="#pkg_linker_items"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="coldboot_downloader_dex"
+				attr="coldboot_downloader_dex"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_coldboot_downloader.xml#coldboot_downloader_items_dex"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="demo_downloader"
+				attr="demo_downloader"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_demo_downloader.xml#demo_downloader_items"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="font_downloader"
+				attr="font_downloader"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/FONTS/XMLS/font_downloader.xml#font_downloader_items"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="nopsn_downloader"
+				attr="nopsn_downloader"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_nopsn_downloader.xml#nopsn_downloader_items"
+				/>
+			<!--Query
+				class="type:x-xmb/folder-pixmap"
+				key="psn_downloader"
+				attr="psn_downloader"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_psn_downloader.xml#psn_downloader_items"
+				/-->
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="theme_downloader" 
+				attr="theme_downloader"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_theme_downloader.xml#theme_downloader_items"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="wallpaper_downloader"
+				attr="wallpaper_downloader"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_wallpaper_downloader.xml#wallpaper_downloader_items"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="wave_downloader_dex"
+				attr="wave_downloader_dex"
+				src="xmb://localhost/dev_hdd0/game/USRDIR/XMLS/han_toolbox_wave_downloader.xml#wave_downloader_items_dex"
 				/>
 		</Items>
 	</View>
