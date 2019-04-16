@@ -1,0 +1,33 @@
+<XMBML version="1.0">
+
+<!-- Main Items > External Content > PKG Linker 2.1+ Paths -->
+		
+	<View id="pkg_linker_main">
+		<Items>
+			<Query class="type:x-xmb/folder-pixmap" key="server_setup" attr="server_setup" src="xmb://localhost/dev_hdd0/game/PKGLINKER/USRDIR/server_setup.xml#server_setup_items"/>			
+			<Query class="type:x-xmb/folder-pixmap" key="pkg_folder_1" attr="pkg_folder_1" src="xmb://localhost/dev_hdd0/game/PKGLINKER/USRDIR/pkg_folder_1.xml#package_link_game"/>
+			<Query class="type:x-xmb/folder-pixmap" key="pkg_folder_2" attr="pkg_folder_2" src="xmb://localhost/dev_hdd0/game/PKGLINKER/USRDIR/pkg_folder_2.xml#package_link_game"/>
+			<Query class="type:x-xmb/folder-pixmap" key="pkg_folder_3" attr="pkg_folder_3" src="xmb://localhost/dev_hdd0/game/PKGLINKER/USRDIR/pkg_folder_3.xml#package_link_game"/>
+			<Query class="type:x-xmb/folder-pixmap" key="pkg_folder_4" attr="pkg_folder_4" src="xmb://localhost/dev_hdd0/game/PKGLINKER/USRDIR/pkg_folder_4.xml#package_link_game"/>
+			<Query class="type:x-xmb/folder-pixmap" key="pkg_folder_5" attr="pkg_folder_5" src="xmb://localhost/dev_hdd0/game/PKGLINKER/USRDIR/pkg_folder_5.xml#package_link_game"/>
+			<Query class="type:x-xmb/folder-pixmap" key="pkg_folder_6" attr="pkg_folder_6" src="xmb://localhost/dev_hdd0/game/PKGLINKER/USRDIR/pkg_folder_6.xml#package_link_game"/>
+			<Query class="type:x-xmb/folder-pixmap" key="pkg_folder_7" attr="pkg_folder_7" src="xmb://localhost/dev_hdd0/game/PKGLINKER/USRDIR/pkg_folder_7.xml#package_link_game"/>
+			<Query class="type:x-xmb/folder-pixmap" key="pkg_folder_8" attr="pkg_folder_8" src="xmb://localhost/dev_hdd0/game/PKGLINKER/USRDIR/pkg_folder_8.xml#package_link_game"/>
+			<Query class="type:x-xmb/folder-pixmap" key="pkg_folder_9" attr="pkg_folder_9" src="xmb://localhost/dev_hdd0/game/PKGLINKER/USRDIR/pkg_folder_9.xml#package_link_game"/>
+			<Query class="type:x-xmb/folder-pixmap" key="pkg_folder_10" attr="pkg_folder_10" src="xmb://localhost/dev_hdd0/game/PKGLINKER/USRDIR/pkg_folder_10.xml#package_link_game"/>
+			<Query class="type:x-xmb/folder-pixmap" key="pkg_folder_11" attr="pkg_folder_11" src="xmb://localhost/dev_hdd0/game/PKGLINKER/USRDIR/pkg_folder_11.xml#package_link_game"/>
+			<Query class="type:x-xmb/folder-pixmap" key="pkg_folder_12" attr="pkg_folder_12" src="xmb://localhost/dev_hdd0/game/PKGLINKER/USRDIR/pkg_folder_12.xml#package_link_game"/>
+			<Query class="type:x-xmb/folder-pixmap" key="pkg_folder_13" attr="pkg_folder_13" src="xmb://localhost/dev_hdd0/game/PKGLINKER/USRDIR/pkg_folder_13.xml#package_link_game"/>
+			<Query class="type:x-xmb/folder-pixmap" key="pkg_folder_14" attr="pkg_folder_14" src="xmb://localhost/dev_hdd0/game/PKGLINKER/USRDIR/pkg_folder_14.xml#package_link_game"/>
+			<Query class="type:x-xmb/folder-pixmap" key="pkg_folder_15" attr="pkg_folder_15" src="xmb://localhost/dev_hdd0/game/PKGLINKER/USRDIR/pkg_folder_15.xml#package_link_game"/>
+			<Query class="type:x-xmb/folder-pixmap" key="pkg_folder_16" attr="pkg_folder_16" src="xmb://localhost/dev_hdd0/game/PKGLINKER/USRDIR/pkg_folder_16.xml#package_link_game"/>
+			<Query class="type:x-xmb/folder-pixmap" key="pkg_folder_17" attr="pkg_folder_17" src="xmb://localhost/dev_hdd0/game/PKGLINKER/USRDIR/pkg_folder_17.xml#package_link_game"/>
+			<Query class="type:x-xmb/folder-pixmap" key="pkg_folder_18" attr="pkg_folder_18" src="xmb://localhost/dev_hdd0/game/PKGLINKER/USRDIR/pkg_folder_18.xml#package_link_game"/>
+			<Query class="type:x-xmb/folder-pixmap" key="pkg_folder_19" attr="pkg_folder_19" src="xmb://localhost/dev_hdd0/game/PKGLINKER/USRDIR/pkg_folder_19.xml#package_link_game"/>
+			<Query class="type:x-xmb/folder-pixmap" key="pkg_folder_20" attr="pkg_folder_20" src="xmb://localhost/dev_hdd0/game/PKGLINKER/USRDIR/pkg_folder_20.xml#package_link_game"/>
+			<Query class="type:x-xmb/folder-pixmap" key="pkg_folder_root" attr="pkg_folder_root" src="xmb://localhost/dev_hdd0/game/PKGLINKER/USRDIR/pkg_folder_root.xml#pkg_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="pkg_folder_old" attr="pkg_folder_old" src="xmb://localhost/dev_hdd0/game/PKGLINKER/USRDIR/package_link.xml#package_link_game"/>
+		</Items>
+	</View>		
+	
+</XMBML>

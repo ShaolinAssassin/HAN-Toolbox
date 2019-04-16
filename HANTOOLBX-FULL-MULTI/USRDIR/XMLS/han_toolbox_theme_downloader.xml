@@ -2,7 +2,7 @@
 
 <!-- Main Items > External Content > Theme Downloader -->
 
-	<View id="theme_downloader_items">
+	<View id="theme_downloader_main">
 		<Attributes>
 			<Table key="Metalification">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/Metalification_v1.0.png</String></Pair>

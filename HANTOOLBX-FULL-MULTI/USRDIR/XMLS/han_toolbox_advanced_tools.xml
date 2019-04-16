@@ -92,7 +92,7 @@
 	
 <!-- Main Items > Advanced Tools (DEX mode) -->
 		
-	<View id="han_advanced_menu_dex_main">
+	<View id="han_advanced_menu_main_dex">
 		<Attributes>
 			<Table key="han_file_browser">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/file_explorer.png</String></Pair>

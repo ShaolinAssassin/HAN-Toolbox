@@ -4,14 +4,14 @@
 		
 	<View id="han_functions_main">
 		<Attributes>
-			<Table key="han_reboot_soft_auto">
+			<Table key="han_soft_reboot_auto">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/reboot.png</String></Pair>
 				<Pair key="title"><String>Soft Reboot</String></Pair>
 				<Pair key="info"><String>Restart console</String></Pair>
 				<Pair key="module_name"><String>webrender_plugin</String></Pair>
 				<Pair key="module_action"><String>http://www.ps3xploit.com/autoxml/pett/syscalls/power/soft_reboot.html</String></Pair>
 			</Table>
-			<Table key="han_reboot_hard_auto">
+			<Table key="han_hard_reboot_auto">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/reboot.png</String></Pair>
 				<Pair key="title"><String>Hard Reboot</String></Pair>
 				<Pair key="info"><String>Restart console</String></Pair>
@@ -56,7 +56,7 @@
 			<Table key="han_debug_auto">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/net_pkg.png</String></Pair>
 				<Pair key="title"><String>Debug Package Enabler</String></Pair>
-				<Pair key="info"><String>Enable modified retail packages</String></Pair>
+				<Pair key="info"><String>For modifed retail PS3 packages only</String></Pair>
 				<Pair key="module_name"><String>webrender_plugin</String></Pair>
 				<Pair key="module_action"><String>http://ps3xploit.com/hfw/autoxml/han/dbgpkg_enabler_auto.html</String></Pair>
 			</Table>
@@ -64,13 +64,13 @@
 		<Items>
 			<Query 
 				class="type:x-xmb/module-action"
-				key="han_reboot_soft_auto"
-				attr="han_reboot_soft_auto"
+				key="han_soft_reboot_auto"
+				attr="han_soft_reboot_auto"
 				/>
 			<Query 
 				class="type:x-xmb/module-action"
-				key="han_reboot_hard_auto"
-				attr="han_reboot_hard_auto"
+				key="han_hard_reboot_auto"
+				attr="han_hard_reboot_auto"
 				/>
 			<Query 
 				class="type:x-xmb/module-action"
@@ -107,16 +107,16 @@
 	
 <!-- Main Items > HAN functions (online DEX 4.81 - 4.84 OFW/CFW/HFW Firmware) -->
 		
-	<View id="han_functions_dex_main">
+	<View id="han_functions_main_dex">
 		<Attributes>
-			<Table key="han_reboot_soft_auto">
+			<Table key="han_soft_reboot_auto">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/reboot.png</String></Pair>
 				<Pair key="title"><String>Soft Reboot</String></Pair>
 				<Pair key="info"><String>Restart console</String></Pair>
 				<Pair key="module_name"><String>webrender_plugin</String></Pair>
 				<Pair key="module_action"><String>http://www.ps3xploit.com/autoxml/pett/syscalls/power/soft_reboot.html</String></Pair>
 			</Table>
-			<Table key="han_reboot_hard_auto">
+			<Table key="han_hard_reboot_auto">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/reboot.png</String></Pair>
 				<Pair key="title"><String>Hard Reboot</String></Pair>
 				<Pair key="info"><String>Restart console</String></Pair>
@@ -161,9 +161,9 @@
 			<Table key="han_debug_auto_dex">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/net_pkg.png</String></Pair>
 				<Pair key="title"><String>Debug Package Enabler</String></Pair>
-				<Pair key="info"><String>Enable modified retail packages</String></Pair>
+				<Pair key="info"><String>For modifed retail PS3 packages only</String></Pair>
 				<Pair key="module_name"><String>webrender_plugin</String></Pair>
-				<Pair key="module_action"><String>http://ps3xploit.com/hfw/autoxml/han/han_installer_auto_dex.html</String></Pair>
+				<Pair key="module_action"><String>http://ps3xploit.com/hfw/autoxml/han/dbgpkg_enabler_auto_dex.html</String></Pair>
 			</Table>
 		</Attributes>
 		<Items>

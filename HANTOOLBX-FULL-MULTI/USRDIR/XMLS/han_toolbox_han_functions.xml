@@ -4,16 +4,16 @@
 		
 	<View id="han_functions_main">
 		<Attributes>
-			<Table key="han_reboot_soft_auto">
+			<Table key="han_soft_reboot_auto">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/reboot.png</String></Pair>
-				<Pair key="title_rsc"><String>han_toolbox_reboot_soft</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_soft_reboot</String></Pair>
 				<Pair key="info_rsc"><String>han_toolbox_reboot_info</String></Pair>
 				<Pair key="module_name"><String>webrender_plugin</String></Pair>
 				<Pair key="module_action"><String>http://www.ps3xploit.com/autoxml/pett/syscalls/power/soft_reboot.html</String></Pair>
 			</Table>
-			<Table key="han_reboot_hard_auto">
+			<Table key="han_hard_reboot_auto">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/reboot.png</String></Pair>
-				<Pair key="title_rsc"><String>han_toolbox_reboot_hard</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_hard_reboot</String></Pair>
 				<Pair key="info_rsc"><String>han_toolbox_reboot_info</String></Pair>
 				<Pair key="module_name"><String>webrender_plugin</String></Pair>
 				<Pair key="module_action"><String>http://www.ps3xploit.com/autoxml/pett/syscalls/power/hard_reboot.html</String></Pair>
@@ -64,13 +64,13 @@
 		<Items>
 			<Query 
 				class="type:x-xmb/module-action"
-				key="han_reboot_soft_auto"
-				attr="han_reboot_soft_auto"
+				key="han_soft_reboot_auto"
+				attr="han_soft_reboot_auto"
 				/>
 			<Query 
 				class="type:x-xmb/module-action"
-				key="han_reboot_hard_auto"
-				attr="han_reboot_hard_auto"
+				key="han_hard_reboot_auto"
+				attr="han_hard_reboot_auto"
 				/>
 			<Query 
 				class="type:x-xmb/module-action"
@@ -107,18 +107,18 @@
 		
 <!-- Main Items > HAN functions (online DEX 4.81 - 4.84 OFW/CFW/HFW Firmware) -->
 		
-	<View id="han_functions_dex_main">
+	<View id="han_functions_main_dex">
 		<Attributes>
-			<Table key="han_reboot_soft_auto">
+			<Table key="han_soft_reboot_auto">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/reboot.png</String></Pair>
-				<Pair key="title_rsc"><String>han_toolbox_reboot_soft</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_soft_reboot</String></Pair>
 				<Pair key="info_rsc"><String>han_toolbox_reboot_info</String></Pair>
 				<Pair key="module_name"><String>webrender_plugin</String></Pair>
 				<Pair key="module_action"><String>http://www.ps3xploit.com/autoxml/pett/syscalls/power/soft_reboot.html</String></Pair>
 			</Table>
-			<Table key="han_reboot_hard_auto">
+			<Table key="han_hard_reboot_auto">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/reboot.png</String></Pair>
-				<Pair key="title_rsc"><String>han_toolbox_reboot_hard</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_hard_reboot</String></Pair>
 				<Pair key="info_rsc"><String>han_toolbox_reboot_info</String></Pair>
 				<Pair key="module_name"><String>webrender_plugin</String></Pair>
 				<Pair key="module_action"><String>http://www.ps3xploit.com/autoxml/pett/syscalls/power/hard_reboot.html</String></Pair>
@@ -163,19 +163,19 @@
 				<Pair key="title_rsc"><String>han_toolbox_debug_enabler</String></Pair>
 				<Pair key="info_rsc"><String>han_toolbox_debug_enabler_info</String></Pair>
 				<Pair key="module_name"><String>webrender_plugin</String></Pair>
-				<Pair key="module_action"><String>http://ps3xploit.com/hfw/autoxml/han/han_installer_auto_dex.html</String></Pair>
+				<Pair key="module_action"><String>http://ps3xploit.com/hfw/autoxml/han/dbgpkg_enabler_auto_dex.html</String></Pair>
 			</Table>
 		</Attributes>
 		<Items>
 			<Query 
 				class="type:x-xmb/module-action"
-				key="han_reboot_soft_auto"
-				attr="han_reboot_soft_auto"
+				key="han_soft_reboot_auto"
+				attr="han_soft_reboot_auto"
 				/>
 			<Query 
 				class="type:x-xmb/module-action"
-				key="han_reboot_hard_auto"
-				attr="han_reboot_hard_auto"
+				key="han_hard_reboot_auto"
+				attr="han_hard_reboot_auto"
 				/>
 			<Query 
 				class="type:x-xmb/module-action"

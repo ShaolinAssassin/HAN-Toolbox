@@ -2,7 +2,7 @@
 
 <!-- Main Items > External Content > Coldboot Downloader (CEX) -->
 	
-	<View id="coldboot_downloader_items">
+	<View id="coldboot_downloader_main">
 		<Attributes>
 			<Table key="download_coldboot_raf">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/download_coldboot.png</String></Pair>
@@ -35,7 +35,7 @@
 	
 <!-- Main Items > External Content > Coldboot Downloader (DEX) -->
 	
-	<View id="coldboot_downloader_items_dex">
+	<View id="coldboot_downloader_main_dex">
 		<Attributes>
 			<Table key="download_coldboot_raf">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/download_coldboot.png</String></Pair>

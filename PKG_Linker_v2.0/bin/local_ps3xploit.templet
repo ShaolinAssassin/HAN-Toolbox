@@ -3,16 +3,16 @@
 <XMBML version="1.0">
 <View id="han_functions_local_items">
 		<Attributes>
-			<Table key="han_reboot_soft_auto_local">
+			<Table key="han_soft_reboot_auto_local">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/reboot.png</String></Pair>
-				<Pair key="title_rsc"><String>han_toolbox_reboot_soft</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_soft_reboot</String></Pair>
 				<Pair key="info_rsc"><String>han_toolbox_reboot_info</String></Pair>
 				<Pair key="module_name"><String>webrender_plugin</String></Pair>
 				<Pair key="module_action"><String>http://patch_ip/bin/PS3Xploit_files/pett/syscalls/power/soft_reboot.html</String></Pair>
 			</Table>
-			<Table key="han_reboot_hard_auto_local">
+			<Table key="han_hard_reboot_auto_local">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/reboot.png</String></Pair>
-				<Pair key="title_rsc"><String>han_toolbox_reboot_hard</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_hard_reboot</String></Pair>
 				<Pair key="info_rsc"><String>han_toolbox_reboot_info</String></Pair>
 				<Pair key="module_name"><String>webrender_plugin</String></Pair>
 				<Pair key="module_action"><String>http://patch_ip/bin/PS3Xploit_files/pett/syscalls/power/hard_reboot.html</String></Pair>
@@ -52,7 +52,7 @@
 				<Pair key="module_name"><String>webrender_plugin</String></Pair>
 				<Pair key="module_action"><String>http://patch_ip/bin/PS3Xploit_files/han/actrif_copier_auto.html</String></Pair>
 			</Table>
-			<Table key="han_debug_auto_local">
+			<Table key="han_debug_enabler_auto_local">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/web.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_debug_enabler</String></Pair>
 				<Pair key="info_rsc"><String>han_toolbox_debug_enabler_info</String></Pair>
@@ -63,13 +63,13 @@
 		<Items>
 			<Query 
 				class="type:x-xmb/module-action"
-				key="han_reboot_soft_auto_local"
-				attr="han_reboot_soft_auto_local"
+				key="han_soft_reboot_auto_local"
+				attr="han_soft_reboot_auto_local"
 				/>
 			<Query 
 				class="type:x-xmb/module-action"
-				key="han_reboot_hard_auto_local"
-				attr="han_reboot_hard_auto_local"
+				key="han_hard_reboot_auto_local"
+				attr="han_hard_reboot_auto_local"
 				/>
 			<Query 
 				class="type:x-xmb/module-action"
@@ -98,8 +98,8 @@
 				/>
 			<Query 
 				class="type:x-xmb/module-action"
-				key="han_debug_auto_local"
-				attr="han_debug_auto_local"
+				key="han_debug_enabler_auto_local"
+				attr="han_debug_enabler_auto_local"
 				/>
 		</Items>
 	</View>

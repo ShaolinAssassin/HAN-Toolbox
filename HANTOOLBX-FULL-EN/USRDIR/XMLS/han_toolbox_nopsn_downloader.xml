@@ -2,7 +2,7 @@
 
 <!-- Main Items > External Content > NoPSN Downloader -->
 	
-	<View id="nopsn_downloader_items">
+	<View id="nopsn_downloader_main">
 		<Attributes>
 			<Table key="nopsn_downloader_EU">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder_eu.png</String></Pair>

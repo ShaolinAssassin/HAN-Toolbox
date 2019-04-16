@@ -2,7 +2,7 @@
 
 <!-- Main Items > External Content > Wallpaper Downloader -->
 	
-	<View id="wallpaper_downloader_items">
+	<View id="wallpaper_downloader_main">
 		<Attributes>
 			<Table key="wallpaper_downloader_abstract">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/abstract_folder.png</String></Pair>

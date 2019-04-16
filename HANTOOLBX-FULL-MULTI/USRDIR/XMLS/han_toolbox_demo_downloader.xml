@@ -2,7 +2,7 @@
 
 <!-- Main Items > External Content > OFW Demo Downloader v3.0 -->
 
-	<View id="demo_downloader_items">
+	<View id="demo_downloader_main">
 		<Attributes>
 			<Table key="demo_downloader_C00_EU">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder_eu.png</String></Pair>
@@ -86,7 +86,7 @@
 				class="type:x-xmb/folder-pixmap" 
 				key="demo_downloader_C00_EU_genre" 
 				attr="demo_downloader_C00_EU_genre"
-				src="#demo_downloader_C00_EU_genre_main"
+				src="#demo_downloader_C00_EU_genre_items"
 				/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
@@ -130,7 +130,7 @@
 				class="type:x-xmb/folder-pixmap" 
 				key="demo_downloader_C00_HK_genre" 
 				attr="demo_downloader_C00_HK_genre"
-				src="#demo_downloader_C00_HK_genre_main"
+				src="#demo_downloader_C00_HK_genre_items"
 				/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
@@ -174,7 +174,7 @@
 				class="type:x-xmb/folder-pixmap" 
 				key="demo_downloader_C00_JP_genre" 
 				attr="demo_downloader_C00_JP_genre"
-				src="#demo_downloader_C00_JP_genre_main"
+				src="#demo_downloader_C00_JP_genre_items"
 				/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
@@ -218,7 +218,7 @@
 				class="type:x-xmb/folder-pixmap" 
 				key="demo_downloader_C00_US_genre" 
 				attr="demo_downloader_C00_US_genre"
-				src="#demo_downloader_C00_US_genre_main"
+				src="#demo_downloader_C00_US_genre_items"
 				/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
@@ -231,7 +231,7 @@
 		
 <!-- Main Items > External Content > C00 EU by genre -->
 	
-	<View id="demo_downloader_C00_EU_genre_main">
+	<View id="demo_downloader_C00_EU_genre_items">
 		<Attributes>
 			<Table key="demo_downloader_C00_EU_genre_action">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
@@ -360,7 +360,7 @@
 		
 <!-- Main Items > External Content > C00 HK by genre -->
 	
-	<View id="demo_downloader_C00_HK_genre_main">
+	<View id="demo_downloader_C00_HK_genre_items">
 		<Attributes>
 			<Table key="demo_downloader_C00_HK_genre_action">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
@@ -477,7 +477,7 @@
 		
 <!-- Main Items > External Content > C00 JP by genre -->
 	
-	<View id="demo_downloader_C00_JP_genre_main">
+	<View id="demo_downloader_C00_JP_genre_items">
 		<Attributes>
 			<Table key="demo_downloader_C00_JP_genre_action">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
@@ -606,7 +606,7 @@
 		
 <!-- Main Items > External Content > C00 US by genre -->
 	
-	<View id="demo_downloader_C00_US_genre_main">
+	<View id="demo_downloader_C00_US_genre_items">
 		<Attributes>
 			<Table key="demo_downloader_C00_US_genre_action">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>

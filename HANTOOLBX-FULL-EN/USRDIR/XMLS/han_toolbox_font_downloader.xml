@@ -2,7 +2,7 @@
 
 <!-- Main Items > External Content > Font Downloader -->
 	
-	<View id="font_downloader_items">
+	<View id="font_downloader_main">
 		<Attributes>
 			<Table key="download_TTF_font">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/download_font.png</String></Pair>
