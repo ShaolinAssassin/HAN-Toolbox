@@ -10,9 +10,10 @@ HAN Enabler 4.82/4.84 : https://www.psx-place.com/threads/tutorial-how-to-enable
 DBG PKG Enabler 4.82/4.84 : https://www.psx-place.com/threads/tutorial-how-to-enable-han-offline.20774/page-7#post-165191
 Temp Reader 4.82/4.84 : https://www.psx-place.com/threads/tutorial-how-to-enable-han-offline.20774/page-7#post-165191
 Reboot 4.82/4.84 : https://www.psx-place.com/threads/tutorial-how-to-enable-han-offline.20774/page-7#post-165191
-File Copier 4.84 only : https://www.psx-place.com/threads/tutorial-how-to-enable-han-offline.20774/page-7#post-165191
+File Copier 4.84 v1 : https://www.psx-place.com/threads/tutorial-how-to-enable-han-offline.20774/page-7#post-165191
 Rebuild Database 4.82/4.84 : https://www.psx-place.com/threads/tutorial-how-to-enable-han-offline.20774/page-7#post-165191
 HAN Enabler 4.82/4.84 - updated to allow to install all package files on USB root : https://www.psx-place.com/threads/han-toolbox-the-xploit-3-0-companion.16682/page-21#post-170113
 DBG PKG Enabler 4.82/4.84 - updated to allow to install all package files on USB root : https://www.psx-place.com/threads/han-toolbox-the-xploit-3-0-companion.16682/page-21#post-170113
 Flash Mounter 4.84 : https://www.psx-place.com/threads/creating-a-pkg-file-that-installs-to-any-path-including-flash.23477/#post-170700
 DBG PKG Enabler + Flash Mounter 4.84 : https://www.psx-place.com/threads/creating-a-pkg-file-that-installs-to-any-path-including-flash.23477/page-3#post-171979
+File Copier 4.84 v2 : https://www.psx-place.com/threads/han-toolbox-the-xploit-3-0-companion.16682/page-23#post-172676
