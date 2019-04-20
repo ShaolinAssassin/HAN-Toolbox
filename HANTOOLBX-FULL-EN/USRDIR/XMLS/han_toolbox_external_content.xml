@@ -27,6 +27,12 @@
 				<Pair key="info"><String>Download and install fonts (TTF)</String></Pair>
 				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
 			</Table>
+			<Table key="gameboot_downloader">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/rco.png</String></Pair>
+				<Pair key="title"><String>Gameboot Downloader</String></Pair>
+				<Pair key="info"><String>Download and install gameboots (Custom Game Intro/Image)</String></Pair>
+				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
+			</Table>
 			<Table key="nopsn_downloader">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/nopsn.png</String></Pair>
 				<Pair key="title"><String>NoPSN Apps Downloader</String></Pair>
@@ -78,6 +84,12 @@
 				key="font_downloader"
 				attr="font_downloader"
 				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_font_downloader.xml#font_downloader_main"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="gameboot_downloader"
+				attr="gameboot_downloader"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_gameboot_downloader.xml#gameboot_downloader_main"
 				/>
 			<Query
 				class="type:x-xmb/folder-pixmap"
@@ -139,6 +151,12 @@
 				<Pair key="info"><String>Download and install fonts (TTF/ttf)</String></Pair>
 				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
 			</Table>
+			<Table key="gameboot_downloader_dex">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/rco.png</String></Pair>
+				<Pair key="title"><String>Gameboot Downloader</String></Pair>
+				<Pair key="info"><String>Download and install gameboots (custom game intro/image)</String></Pair>
+				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
+			</Table>
 			<Table key="nopsn_downloader">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/nopsn.png</String></Pair>
 				<Pair key="title"><String>NoPSN Apps Downloader</String></Pair>
@@ -190,6 +208,12 @@
 				key="font_downloader"
 				attr="font_downloader"
 				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_font_downloader.xml#font_downloader_main"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="gameboot_downloader_dex"
+				attr="gameboot_downloader_dex"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_gameboot_downloader.xml#gameboot_downloader_main_dex"
 				/>
 			<Query
 				class="type:x-xmb/folder-pixmap"

@@ -1,0 +1,69 @@
+<XMBML version="1.0">
+
+<!-- Main Items > External Content > Gameboot Downloader (CEX) -->
+	
+	<View id="gameboot_downloader_main">
+		<Attributes>
+			<Table key="download_gameboot">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/download_wave.png</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_download_gameboot</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_download_gameboot_info</String></Pair>
+				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
+			</Table>
+			<Table key="inject_lines_auto">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/inj_wave.png</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_inject_gameboot_auto</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_inject_gameboot_auto_info</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://ps3xploit.com/hfw/autoxml/han/extras/gameboot_installer/gameboot_installer_auto_hantoolbx.html</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query 
+				class="type:x-xmb/folder-pixmap"
+				key="download_gameboot" 
+				attr="download_gameboot"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/GAMEBOOTS/XMLS/gameboot_downloader.xml#gameboot_downloader_items"
+				/>
+			<Query 
+				class="type:x-xmb/module-action" 
+				key="inject_gameboot_auto" 
+				attr="inject_gameboot_auto"
+				/>
+		</Items>
+	</View>
+	
+<!-- Main Items > External Content > Gameboot Downloader (DEX) -->
+	
+	<View id="gameboot_downloader_main_dex">
+		<Attributes>
+			<Table key="download_lines">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/download_wave.png</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_download_gameboot</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_download_gameboot_info</String></Pair>
+				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
+			</Table>
+			<Table key="inject_lines_auto">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/inj_wave.png</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_inject_gameboot_auto</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_inject_gameboot_auto_info</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://ps3xploit.com/hfw/autoxml/han/extras/gameboot_installer/gameboot_installer_auto_hantoolbx_dex.html</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query 
+				class="type:x-xmb/folder-pixmap"
+				key="download_gameboot" 
+				attr="download_gameboot"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/GAMEBOOTS/XMLS/gameboot_downloader.xml#gameboot_downloader_items"
+				/>
+			<Query 
+				class="type:x-xmb/module-action" 
+				key="inject_gameboot_auto_dex" 
+				attr="inject_gameboot_auto_dex"
+				/>
+		</Items>
+	</View>
+		
+</XMBML>

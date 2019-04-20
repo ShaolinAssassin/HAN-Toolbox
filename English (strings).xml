@@ -90,6 +90,8 @@
 	<Text name="han_toolbox_demo_downloader_info">Try PSN games before you buy with demo downloader (pkg)</Text>
 	<Text name="han_toolbox_font_downloader">Font Downloader</Text>
 	<Text name="han_toolbox_font_downloader_info">Download and install fonts (TTF)</Text>
+	<Text name="han_toolbox_gameboot_downloader">Gameboot Downloader</Text>
+	<Text name="han_toolbox_gameboot_downloader_info">Download and install gameboots (custom game intro/image)</Text>
 	<Text name="han_toolbox_nopsn_downloader">NoPSN Apps Downloader</Text>
 	<Text name="han_toolbox_nopsn_downloader_info">Download and install NoPSN HAN compatible Apps (pkg)</Text>
 	<Text name="han_toolbox_psn_downloader">PSN Apps Downloader</Text>
@@ -280,6 +282,8 @@
 	<Text name="han_toolbox_install_demos_resources_info">Download and install the Demo Downloader resources package and reboot after</Text>
 	<Text name="han_toolbox_install_fonts_resources">Download Font Downloader Resources</Text>
 	<Text name="han_toolbox_install_fonts_resources_info">Download and install the Font Downloader resources package and reboot after</Text>
+	<Text name="han_toolbox_install_gameboots_resources">Download Gameboot Downloader Resources</Text>
+	<Text name="han_toolbox_install_gameboots_resources_info">Download and install the Gameboot Downloader resources package and reboot after</Text>
 	<Text name="han_toolbox_install_nopsn_resources">Download NoPSN Apps Downloader Resources</Text>
 	<Text name="han_toolbox_install_nopsn_resources_info">Download and install the NoPSN Apps Downloader resources package and reboot after</Text>
 	<Text name="han_toolbox_install_psn_resources">Download PSN Apps Downloader Resources</Text>
@@ -329,6 +333,13 @@
 	<Text name="han_toolbox_inject_TTF_font">Step 2: Inject Font file</Text>
 	<Text name="han_toolbox_inject_TTF_font_info">Copy downloaded SCE-PS3-RD-R-LATIN2.TTF from HANTOOLBX/USRDIR/files to dev_flash/data/font/*.TTF</Text>	
 
+<!-- han_toolbox_gameboot_downloader.xml // Main Items > External Content > Gameboot Downloader -->
+
+	<Text name="han_toolbox_download_gameboot">Step 1: Download custom_render_plugin.rco file (Gameboot)</Text>
+	<Text name="han_toolbox_download_gameboot_info">Download custom_render_plugin.rco to HANTOOLBX/USRDIR/files ready for installation</Text>
+	<Text name="han_toolbox_inject_gameboot">Step 2: Inject custom_render_plugin.rco file</Text>
+	<Text name="han_toolbox_inject_gameboot_info">Copy downloaded custom_render_plugin.rco from HANTOOLBX/USRDIR/files to dev_flash/vsh/resource/</Text>	
+	
 <!-- han_toolbox_nopsn_downloader.xml // Main Items > External Content > NoPSN Downloader -->
 
 	<Text name="han_toolbox_nopsn_eu_ver">EU Versions</Text>

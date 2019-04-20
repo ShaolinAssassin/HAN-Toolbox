@@ -414,6 +414,11 @@
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_font.png</String></Pair>
 				<Pair key="title"><String>Download Font Downloader Resources</String></Pair>
 				<Pair key="info"><String>Download and install the Font Downloader resources package and reboot after</String></Pair>
+			</Table>			
+			<Table key="han_toolbox_install_gameboots_resources">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_rco.png</String></Pair>
+				<Pair key="title"><String>Download Gameboot Downloader Resources</String></Pair>
+				<Pair key="info"><String>Download and install the Gameboot Downloader resources package and reboot after</String></Pair>
 			</Table>
 			<Table key="han_toolbox_install_nopsn_resources">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_nopsn.png</String></Pair>
@@ -465,6 +470,12 @@
 				key="han_toolbox_install_fonts_resources" 
 				attr="han_toolbox_install_fonts_resources"
 				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_stuff_downloader.xml#han_toolbox_fonts_resources_main"
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_toolbox_install_gameboots_resources" 
+				attr="han_toolbox_install_gameboots_resources"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_stuff_downloader.xml#han_toolbox_gameboots_resources_main"
 			/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
