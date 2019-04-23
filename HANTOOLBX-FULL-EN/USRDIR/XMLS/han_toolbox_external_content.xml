@@ -13,7 +13,7 @@
 			<Table key="coldboot_downloader">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/coldboot.png</String></Pair>
 				<Pair key="title"><String>Coldboot Downloader</String></Pair>
-				<Pair key="info"><String>Download and install coldboots (Boot Logo and Sound)</String></Pair>
+				<Pair key="info"><String>Download and install coldboots (raf/ac3)</String></Pair>
 				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
 			</Table>
 			<Table key="demo_downloader">
@@ -30,7 +30,7 @@
 			<Table key="gameboot_downloader">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/rco.png</String></Pair>
 				<Pair key="title"><String>Gameboot Downloader</String></Pair>
-				<Pair key="info"><String>Download and install gameboots (Custom Game Intro/Image)</String></Pair>
+				<Pair key="info"><String>Download and install gameboots (rco)</String></Pair>
 				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
 			</Table>
 			<Table key="nopsn_downloader">
@@ -56,7 +56,7 @@
 			<Table key="wave_downloader">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/wave.png</String></Pair>
 				<Pair key="title"><String>Wave Downloader</String></Pair>
-				<Pair key="info"><String>Download and install waves (lines.qrc)</String></Pair>
+				<Pair key="info"><String>Download and install waves (qrc)</String></Pair>
 				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
 			</Table>
 		</Attributes>
@@ -137,7 +137,7 @@
 			<Table key="coldboot_downloader_dex">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/coldboot.png</String></Pair>
 				<Pair key="title"><String>Coldboot Downloader</String></Pair>
-				<Pair key="info"><String>Download and install coldboots (Boot Logo and Sound)</String></Pair>
+				<Pair key="info"><String>Download and install coldboots (raf/ac3)</String></Pair>
 				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
 			</Table>
 			<Table key="demo_downloader">
@@ -148,13 +148,13 @@
 			<Table key="font_downloader">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/font.png</String></Pair>
 				<Pair key="title"><String>Font Downloader</String></Pair>
-				<Pair key="info"><String>Download and install fonts (TTF/ttf)</String></Pair>
+				<Pair key="info"><String>Download and install fonts (TTF)</String></Pair>
 				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
 			</Table>
 			<Table key="gameboot_downloader_dex">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/rco.png</String></Pair>
 				<Pair key="title"><String>Gameboot Downloader</String></Pair>
-				<Pair key="info"><String>Download and install gameboots (custom game intro/image)</String></Pair>
+				<Pair key="info"><String>Download and install gameboots (rco)</String></Pair>
 				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
 			</Table>
 			<Table key="nopsn_downloader">
@@ -180,7 +180,7 @@
 			<Table key="wave_downloader_dex">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/wave.png</String></Pair>
 				<Pair key="title"><String>Wave Downloader</String></Pair>
-				<Pair key="info"><String>Download and install waves (lines.qrc)</String></Pair>
+				<Pair key="info"><String>Download and install waves (qrc)</String></Pair>
 				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
 			</Table>
 		</Attributes>

@@ -1,0 +1,325 @@
+<XMBML version="1.0"> 
+ 
+<!-- Main Items > External Content > Gameboot Downloader Items > Gameboots Download Links -->
+
+	<View id="item_GAMEBOOT-001_main"> 
+		<Attributes> 
+			<Table key="item_GAMEBOOT-001_link"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/133176669/GAMEBOOT-001.pkg?force_download=1</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/133176669/GAMEBOOT-001.pkg?force_download=1</String></Pair> 
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/GAMEBOOTS/IMAGES/GAMEBOOT-001.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="item_GAMEBOOT-001_link" attr="item_GAMEBOOT-001_link"/> 
+		</Items> 
+	</View> 
+
+	<View id="item_GAMEBOOT-002_main"> 
+		<Attributes> 
+			<Table key="item_GAMEBOOT-002_link"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/133176672/GAMEBOOT-002.pkg?force_download=1</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/133176672/GAMEBOOT-002.pkg?force_download=1</String></Pair> 
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/GAMEBOOTS/IMAGES/GAMEBOOT-002.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="item_GAMEBOOT-002_link" attr="item_GAMEBOOT-002_link"/> 
+		</Items> 
+	</View> 
+
+	<View id="item_GAMEBOOT-003_main"> 
+		<Attributes> 
+			<Table key="item_GAMEBOOT-003_link"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/133176675/GAMEBOOT-003.pkg?force_download=1</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/133176675/GAMEBOOT-003.pkg?force_download=1</String></Pair> 
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/GAMEBOOTS/IMAGES/GAMEBOOT-003.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="item_GAMEBOOT-003_link" attr="item_GAMEBOOT-003_link"/> 
+		</Items> 
+	</View> 
+
+	<View id="item_GAMEBOOT-004_main"> 
+		<Attributes> 
+			<Table key="item_GAMEBOOT-004_link"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/133176678/GAMEBOOT-004.pkg?force_download=1</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/133176678/GAMEBOOT-004.pkg?force_download=1</String></Pair> 
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/GAMEBOOTS/IMAGES/GAMEBOOT-004.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="item_GAMEBOOT-004_link" attr="item_GAMEBOOT-004_link"/> 
+		</Items> 
+	</View> 
+
+	<View id="item_GAMEBOOT-100_main"> 
+		<Attributes> 
+			<Table key="item_GAMEBOOT-100_link"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/133176681/GAMEBOOT-100.pkg?force_download=1</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/133176681/GAMEBOOT-100.pkg?force_download=1</String></Pair> 
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/GAMEBOOTS/IMAGES/GAMEBOOT-100.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="item_GAMEBOOT-100_link" attr="item_GAMEBOOT-100_link"/> 
+		</Items> 
+	</View> 
+
+	<View id="item_GAMEBOOT-101_main"> 
+		<Attributes> 
+			<Table key="item_GAMEBOOT-101_link"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/133176684/GAMEBOOT-101.pkg?force_download=1</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/133176684/GAMEBOOT-101.pkg?force_download=1</String></Pair> 
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/GAMEBOOTS/IMAGES/GAMEBOOT-101.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="item_GAMEBOOT-101_link" attr="item_GAMEBOOT-101_link"/> 
+		</Items> 
+	</View> 
+
+	<View id="item_GAMEBOOT-102_main"> 
+		<Attributes> 
+			<Table key="item_GAMEBOOT-102_link"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/133176690/GAMEBOOT-102.pkg?force_download=1</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/133176690/GAMEBOOT-102.pkg?force_download=1</String></Pair> 
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/GAMEBOOTS/IMAGES/GAMEBOOT-102.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="item_GAMEBOOT-102_link" attr="item_GAMEBOOT-102_link"/> 
+		</Items> 
+	</View> 
+
+	<View id="item_GAMEBOOT-103_main"> 
+		<Attributes> 
+			<Table key="item_GAMEBOOT-103_link"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/133176693/GAMEBOOT-103.pkg?force_download=1</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/133176693/GAMEBOOT-103.pkg?force_download=1</String></Pair> 
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/GAMEBOOTS/IMAGES/GAMEBOOT-103.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="item_GAMEBOOT-103_link" attr="item_GAMEBOOT-103_link"/> 
+		</Items> 
+	</View> 
+
+	<View id="item_GAMEBOOT-104_main"> 
+		<Attributes> 
+			<Table key="item_GAMEBOOT-104_link"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/133176699/GAMEBOOT-104.pkg?force_download=1</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/133176699/GAMEBOOT-104.pkg?force_download=1</String></Pair> 
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/GAMEBOOTS/IMAGES/GAMEBOOT-104.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="item_GAMEBOOT-104_link" attr="item_GAMEBOOT-104_link"/> 
+		</Items> 
+	</View> 
+
+	<View id="item_GAMEBOOT-105_main"> 
+		<Attributes> 
+			<Table key="item_GAMEBOOT-105_link"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/133176702/GAMEBOOT-105.pkg?force_download=1</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/133176702/GAMEBOOT-105.pkg?force_download=1</String></Pair> 
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/GAMEBOOTS/IMAGES/GAMEBOOT-105.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="item_GAMEBOOT-105_link" attr="item_GAMEBOOT-105_link"/> 
+		</Items> 
+	</View> 
+
+	<View id="item_GAMEBOOT-106_main"> 
+		<Attributes> 
+			<Table key="item_GAMEBOOT-106_link"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/133176705/GAMEBOOT-106.pkg?force_download=1</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/133176705/GAMEBOOT-106.pkg?force_download=1</String></Pair> 
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/GAMEBOOTS/IMAGES/GAMEBOOT-106.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="item_GAMEBOOT-106_link" attr="item_GAMEBOOT-106_link"/> 
+		</Items> 
+	</View> 
+
+	<View id="item_GAMEBOOT-107_main"> 
+		<Attributes> 
+			<Table key="item_GAMEBOOT-107_link"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/133176639/GAMEBOOT-107.pkg?force_download=1</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/133176639/GAMEBOOT-107.pkg?force_download=1</String></Pair> 
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/GAMEBOOTS/IMAGES/GAMEBOOT-107.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="item_GAMEBOOT-107_link" attr="item_GAMEBOOT-107_link"/> 
+		</Items> 
+	</View> 
+
+	<View id="item_GAMEBOOT-108_main"> 
+		<Attributes> 
+			<Table key="item_GAMEBOOT-108_link"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/133176642/GAMEBOOT-108.pkg?force_download=1</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/133176642/GAMEBOOT-108.pkg?force_download=1</String></Pair> 
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/GAMEBOOTS/IMAGES/GAMEBOOT-108.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="item_GAMEBOOT-108_link" attr="item_GAMEBOOT-108_link"/> 
+		</Items> 
+	</View> 
+
+	<View id="item_GAMEBOOT-109_main"> 
+		<Attributes> 
+			<Table key="item_GAMEBOOT-109_link"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/133176648/GAMEBOOT-109.pkg?force_download=1</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/133176648/GAMEBOOT-109.pkg?force_download=1</String></Pair> 
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/GAMEBOOTS/IMAGES/GAMEBOOT-109.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="item_GAMEBOOT-109_link" attr="item_GAMEBOOT-109_link"/> 
+		</Items> 
+	</View> 
+
+	<View id="item_GAMEBOOT-110_main"> 
+		<Attributes> 
+			<Table key="item_GAMEBOOT-110_link"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/133176651/GAMEBOOT-110.pkg?force_download=1</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/133176651/GAMEBOOT-110.pkg?force_download=1</String></Pair> 
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/GAMEBOOTS/IMAGES/GAMEBOOT-110.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="item_GAMEBOOT-110_link" attr="item_GAMEBOOT-110_link"/> 
+		</Items> 
+	</View> 
+
+	<View id="item_GAMEBOOT-111_main"> 
+		<Attributes> 
+			<Table key="item_GAMEBOOT-111_link"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/133176654/GAMEBOOT-111.pkg?force_download=1</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/133176654/GAMEBOOT-111.pkg?force_download=1</String></Pair> 
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/GAMEBOOTS/IMAGES/GAMEBOOT-111.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="item_GAMEBOOT-111_link" attr="item_GAMEBOOT-111_link"/> 
+		</Items> 
+	</View> 
+
+	<View id="item_GAMEBOOT-112_main"> 
+		<Attributes> 
+			<Table key="item_GAMEBOOT-112_link"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/133176657/GAMEBOOT-112.pkg?force_download=1</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/133176657/GAMEBOOT-112.pkg?force_download=1</String></Pair> 
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/GAMEBOOTS/IMAGES/GAMEBOOT-112.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="item_GAMEBOOT-112_link" attr="item_GAMEBOOT-112_link"/> 
+		</Items> 
+	</View> 
+
+	<View id="item_GAMEBOOT-113_main"> 
+		<Attributes> 
+			<Table key="item_GAMEBOOT-113_link"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/133176660/GAMEBOOT-113.pkg?force_download=1</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/133176660/GAMEBOOT-113.pkg?force_download=1</String></Pair> 
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/GAMEBOOTS/IMAGES/GAMEBOOT-113.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="item_GAMEBOOT-113_link" attr="item_GAMEBOOT-113_link"/> 
+		</Items> 
+	</View> 
+
+	<View id="item_GAMEBOOT-114_main"> 
+		<Attributes> 
+			<Table key="item_GAMEBOOT-114_link"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/133176663/GAMEBOOT-114.pkg?force_download=1</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/133176663/GAMEBOOT-114.pkg?force_download=1</String></Pair> 
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/GAMEBOOTS/IMAGES/GAMEBOOT-114.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="item_GAMEBOOT-114_link" attr="item_GAMEBOOT-114_link"/> 
+		</Items> 
+	</View> 
+
+	<View id="item_GAMEBOOT-000_main"> 
+		<Attributes> 
+			<Table key="item_GAMEBOOT-000_link"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://hantoolbox.pbworks.com/w/file/fetch/133176666/GAMEBOOT-000.pkg?force_download=1</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://hantoolbox.pbworks.com/w/file/fetch/133176666/GAMEBOOT-000.pkg?force_download=1</String></Pair> 
+				<Pair key="content_name"><String>pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/RESOURCES/GAMEBOOTS/IMAGES/GAMEBOOT-000.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="item_GAMEBOOT-000_link" attr="item_GAMEBOOT-000_link"/> 
+		</Items> 
+	</View> 
+
+</XMBML>

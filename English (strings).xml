@@ -85,13 +85,13 @@
 	<Text name="han_toolbox_webserver_packages">Install Packages From Webserver</Text>
 	<Text name="han_toolbox_webserver_packages_info">Download and install packages from your PC via PKG Linker (pkg)</Text>
 	<Text name="han_toolbox_coldboot_downloader">Coldboot Downloader</Text>
-	<Text name="han_toolbox_coldboot_downloader_info">Download and install coldboots (Boot Logo and Sound)</Text>
+	<Text name="han_toolbox_coldboot_downloader_info">Download and install coldboots (raf/ac3)</Text>
 	<Text name="han_toolbox_demo_downloader">Demo Downloader</Text>
 	<Text name="han_toolbox_demo_downloader_info">Try PSN games before you buy with demo downloader (pkg)</Text>
 	<Text name="han_toolbox_font_downloader">Font Downloader</Text>
 	<Text name="han_toolbox_font_downloader_info">Download and install fonts (TTF)</Text>
 	<Text name="han_toolbox_gameboot_downloader">Gameboot Downloader</Text>
-	<Text name="han_toolbox_gameboot_downloader_info">Download and install gameboots (custom game intro/image)</Text>
+	<Text name="han_toolbox_gameboot_downloader_info">Download and install gameboots (rco)</Text>
 	<Text name="han_toolbox_nopsn_downloader">NoPSN Apps Downloader</Text>
 	<Text name="han_toolbox_nopsn_downloader_info">Download and install NoPSN HAN compatible Apps (pkg)</Text>
 	<Text name="han_toolbox_psn_downloader">PSN Apps Downloader</Text>
@@ -101,7 +101,7 @@
 	<Text name="han_toolbox_wallpaper_downloader">Wallpaper Downloader</Text>
 	<Text name="han_toolbox_wallpaper_downloader_info">Preview and download backgrounds (jpg)</Text>
 	<Text name="han_toolbox_wave_downloader">Wave Downloader</Text>
-	<Text name="han_toolbox_wave_downloader_info">Download and install waves (lines.qrc)</Text>
+	<Text name="han_toolbox_wave_downloader_info">Download and install waves (qrc)</Text>
 
 <!-- han_toolbox_advanced_tools.xml // Main Items > Advanced Tools -->
 

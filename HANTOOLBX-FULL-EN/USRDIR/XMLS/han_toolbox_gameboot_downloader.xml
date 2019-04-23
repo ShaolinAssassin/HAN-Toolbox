@@ -37,6 +37,7 @@
 	
 	<View id="gameboot_downloader_main_dex">
 		<Attributes>
+			<Table key="download_gameboot">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/download_rco.png</String></Pair>
 				<Pair key="title"><String>Step 1: Download custom_render_plugin.rco file (Gameboot)</String></Pair>
 				<Pair key="info"><String>Download custom_render_plugin.rco to HANTOOLBX/USRDIR/files ready for installation</String></Pair>
