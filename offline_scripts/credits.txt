@@ -8,7 +8,7 @@ File Copier 4.82 : https://www.psx-place.com/threads/update-han-toolbox-v0-6-rel
 Temp Reader 4.82 : https://www.psx-place.com/threads/tutorial-how-to-enable-han-offline.20774/page-7#post-159884
 HAN Enabler 4.82/4.84 : https://www.psx-place.com/threads/tutorial-how-to-enable-han-offline.20774/page-7#post-165191
 DBG PKG Enabler 4.82/4.84 : https://www.psx-place.com/threads/tutorial-how-to-enable-han-offline.20774/page-7#post-165191
-Temp Reader 4.82/4.84 : https://www.psx-place.com/threads/tutorial-how-to-enable-han-offline.20774/page-7#post-165191
+Temp Reader 4.82/4.84 v1 : https://www.psx-place.com/threads/tutorial-how-to-enable-han-offline.20774/page-7#post-165191
 Reboot 4.82/4.84 : https://www.psx-place.com/threads/tutorial-how-to-enable-han-offline.20774/page-7#post-165191
 File Copier 4.84 v1 : https://www.psx-place.com/threads/tutorial-how-to-enable-han-offline.20774/page-7#post-165191
 Rebuild Database 4.82/4.84 : https://www.psx-place.com/threads/tutorial-how-to-enable-han-offline.20774/page-7#post-165191
@@ -20,3 +20,4 @@ File Copier 4.84 v2 : https://www.psx-place.com/threads/han-toolbox-the-xploit-3
 HAN Enabler + Flash Mounter 4.82/4.84 - batch PKG install v1 : https://www.psx-place.com/threads/creating-a-pkg-file-that-installs-to-any-path-including-flash.23477/page-4#post-172002
 HAN Enabler + Flash Mounter 4.82/4.84 - batch PKG install v2 : https://www.psx-place.com/threads/creating-a-pkg-file-that-installs-to-any-path-including-flash.23477/page-6#post-172478
 USB Resource Downloader (enable HAN + mount dev_flash + download to USB) : https://www.psx-place.com/threads/creating-a-pkg-file-that-installs-to-any-path-including-flash.23477/page-4#post-172001
+Temp Reader 4.82/4.84 v2 : (pm box)
