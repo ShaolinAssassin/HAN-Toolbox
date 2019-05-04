@@ -1,0 +1,115 @@
+<XMBML version="1.0">
+
+<!-- Main Items > Power Options (online CEX 4.81 - 4.84 OFW/CFW/HFW Firmware) -->
+		
+	<View id="han_power_options_main">
+		<Attributes>
+			<Table key="han_soft_reboot_auto">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/reboot.png</String></Pair>
+				<Pair key="title"><String>Soft Reboot</String></Pair>
+				<Pair key="info"><String>Restart console</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://www.ps3xploit.com/autoxml/pett/syscalls/power/soft_reboot.html</String></Pair>
+			</Table>
+			<Table key="han_hard_reboot_auto">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/reboot.png</String></Pair>
+				<Pair key="title"><String>Hard Reboot</String></Pair>
+				<Pair key="info"><String>Restart console</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://www.ps3xploit.com/autoxml/pett/syscalls/power/hard_reboot.html</String></Pair>
+			</Table>
+			<Table key="han_shutdown_auto">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/shutdown.png</String></Pair>
+				<Pair key="title"><String>Shutdown</String></Pair>
+				<Pair key="info"><String>Turn off console</String></Pair>
+				<Pair key="module_name"><String>poweroff_plugin</String></Pair>
+				<Pair key="module_action"><String>poweroff_page</String></Pair>
+			</Table>
+			<Table key="han_power_options_local">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
+				<Pair key="title"><String>Locally Hosted Power Options</String></Pair>
+				<Pair key="info"><String>Advanced power options (Locally hosted via PKG Linker)</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_soft_reboot_auto"
+				attr="han_soft_reboot_auto"
+				/>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_hard_reboot_auto"
+				attr="han_hard_reboot_auto"
+				/>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_shutdown_auto"
+				attr="han_shutdown_auto"
+				/>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_power_options_local"
+				attr="han_power_options_local"
+				src="xmb://localhost/dev_hdd0/game/PKGLINKER/USRDIR/local_ps3xploit_dex.xml#han_power_options_local_items"
+				/>
+		</Items>
+	</View>
+	
+<!-- Main Items > Power Options (online DEX 4.81 - 4.84 OFW/CFW/HFW Firmware) -->
+		
+	<View id="han_power_options_main_dex">
+		<Attributes>
+			<Table key="han_soft_reboot_auto_dex">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/reboot.png</String></Pair>
+				<Pair key="title"><String>Soft Reboot</String></Pair>
+				<Pair key="info"><String>Restart console</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://www.ps3xploit.com/autoxml/pett/syscalls/power/soft_reboot.html</String></Pair>
+			</Table>
+			<Table key="han_hard_reboot_auto_dex">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/reboot.png</String></Pair>
+				<Pair key="title"><String>Hard Reboot</String></Pair>
+				<Pair key="info"><String>Restart console</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://www.ps3xploit.com/autoxml/pett/syscalls/power/hard_reboot.html</String></Pair>
+			</Table>
+			<Table key="han_shutdown_auto_dex">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/shutdown.png</String></Pair>
+				<Pair key="title"><String>Shutdown</String></Pair>
+				<Pair key="info"><String>Turn off console</String></Pair>
+				<Pair key="module_name"><String>poweroff_plugin</String></Pair>
+				<Pair key="module_action"><String>poweroff_page</String></Pair>
+			</Table>
+			<Table key="han_power_options_local_dex">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
+				<Pair key="title"><String>Locally Hosted Power Options</String></Pair>
+				<Pair key="info"><String>Advanced power options (Locally hosted via PKG Linker)</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_soft_reboot_auto_dex"
+				attr="han_soft_reboot_auto_dex"
+				/>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_hard_reboot_auto_dex"
+				attr="han_hard_reboot_auto_dex"
+				/>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_shutdown_auto_dex"
+				attr="han_shutdown_auto_dex"
+				/>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_power_options_local_dex"
+				attr="han_power_options_local_dex"
+				src="xmb://localhost/dev_hdd0/game/PKGLINKER/USRDIR/local_ps3xploit_dex.xml#han_power_options_local_items_dex"
+				/>
+		</Items>
+	</View>
+
+</XMBML>

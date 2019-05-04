@@ -33,6 +33,13 @@
 				<Pair key="info_rsc"><String>han_toolbox_gameboot_downloader_info</String></Pair>
 				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
 			</Table>
+			<Table key="han_addons_pkg">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_addons_pkg</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_addons_pkg_info</String></Pair>
+				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
+				<Pair key="child"><String>segment</String></Pair>
+			</Table>
 			<Table key="nopsn_downloader">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/nopsn.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_nopsn_downloader</String></Pair>
@@ -59,9 +66,16 @@
 				<Pair key="info_rsc"><String>han_toolbox_wave_downloader_info</String></Pair>
 				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
 			</Table>
+			<Table key="usb_xml_loader">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
+				<Pair key="title"><String>USB XML Loader</String></Pair>
+				<Pair key="info"><String>Load custom external XML file from USB</String></Pair>
+				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
+				<Pair key="child"><String>segment</String></Pair>
+			</Table>
 		</Attributes>
 		<Items>
-				<Query 
+			<Query 
 				class="type:x-xmb/folder-pixmap" 
 				key="pkg_linker" 
 				attr="pkg_linker"
@@ -87,9 +101,15 @@
 				/>
 			<Query
 				class="type:x-xmb/folder-pixmap"
-				key="font_downloader"
-				attr="font_downloader"
-				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_font_downloader.xml#font_downloader_main"
+				key="gameboot_downloader"
+				attr="gameboot_downloader"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_gameboot_downloader.xml#gameboot_downloader_main"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="han_addons_pkg"
+				attr="han_addons_pkg"
+				src="#han_addons_pkg_items"
 				/>
 			<Query
 				class="type:x-xmb/folder-pixmap"
@@ -120,6 +140,12 @@
 				key="wave_downloader"
 				attr="wave_downloader"
 				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_wave_downloader.xml#wave_downloader_main"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="usb_xml_loader"
+				attr="usb_xml_loader"
+				src="#usb_xml_loader_items"
 				/>
 		</Items>
 	</View>
@@ -157,6 +183,13 @@
 				<Pair key="info_rsc"><String>han_toolbox_gameboot_downloader_info</String></Pair>
 				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
 			</Table>
+			<Table key="han_addons_pkg">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
+				<Pair key="title_rsc"><String>han_toolbox_addons_pkg</String></Pair>
+				<Pair key="info_rsc"><String>han_toolbox_addons_pkg_info</String></Pair>
+				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
+				<Pair key="child"><String>segment</String></Pair>
+			</Table>
 			<Table key="nopsn_downloader">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/nopsn.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_nopsn_downloader</String></Pair>
@@ -182,6 +215,13 @@
 				<Pair key="title_rsc"><String>han_toolbox_wave_downloader</String></Pair>
 				<Pair key="info_rsc"><String>han_toolbox_wave_downloader_info</String></Pair>
 				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
+			</Table>
+			<Table key="usb_xml_loader">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
+				<Pair key="title"><String>USB XML Loader</String></Pair>
+				<Pair key="info"><String>Load custom external XML file from USB</String></Pair>
+				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
+				<Pair key="child"><String>segment</String></Pair>
 			</Table>
 		</Attributes>
 		<Items>
@@ -217,6 +257,12 @@
 				/>
 			<Query
 				class="type:x-xmb/folder-pixmap"
+				key="han_addons_pkg"
+				attr="han_addons_pkg"
+				src="#han_addons_pkg_items"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
 				key="nopsn_downloader"
 				attr="nopsn_downloader"
 				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_nopsn_downloader.xml#nopsn_downloader_main"
@@ -245,7 +291,35 @@
 				attr="wave_downloader_dex"
 				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/han_toolbox_wave_downloader.xml#wave_downloader_main_dex"
 				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="usb_xml_loader"
+				attr="usb_xml_loader"
+				src="#usb_xml_loader_items"
+				/>
 		</Items>
 	</View>
+	
+<!-- Main Items > External Content > HAN Add-Ons PKG -->	
+	
+	<View id="han_addons_pkg_items">
+		<Items>
+			<Query class="type:x-xmb/folder-pixmap" key="han_addon1" src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/han_xmb_addon1.xml#han_xmb_addon1_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="han_addon2" src="xmb://localhost/dev_hdd0/game/HANXMBA02/USRDIR/han_xmb_addon2.xml#han_xmb_addon2_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="han_addon3" src="xmb://localhost/dev_hdd0/game/HANXMBA03/USRDIR/han_xmb_addon3.xml#han_xmb_addon3_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="han_addon4" src="xmb://localhost/dev_hdd0/game/HANXMBA04/USRDIR/han_xmb_addon4.xml#han_xmb_addon4_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="han_addon5" src="xmb://localhost/dev_hdd0/game/HANXMBA05/USRDIR/han_xmb_addon5.xml#han_xmb_addon5_main"/>
+		</Items>
+	</View>		
+	
+<!-- Main Items > External Content > USB XML Loader -->	
+	
+	<View id="usb_xml_loader_items">
+		<Items>
+			<Query class="type:x-xmb/folder-pixmap" key="usb_xml_loader_000" src="xmb://localhost/dev_usb000/han_toolbox_usb_000.xml#han_toolbox_usb_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="usb_xml_loader_001" src="xmb://localhost/dev_usb001/han_toolbox_usb_001.xml#han_toolbox_usb_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="usb_xml_loader_006" src="xmb://localhost/dev_usb006/han_toolbox_usb_006.xml#han_toolbox_usb_main"/>
+		</Items>
+	</View>	
 		
 </XMBML>

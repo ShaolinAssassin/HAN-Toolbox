@@ -10,14 +10,14 @@
 	
 	<Text name="han_toolbox_soft_reboot_offline">Offline Soft Rebooter</Text>
 	<Text name="han_toolbox_reboot_info">Restart console</Text>
-	<Text name="han_toolbox_enabler_offline">Offline HAN Enabler</Text>	
-	<Text name="han_toolbox_enabler_info">Enable custom signed packages and licenses</Text>	
-	<Text name="han_toolbox_debug_enabler_offline">Offline Debug Package Enabler</Text>
-	<Text name="han_toolbox_debug_enabler_info">For modifed retail PS3 packages only</Text>
+	<Text name="hen_toolbox_enabler_offline">Offline HEN Enabler</Text>	
+	<Text name="hen_toolbox_enabler_info">Enable custom signed packages, licenses and homebrews</Text>
+	<Text name="han_toolbox_power_options">Power Options</Text>
+	<Text name="han_toolbox_power_options_info">Advanced power options</Text>	
 	<Text name="han_toolbox_functions">HAN Functions</Text>
-	<Text name="han_toolbox_functions_info">Autorun HAN functions (Official site)</Text>
-	<Text name="han_toolbox_functions_local">Locally Hosted HAN Functions</Text>
-	<Text name="han_toolbox_functions_local_info">Autorun HAN functions (Locally hosted via PKG Linker)</Text>	
+	<Text name="han_toolbox_functions_info">Autorun HAN functions</Text>
+	<Text name="hen_toolbox_functions">PS3HEN functions</Text>
+	<Text name="hen_toolbox_functions_info">Run HEN functions</Text>
 	<Text name="han_toolbox_external_content">External Content</Text>
 	<Text name="han_toolbox_external_content_info">Download and install content from remote servers</Text>	
 	<Text name="han_toolbox_advanced_tools">Advanced Tools</Text>
@@ -28,21 +28,28 @@
 <!-- han_toolbox_main_items.xml // Main Items DEX -->
 	
 	<Text name="han_toolbox_soft_reboot">Soft Reboot</Text>
-	<Text name="han_toolbox_reboot_info">Restart console</Text>	
-	<Text name="han_toolbox_enabler">HAN Enabler</Text>	
-	<Text name="han_toolbox_enabler_info">Enable custom signed packages and licenses</Text>
-	<Text name="han_toolbox_functions">HAN Functions</Text>	
-	<Text name="han_toolbox_functions_info_dex">Autorun HAN Functions for DEX Firmware</Text>	
-	<Text name="han_toolbox_functions_local">Locally Hosted HAN Functions</Text>
-	<Text name="han_toolbox_functions_local_info">Autorun HAN functions (Locally hosted via PKG Linker)</Text>	
+	<Text name="han_toolbox_reboot_info">Restart console</Text>
+	<Text name="han_toolbox_power_options">Power Options</Text>
+	<Text name="han_toolbox_power_options_info">Advanced power options</Text>
 	<Text name="han_toolbox_external_content">External Content</Text>
 	<Text name="han_toolbox_external_content_info">Download and install content from remote servers</Text>	
 	<Text name="han_toolbox_advanced_tools">Advanced Tools</Text>
 	<Text name="han_toolbox_advanced_tools_info">Be careful with items in here</Text>	
 	<Text name="han_toolbox_settings">Toolbox Settings</Text>
 	<Text name="han_toolbox_settings_info">Version info, Resources download, Updates, Languages</Text>	
+
+<!-- han_toolbox_power_options.xml // Main Items > Power Options (online CEX) -->
+
+	<Text name="han_toolbox_soft_reboot">Soft Reboot</Text>
+	<Text name="han_toolbox_reboot_info">Restart console</Text>
+	<Text name="han_toolbox_hard_reboot">Hard Reboot</Text>
+	<Text name="han_toolbox_reboot_info">Restart console</Text>
+	<Text name="han_toolbox_shutdown">Shutdown</Text>
+	<Text name="han_toolbox_shutdown_info">Turn off console</Text>
+	<Text name="han_toolbox_power_options_local">Locally Hosted Power Options</Text>
+	<Text name="han_toolbox_power_options_local_info">Advanced power options (Locally hosted via PKG Linker)</Text>
 	
-<!-- han_toolbox_han_functions.xml // Main Items > HAN functions (online CEX) -->
+<!-- han_toolbox_power_options.xml // Main Items > Power Options (online DEX) -->
 
 	<Text name="han_toolbox_soft_reboot">Soft Reboot</Text>
 	<Text name="han_toolbox_reboot_info">Restart console</Text>
@@ -50,6 +57,22 @@
 	<Text name="han_toolbox_reboot_info">Restart console</Text>
 	<Text name="han_toolbox_shutdown">Shutdown</Text>
 	<Text name="han_toolbox_shutdown_info">Turn off console</Text>
+	<Text name="han_toolbox_power_options_local">Locally Hosted Power Options</Text>
+	<Text name="han_toolbox_power_options_local_info">Advanced power options (Locally hosted via PKG Linker)</Text>
+	
+<!-- han_toolbox_han_functions.xml // Main Items > HAN functions (CEX) -->
+
+	<Text name="han_toolbox_enabler_offline">Offline HAN Enabler</Text>	
+	<Text name="han_toolbox_enabler_info">Enable custom signed packages and licenses</Text>	
+	<Text name="han_toolbox_debug_enabler_offline">Offline Debug Package Enabler</Text>
+	<Text name="han_toolbox_debug_enabler_info">For modifed retail PS3 packages only</Text>
+	<Text name="han_toolbox_functions_online">Online HAN Functions</Text>
+	<Text name="han_toolbox_functions_online_info">Autorun HAN functions (Official site)</Text>
+	<Text name="han_toolbox_functions_local">Locally Hosted HAN Functions</Text>
+	<Text name="han_toolbox_functions_local_info">Autorun HAN functions (Locally hosted via PKG Linker)</Text>	
+
+<!-- han_toolbox_han_functions.xml // Main Items > HAN functions > HAN functions Online (CEX) -->
+
 	<Text name="han_toolbox_enabler">HAN Enabler</Text>	
 	<Text name="han_toolbox_enabler_info">Enable custom signed packages and licenses</Text>	
 	<Text name="han_toolbox_installer">HAN Installer</Text>
@@ -59,16 +82,17 @@
 	<Text name="han_toolbox_injector">Act.dat Injector</Text>
 	<Text name="han_toolbox_injector_info">Auto running injector Xploit useful for act.dat</Text>	
 	<Text name="han_toolbox_debug_enabler">Debug Package Enabler</Text>
-	<Text name="han_toolbox_debug_enabler_info">For modifed retail PS3 packages only</Text>	
+	<Text name="han_toolbox_debug_enabler_info">For modifed retail PS3 packages only</Text>
+	
+<!-- han_toolbox_han_functions.xml // Main Items > HAN functions (DEX) -->
 
-<!-- han_toolbox_han_functions.xml // Main Items > HAN functions (online DEX) -->
+	<Text name="han_toolbox_functions_online">Online HAN Functions</Text>
+	<Text name="han_toolbox_functions_online_info">Autorun HAN functions (Official site)</Text>
+	<Text name="han_toolbox_functions_local">Locally Hosted HAN Functions</Text>
+	<Text name="han_toolbox_functions_local_info">Autorun HAN functions (Locally hosted via PKG Linker)</Text>
 
-	<Text name="han_toolbox_soft_reboot">Soft Reboot</Text>
-	<Text name="han_toolbox_reboot_info">Restart console</Text>
-	<Text name="han_toolbox_hard_reboot">Hard Reboot</Text>
-	<Text name="han_toolbox_reboot_info">Restart console</Text>
-	<Text name="han_toolbox_shutdown">Shutdown</Text>
-	<Text name="han_toolbox_shutdown_info">Turn off console</Text>
+<!-- han_toolbox_han_functions.xml // Main Items > HAN functions > HAN functions Online (DEX) -->
+
 	<Text name="han_toolbox_enabler">HAN Enabler</Text>	
 	<Text name="han_toolbox_enabler_info">Enable custom signed packages and licenses</Text>	
 	<Text name="han_toolbox_installer">HAN Installer</Text>
@@ -78,8 +102,26 @@
 	<Text name="han_toolbox_injector">Act.dat Injector</Text>
 	<Text name="han_toolbox_injector_info">Auto running injector Xploit useful for act.dat</Text>	
 	<Text name="han_toolbox_debug_enabler">Debug Package Enabler</Text>
-	<Text name="han_toolbox_debug_enabler_info">For modifed retail PS3 packages only</Text>		
-		
+	<Text name="han_toolbox_debug_enabler_info">For modifed retail PS3 packages only</Text>
+	
+<!-- hen_toolbox_hen_functions.xml // Main Items > PS3HEN functions -->
+
+	<Text name="hen_toolbox_enabler_offline">Offline HEN Enabler</Text>	
+	<Text name="hen_toolbox_enabler_info">Enable custom signed packages, licenses and homebrews</Text>	
+	<Text name="hen_toolbox_han_flash_mount_offline">Offline HAN Enabler + Flash Mounter</Text>
+	<Text name="hen_toolbox_han_flash_mount_info">Enable HAN and mount dev_flash as dev_blind</Text>	
+	<Text name="hen_toolbox_functions_online">Online PS3HEN Functions</Text>
+	<Text name="hen_toolbox_functions_online_info">Run HEN functions (Official site)</Text>
+	<Text name="hen_toolbox_functions_local">Locally Hosted PS3HEN Functions</Text>
+	<Text name="hen_toolbox_functions_local_info">Run HEN functions (Locally hosted via PKG Linker))</Text>	
+
+<!-- hen_toolbox_hen_functions.xml // Main Items > PS3HEN functions	> PS3HEN functions Online -->
+
+	<Text name="hen_toolbox_enabler">HEN Enabler</Text>	
+	<Text name="hen_toolbox_enabler_info">Enable custom signed packages, licenses and homebrews</Text>	
+	<Text name="hen_toolbox_han_flash_mount">HAN PKG Blind Enabler</Text>
+	<Text name="hen_toolbox_han_flash_mount_info">Enable HAN and mount dev_flash as dev_blind</Text>	
+	
 <!-- han_toolbox_external_content.xml // Main Items > External Content -->
 	
 	<Text name="han_toolbox_webserver_packages">Install Packages From Webserver</Text>
@@ -92,6 +134,8 @@
 	<Text name="han_toolbox_font_downloader_info">Download and install fonts (TTF)</Text>
 	<Text name="han_toolbox_gameboot_downloader">Gameboot Downloader</Text>
 	<Text name="han_toolbox_gameboot_downloader_info">Download and install gameboots (rco)</Text>
+	<Text name="han_toolbox_addons_pkg">HAN Add-Ons PKG</Text>
+	<Text name="han_toolbox_addons_pkg_info">/dev_hdd0/game/HANXMBA0* will show up here</Text>
 	<Text name="han_toolbox_nopsn_downloader">NoPSN Apps Downloader</Text>
 	<Text name="han_toolbox_nopsn_downloader_info">Download and install NoPSN HAN compatible Apps (pkg)</Text>
 	<Text name="han_toolbox_psn_downloader">PSN Apps Downloader</Text>
@@ -102,25 +146,37 @@
 	<Text name="han_toolbox_wallpaper_downloader_info">Preview and download backgrounds (jpg)</Text>
 	<Text name="han_toolbox_wave_downloader">Wave Downloader</Text>
 	<Text name="han_toolbox_wave_downloader_info">Download and install waves (qrc)</Text>
+	<Text name="han_toolbox_usb_xml_loader">USB XML Loader</Text>
+	<Text name="han_toolbox_usb_xml_loader_info">Load custom external XML file from USB</Text>
 
 <!-- han_toolbox_advanced_tools.xml // Main Items > Advanced Tools -->
 
-	<Text name="han_toolbox_database_rebuilder">Database Rebuilder</Text>
-	<Text name="han_toolbox_database_rebuilder_info">Rebuild database</Text>
+	<Text name="han_toolbox_file_operations">File Operations</Text>
+	<Text name="han_toolbox_file_operations_info">Browse/copy/delete files</Text>
+	<Text name="han_toolbox_system_operations">System Operations</Text>
+	<Text name="han_toolbox_system_operations_info"></Text>	
+	<Text name="han_toolbox_dex_xmb_setup">DEX XMB Setup</Text>
+	<Text name="han_toolbox_dex_xmb_setup_info">Add/Remove DEX settings etc</Text>
+
+<!-- han_toolbox_advanced_tools.xml // Main Items > Advanced Tools > File Operations -->
+
 	<Text name="han_toolbox_file_copier">File Copier</Text>
 	<Text name="han_toolbox_file_copier_info">Transfer files between your PS3 and USB flash drive</Text>	
 	<Text name="han_toolbox_file_explorer">File Explorer</Text>
 	<Text name="han_toolbox_file_explorer_info">Browse complete file system and delete files</Text>
 	<Text name="han_toolbox_file_injector">File Injector</Text>
 	<Text name="han_toolbox_file_injector_info">Use for adding XMB mods to flash or other file operations</Text>
+	
+<!-- Main Items > Advanced Tools > System Operations (CEX mode) -->
+
+	<Text name="han_toolbox_database_rebuilder">Database Rebuilder</Text>
+	<Text name="han_toolbox_database_rebuilder_info">Rebuild database</Text>
 	<Text name="han_toolbox_flash_mounter">Flash Mounter</Text>
 	<Text name="han_toolbox_flash_mounter_info">Mount dev_flash as dev_blind</Text>	
 	<Text name="han_toolbox_temperature_reader">Temperature Reader</Text>
 	<Text name="han_toolbox_temperature_reader_info">Display CELL and RSX temperature values</Text>
-	<Text name="han_toolbox_dex_xmb_setup">DEX XMB Setup</Text>
-	<Text name="han_toolbox_dex_xmb_setup_info">Add/Remove DEX settings etc</Text>
 
-<!-- han_toolbox_advanced_tools.xml // Main Items > Advanced Tools > File Browser -->
+<!-- han_toolbox_advanced_tools.xml // Main Items > Advanced Tools > File Operations > File Browser -->
 
 	<Text name="han_toolbox_browse_dev_all">All Active Devices</Text>
 	<Text name="han_toolbox_browse_dev_all_info">Browse/detele files on all active devices</Text>
@@ -135,7 +191,7 @@
 	<Text name="han_toolbox_browse_toolbx_folder">HAN Toolbox Folder</Text>
 	<Text name="han_toolbox_browse_toolbx_folder_info">Browse/detele files in dev_hdd0/game/HANTOOLBX/ folder</Text>
 
-<!-- han_toolbox_advanced_tools.xml // Main Items > Advanced Tools > File Browser > Internal Flash Memory -->
+<!-- han_toolbox_advanced_tools.xml // Main Items > Advanced Tools > File Operations > File Browser > Internal Flash Memory -->
 
 	<Text name="han_toolbox_browse_dev_flash1">Internal Flash, Partition n°1</Text>
 	<Text name="han_toolbox_browse_dev_flash1_info">Access dev_flash partition</Text>
@@ -146,80 +202,83 @@
 	<Text name="han_toolbox_browse_dev_blind">Writable Internal Flash, Partition n°1</Text>
 	<Text name="han_toolbox_browse_dev_blind_info">Access dev_blind partition</Text>
 
-<!-- han_toolbox_advanced_tools.xml // Main Items > Advanced Tools > File Browser > USB Mass Storage Devices -->
+<!-- han_toolbox_advanced_tools.xml // Main Items > Advanced Tools > File Operations > File Browser > USB Mass Storage Devices -->
 
 	<Text name="han_toolbox_browse_dev_usb000">Device n°0 (Right port)</Text>
 	<Text name="han_toolbox_browse_dev_usb000_info">Access dev_usb000</Text>
 	<Text name="han_toolbox_browse_dev_usb001">Device n°1 (Left port)</Text>
 	<Text name="han_toolbox_browse_dev_usb001_info">Access dev_usb001</Text>
+	<Text name="han_toolbox_browse_dev_usb006">Device n°6</Text>
+	<Text name="han_toolbox_browse_dev_usb006_info">Access dev_usb006</Text>
 
-<!-- han_toolbox_advanced_tools.xml // Main Items > Advanced Tools > File injector (online) -->
+<!-- han_toolbox_advanced_tools.xml // Main Items > Advanced Tools > File Operations > File injector (online) -->
 
-	<Text name="han_toolbox_xreg_dumper_injector">xRegistry.sys Operations (Backup/Restore System Settings)</Text>
-	<Text name="han_toolbox_xreg_dumper_injector_info">Dump and Inject xRegistry.sys</Text>
+
 	<Text name="han_toolbox_inject_coldboot">Inject Coldboots (Boot Logo and Sound)</Text>
 	<Text name="han_toolbox_inject_coldboot_info">Copy coldboot_*.* to dev_flash/vsh/resource/coldboot_*.*</Text>
+	<Text name="han_toolbox_inject_gameboot">Inject GameBoot (Custom Game Intro/Image)</Text>
+	<Text name="han_toolbox_inject_gameboot_info">Copy custom_render_plugin.rco to dev_flash/vsh/resource/*.rco</Text>	
+	<Text name="han_toolbox_inject_font">Inject TTF/ttf (Font)</Text>
+	<Text name="han_toolbox_inject_font_info">Copy *.TTF/*.ttf to dev_flash/data/font/*</Text>
+	<Text name="han_toolbox_inject_emoji">Inject Imagefont.bin (Emojis and Icons)</Text>
+	<Text name="han_toolbox_inject_emoji_info">Copy imagefont.bin to dev_flash/vsh/resource/imagefont.bin</Text>	
 	<Text name="han_toolbox_inject_rco">Inject RCO (System Resource)</Text>
 	<Text name="han_toolbox_inject_rco_info">Copy *.rco to dev_flash/vsh/resource/*.rco</Text>
-	<Text name="han_toolbox_inject_gameboot">Inject GameBoot (Custom Game Intro/Image)</Text>
-	<Text name="han_toolbox_inject_gameboot_info">Copy custom_render_plugin.rco to dev_flash/vsh/resource/*.rco</Text>
-	<Text name="han_toolbox_inject_xml">Inject XML (XMB Layout)</Text>
-	<Text name="han_toolbox_inject_xml_info">Copy *.xml to dev_flash/vsh/resource/explore/xmb/*.xml</Text>
 	<Text name="han_toolbox_inject_self">Inject SELF (Modules)</Text>
 	<Text name="han_toolbox_inject_self_info">Copy *.self to dev_flash/vsh/*/*.self</Text>
 	<Text name="han_toolbox_inject_sprx">Inject SPRX</Text>
-	<Text name="han_toolbox_inject_sprx_info">Copy *.sprx to dev_flash/*/*/*.sprx</Text>		
-	<Text name="han_toolbox_inject_lines">Inject Lines.qrc (Wave)</Text>
-	<Text name="han_toolbox_inject_lines_info">Copy lines.qrc to dev_flash/vsh/resource/qgl/lines.qrc</Text>
-	<Text name="han_toolbox_inject_emoji">Inject Imagefont.bin (Emojis and Icons)</Text>
-	<Text name="han_toolbox_inject_emoji_info">Copy imagefont.bin to dev_flash/vsh/resource/imagefont.bin</Text>
-	<Text name="han_toolbox_inject_font">Inject TTF/ttf (Font)</Text>
-	<Text name="han_toolbox_inject_font_info">Copy *.TTF/*.ttf to dev_flash/data/font/*</Text>
+	<Text name="han_toolbox_inject_sprx_info">Copy *.sprx to dev_flash/*/*/*.sprx</Text>
 	<Text name="han_toolbox_inject_remove_cert">Inject/Remove Cert (SSL Cert)</Text>
-	<Text name="han_toolbox_inject_remove_cert_info">Copy/Delete certs at dev_flash/data/cert/*.cer</Text>
-
-<!-- han_toolbox_advanced_tools.xml // Main Items > Advanced Tools > File injector > xRegistry Operations (online) -->
-
-	<Text name="han_toolbox_dump_xregistry">Dump xRegistry.sys</Text>
-	<Text name="han_toolbox_dump_xregistry_info">Copy xRegistry.sys from dev_flash2/etc/* to USB</Text>
-	<Text name="han_toolbox_inject_xregistry">Inject xRegistry.sys</Text>
-	<Text name="han_toolbox_inject_xregistry_info">Copy xRegistry.sys to dev_flash2/etc/*</Text>
-
-<!-- han_toolbox_advanced_tools.xml // Main Items > Advanced Tools > File injector > SPRX injector (online) -->
-
-	<Text name="han_toolbox_inject_sprx_vsh">Inject SPRX (VSH Modules)</Text>
-	<Text name="han_toolbox_inject_sprx_vsh_info">Copy *.sprx to dev_flash/vsh/module/*.sprx</Text>
-	<Text name="han_toolbox_inject_sprx_int">Inject SPRX (Internal Library)</Text>
-	<Text name="han_toolbox_inject_sprx_int_info">Copy *.sprx to dev_flash/sys/internal/*.sprx</Text>
-	<Text name="han_toolbox_inject_sprx_ext">Inject SPRX (External Library)</Text>
-	<Text name="han_toolbox_inject_sprx_ext_info">Copy *.sprx to dev_flash/sys/external/*.sprx</Text>	
+	<Text name="han_toolbox_inject_remove_cert_info">Copy/Delete certs at dev_flash/data/cert/*.cer</Text>	
+	<Text name="han_toolbox_inject_lines">Inject Lines.qrc (Wave)</Text>
+	<Text name="han_toolbox_inject_lines_info">Copy lines.qrc to dev_flash/vsh/resource/qgl/lines.qrc</Text>	
+	<Text name="han_toolbox_inject_xml">Inject XML (XMB Layout)</Text>
+	<Text name="han_toolbox_inject_xml_info">Copy *.xml to dev_flash/vsh/resource/explore/xmb/*.xml</Text>
+	<Text name="han_toolbox_xreg_dumper_injector">xRegistry.sys Operations (Backup/Restore System Settings)</Text>
+	<Text name="han_toolbox_xreg_dumper_injector_info">Dump and Inject xRegistry.sys</Text>
 	
-<!-- han_toolbox_advanced_tools.xml // Main Items > Advanced Tools > File injector > SELF injector (online) -->
+<!-- han_toolbox_advanced_tools.xml // Main Items > Advanced Tools > File Operations > File injector > Font TTF injector (online) -->
+
+	<Text name="han_toolbox_inject_TTF_font">Inject TTF (Font)</Text>
+	<Text name="han_toolbox_inject_TTF_font_info">Copy *.TTF to dev_flash/data/font/*.TTF</Text>
+	<Text name="han_toolbox_inject_ttf_sony_cc_font">Inject ttf (Sony-CC Font)</Text>
+	<Text name="han_toolbox_inject_ttf_sony_cc_font_info">Copy *.ttf to dev_flash/data/font/SONY-CC/*.ttf</Text>	
 	
-	<Text name="han_toolbox_inject_self_main">Inject SELF (Main)</Text>
-	<Text name="han_toolbox_inject_self_main_info">Copy *.self to dev_flash/vsh/module/*.self</Text>
+<!-- han_toolbox_advanced_tools.xml // Main Items > Advanced Tools > File Operations > File injector > SELF injector (online) -->
+	
+	<Text name="han_toolbox_inject_self_bd">Inject SELF (BD Player)</Text>
+	<Text name="han_toolbox_inject_self_bd_info">Copy *.self to dev_flash/bdplayer/*.self</Text>
 	<Text name="han_toolbox_inject_self_ps1">Inject SELF (PS1 Emulator)</Text>
 	<Text name="han_toolbox_inject_self_ps1_info">Copy *.self to dev_flash/ps1emu/*.self</Text>
 	<Text name="han_toolbox_inject_self_ps2">Inject SELF (PS2 Emulator)</Text>
 	<Text name="han_toolbox_inject_self_ps2_info">Copy *.self to dev_flash/ps2emu/*.self</Text>
 	<Text name="han_toolbox_inject_self_psp">Inject SELF (PSP Emulator)</Text>
 	<Text name="han_toolbox_inject_self_psp_info">Copy *.self to dev_flash/pspemu/*.self</Text>
-	<Text name="han_toolbox_inject_self_bd">Inject SELF (BD Player)</Text>
-	<Text name="han_toolbox_inject_self_bd_info">Copy *.self to dev_flash/bdplayer/*.self</Text>
-
-<!-- han_toolbox_advanced_tools.xml // Main Items > Advanced Tools > File injector > Font TTF injector (online) -->
-
-	<Text name="han_toolbox_inject_TTF_font">Inject TTF (Font)</Text>
-	<Text name="han_toolbox_inject_TTF_font_info">Copy *.TTF to dev_flash/data/font/*.TTF</Text>
-	<Text name="han_toolbox_inject_ttf_sony_cc_font">Inject ttf (Sony-CC Font)</Text>
-	<Text name="han_toolbox_inject_ttf_sony_cc_font_info">Copy *.ttf to dev_flash/data/font/SONY-CC/*.ttf</Text>
+	<Text name="han_toolbox_inject_self_main">Inject SELF (Main)</Text>
+	<Text name="han_toolbox_inject_self_main_info">Copy *.self to dev_flash/vsh/module/*.self</Text>
 	
-<!-- han_toolbox_advanced_tools.xml // Main Items > Advanced Tools > File injector > Cert injector (online) -->
+<!-- han_toolbox_advanced_tools.xml // Main Items > Advanced Tools > File Operations > File injector > SPRX injector (online) -->
+
+	<Text name="han_toolbox_inject_sprx_vsh">Inject SPRX (VSH Modules)</Text>
+	<Text name="han_toolbox_inject_sprx_vsh_info">Copy *.sprx to dev_flash/vsh/module/*.sprx</Text>
+	<Text name="han_toolbox_inject_sprx_int">Inject SPRX (Internal Library)</Text>
+	<Text name="han_toolbox_inject_sprx_int_info">Copy *.sprx to dev_flash/sys/internal/*.sprx</Text>
+	<Text name="han_toolbox_inject_sprx_ext">Inject SPRX (External Library)</Text>
+	<Text name="han_toolbox_inject_sprx_ext_info">Copy *.sprx to dev_flash/sys/external/*.sprx</Text>
+	
+<!-- han_toolbox_advanced_tools.xml // Main Items > Advanced Tools > File Operations > File injector > Cert injector (online) -->
 
 	<Text name="han_toolbox_inject_cert">Inject Cert (SSL Cert)</Text>
 	<Text name="han_toolbox_inject_cert_info">Copy certs to dev_flash/data/cert/*.cer</Text>
 	<Text name="han_toolbox_remove_cert">Remove Cert (SSL Cert)</Text>
 	<Text name="han_toolbox_remove_cert_info">Delete certs from dev_flash/data/cert/*.cer</Text>
+	
+<!-- han_toolbox_advanced_tools.xml // Main Items > Advanced Tools > File Operations > File injector > xRegistry Operations (online) -->
+
+	<Text name="han_toolbox_dump_xregistry">Dump xRegistry.sys</Text>
+	<Text name="han_toolbox_dump_xregistry_info">Copy xRegistry.sys from dev_flash2/etc/* to USB</Text>
+	<Text name="han_toolbox_inject_xregistry">Inject xRegistry.sys</Text>
+	<Text name="han_toolbox_inject_xregistry_info">Copy xRegistry.sys to dev_flash2/etc/*</Text>
 	
 <!-- han_toolbox_advanced_tools.xml // Main Items > Advanced Tools > DEX XMB Setup -->
 
