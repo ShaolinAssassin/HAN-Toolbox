@@ -27,6 +27,7 @@
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title_rsc"><String>hen_toolbox_functions_local</String></Pair>
 				<Pair key="info_rsc"><String>hen_toolbox_functions_local_info</String></Pair>
+				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
 			</Table>
 		</Attributes>
 		<Items>

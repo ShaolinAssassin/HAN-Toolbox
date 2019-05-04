@@ -8,6 +8,7 @@
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/server.png</String></Pair>
 				<Pair key="title"><String>Install Packages From Webserver</String></Pair>
 				<Pair key="info"><String>Download and install packages from your PC via PKG Linker (pkg)</String></Pair>
+				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
 				<Pair key="child"><String>segment</String></Pair>
 			</Table>
 			<Table key="coldboot_downloader">

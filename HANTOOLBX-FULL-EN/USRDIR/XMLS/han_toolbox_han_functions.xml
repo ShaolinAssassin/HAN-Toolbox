@@ -27,6 +27,7 @@
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title"><String>Locally Hosted HAN Functions</String></Pair>
 				<Pair key="info"><String>Autorun HAN functions (Locally hosted via PKG Linker)</String></Pair>
+				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
 			</Table>
 		</Attributes>
 		<Items>
@@ -137,6 +138,7 @@
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title"><String>Locally Hosted HAN Functions</String></Pair>
 				<Pair key="info"><String>Autorun HAN functions (Locally hosted via PKG Linker)</String></Pair>
+				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
 			</Table>
 		</Attributes>
 		<Items>

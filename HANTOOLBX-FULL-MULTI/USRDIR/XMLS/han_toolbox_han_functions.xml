@@ -27,6 +27,7 @@
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_functions_local</String></Pair>
 				<Pair key="info_rsc"><String>han_toolbox_functions_local_info</String></Pair>
+				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
 			</Table>
 		</Attributes>
 		<Items>
@@ -137,6 +138,7 @@
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_functions_local</String></Pair>
 				<Pair key="info_rsc"><String>han_toolbox_functions_local_info</String></Pair>
+				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
 			</Table>
 		</Attributes>
 		<Items>
@@ -150,7 +152,7 @@
 				class="type:x-xmb/folder-pixmap" 
 				key="han_functions_local" 
 				attr="han_functions_local"
-				src="xmb://localhost/dev_hdd0/game/PKGLINKER/USRDIR/local_ps3xploit_dex.xml#han_functions_local_items"
+				src="xmb://localhost/dev_hdd0/game/PKGLINKER/USRDIR/local_ps3xploit_dex.xml#han_functions_local_items_dex"
 				/>
 		</Items>
 	</View>
