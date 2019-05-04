@@ -49,7 +49,7 @@
 				attr="han_shutdown_auto"
 				/>
 			<Query 
-				class="type:x-xmb/module-action"
+				class="type:x-xmb/folder-pixmap"
 				key="han_power_options_local"
 				attr="han_power_options_local"
 				src="xmb://localhost/dev_hdd0/game/PKGLINKER/USRDIR/local_ps3xploit.xml#han_power_options_local_items"
@@ -106,7 +106,7 @@
 				attr="han_shutdown_auto_dex"
 				/>	
 			<Query 
-				class="type:x-xmb/module-action"
+				class="type:x-xmb/folder-pixmap"
 				key="han_power_options_local_dex"
 				attr="han_power_options_local_dex"
 				src="xmb://localhost/dev_hdd0/game/PKGLINKER/USRDIR/local_ps3xploit.xml#han_power_options_local_items_dex"
