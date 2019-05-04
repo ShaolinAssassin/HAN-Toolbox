@@ -152,7 +152,7 @@
 				class="type:x-xmb/folder-pixmap" 
 				key="han_functions_local_dex" 
 				attr="han_functions_local_dex"
-				src="xmb://localhost/dev_hdd0/game/PKGLINKER/USRDIR/local_ps3xploit_dex.xml#han_functions_local_items_dex"
+				src="xmb://localhost/dev_hdd0/game/PKGLINKER/USRDIR/local_ps3xploit.xml#han_functions_local_items_dex"
 				/>
 		</Items>
 	</View>
