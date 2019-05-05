@@ -363,7 +363,7 @@
 				<Pair key="title_rsc"><String>han_toolbox_inject_gameboot</String></Pair>
 				<Pair key="info_rsc"><String>han_toolbox_inject_gameboot_info</String></Pair>
 				<Pair key="module_name"><String>webrender_plugin</String></Pair>
-				<Pair key="module_action"><String>http://ps3xploit.com/hfw/flash_rco_replacer/flash_rco_replacer.html</String></Pair>
+				<Pair key="module_action"><String>http://ps3xploit.com/hfw/gameboot_installer/gameboot_installer.html</String></Pair>
 			</Table>
 			<Table key="han_inject_font">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
