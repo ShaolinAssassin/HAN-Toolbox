@@ -38,18 +38,18 @@
 	<Text name="han_toolbox_settings">Toolbox Settings</Text>
 	<Text name="han_toolbox_settings_info">Version info, Resources download, Updates, Languages</Text>	
 
-<!-- han_toolbox_power_options.xml // Main Items > Power Options (online CEX) -->
+<!-- han_toolbox_power_options.xml // Main Items > Power Options (CEX) -->
 
-	<Text name="han_toolbox_soft_reboot">Soft Reboot</Text>
-	<Text name="han_toolbox_reboot_info">Restart console</Text>
-	<Text name="han_toolbox_hard_reboot">Hard Reboot</Text>
+	<Text name="han_toolbox_soft_reboot_offline">Offline Soft Reboot</Text>
 	<Text name="han_toolbox_reboot_info">Restart console</Text>
 	<Text name="han_toolbox_shutdown">Shutdown</Text>
 	<Text name="han_toolbox_shutdown_info">Turn off console</Text>
+	<Text name="han_toolbox_power_options_online">Online Power Options</Text>
+	<Text name="han_toolbox_power_options_online_info">Advanced power options (Official site)</Text>
 	<Text name="han_toolbox_power_options_local">Locally Hosted Power Options</Text>
 	<Text name="han_toolbox_power_options_local_info">Advanced power options (Locally hosted via PKG Linker)</Text>
 	
-<!-- han_toolbox_power_options.xml // Main Items > Power Options (online DEX) -->
+<!-- han_toolbox_power_options.xml // Main Items > Power Options > Power Options Online (CEX) -->
 
 	<Text name="han_toolbox_soft_reboot">Soft Reboot</Text>
 	<Text name="han_toolbox_reboot_info">Restart console</Text>
@@ -57,8 +57,24 @@
 	<Text name="han_toolbox_reboot_info">Restart console</Text>
 	<Text name="han_toolbox_shutdown">Shutdown</Text>
 	<Text name="han_toolbox_shutdown_info">Turn off console</Text>
+	
+<!-- han_toolbox_power_options.xml // Main Items > Power Options (DEX) -->
+
+	<Text name="han_toolbox_shutdown">Shutdown</Text>
+	<Text name="han_toolbox_shutdown_info">Turn off console</Text>
+	<Text name="han_toolbox_power_options_online">Online Power Options</Text>
+	<Text name="han_toolbox_power_options_online_info">Advanced power options (Official site)</Text>
 	<Text name="han_toolbox_power_options_local">Locally Hosted Power Options</Text>
 	<Text name="han_toolbox_power_options_local_info">Advanced power options (Locally hosted via PKG Linker)</Text>
+	
+<!-- han_toolbox_power_options.xml // Main Items > Power Options > Power Options Online (DEX) -->
+
+	<Text name="han_toolbox_soft_reboot">Soft Reboot</Text>
+	<Text name="han_toolbox_reboot_info">Restart console</Text>
+	<Text name="han_toolbox_hard_reboot">Hard Reboot</Text>
+	<Text name="han_toolbox_reboot_info">Restart console</Text>
+	<Text name="han_toolbox_shutdown">Shutdown</Text>
+	<Text name="han_toolbox_shutdown_info">Turn off console</Text>
 	
 <!-- han_toolbox_han_functions.xml // Main Items > HAN functions (CEX) -->
 
