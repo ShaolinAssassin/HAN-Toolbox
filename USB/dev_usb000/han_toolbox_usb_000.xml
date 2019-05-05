@@ -1,0 +1,55 @@
+<XMBML version="1.0">
+
+<!-- Main Items > External Content > USB XML Loader > Slot 000 -->	
+
+	<View id="han_toolbox_usb_main">
+		<Attributes>
+			<Table key="my_custom_xml">
+				<Pair key="icon_rsc"><String>tex_album_icon</String></Pair>
+				<Pair key="icon_notation"><String>WNT_XmbItemAlbum</String></Pair>
+				<Pair key="title"><String>★ My Custom XML - Sample</String></Pair>
+				<Pair key="info"><String>Info about it</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query 
+				class="type:x-xmb/folder-pixmap"
+				key="my_custom_xml"
+				attr="my_custom_xml"
+				src="#my_custom_xml_items"
+				/>
+		</Items>
+	</View>
+		
+	<View id="my_custom_xml_items">
+		<Attributes> 
+			<Table key="folder_1">
+				<Pair key="icon_rsc"><String>tex_album_icon</String></Pair>
+				<Pair key="title"><String>Folder</String></Pair>
+				<Pair key="info"><String>This is a sample folder</String></Pair>
+			</Table>
+			<Table key="item_1">
+				<Pair key="icon_rsc"><String>tex_album_icon</String></Pair>
+				<Pair key="title"><String>Item</String></Pair>
+				<Pair key="info"><String>This is a sample item</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.psx-place.com/</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query 
+				class="type:x-xmb/folder-pixmap"
+				key="folder_1"
+				attr="folder_1"
+				src="#another_view_id"
+				/>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="item_1"
+				attr="item_1"
+				/>
+		</Items>
+	</View>	
+	
+</XMBML>

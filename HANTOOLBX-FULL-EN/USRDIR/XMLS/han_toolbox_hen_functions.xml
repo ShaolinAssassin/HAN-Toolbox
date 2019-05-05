@@ -5,7 +5,7 @@
 	<View id="hen_functions_main">
 		<Attributes>
 			<Table key="hen_enabler_offline">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/han_enable.png</String></Pair>
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/hen_enable.png</String></Pair>
 				<Pair key="title"><String>Offline HEN Enabler</String></Pair>
 				<Pair key="info"><String>Enable custom signed packages, licenses and homebrews</String></Pair>
 				<Pair key="module_name"><String>webrender_plugin</String></Pair>
@@ -61,7 +61,7 @@
 	<View id="hen_functions_online_items">
 		<Attributes>
 			<Table key="hen_enabler">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/han_enable.png</String></Pair>
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/hen_enable.png</String></Pair>
 				<Pair key="title"><String>HEN Enabler</String></Pair>
 				<Pair key="info"><String>Enable custom signed packages, licenses and homebrews</String></Pair>
 				<Pair key="module_name"><String>webrender_plugin</String></Pair>

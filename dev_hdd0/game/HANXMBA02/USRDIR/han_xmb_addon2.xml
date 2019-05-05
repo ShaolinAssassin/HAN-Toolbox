@@ -1,0 +1,23 @@
+<XMBML version="1.0">
+
+<!-- HAN Add-On PKG Title -->
+
+	<View id="han_xmb_addon2_main"> 
+		<Attributes> 
+			<Table key="han_addon2_main">
+				<Pair key="icon_rsc"><String>tex_album_icon</String></Pair>
+				<Pair key="icon_notation"><String>WNT_XmbItemAlbum</String></Pair>
+				<Pair key="title"><String>HAN Add-On PKG Title</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+			</Table>
+		</Attributes>
+			<Items>
+			<Query 
+				class="type:x-xmb/folder-pixmap"
+				key="han_addon2_main"
+				attr="han_addon2_main"
+			</Items>
+		</View>
+		
+</XMBML>

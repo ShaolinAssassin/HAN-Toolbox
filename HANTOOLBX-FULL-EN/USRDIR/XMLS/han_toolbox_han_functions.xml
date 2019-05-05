@@ -5,7 +5,7 @@
 	<View id="han_functions_main">
 		<Attributes>
 			<Table key="han_enabler_offline">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/han_enable.png</String></Pair>
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/han.png</String></Pair>
 				<Pair key="title"><String>Offline HAN Enabler</String></Pair>
 				<Pair key="info"><String>Enable custom signed packages and licenses</String></Pair>
 				<Pair key="module_name"><String>webrender_plugin</String></Pair>
@@ -61,7 +61,7 @@
 	<View id="han_functions_online_items">
 		<Attributes>
 			<Table key="han_enabler_auto">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/han_enable.png</String></Pair>
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/han.png</String></Pair>
 				<Pair key="title"><String>HAN Enabler</String></Pair>
 				<Pair key="info"><String>Enable custom signed packages and licenses</String></Pair>
 				<Pair key="module_name"><String>webrender_plugin</String></Pair>
@@ -162,7 +162,7 @@
 	<View id="han_functions_online_items_dex">
 		<Attributes>
 			<Table key="han_enabler_auto_dex">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/han_enable.png</String></Pair>
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/han.png</String></Pair>
 				<Pair key="title"><String>HAN Enabler</String></Pair>
 				<Pair key="info"><String>Enable Custom Signed Packages and Licenses</String></Pair>
 				<Pair key="module_name"><String>webrender_plugin</String></Pair>
