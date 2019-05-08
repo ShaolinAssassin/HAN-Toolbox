@@ -34,7 +34,7 @@
 				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
 			</Table>
 			<Table key="han_addons_pkg">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder_pkg.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_addons_pkg</String></Pair>
 				<Pair key="info_rsc"><String>han_toolbox_addons_pkg_info</String></Pair>
 				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
@@ -67,7 +67,7 @@
 				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
 			</Table>
 			<Table key="usb_xml_loader">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder_xml.png</String></Pair>
 				<Pair key="title"><String>USB XML Loader</String></Pair>
 				<Pair key="info"><String>Load custom external XML file from USB</String></Pair>
 				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
@@ -184,7 +184,7 @@
 				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
 			</Table>
 			<Table key="han_addons_pkg">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder_pkg.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_addons_pkg</String></Pair>
 				<Pair key="info_rsc"><String>han_toolbox_addons_pkg_info</String></Pair>
 				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
@@ -217,7 +217,7 @@
 				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
 			</Table>
 			<Table key="usb_xml_loader">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder_xml.png</String></Pair>
 				<Pair key="title"><String>USB XML Loader</String></Pair>
 				<Pair key="info"><String>Load custom external XML file from USB</String></Pair>
 				<Pair key="str_noitem"><String>msg_no_data</String></Pair>

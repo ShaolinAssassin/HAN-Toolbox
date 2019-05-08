@@ -269,7 +269,7 @@
 				<Pair key="info_rsc"><String>han_toolbox_browse_dev_flash3_info</String></Pair>
 			</Table>
 			<Table key="han_browse_dev_blind">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/flash.png</String></Pair>
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/blind.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_browse_dev_blind</String></Pair>
 				<Pair key="info_rsc"><String>han_toolbox_browse_dev_blind_info</String></Pair>
 			</Table>

@@ -4,11 +4,11 @@
 		
 	<View id="han_toolbox_setup_main">
 		<Attributes>
-			<Table key="han_toolbox_lang">
+<!--			<Table key="han_toolbox_lang">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/faces.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_lang</String></Pair>
 				<Pair key="info_rsc"><String>han_toolbox_lang_info</String></Pair>
-			</Table>
+			</Table>-->
 			<Table key="han_toolbox_resources">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/pkg_file.png</String></Pair>
 				<Pair key="title_rsc"><String>han_toolbox_resources</String></Pair>
@@ -34,12 +34,12 @@
 			</Table>
 		</Attributes>
 		<Items>
-			<Query 
+<!--			<Query 
 				class="type:x-xmb/folder-pixmap" 
 				key="han_toolbox_lang" 
 				attr="han_toolbox_lang"
 				src="#han_toolbox_lang_items"
-				/>
+				/>-->
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
 				key="han_toolbox_resources" 
@@ -110,7 +110,7 @@
 
 <!-- Main Items > Toolbox Settings > Toolbox Multi Language > Install Multi Language -->
 		
-<!--	<View id="han_toolbox_install_lang_main">
+	<View id="han_toolbox_install_lang_main">
 		<Attributes>
 			<Table key="han_toolbox_check_lang">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/list.png</String></Pair>

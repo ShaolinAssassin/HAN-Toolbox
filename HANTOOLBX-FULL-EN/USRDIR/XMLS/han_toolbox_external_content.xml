@@ -35,7 +35,7 @@
 				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
 			</Table>
 			<Table key="han_addons_pkg">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder_pkg.png</String></Pair>
 				<Pair key="title"><String>HAN Add-Ons PKG</String></Pair>
 				<Pair key="info"><String>/dev_hdd0/game/HANXMBA0* will show up here</String></Pair>
 				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
@@ -68,7 +68,7 @@
 				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
 			</Table>
 			<Table key="usb_xml_loader">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder_xml.png</String></Pair>
 				<Pair key="title"><String>USB XML Loader</String></Pair>
 				<Pair key="info"><String>Load custom external XML file from USB</String></Pair>
 				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
@@ -185,7 +185,7 @@
 				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
 			</Table>
 			<Table key="han_addons_pkg">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder_pkg.png</String></Pair>
 				<Pair key="title"><String>HAN Add-Ons PKG</String></Pair>
 				<Pair key="info"><String></String></Pair>
 				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
@@ -218,7 +218,7 @@
 				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
 			</Table>
 			<Table key="usb_xml_loader">
-				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder.png</String></Pair>
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder_xml.png</String></Pair>
 				<Pair key="title"><String>USB XML Loader</String></Pair>
 				<Pair key="info"><String>Load custom external XML file from USB</String></Pair>
 				<Pair key="str_noitem"><String>msg_no_data</String></Pair>

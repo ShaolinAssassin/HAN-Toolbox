@@ -9,7 +9,7 @@
 				<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
 				<Pair key="title"><String>Metalification v1.0</String></Pair>
 				<Pair key="info"><String>By Berion</String></Pair>
-				<Pair key="module_action"><String>http://xmbmods.co/XMBPD/Themes/files.php?file=Metalification_by_Berion_v1.0.p3t</String></Pair>
+				<Pair key="module_action"><String>http://xmbmods.co/Themes/files.php?file=Metalification_by_Berion_v1.0.p3t</String></Pair>
 			</Table>
 			<Table key="theme_downloader_ac">
 				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/theme.png</String></Pair>
